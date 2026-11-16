@@ -11,3 +11,10 @@ Live page: https://verdelien.github.io/pharma-atlas/
 - A number of LOE dates (mainly AstraZeneca, Roche, Novartis, GSK, Sanofi and several Japanese/European companies) are still unverified.
 
 **Informational only, not investment advice. Data may contain errors.**
+
+## Languages
+
+- English (default): `index.html`
+- 中文: `zh.html`
+
+The Chinese file is the source; the English version is generated from it (data, UI and Method text). Use the **How to read** button in the page for a short guide.
