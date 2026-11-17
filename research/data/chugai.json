@@ -1,0 +1,253 @@
+{
+  "id": "chugai",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Chugai combines internally created antibody medicines with a broad Roche in-licensed pipeline. Important near-term filings sit alongside global hemophilia and renal disease programs.",
+    "zh": "Chugai 将自主研发的抗体药物与广泛的 Roche 授权引进管线相结合。重要的近期申报与全球血友病和肾脏疾病项目并行。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "atezolizumab",
+      "code": "RG7446",
+      "modality": "antibody",
+      "target": {
+        "en": "PD-L1",
+        "zh": "PD-L1"
+      },
+      "ind": {
+        "en": "Japan: adjuvant MRD-positive bladder cancer; also esophageal and MSI-high colon cancer filings",
+        "zh": "日本:MRD 阳性膀胱癌辅助治疗;另有食管癌和 MSI-high 结肠癌申报"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "name": "giredestrant",
+      "code": "RG6171",
+      "modality": "small molecule",
+      "target": {
+        "en": "Estrogen receptor degrader",
+        "zh": "雌激素受体降解剂"
+      },
+      "ind": {
+        "en": "Japan: adjuvant and unresectable/recurrent breast cancer",
+        "zh": "日本:乳腺癌辅助治疗及不可切除/复发性乳腺癌"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "name": "obinutuzumab",
+      "code": "RG7159",
+      "modality": "antibody",
+      "target": {
+        "en": "CD20",
+        "zh": "CD20"
+      },
+      "ind": {
+        "en": "Japan: idiopathic nephrotic syndrome",
+        "zh": "日本:特发性肾病综合征"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "name": "sparsentan",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Endothelin/angiotensin II receptor antagonist",
+        "zh": "内皮素/血管紧张素 II 受体拮抗剂"
+      },
+      "ind": {
+        "en": "Japan: IgA nephropathy",
+        "zh": "日本:IgA 肾病"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "name": "satralizumab",
+      "code": "SA237/RG6168",
+      "modality": "antibody",
+      "target": {
+        "en": "IL-6 receptor",
+        "zh": "IL-6 受体"
+      },
+      "ind": {
+        "en": "MOG antibody-associated disease (Japan/U.S./EU filings)",
+        "zh": "MOG 抗体相关疾病(日本/美国/欧盟申报)"
+      },
+      "phase": "reg",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "name": "vamikibart",
+      "code": "RG6179",
+      "modality": "antibody",
+      "target": {
+        "en": "IL-6",
+        "zh": "IL-6"
+      },
+      "ind": {
+        "en": "Japan: uveitic macular edema",
+        "zh": "日本:葡萄膜炎性黄斑水肿"
+      },
+      "phase": "reg",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "name": "orforglipron",
+      "code": "LY3502970/OWL833",
+      "modality": "small molecule",
+      "target": {
+        "en": "GLP-1 receptor agonist",
+        "zh": "GLP-1 受体激动剂"
+      },
+      "ind": {
+        "en": "Type 2 diabetes (U.S./EU/Japan filed); obesity (EU/Japan filed)",
+        "zh": "2 型糖尿病(美国/欧盟/日本已申报);肥胖(欧盟/日本已申报)"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "name": "divarasib",
+      "code": "RG6330",
+      "modality": "small molecule",
+      "target": {
+        "en": "KRAS G12C",
+        "zh": "KRAS G12C"
+      },
+      "ind": {
+        "en": "Japan: second-line NSCLC; also first-line",
+        "zh": "日本:二线 NSCLC;另有一线"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": {
+        "en": "Japan submission planned",
+        "zh": "计划在日本申报",
+        "when": "2026"
+      },
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "name": "sefaxersen",
+      "code": "RG6299",
+      "modality": "other",
+      "target": {
+        "en": "Complement factor B antisense",
+        "zh": "补体因子 B 反义药物"
+      },
+      "ind": {
+        "en": "Japan: IgA nephropathy",
+        "zh": "日本:IgA 肾病"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": "licensed",
+      "next": {
+        "en": "Japan submission projected for 2029 or beyond",
+        "zh": "预计 2029 年或之后在日本申报",
+        "when": null
+      },
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "name": "zemocimig",
+      "code": "NXT007/RG6512",
+      "modality": "bispecific",
+      "target": {
+        "en": "Factor IXa/X",
+        "zh": "因子 IXa/X"
+      },
+      "ind": {
+        "en": "Hemophilia A",
+        "zh": "A 型血友病"
+      },
+      "phase": "3",
+      "ta": "Hematology",
+      "origin": "internal",
+      "next": {
+        "en": "Submission projected",
+        "zh": "预计申报",
+        "when": "2028"
+      },
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "MOGAD satralizumab and multiple Japan oncology applications are filed.",
+      "zh": "MOGAD satralizumab 及多项日本肿瘤适应症申请已申报。",
+      "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    },
+    {
+      "k": "concentration",
+      "en": "Q3 growth included Hemlibra and Nemluvio royalties and exports of Nemluvio and Alecensa.",
+      "zh": "第三季度增长包括 Hemlibra 和 Nemluvio 的特许权使用费,以及 Nemluvio 和 Alecensa 的出口。",
+      "src": "https://www.chugai-pharm.co.jp/english/news/detail/20261027170000_1297.html"
+    },
+    {
+      "k": "deal",
+      "en": "Roche plans to return emugrobart; Chugai is preparing to resume SMA development and considering out-licensing.",
+      "zh": "Roche 计划退还 emugrobart;Chugai 正准备重启 SMA 开发,并考虑对外授权。",
+      "src": "https://www.chugai-pharm.co.jp/english/news/detail/20261027170000_1297.html"
+    },
+    {
+      "k": "other",
+      "en": "Sefaxersen's Phase 3 interim analysis met its primary endpoint.",
+      "zh": "Sefaxersen 的 III 期中期分析达到主要终点。",
+      "src": "https://www.chugai-pharm.co.jp/english/news/detail/20261027170000_1297.html"
+    }
+  ],
+  "sources": [
+    [
+      "Development pipeline overview",
+      "https://www.chugai-pharm.co.jp/english/ir/product/pipeline.html?bPanelId=2600238"
+    ],
+    [
+      "September 30, 2026 complete development pipeline",
+      "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
+    ],
+    [
+      "October 27 Q3 2026 results",
+      "https://www.chugai-pharm.co.jp/english/news/detail/20261027170000_1297.html"
+    ]
+  ],
+  "gaps": [
+    "No verified current company-published aggregate phase counts were obtained; counts is null rather than counting this selection.",
+    "Japan development/filing status is distinguished from overseas approvals. Satralizumab thyroid eye disease is excluded because U.S. approval was disclosed in October; the item instead concerns filed MOGAD.",
+    "Orforglipron was discovered by Chugai and out-licensed to Lilly; it is included for filed diabetes and non-U.S. obesity applications, not approved U.S. obesity.",
+    "Specific next regulatory-decision dates were not disclosed for filed assets; next is null.",
+    "Sefaxersen is an antisense oligonucleotide, mapped to other because the permitted modality vocabulary has no ASO category. The source says 2029 and beyond, so next.when is null.",
+    "Sparsentan is coded licensed because the pipeline identifies Travere as licensor; the corporate acquisition pathway is not represented separately.",
+    "Unverified development codes are null. The 10-asset selection omits other Phase 3 assets and is not the full portfolio.",
+    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+  ]
+}

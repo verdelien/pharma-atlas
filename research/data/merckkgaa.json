@@ -1,0 +1,189 @@
+{
+  "id": "merckkgaa",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Healthcare development centers on oncology ADCs and immune-mediated disease, with three Phase 3 programs and several early biologics. External sourcing is a stated strategic priority.",
+    "zh": "医疗保健业务的开发集中于肿瘤 ADC 和免疫介导疾病,有三个 III 期项目和若干早期生物药。外部引进是明确的战略重点。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "cladribine capsules",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Immune reconstitution (putative)",
+        "zh": "免疫重建(推测)"
+      },
+      "ind": {
+        "en": "Generalized myasthenia gravis",
+        "zh": "全身型重症肌无力"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
+    },
+    {
+      "name": "enpatoran",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "TLR7/8 antagonist",
+        "zh": "TLR7/8 拮抗剂"
+      },
+      "ind": {
+        "en": "Lupus with cutaneous manifestations",
+        "zh": "伴皮肤表现的狼疮"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
+    },
+    {
+      "name": "precemtabart tocentecan",
+      "code": null,
+      "modality": "ADC",
+      "target": {
+        "en": "CEACAM5",
+        "zh": "CEACAM5"
+      },
+      "ind": {
+        "en": "Third-line colorectal cancer; early gastric and pancreatic studies",
+        "zh": "三线结直肠癌;早期胃癌和胰腺癌研究"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
+    },
+    {
+      "name": "M3554",
+      "code": "M3554",
+      "modality": "ADC",
+      "target": {
+        "en": "GD2",
+        "zh": "GD2"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
+    },
+    {
+      "name": "M0324",
+      "code": "M0324",
+      "modality": "bispecific",
+      "target": {
+        "en": "MUC1 x CD40",
+        "zh": "MUC1 x CD40"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
+    },
+    {
+      "name": "M7437",
+      "code": "M7437",
+      "modality": "ADC",
+      "target": {
+        "en": "Ly6E",
+        "zh": "Ly6E"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
+    },
+    {
+      "name": "M5542",
+      "code": "M5542",
+      "modality": "other",
+      "target": {
+        "en": "CTLA4Ig/anti-OX40L fusion protein",
+        "zh": "CTLA4Ig/抗 OX40L 融合蛋白"
+      },
+      "ind": {
+        "en": "T cell-mediated autoimmune diseases; healthy-volunteer study",
+        "zh": "T 细胞介导的自身免疫病;健康志愿者研究"
+      },
+      "phase": "1",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Enpatoran and precemtabart tocentecan have reached Phase 3.",
+      "zh": "Enpatoran 和 precemtabart tocentecan 已进入 III 期。",
+      "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
+    },
+    {
+      "k": "loe",
+      "en": "Q3 Mavenclad sales fell 25.1% organically, reflecting U.S. generic competition.",
+      "zh": "第三季度 Mavenclad 销售额按内生增长计下降 25.1%,反映了美国仿制药竞争。",
+      "src": "https://www.emdgroup.com/en/news/q3-2026-12-11-2026.html"
+    },
+    {
+      "k": "deal",
+      "en": "The company aims to source more than half of future launch assets externally.",
+      "zh": "公司的目标是从外部引进一半以上的未来上市资产。",
+      "src": "https://www.emdserono.com/us-en/research.html"
+    },
+    {
+      "k": "other",
+      "en": "Pimicotinib received FDA approval on November 10, 2026; it is excluded from investigational items.",
+      "zh": "Pimicotinib 于 2026 年 11 月 10 日获 FDA 批准;已从在研项目中剔除。",
+      "src": "https://www.emdgroup.com/en/news/q3-2026-12-11-2026.html"
+    }
+  ],
+  "sources": [
+    [
+      "Healthcare pipeline page",
+      "https://www.emdgroup.com/en/research/healthcare-pipeline.html"
+    ],
+    [
+      "Q3 2026 presentation, November 12",
+      "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
+    ],
+    [
+      "Q3 2026 results",
+      "https://www.emdgroup.com/en/news/q3-2026-12-11-2026.html"
+    ],
+    [
+      "EMD Serono R&D strategy",
+      "https://www.emdserono.com/us-en/research.html"
+    ]
+  ],
+  "gaps": [
+    "No verified current aggregate counts by clinical phase were available; counts is null.",
+    "Origins and next milestone dates for the selected assets were not established in the accessible current materials; origin and next are null.",
+    "Cladribine capsules are an investigational formulation, distinct from marketed cladribine tablets.",
+    "Pimicotinib remains drawn in registration in the November deck, but its footnote confirms U.S. approval; no major new filed indication was verified.",
+    "The pipeline landing page exposed an image rather than a readable chart; the complete November 12 pipeline slide was used.",
+    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "lilly",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Cardiometabolic medicines dominate this selection, with late-stage obesity, amylin and Lp(a) programs alongside oncology and Alzheimer’s candidates. Both internal discovery and external licensing contribute.",
+    "zh": "所选重点资产以心血管代谢疾病为主，覆盖肥胖、胰淀素及 Lp(a) 等后期项目，并延伸至肿瘤和阿尔茨海默病；研发来源兼有自主发现和外部授权。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "orforglipron",
+      "code": "LY3502970",
+      "modality": "small molecule",
+      "target": {
+        "en": "GLP-1 receptor agonist",
+        "zh": "GLP-1 受体激动剂"
+      },
+      "ind": {
+        "en": "Type 2 diabetes (filed); obesity already approved",
+        "zh": "2 型糖尿病（已申报）；肥胖适应症已获批"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": "licensed",
+      "next": {
+        "en": "Potential diabetes regulatory action",
+        "zh": "糖尿病适应症潜在监管决定",
+        "when": "2026"
+      },
+      "src": "https://investor.lilly.com/static-files/4580c401-611c-406b-8964-88cb8d887bd4"
+    },
+    {
+      "name": "retatrutide",
+      "code": "LY3437943",
+      "modality": "peptide",
+      "target": {
+        "en": "GIP/GLP-1/glucagon receptor agonist",
+        "zh": "GIP/GLP-1/胰高血糖素受体三重激动剂"
+      },
+      "ind": {
+        "en": "Obesity; also diabetes, OSA and knee osteoarthritis",
+        "zh": "肥胖症；亦开发糖尿病、阻塞性睡眠呼吸暂停和膝骨关节炎"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": "internal",
+      "next": {
+        "en": "TRANSCEND-T2D-3 Phase 3 disclosure",
+        "zh": "披露 TRANSCEND-T2D-3 III 期数据",
+        "when": "2026"
+      },
+      "src": "https://www.lilly.com/science/research-development/pipeline"
+    },
+    {
+      "name": "eloralintide",
+      "code": "LY3841136",
+      "modality": "peptide",
+      "target": {
+        "en": "Amylin receptor agonist",
+        "zh": "胰淀素受体激动剂"
+      },
+      "ind": {
+        "en": "Obesity; also OSA and knee osteoarthritis",
+        "zh": "肥胖症；亦开发阻塞性睡眠呼吸暂停和膝骨关节炎"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://investor.lilly.com/news-releases/news-release-details/lilly-present-new-data-foundayo-retatrutide-and-eloratzp-easd"
+    },
+    {
+      "name": "lepodisiran",
+      "code": "LY3819469",
+      "modality": "siRNA",
+      "target": {
+        "en": "Apolipoprotein(a) synthesis suppression",
+        "zh": "抑制载脂蛋白(a)合成"
+      },
+      "ind": {
+        "en": "Atherosclerotic cardiovascular disease",
+        "zh": "动脉粥样硬化性心血管疾病"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.lilly.com/science/research-development/pipeline"
+    },
+    {
+      "name": "muvalaplin",
+      "code": "LY3473329",
+      "modality": "small molecule",
+      "target": {
+        "en": "Lp(a) formation inhibitor",
+        "zh": "Lp(a)形成抑制剂"
+      },
+      "ind": {
+        "en": "Atherosclerotic cardiovascular disease",
+        "zh": "动脉粥样硬化性心血管疾病"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.lilly.com/science/research-development/pipeline"
+    },
+    {
+      "name": "olomorasib",
+      "code": "LY3537982",
+      "modality": "small molecule",
+      "target": {
+        "en": "KRAS G12C inhibitor",
+        "zh": "KRAS G12C 抑制剂"
+      },
+      "ind": {
+        "en": "First-line KRAS G12C-mutant NSCLC; also adjuvant disease",
+        "zh": "KRAS G12C 突变非小细胞肺癌一线治疗；亦开发辅助治疗"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.lilly.com/science/research-development/pipeline"
+    },
+    {
+      "name": "remternetug",
+      "code": "LY3372993",
+      "modality": "antibody",
+      "target": {
+        "en": "Deposited amyloid plaque",
+        "zh": "脑内沉积的淀粉样蛋白斑块"
+      },
+      "ind": {
+        "en": "Preclinical Alzheimer’s disease / mild cognitive impairment",
+        "zh": "临床前阿尔茨海默病或轻度认知障碍"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.lilly.com/science/research-development/pipeline"
+    },
+    {
+      "name": "sofetabart mipitecan",
+      "code": "LY4170156",
+      "modality": "ADC",
+      "target": {
+        "en": "Folate receptor alpha",
+        "zh": "叶酸受体α"
+      },
+      "ind": {
+        "en": "Platinum-resistant ovarian cancer; also platinum-sensitive disease",
+        "zh": "铂耐药卵巢癌；亦开发铂敏感疾病"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.lilly.com/science/research-development/pipeline"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "Q3 sales of Mounjaro and Zepbound were $10.7bn and $5.4bn, respectively, against $24.4bn total revenue.",
+      "zh": "Q3 Mounjaro 和 Zepbound 销售额分别约107亿美元和54亿美元，公司总收入约244亿美元。",
+      "src": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000104/q326lillysalesandearningsp.htm"
+    },
+    {
+      "k": "catalyst",
+      "en": "The Q3 outlook still lists a diabetes decision for orforglipron and TRANSCEND-T2D-3 disclosure in 2026.",
+      "zh": "Q3 展望仍将 orforglipron 糖尿病适应症监管决定及 TRANSCEND-T2D-3 数据披露列为2026年事项。",
+      "src": "https://investor.lilly.com/static-files/4580c401-611c-406b-8964-88cb8d887bd4"
+    },
+    {
+      "k": "deal",
+      "en": "Q3 acquired IPR&D charges reached $4.2bn; AtaiBeckley closed in Q3 and Merida closed after quarter-end.",
+      "zh": "Q3 收购在研项目费用约42亿美元；AtaiBeckley 收购于当季完成，Merida 收购于季后完成。",
+      "src": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000104/q326lillysalesandearningsp.htm"
+    },
+    {
+      "k": "balance",
+      "en": "Year-to-date capital investments were $8.4bn, alongside $19.0bn allocated to business development.",
+      "zh": "年初至今资本投资约84亿美元，业务拓展投入约190亿美元。",
+      "src": "https://investor.lilly.com/static-files/4580c401-611c-406b-8964-88cb8d887bd4"
+    }
+  ],
+  "sources": [
+    [
+      "Clinical pipeline, 29 October 2026",
+      "https://www.lilly.com/science/research-development/pipeline"
+    ],
+    [
+      "Q3 2026 results, SEC exhibit",
+      "https://www.sec.gov/Archives/edgar/data/59478/000005947826000104/q326lillysalesandearningsp.htm"
+    ],
+    [
+      "Q3 2026 earnings slides",
+      "https://investor.lilly.com/static-files/4580c401-611c-406b-8964-88cb8d887bd4"
+    ],
+    [
+      "EASD 2026 release: mechanisms and Chugai license",
+      "https://investor.lilly.com/news-releases/news-release-details/lilly-present-new-data-foundayo-retatrutide-and-eloratzp-easd"
+    ],
+    [
+      "2024 external-innovation presentation: historical origin evidence only",
+      "https://investor.lilly.com/static-files/c700e00d-2474-42b0-9a92-6a539961e312"
+    ]
+  ],
+  "gaps": [
+    "No consolidated phase-by-phase counts were verified; counts is null. The current pipeline page no longer discloses Phase 1 projects.",
+    "Origins of eloralintide, olomorasib and sofetabart mipitecan were not explicitly verified in the opened sources; origin is null.",
+    "The 2024 external-innovation presentation predates 2026-06 and is used only for the historical origins of retatrutide, lepodisiran, muvalaplin and remternetug; stages and indications use October 2026 sources.",
+    "No future milestone with a verified company date was found for eloralintide, lepodisiran, muvalaplin, olomorasib, remternetug or sofetabart mipitecan; next is null. Annual 2026 catalysts were not narrowed to a quarter.",
+    "The investor-hosted Q3 release returned 403; the opened SEC exhibit supplied the primary release. Pipeline spelling muvalaplin is used rather than the apparent MUVAPALIN typo in the slide extraction."
+  ]
+}

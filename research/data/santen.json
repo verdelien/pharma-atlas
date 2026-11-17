@@ -1,0 +1,229 @@
+{
+  "id": "santen",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Santen's ophthalmology pipeline combines licensed compounds with formulation and regional development. Late-stage projects span glaucoma, myopia, retinal disease and ptosis.",
+    "zh": "Santen 的眼科管线将获许可化合物与剂型和区域开发相结合。后期项目涵盖青光眼、近视、视网膜疾病和上睑下垂。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "atropine sulfate (China)",
+      "code": "STN1012700 / DE-127",
+      "modality": "small molecule",
+      "target": {
+        "en": "Muscarinic receptors",
+        "zh": "毒蕈碱受体"
+      },
+      "ind": {
+        "en": "Juvenile myopia progression",
+        "zh": "青少年近视进展"
+      },
+      "phase": "reg",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "name": "oxymetazoline (Asia filing)",
+      "code": "STN1013800",
+      "modality": "small molecule",
+      "target": {
+        "en": "Alpha adrenergic receptors",
+        "zh": "α 肾上腺素能受体"
+      },
+      "ind": {
+        "en": "Ptosis; also Phase 3 in Europe and China",
+        "zh": "上睑下垂;另有欧洲和中国 III 期"
+      },
+      "phase": "reg",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "name": "latanoprost emulsion (Asia)",
+      "code": "STN1013001 / DE-130A",
+      "modality": "small molecule",
+      "target": {
+        "en": "Prostaglandin F2alpha receptor",
+        "zh": "前列腺素 F2α 受体"
+      },
+      "ind": {
+        "en": "Glaucoma and ocular hypertension",
+        "zh": "青光眼和高眼压症"
+      },
+      "phase": "reg",
+      "ta": "Ophthalmology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "name": "diquafosol long-acting (Asia)",
+      "code": "STN1008903 / DE-089C",
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Dry eye",
+        "zh": "干眼症"
+      },
+      "phase": "reg",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "name": "epinastine (China)",
+      "code": "STN1011403 / STN1011402",
+      "modality": "small molecule",
+      "target": {
+        "en": "Histamine H1 receptor",
+        "zh": "组胺 H1 受体"
+      },
+      "ind": {
+        "en": "Allergic conjunctivitis; filed eye drops and Phase 3 eyelid cream",
+        "zh": "过敏性结膜炎;滴眼液已申报,眼睑乳膏 III 期"
+      },
+      "phase": "reg",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "name": "omidenepag isopropyl (China)",
+      "code": "STN1011702",
+      "modality": "small molecule",
+      "target": {
+        "en": "EP2 receptor",
+        "zh": "EP2 受体"
+      },
+      "ind": {
+        "en": "Glaucoma and ocular hypertension",
+        "zh": "青光眼和高眼压症"
+      },
+      "phase": "3",
+      "ta": "Ophthalmology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "name": "netarsudil / latanoprost (Japan)",
+      "code": "STN1014003",
+      "modality": "small molecule",
+      "target": {
+        "en": "ROCK / NET and prostaglandin pathway",
+        "zh": "ROCK / NET 和前列腺素通路"
+      },
+      "ind": {
+        "en": "Glaucoma and ocular hypertension",
+        "zh": "青光眼和高眼压症"
+      },
+      "phase": "3",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "name": "eflimrufusp alfa",
+      "code": "STN1014300 / STN1014301 / RC28-E",
+      "modality": "other",
+      "target": {
+        "en": "VEGF-A and FGF-2",
+        "zh": "VEGF-A 和 FGF-2"
+      },
+      "ind": {
+        "en": "Wet AMD; also diabetic macular edema",
+        "zh": "湿性 AMD;另有糖尿病性黄斑水肿"
+      },
+      "phase": "3",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "name": "olodaterol",
+      "code": "STN1014100 / STN1014101",
+      "modality": "small molecule",
+      "target": {
+        "en": "Beta-2 adrenergic receptor",
+        "zh": "β2 肾上腺素能受体"
+      },
+      "ind": {
+        "en": "Dry eye; also allergic conjunctivitis",
+        "zh": "干眼症;另有过敏性结膜炎"
+      },
+      "phase": "2",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "name": "nintedanib",
+      "code": "STN1014200 / CBT-001",
+      "modality": "small molecule",
+      "target": {
+        "en": "Multiple kinases",
+        "zh": "多激酶"
+      },
+      "ind": {
+        "en": "Pterygium",
+        "zh": "翼状胬肉"
+      },
+      "phase": "2",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "other",
+      "en": "RemeGen withdrew the diabetic macular edema filing in June 2026 and plans additional trials.",
+      "zh": "RemeGen 于 2026 年 6 月撤回了糖尿病性黄斑水肿的申报,并计划开展更多试验。",
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    },
+    {
+      "k": "catalyst",
+      "en": "Omidenepag met its China Phase 3 endpoint; the presentation plans filing in FY2027.",
+      "zh": "Omidenepag 达到了中国 III 期终点;演示材料计划于 FY2027 申报。",
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/ir/document/202703/mtg2027_2q.pdf"
+    },
+    {
+      "k": "deal",
+      "en": "Alcon, Boehringer Ingelheim, RemeGen and other partners supply key programs.",
+      "zh": "Alcon、Boehringer Ingelheim、RemeGen 等合作伙伴提供了关键项目。",
+      "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "October 2026 pipeline",
+      "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
+    ],
+    [
+      "Q2 FY2026 results presentation",
+      "https://www.santen.com/content/dam/santen/global/pdf/en/ir/document/202703/mtg2027_2q.pdf"
+    ]
+  ],
+  "gaps": [
+    "No published phase counts verified.",
+    "Regional filings and formulation developments are explicitly identified; approvals elsewhere do not imply approval in the listed region.",
+    "One entry per active ingredient; epinastine and olodaterol formulations combined.",
+    "Diquafosol molecular target not stated in reviewed text; null.",
+    "Company fiscal-year milestones cannot be mapped precisely to calendar halves; no guessed calendar dates supplied.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "hypera",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Hypera develops prescription medicines, OTC products and other healthcare products through Hynova and external partnerships. The reviewed materials do not disclose named investigational medicines with clinical phases; no asset-level clinical pipeline could be verified.",
+    "zh": "Hypera 通过 Hynova 和外部合作开发处方药、OTC 产品及其他医疗健康产品。所审阅的资料未披露带有临床阶段的具名在研药物;无法核实资产层面的临床管线。"
+  },
+  "counts": null,
+  "items": [],
+  "watch": [
+    {
+      "k": "other",
+      "en": "Semavy launched in Q3 2026, marking entry into the Brazilian GLP-1 analogue market.",
+      "zh": "Semavy 于 2026 年第三季度上市,标志着进入巴西 GLP-1 类似物市场。",
+      "src": "https://docs.publicnow.com/viewDoc?filename=85392%5CEXT%5C2EB5A0C74540854DD9A90A678EB54FB07C562FC8_FE22CDD0FBCF7096825C6CD816EABDCCFE51FD36.PDF"
+    },
+    {
+      "k": "balance",
+      "en": "Q3 2026 net debt was R$5.61 billion; free cash flow was R$553.7 million.",
+      "zh": "2026 年第三季度净债务为 R$5.61 billion;自由现金流为 R$553.7 million。",
+      "src": "https://docs.publicnow.com/viewDoc?filename=85392%5CEXT%5C2EB5A0C74540854DD9A90A678EB54FB07C562FC8_FE22CDD0FBCF7096825C6CD816EABDCCFE51FD36.PDF"
+    },
+    {
+      "k": "deal",
+      "en": "The innovation model includes licensing existing products or technologies not yet present in Brazil.",
+      "zh": "创新模式包括引进巴西尚未上市的现有产品或技术。",
+      "src": "https://www.hypera.com.br/pesquisa-e-inovacao"
+    },
+    {
+      "k": "concentration",
+      "en": "The commercial portfolio spans prescription, consumer health, skincare and generics.",
+      "zh": "商业产品组合涵盖处方药、消费者健康、护肤和仿制药。",
+      "src": "https://ri.hypera.com.br/hypera-pharma/perfil-corporativo/"
+    }
+  ],
+  "sources": [
+    [
+      "Research and innovation",
+      "https://www.hypera.com.br/pesquisa-e-inovacao"
+    ],
+    [
+      "Corporate profile, June 18, 2026",
+      "https://ri.hypera.com.br/hypera-pharma/perfil-corporativo/"
+    ],
+    [
+      "Q3 2026 company earnings release, hosted by Publicnow",
+      "https://docs.publicnow.com/viewDoc?filename=85392%5CEXT%5C2EB5A0C74540854DD9A90A678EB54FB07C562FC8_FE22CDD0FBCF7096825C6CD816EABDCCFE51FD36.PDF"
+    ],
+    [
+      "Company results centre",
+      "https://ri.hypera.com.br/en/results-and-cvm-documents/results-center/"
+    ]
+  ],
+  "gaps": [
+    "Company-wide counts by phase were not verified; counts is null. Unverified codes, mechanisms, modalities, origins and milestone dates are null rather than inferred.",
+    "No named eligible clinical assets were verified, so items is empty; this does not mean Hypera has no R&D projects. Newly launched products are not investigational assets.",
+    "The company results centre rendered without document links. The company-authored Q3 release was read on Publicnow because a direct company-hosted copy could not be retrieved. No asset phases, targets, origins or future clinical milestone dates were verified.",
+    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+  ]
+}

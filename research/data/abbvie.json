@@ -1,0 +1,251 @@
+{
+  "id": "abbvie",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Immunology remains central, while myeloma bispecifics, solid-tumor ADCs and retinal gene therapy broaden the late-stage portfolio. Apogee and external partnerships also extend the dermatology and obesity pipeline.",
+    "zh": "免疫仍是研发核心，多发性骨髓瘤双抗、实体瘤 ADC 和视网膜基因疗法拓宽后期布局；Apogee 收购及外部合作进一步补充皮肤病和肥胖管线。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "etentamig",
+      "code": "ABBV-383 / TNB-383B",
+      "modality": "bispecific",
+      "target": {
+        "en": "BCMA × CD3",
+        "zh": "BCMA × CD3 靶点"
+      },
+      "ind": {
+        "en": "Relapsed/refractory multiple myeloma after at least two prior lines",
+        "zh": "既往接受至少两线治疗的复发或难治性多发性骨髓瘤"
+      },
+      "phase": "reg",
+      "ta": "Hematology",
+      "origin": "acquired",
+      "next": {
+        "en": "Potential third-line myeloma approval",
+        "zh": "三线骨髓瘤适应症潜在获批",
+        "when": "2027"
+      },
+      "src": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "upadacitinib (Rinvoq)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "JAK1 inhibitor",
+        "zh": "JAK1 抑制剂"
+      },
+      "ind": {
+        "en": "Nonsegmental vitiligo (US filing); also alopecia areata filed",
+        "zh": "非节段型白癜风（美国申报）；斑秃亦已申报"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "Potential US vitiligo approval",
+        "zh": "白癜风适应症潜在美国获批",
+        "when": "2026"
+      },
+      "src": "https://investors.abbvie.com/static-files/11ea5ca5-2893-407f-903d-7c0ecf66cb0a"
+    },
+    {
+      "name": "lutikizumab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "IL-1α / IL-1β antagonist",
+        "zh": "IL-1α / IL-1β 双重拮抗剂"
+      },
+      "ind": {
+        "en": "Moderate-to-severe hidradenitis suppurativa",
+        "zh": "中重度化脓性汗腺炎"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "Regulatory submissions supported by extension data",
+        "zh": "以延长期数据支持上市申报",
+        "when": "2027H2"
+      },
+      "src": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "telisotuzumab adizutecan (Temab-A)",
+      "code": null,
+      "modality": "ADC",
+      "target": {
+        "en": "c-Met",
+        "zh": "c-Met 靶点"
+      },
+      "ind": {
+        "en": "Refractory metastatic colorectal cancer with bevacizumab; also NSCLC",
+        "zh": "与 bevacizumab 联用治疗难治性转移性结直肠癌；亦开发非小细胞肺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "Phase 3 colorectal cancer readout",
+        "zh": "III 期结直肠癌数据读出",
+        "when": "2027"
+      },
+      "src": "https://investors.abbvie.com/static-files/11ea5ca5-2893-407f-903d-7c0ecf66cb0a"
+    },
+    {
+      "name": "ABBV-706",
+      "code": "ABBV-706",
+      "modality": "ADC",
+      "target": {
+        "en": "SEZ6",
+        "zh": "癫痫相关同源蛋白 SEZ6"
+      },
+      "ind": {
+        "en": "Relapsed/refractory small-cell lung cancer",
+        "zh": "复发或难治性小细胞肺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://news.abbvie.com/2026-10-18-AbbVie-to-Present-Data-at-the-2026-European-Society-for-Medical-Oncology-ESMO-Congress-Highlighting-Progress-Across-its-Expanding-Solid-Tumor-Portfolio"
+    },
+    {
+      "name": "surabgene lomparvovec",
+      "code": "ABBV-RGX-314 / sura-vec",
+      "modality": "gene therapy",
+      "target": {
+        "en": "AAV8-delivered anti-VEGF Fab",
+        "zh": "AAV8 递送的抗 VEGF Fab"
+      },
+      "ind": {
+        "en": "Wet age-related macular degeneration; also diabetic retinopathy",
+        "zh": "湿性年龄相关性黄斑变性；亦开发糖尿病视网膜病变"
+      },
+      "phase": "3",
+      "ta": "Ophthalmology",
+      "origin": "co-developed",
+      "next": {
+        "en": "ATMOSPHERE and ASCENT topline data; filings expected in 2027",
+        "zh": "ATMOSPHERE 和 ASCENT 顶线数据；预计2027年申报",
+        "when": "2026Q4"
+      },
+      "src": "https://ir.regenxbio.com/news-releases/news-release-details/regenxbio-reports-third-quarter-2026-financial-results-and"
+    },
+    {
+      "name": "zumilokibart",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "IL-13",
+        "zh": "白细胞介素-13"
+      },
+      "ind": {
+        "en": "Atopic dermatitis; also asthma",
+        "zh": "特应性皮炎；亦开发哮喘"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "ABBV-295",
+      "code": "GUB014295",
+      "modality": "peptide",
+      "target": {
+        "en": "Long-acting amylin analog",
+        "zh": "长效胰淀素类似物"
+      },
+      "ind": {
+        "en": "Obesity / chronic weight management",
+        "zh": "肥胖症及慢性体重管理"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.gubra.dk/mfn_news/gubra-announces-achievement-of-milestone-from-abbvie-following-initiation-of-a-phase-2-clinical-trial-of-abbv-295-a-long-acting-amylin-analog?m-page=1"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "The Q3 filing describes approximately 100 programs, about 60 mid/late-stage; immunology remains a key focus alongside neuroscience and oncology.",
+      "zh": "Q3 文件披露约100个项目，其中约60个处于中后期；免疫与神经科学、肿瘤仍是重点领域。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000037/abbv-20260930.htm"
+    },
+    {
+      "k": "catalyst",
+      "en": "Lutikizumab’s INTREPID trial was positive; AbbVie plans HS regulatory submissions in the second half of 2027.",
+      "zh": "Lutikizumab 的 INTREPID 研究取得阳性结果，AbbVie 计划于2027年下半年申报化脓性汗腺炎适应症。",
+      "src": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "k": "deal",
+      "en": "The completed Apogee acquisition adds IL-13 antibody zumilokibart and an IL-13/TSLP combination program.",
+      "zh": "已完成的 Apogee 收购补充了 IL-13 抗体 zumilokibart 及 IL-13/TSLP 联合项目。",
+      "src": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "k": "catalyst",
+      "en": "REGENXBIO’s November update expects joint sura-vec pivotal data in Q4 2026 and global submissions in 2027.",
+      "zh": "REGENXBIO 的11月更新预计，双方将在2026年第四季度披露 sura-vec 关键数据，并于2027年全球申报。",
+      "src": "https://ir.regenxbio.com/news-releases/news-release-details/regenxbio-reports-third-quarter-2026-financial-results-and"
+    }
+  ],
+  "sources": [
+    [
+      "Corporate pipeline (dynamic content limited)",
+      "https://www.abbvie.com/science/pipeline.html"
+    ],
+    [
+      "October 30, 2026 pipeline update",
+      "https://investors.abbvie.com/static-files/11ea5ca5-2893-407f-903d-7c0ecf66cb0a"
+    ],
+    [
+      "Q3 2026 results",
+      "https://investors.abbvie.com/news-releases/news-release-details/abbvie-reports-third-quarter-2026-financial-results"
+    ],
+    [
+      "Q3 2026 Form 10-Q",
+      "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000037/abbv-20260930.htm"
+    ],
+    [
+      "ESMO 2026 ADC update",
+      "https://news.abbvie.com/2026-10-18-AbbVie-to-Present-Data-at-the-2026-European-Society-for-Medical-Oncology-ESMO-Congress-Highlighting-Progress-Across-its-Expanding-Solid-Tumor-Portfolio"
+    ],
+    [
+      "REGENXBIO Q3 2026 update",
+      "https://ir.regenxbio.com/news-releases/news-release-details/regenxbio-reports-third-quarter-2026-financial-results-and"
+    ],
+    [
+      "Gubra Phase 2 milestone, August 2026",
+      "https://www.gubra.dk/mfn_news/gubra-announces-achievement-of-milestone-from-abbvie-following-initiation-of-a-phase-2-clinical-trial-of-abbv-295-a-long-acting-amylin-analog?m-page=1"
+    ],
+    [
+      "TeneoOne acquisition origin, June 2021",
+      "https://news.abbvie.com/2021-06-24-AbbVie-Exercises-Right-to-Acquire-TeneoOne-and-Lead-Asset-TNB-383B-for-the-Potential-Treatment-of-Relapsed-or-Refractory-Multiple-Myeloma"
+    ],
+    [
+      "AbbVie Science: etentamig / ABBV-383 / TNB-383B aliases",
+      "https://www.abbviescience.com/en/pipeline.html"
+    ],
+    [
+      "Reproxalap regulatory dispute, September 2026",
+      "https://ir.aldeyra.com/node/13261"
+    ]
+  ],
+  "gaps": [
+    "The corporate pipeline page did not expose its asset table to the browser; the complete October 30 investor pipeline PDF was used instead. No full phase-count series was verified; counts is null.",
+    "Origins of upadacitinib, lutikizumab, Temab-A and ABBV-706 were not explicitly established in the opened sources; origin is null. Unverified development codes are null.",
+    "The 2021 TeneoOne release predates 2026-06 and is used only for acquisition origin; current stage and BLA come from Q3 2026 materials.",
+    "No dated next milestone was verified for ABBV-706, zumilokibart or ABBV-295; next is null. Zumilokibart remains Phase 2 in the October pipeline grid despite being described broadly as late-stage in the results release.",
+    "REGENXBIO’s November 2026 update brings the subretinal sura-vec readout to Q4 2026; this newer partner disclosure is used over the October AbbVie slide timing.",
+    "Reproxalap was excluded from the selected items: AbbVie holds an option rather than an exercised license, and Aldeyra is appealing a complete response letter. Approved tavapadon is excluded."
+  ]
+}

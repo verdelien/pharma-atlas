@@ -1,0 +1,206 @@
+{
+  "id": "alnylam",
+  "asof": "2026-11",
+  "summary": {
+    "en": "RNA interference is the common platform across Alnylam's pipeline, from late-stage TTR and hypertension programs to expanding neuroscience, metabolic and bleeding-disorder studies.",
+    "zh": "RNA 干扰是 Alnylam 整个管线的共同平台,涵盖从后期 TTR 和高血压项目,到不断扩展的神经科学、代谢和出血性疾病研究。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "cemdisiran",
+      "code": null,
+      "modality": "siRNA",
+      "target": null,
+      "ind": {
+        "en": "Generalized myasthenia gravis; also PNH and geographic atrophy",
+        "zh": "全身型重症肌无力;另有 PNH 和地图样萎缩"
+      },
+      "phase": "reg",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "FDA decision",
+        "zh": "FDA 决定",
+        "when": "2026Q4"
+      },
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    },
+    {
+      "name": "nucresiran",
+      "code": null,
+      "modality": "siRNA",
+      "target": {
+        "en": "Transthyretin",
+        "zh": "转甲状腺素蛋白"
+      },
+      "ind": {
+        "en": "ATTR cardiomyopathy; also hereditary ATTR polyneuropathy",
+        "zh": "ATTR 心肌病;另有遗传性 ATTR 多发性神经病"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": null,
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    },
+    {
+      "name": "zilebesiran",
+      "code": null,
+      "modality": "siRNA",
+      "target": null,
+      "ind": {
+        "en": "Hypertension",
+        "zh": "高血压"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    },
+    {
+      "name": "mivelsiran",
+      "code": "ALN-APP",
+      "modality": "siRNA",
+      "target": {
+        "en": "Amyloid precursor protein",
+        "zh": "淀粉样前体蛋白"
+      },
+      "ind": {
+        "en": "Cerebral amyloid angiopathy; also Alzheimer's disease",
+        "zh": "脑淀粉样血管病;另有阿尔茨海默病"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    },
+    {
+      "name": "ALN-6400",
+      "code": "ALN-6400",
+      "modality": "siRNA",
+      "target": {
+        "en": "PLG",
+        "zh": "PLG"
+      },
+      "ind": {
+        "en": "Hereditary hemorrhagic telangiectasia; also von Willebrand disease",
+        "zh": "遗传性出血性毛细血管扩张症;另有血管性血友病"
+      },
+      "phase": "2",
+      "ta": "Hematology",
+      "origin": null,
+      "next": {
+        "en": "Phase 2 HHT results at full-year earnings",
+        "zh": "II 期 HHT 结果将在全年业绩发布时公布",
+        "when": "2027Q1"
+      },
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    },
+    {
+      "name": "ALN-4324",
+      "code": "ALN-4324",
+      "modality": "siRNA",
+      "target": {
+        "en": "GRB14",
+        "zh": "GRB14"
+      },
+      "ind": {
+        "en": "Type 2 diabetes mellitus",
+        "zh": "2 型糖尿病"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://investors.alnylam.com/sites/default/files/pdfs/alnylam-q3-2026-earnings-presentation.pdf"
+    },
+    {
+      "name": "brezosiran",
+      "code": "ALN-HTT02",
+      "modality": "siRNA",
+      "target": {
+        "en": "Huntingtin",
+        "zh": "亨廷顿蛋白"
+      },
+      "ind": {
+        "en": "Huntington's disease",
+        "zh": "亨廷顿病"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "co-developed",
+      "next": {
+        "en": "Initiate pivotal trial, pending regulatory alignment",
+        "zh": "启动关键性试验,待与监管机构达成一致",
+        "when": "2027"
+      },
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    },
+    {
+      "name": "ALN-2232",
+      "code": "ALN-2232",
+      "modality": "siRNA",
+      "target": {
+        "en": "ACVR1C",
+        "zh": "ACVR1C"
+      },
+      "ind": {
+        "en": "Obesity and weight management",
+        "zh": "肥胖和体重管理"
+      },
+      "phase": "1",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": {
+        "en": "Phase 1 results at full-year earnings",
+        "zh": "I 期结果将在全年业绩发布时公布",
+        "when": "2027Q1"
+      },
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "TTR products generated $1.150 billion of $1.292 billion Q3 net product revenue.",
+      "zh": "第三季度产品净收入 $1.292 billion,其中 TTR 产品贡献 $1.150 billion。",
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    },
+    {
+      "k": "catalyst",
+      "en": "Cemdisiran has a November 2026 FDA action date; ALN-6400 and obesity data are expected in February 2027.",
+      "zh": "Cemdisiran 的 FDA 行动日期为 2026 年 11 月;ALN-6400 和肥胖数据预计在 2027 年 2 月公布。",
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    },
+    {
+      "k": "deal",
+      "en": "Zilebesiran is partnered with Roche; Regeneron advances cemdisiran and collaborates on brezosiran.",
+      "zh": "Zilebesiran 与 Roche 合作;Regeneron 推进 cemdisiran,并就 brezosiran 开展合作。",
+      "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    }
+  ],
+  "sources": [
+    [
+      "October 2026 pipeline",
+      "https://www.alnylam.com/alnylam-rnai-pipeline"
+    ],
+    [
+      "Q3 2026 results, October 29",
+      "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
+    ],
+    [
+      "Q3 2026 presentation",
+      "https://investors.alnylam.com/sites/default/files/pdfs/alnylam-q3-2026-earnings-presentation.pdf"
+    ]
+  ],
+  "gaps": [
+    "No explicit totals by phase verified.",
+    "Origins are null where discovery provenance was not explicit; out-licensing alone was not treated as an origin.",
+    "Some targets and development codes remain unverified.",
+    "Current FDA approval status after the stated November action date was not established; cemdisiran remains represented as under review in the latest opened results.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

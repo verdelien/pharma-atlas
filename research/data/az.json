@@ -1,0 +1,257 @@
+{
+  "id": "az",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Oncology dominates this late-stage selection, supported by respiratory, metabolic and rare-disease programs. Internally developed platforms sit alongside licensed ADC/GLP-1 assets and acquired endocrine therapies.",
+    "zh": "所选后期管线以肿瘤为主，并涵盖呼吸、代谢和罕见病；内部研发平台与授权引进的 ADC、GLP-1 项目及收购获得的内分泌疗法并行。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "tozorakimab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "IL-33 neutralization",
+        "zh": "中和 IL-33"
+      },
+      "ind": {
+        "en": "COPD add-on maintenance treatment",
+        "zh": "慢阻肺附加维持治疗"
+      },
+      "phase": "reg",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": {
+        "en": "Anticipated US FDA action under priority review",
+        "zh": "预计美国 FDA 作出优先审评决定",
+        "when": "2027Q1"
+      },
+      "src": "https://www.astrazeneca-us.com/media/press-releases/2026/Tozorakimab-demonstrated-statistically-significant-and-highly-clinically-meaningful-reduction-in-COPD-exacerbations-in-OBERON-and-TITANIA-Phase-III-trials.html?outcome=UDTC&source=DCI_S_C_3791_Q326&uadpub=LinkedIn&ucampaign=OBERONTITANIAFullResults2026&ucreative=OBERONTITANIAFullResults2026_MattGray_Animation_Unbranded&umedium=SOCIAL&uplace=OBERONTITANIAFullResults2026_MattGray_Ambassador_LinkedIn"
+    },
+    {
+      "name": "sonesitatug vedotin",
+      "code": "AZD0901 / CMG901",
+      "modality": "ADC",
+      "target": {
+        "en": "CLDN18.2",
+        "zh": "紧密连接蛋白 CLDN18.2"
+      },
+      "ind": {
+        "en": "Previously treated CLDN18.2-positive gastric/GEJ cancer",
+        "zh": "既往接受治疗的 CLDN18.2 阳性胃癌或胃食管结合部癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": {
+        "en": "CLARITY-PanTumour01 Phase 2 data",
+        "zh": "CLARITY-PanTumour01 II 期数据",
+        "when": "2027H1"
+      },
+      "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-clinical-trials-appendix.pdf"
+    },
+    {
+      "name": "rilvegostomig",
+      "code": null,
+      "modality": "bispecific",
+      "target": {
+        "en": "PD-1 × TIGIT",
+        "zh": "PD-1 × TIGIT 靶点"
+      },
+      "ind": {
+        "en": "Adjuvant biliary tract cancer; also NSCLC and other tumors",
+        "zh": "胆道癌辅助治疗；亦开发非小细胞肺癌及其他肿瘤"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "ARTEMIDE-01 Phase 1/2 data",
+        "zh": "ARTEMIDE-01 I/II 期数据",
+        "when": "2026H2"
+      },
+      "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-clinical-trials-appendix.pdf"
+    },
+    {
+      "name": "saruparib",
+      "code": "AZD5305",
+      "modality": "small molecule",
+      "target": {
+        "en": "PARP1 inhibitor",
+        "zh": "PARP1 抑制剂"
+      },
+      "ind": {
+        "en": "Metastatic castration-sensitive prostate cancer",
+        "zh": "转移性去势敏感性前列腺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "EvoPAR-Prostate01 Phase 3 data",
+        "zh": "EvoPAR-Prostate01 III 期数据",
+        "when": "2027H2"
+      },
+      "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-clinical-trials-appendix.pdf"
+    },
+    {
+      "name": "volrustomig",
+      "code": null,
+      "modality": "bispecific",
+      "target": {
+        "en": "PD-1 × CTLA-4",
+        "zh": "PD-1 × CTLA-4 靶点"
+      },
+      "ind": {
+        "en": "High-risk locally advanced cervical cancer; also head/neck cancer and mesothelioma",
+        "zh": "高危局部晚期宫颈癌；亦开发头颈癌和间皮瘤"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "eVOLVE-Cervical Phase 3 data",
+        "zh": "eVOLVE-Cervical III 期数据",
+        "when": "2027H2"
+      },
+      "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-clinical-trials-appendix.pdf"
+    },
+    {
+      "name": "elecoglipron",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Oral GLP-1 receptor agonist",
+        "zh": "口服 GLP-1 受体激动剂"
+      },
+      "ind": {
+        "en": "Obesity / weight management; also type 2 diabetes",
+        "zh": "肥胖症及体重管理；亦开发2型糖尿病"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": "licensed",
+      "next": {
+        "en": "EMBOLD Phase 3 data; company horizon is after 2027",
+        "zh": "EMBOLD III 期数据；公司预期时间为2027年之后",
+        "when": null
+      },
+      "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-clinical-trials-appendix.pdf"
+    },
+    {
+      "name": "eneboparatide",
+      "code": "AZP-3601",
+      "modality": "peptide",
+      "target": {
+        "en": "Parathyroid hormone receptor 1 agonist",
+        "zh": "甲状旁腺激素受体1激动剂"
+      },
+      "ind": {
+        "en": "Hypoparathyroidism",
+        "zh": "甲状旁腺功能减退症"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.astrazeneca.com/our-therapy-areas/pipeline.html"
+    },
+    {
+      "name": "cliramitug",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "Transthyretin amyloid depletion",
+        "zh": "清除转甲状腺素蛋白淀粉样沉积"
+      },
+      "ind": {
+        "en": "Transthyretin amyloid cardiomyopathy",
+        "zh": "转甲状腺素蛋白淀粉样变性心肌病"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": {
+        "en": "DepleTTR-CM Phase 3 data; company horizon is after 2027",
+        "zh": "DepleTTR-CM III 期数据；公司预期时间为2027年之后",
+        "when": null
+      },
+      "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-clinical-trials-appendix.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Tozorakimab is under US priority review, with an anticipated action in Q1 2027; the review followed positive OBERON/TITANIA trials.",
+      "zh": "Tozorakimab 在美国进入优先审评，预计2027年第一季度作出决定，申报依据包括阳性的 OBERON/TITANIA 研究。",
+      "src": "https://www.astrazeneca-us.com/media/press-releases/2026/Tozorakimab-demonstrated-statistically-significant-and-highly-clinically-meaningful-reduction-in-COPD-exacerbations-in-OBERON-and-TITANIA-Phase-III-trials.html?outcome=UDTC&source=DCI_S_C_3791_Q326&uadpub=LinkedIn&ucampaign=OBERONTITANIAFullResults2026&ucreative=OBERONTITANIAFullResults2026_MattGray_Animation_Unbranded&umedium=SOCIAL&uplace=OBERONTITANIAFullResults2026_MattGray_Ambassador_LinkedIn"
+    },
+    {
+      "k": "loe",
+      "en": "Nine-month results identify Farxiga/Brilinta loss of exclusivity and China volume-based procurement as revenue headwinds.",
+      "zh": "前三季度业绩将 Farxiga、Brilinta 失去独占权及中国带量采购列为收入压力来源。",
+      "src": "https://www.astrazeneca.com/media-centre/press-releases/2026/9m-and-q3-2026-results.html"
+    },
+    {
+      "k": "other",
+      "en": "eVOLVE-Lung02 was discontinued for futility; other volrustomig Phase 3 trials continue.",
+      "zh": "eVOLVE-Lung02 因无效性评估而终止，volrustomig 的其他 III 期研究仍在推进。",
+      "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-announcement.pdf"
+    },
+    {
+      "k": "other",
+      "en": "Efzimfotase alfa missed HICKORY’s overall primary endpoint; positive pediatric-onset subgroup findings require separate interpretation.",
+      "zh": "Efzimfotase alfa 未达到 HICKORY 总体人群的主要终点，儿童期发病亚组的阳性结果需单独解读。",
+      "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-announcement.pdf"
+    },
+    {
+      "k": "concentration",
+      "en": "Oncology contributed 47% of nine-month revenue; continued delivery across its large late-stage portfolio is material to growth.",
+      "zh": "肿瘤业务贡献前三季度收入的47%，庞大后期管线的持续兑现对增长具有重要影响。",
+      "src": "https://www.astrazeneca.com/media-centre/press-releases/2026/9m-and-q3-2026-results.html"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline, 30 October 2026",
+      "https://www.astrazeneca.com/our-therapy-areas/pipeline.html"
+    ],
+    [
+      "9M/Q3 2026 results page",
+      "https://www.astrazeneca.com/media-centre/press-releases/2026/9m-and-q3-2026-results.html"
+    ],
+    [
+      "9M/Q3 2026 full announcement",
+      "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-announcement.pdf"
+    ],
+    [
+      "9M/Q3 2026 clinical trials appendix",
+      "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-clinical-trials-appendix.pdf"
+    ],
+    [
+      "Tozorakimab priority review, September 2026",
+      "https://www.astrazeneca-us.com/media/press-releases/2026/Tozorakimab-demonstrated-statistically-significant-and-highly-clinically-meaningful-reduction-in-COPD-exacerbations-in-OBERON-and-TITANIA-Phase-III-trials.html?outcome=UDTC&source=DCI_S_C_3791_Q326&uadpub=LinkedIn&ucampaign=OBERONTITANIAFullResults2026&ucreative=OBERONTITANIAFullResults2026_MattGray_Animation_Unbranded&umedium=SOCIAL&uplace=OBERONTITANIAFullResults2026_MattGray_Ambassador_LinkedIn"
+    ],
+    [
+      "KYM/CMG901 license, February 2023",
+      "https://www.astrazeneca.com/media-centre/press-releases/2023/astrazeneca-enters-license-agreement-with-kym-biosciences-for-cmg901-a-claudin-182-antibody-drug-conjugate.html"
+    ],
+    [
+      "Eccogene/ECC5004 license, November 2023",
+      "https://www.astrazeneca.com/media-centre/press-releases/2023/agreement-with-eccogene-for-clinical-stage-glp-1ra.html?__source=newsletter%7Chealthyreturns"
+    ],
+    [
+      "Amolyt acquisition completed, July 2024",
+      "https://www.astrazeneca.com/media-centre/press-releases/2024/acquisition-of-amolyt-pharma-completed.html"
+    ]
+  ],
+  "gaps": [
+    "No consolidated, like-for-like phase-count series covering both NMEs and lifecycle projects was verified. The company publishes 180 total projects and 116 Phase II/III projects combined; counts is null rather than allocating them ourselves.",
+    "Origins of tozorakimab, rilvegostomig, saruparib, volrustomig and cliramitug were not explicitly verified; origin is null. Unverified codes are null.",
+    "The 2023 KYM/Eccogene and 2024 Amolyt releases predate 2026-06; they establish transaction history only. Current stages come from October 2026 materials.",
+    "The current general pipeline page still lists tozorakimab in Phase III; its accepted BLA and priority review in the September release take precedence, so phase is reg.",
+    "No subsequent dated milestone was verified for eneboparatide after its completed CALYPSO readout; next is null. Elecoglipron EMBOLD and cliramitug DepleTTR-CM are guided only as after 2027, so next.when is null and that open-ended horizon is preserved in the text.",
+    "The appendix explicitly identifies Compugen as a rilvegostomig partner, but the exact origin category was not established. Sonesitatug’s Phase III OS success does not itself establish a filing."
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "glenmark",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Glenmark combines regional licenses for oncology medicines with IGI's earlier-stage antibody research. Partnered programs drive much of the clinical portfolio.",
+    "zh": "Glenmark 将肿瘤药物的区域授权与 IGI 较早期的抗体研究相结合。合作项目构成了临床组合的大部分。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "envafolimab (new markets)",
+      "code": "KN035 / QiNHAYO",
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Regional oncology filings; also resectable NSCLC Phase 3",
+        "zh": "区域性肿瘤申报;另有可切除 NSCLC III 期"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    },
+    {
+      "name": "trastuzumab rezetecan (new markets)",
+      "code": "SHR-A1811",
+      "modality": "ADC",
+      "target": {
+        "en": "HER2",
+        "zh": "HER2"
+      },
+      "ind": {
+        "en": "HER2-expressing cancers; also platinum-resistant ovarian cancer Phase 3",
+        "zh": "HER2 表达癌症;另有铂耐药卵巢癌 III 期"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    },
+    {
+      "name": "aumolertinib (new markets)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "EGFR",
+        "zh": "EGFR"
+      },
+      "ind": {
+        "en": "NSCLC",
+        "zh": "NSCLC"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    },
+    {
+      "name": "ISB-880",
+      "code": "LAD191",
+      "modality": "antibody",
+      "target": {
+        "en": "IL-1RAP",
+        "zh": "IL-1RAP"
+      },
+      "ind": {
+        "en": "Hidradenitis suppurativa",
+        "zh": "化脓性汗腺炎"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "Phase 2 readout",
+        "zh": "II 期结果",
+        "when": "2027"
+      },
+      "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    },
+    {
+      "name": "ISB-2001",
+      "code": "ABBV-2001",
+      "modality": "other",
+      "target": {
+        "en": "CD38 / BCMA / CD3",
+        "zh": "CD38 / BCMA / CD3"
+      },
+      "ind": {
+        "en": "Relapsed/refractory multiple myeloma",
+        "zh": "复发/难治性多发性骨髓瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": {
+        "en": "Updated Phase 1 data at ASH",
+        "zh": "在 ASH 公布更新的 I 期数据",
+        "when": "2026Q4"
+      },
+      "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    },
+    {
+      "name": "STAR-0310",
+      "code": "ISB-830-X8",
+      "modality": "antibody",
+      "target": {
+        "en": "OX40",
+        "zh": "OX40"
+      },
+      "ind": {
+        "en": "Atopic dermatitis",
+        "zh": "特应性皮炎"
+      },
+      "phase": "1",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "deal",
+      "en": "AbbVie co-develops ISB-2001; IGI retains milestone and royalty economics.",
+      "zh": "AbbVie 共同开发 ISB-2001;IGI 保留里程碑付款和特许权使用费收益。",
+      "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    },
+    {
+      "k": "deal",
+      "en": "STAR-0310 rights returned after BioCryst's acquisition of Astria; IGI seeks a new path.",
+      "zh": "BioCryst 收购 Astria 后,STAR-0310 的权益已退还;IGI 正在寻求新的路径。",
+      "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    },
+    {
+      "k": "catalyst",
+      "en": "LAD191 Phase 2 data are expected in 2027.",
+      "zh": "LAD191 II 期数据预计在 2027 年公布。",
+      "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Innovation pipeline",
+      "https://glenmarkpharma.com/pipeline/"
+    ],
+    [
+      "Q2 FY27 management discussion",
+      "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    ]
+  ],
+  "gaps": [
+    "Pipeline charts are images and dated April 5, 2026, older than June 2026; November management discussion supplies current stages.",
+    "No published phase counts verified.",
+    "Envafolimab target and lead filed indication not specified in readable reviewed text; target is null.",
+    "Trastuzumab rezetecan's filed indications are not specified; ovarian cancer is a separate Phase 3 program.",
+    "STAR-0310 rights returned November 4; development path is under evaluation.",
+    "ISB-2001 monotherapy is phase 1; a separate combination phase 1/2 study is also active.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

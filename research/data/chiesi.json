@@ -1,0 +1,172 @@
+{
+  "id": "chiesi",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Chiesi focuses on respiratory disease, rare disorders and neonatology. Selected investigational programs combine partnered Phase 3 respiratory and neonatal assets with earlier fibrosis research.",
+    "zh": "Chiesi 专注于呼吸系统疾病、罕见病和新生儿学。部分在研项目将合作的 III 期呼吸和新生儿资产与较早期的纤维化研究相结合。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "DPP1 inhibitor",
+      "code": "HSK31858",
+      "modality": "small molecule",
+      "target": {
+        "en": "DPP1",
+        "zh": "DPP1"
+      },
+      "ind": {
+        "en": "Bronchiectasis (outside China)",
+        "zh": "支气管扩张症(中国以外)"
+      },
+      "phase": "3",
+      "ta": "Respiratory",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
+    },
+    {
+      "name": "Oral insulin",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Intestinal malabsorption in preterm infants",
+        "zh": "早产儿肠道吸收不良"
+      },
+      "phase": "3",
+      "ta": "Other",
+      "origin": null,
+      "next": null,
+      "src": "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
+    },
+    {
+      "name": "Zampilimab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "Transglutaminase 2",
+        "zh": "转谷氨酰胺酶 2"
+      },
+      "ind": {
+        "en": "Idiopathic pulmonary fibrosis",
+        "zh": "特发性肺纤维化"
+      },
+      "phase": "2",
+      "ta": "Respiratory",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
+    },
+    {
+      "name": "Neutrophil elastase inhibitor",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "Neutrophil elastase",
+        "zh": "中性粒细胞弹性蛋白酶"
+      },
+      "ind": {
+        "en": "Bronchiectasis",
+        "zh": "支气管扩张症"
+      },
+      "phase": "2",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
+    },
+    {
+      "name": "IGF-1 biologic",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Prevention of bronchopulmonary dysplasia",
+        "zh": "预防支气管肺发育不良"
+      },
+      "phase": "2",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
+    },
+    {
+      "name": "DDR inhibitor",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "DDR (subtype not specified)",
+        "zh": "DDR(亚型未说明)"
+      },
+      "ind": {
+        "en": "Idiopathic pulmonary fibrosis",
+        "zh": "特发性肺纤维化"
+      },
+      "phase": "1",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "Respiratory sales were EUR1.886 billion in 2025, versus EUR3.625 billion of group revenue.",
+      "zh": "2025 年呼吸系统产品销售额为 EUR1.886 billion,集团收入为 EUR3.625 billion。",
+      "src": "https://www.chiesi.com/en/media-hub/press-release/chiesi-reports-strong-fy2025-financial-sustainability-results.html"
+    },
+    {
+      "k": "deal",
+      "en": "HSK31858 was licensed from Haisco for development and commercialization outside Greater China.",
+      "zh": "HSK31858 从 Haisco 授权引进,用于大中华区以外的开发和商业化。",
+      "src": "https://www.chiesi.com/en/media-hub/press-release/agreement-haisco-pharmaceutical-reversible-dipeptidyl-peptidase-1-inhibitor-bronchiectasis.html"
+    },
+    {
+      "k": "balance",
+      "en": "2025 R&D spending was EUR885 million, with a positive EUR729 million net financial position.",
+      "zh": "2025 年研发支出为 EUR885 million,净财务状况为正 EUR729 million。",
+      "src": "https://www.chiesi.com/en/media-hub/press-release/chiesi-reports-strong-fy2025-financial-sustainability-results.html"
+    },
+    {
+      "k": "other",
+      "en": "The pipeline lists Phase 3 carbon-minimal inhaler formulations, but these are excluded as reformulations of approved medicines.",
+      "zh": "管线列出了 III 期低碳吸入剂配方,但因属于已获批药物的重新配方而不计入。",
+      "src": "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
+    }
+  ],
+  "sources": [
+    [
+      "Company pipeline",
+      "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
+    ],
+    [
+      "FY2025 results, April 23, 2026",
+      "https://www.chiesi.com/en/media-hub/press-release/chiesi-reports-strong-fy2025-financial-sustainability-results.html"
+    ],
+    [
+      "Haisco license, November 20, 2023",
+      "https://www.chiesi.com/en/media-hub/press-release/agreement-haisco-pharmaceutical-reversible-dipeptidyl-peptidase-1-inhibitor-bronchiectasis.html"
+    ],
+    [
+      "UCB 2021 report: zampilimab license",
+      "https://www.ucb.com/sites/default/files/2022-02/FY2021_UCB-BPR_EN.pdf"
+    ]
+  ],
+  "gaps": [
+    "The undated company pipeline page uses DDP1i; the Haisco release identifies the corresponding DPP1 inhibitor as HSK31858. Phase 3 follows the current pipeline, not the older license release.",
+    "No phase-by-phase company counts or dated upcoming asset milestones were verified; counts and next are null.",
+    "The latest financial release located was April 23, 2026, covering FY2025, before 2026-06; newer interim group results were not located. The Haisco 2023 and UCB 2021 sources support provenance only, not current phases.",
+    "Origins for oral insulin, neutrophil elastase inhibitor, IGF-1 biologic and DDR inhibitor were not established: a partnership name alone was not treated as proof of licensing or co-development.",
+    "Exact asset codes for the unnamed inhibitor/biologic programs, additional codes, insulin and IGF-1 receptor-level targets, and unspecified modalities are null. DDR subtype was not disclosed. IGF-1 Phase 2b is represented as phase 2.",
+    "Approved products, unfiled expansion studies and reformulations are excluded. The unnamed primary-hyperoxaluria Phase 1/2 program was not assigned an invented asset name.",
+    "Required curl HEAD checks were attempted for every cited URL. All failed with DNS resolution errors (curl exit 6; HTTP 000) in this environment. Sources were opened through the web browsing tool, but independent curl status verification could not be completed."
+  ]
+}

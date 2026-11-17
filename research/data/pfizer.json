@@ -1,0 +1,228 @@
+{
+  "id": "pfizer",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Oncology and vaccines anchor the late-stage pipeline, with an acquired obesity program adding another growth avenue. Seagen and Metsera acquisitions and the 3SBio license complement internal small-molecule research.",
+    "zh": "后期管线以肿瘤和疫苗为主，收购获得的肥胖项目提供另一条增长路径；Seagen、Metsera 收购及三生制药授权，与内部小分子研发形成互补。"
+  },
+  "counts": {
+    "p1": 31,
+    "p2": 24,
+    "p3": 32,
+    "reg": 2,
+    "note": "Company-reported R&D projects, 3 November 2026 pipeline snapshot; 89 total, including 51 NMEs and 38 additional indications. These are programs, not unique assets."
+  },
+  "items": [
+    {
+      "name": "Lyme disease vaccine",
+      "code": "PF-07307405",
+      "modality": "vaccine",
+      "target": {
+        "en": "Six-valent Borrelia outer surface protein A",
+        "zh": "六价疏螺旋体外表面蛋白 A"
+      },
+      "ind": {
+        "en": "Lyme disease prevention (EU filing)",
+        "zh": "莱姆病预防（欧盟申报）"
+      },
+      "phase": "reg",
+      "ta": "Vaccines",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000125/pfe-9272026xex99.htm"
+    },
+    {
+      "name": "ritlecitinib",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "JAK3/TEC inhibitor",
+        "zh": "JAK3/TEC 抑制剂"
+      },
+      "ind": {
+        "en": "Nonsegmental vitiligo (new indication)",
+        "zh": "非节段型白癜风（新适应症）"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://cdn.pfizer.com/pfizercom/product-pipeline/Q3%202026%20Pipeline%20Update_vfinal.pdf?VersionId=Ltaaulsg1IHmJvxHRLx.OXa.0v9KLY.4"
+    },
+    {
+      "name": "berobenatide",
+      "code": "PF-08653944 / MET-097i",
+      "modality": "peptide",
+      "target": {
+        "en": "GLP-1 receptor agonist",
+        "zh": "GLP-1 受体激动剂"
+      },
+      "ind": {
+        "en": "Chronic weight management",
+        "zh": "慢性体重管理"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://cdn.pfizer.com/pfizercom/product-pipeline/Q3%202026%20Pipeline%20Update_vfinal.pdf?VersionId=Ltaaulsg1IHmJvxHRLx.OXa.0v9KLY.4"
+    },
+    {
+      "name": "tivunatamig",
+      "code": "PF-08634404 / SSGJ-707",
+      "modality": "bispecific",
+      "target": {
+        "en": "PD-1 × VEGF",
+        "zh": "PD-1 × VEGF 靶点"
+      },
+      "ind": {
+        "en": "First-line NSCLC; also metastatic colorectal cancer",
+        "zh": "非小细胞肺癌一线治疗；亦开发转移性结直肠癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://cdn.pfizer.com/pfizercom/product-pipeline/Q3%202026%20Pipeline%20Update_vfinal.pdf?VersionId=Ltaaulsg1IHmJvxHRLx.OXa.0v9KLY.4"
+    },
+    {
+      "name": "sigvotatug vedotin",
+      "code": "PF-08046047",
+      "modality": "ADC",
+      "target": {
+        "en": "Integrin beta-6",
+        "zh": "整合素β6"
+      },
+      "ind": {
+        "en": "First-line metastatic NSCLC",
+        "zh": "转移性非小细胞肺癌一线治疗"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://cdn.pfizer.com/pfizercom/product-pipeline/Q3%202026%20Pipeline%20Update_vfinal.pdf?VersionId=Ltaaulsg1IHmJvxHRLx.OXa.0v9KLY.4"
+    },
+    {
+      "name": "atirmociclib",
+      "code": "PF-07220060",
+      "modality": "small molecule",
+      "target": {
+        "en": "CDK4 inhibitor",
+        "zh": "CDK4 抑制剂"
+      },
+      "ind": {
+        "en": "First-line HR-positive/HER2-negative metastatic breast cancer",
+        "zh": "HR 阳性/HER2 阴性转移性乳腺癌一线治疗"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://cdn.pfizer.com/pfizercom/product-pipeline/Q3%202026%20Pipeline%20Update_vfinal.pdf?VersionId=Ltaaulsg1IHmJvxHRLx.OXa.0v9KLY.4"
+    },
+    {
+      "name": "mevrometostat",
+      "code": "PF-06821497",
+      "modality": "small molecule",
+      "target": {
+        "en": "EZH2 inhibitor",
+        "zh": "EZH2 抑制剂"
+      },
+      "ind": {
+        "en": "Metastatic castration-resistant prostate cancer with enzalutamide",
+        "zh": "与 enzalutamide 联用治疗转移性去势抵抗性前列腺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://cdn.pfizer.com/pfizercom/product-pipeline/Q3%202026%20Pipeline%20Update_vfinal.pdf?VersionId=Ltaaulsg1IHmJvxHRLx.OXa.0v9KLY.4"
+    },
+    {
+      "name": "25-valent pneumococcal conjugate vaccine",
+      "code": "PF-07872412",
+      "modality": "vaccine",
+      "target": {
+        "en": "25 pneumococcal serotypes",
+        "zh": "25种肺炎链球菌血清型"
+      },
+      "ind": {
+        "en": "Pediatric pneumococcal infection prevention",
+        "zh": "儿童肺炎链球菌感染预防"
+      },
+      "phase": "3",
+      "ta": "Vaccines",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000125/pfe-9272026xex99.htm"
+    }
+  ],
+  "watch": [
+    {
+      "k": "other",
+      "en": "Sigvotatug vedotin missed its second-line lung-cancer survival endpoint; Pfizer recorded a $3.8bn related IPR&D impairment.",
+      "zh": "Sigvotatug vedotin 未达到肺癌二线治疗的生存终点，Pfizer 为相关在研资产计提38亿美元减值。",
+      "src": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000125/pfe-9272026xex99.htm"
+    },
+    {
+      "k": "balance",
+      "en": "Blackstone will fund up to $1.5bn of berobenatide development through 2028 in exchange for contingent milestone payments; Pfizer retains control.",
+      "zh": "Blackstone 将在2028年前提供最多15亿美元支持 berobenatide 开发，并取得附条件里程碑付款权；Pfizer 保留项目控制权。",
+      "src": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-blackstone-life-sciences-announce-strategic"
+    },
+    {
+      "k": "loe",
+      "en": "2026 guidance includes an approximately $1.1bn revenue headwind from recent and expected generic/biosimilar competition.",
+      "zh": "2026年指引包含约11亿美元收入压力，来自已发生及预期的仿制药、生物类似药竞争。",
+      "src": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000125/pfe-9272026xex99.htm"
+    },
+    {
+      "k": "deal",
+      "en": "The 3SBio agreement grants ex-China rights to SSGJ-707, with an option for China; geographic rights differ from a full acquisition.",
+      "zh": "三生制药协议授予 SSGJ-707 中国以外权益，并附中国权益选择权；其地区权益结构与整体收购不同。",
+      "src": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-licensing-agreement-3sbio"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline, 3 November 2026",
+      "https://www.pfizer.com/science/drug-product-pipeline"
+    ],
+    [
+      "Q3 2026 pipeline PDF",
+      "https://cdn.pfizer.com/pfizercom/product-pipeline/Q3%202026%20Pipeline%20Update_vfinal.pdf?VersionId=Ltaaulsg1IHmJvxHRLx.OXa.0v9KLY.4"
+    ],
+    [
+      "Q3 2026 results, SEC exhibit",
+      "https://www.sec.gov/Archives/edgar/data/78003/000007800326000125/pfe-9272026xex99.htm"
+    ],
+    [
+      "Blackstone funding, 11 November 2026",
+      "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-blackstone-life-sciences-announce-strategic"
+    ],
+    [
+      "Metsera acquisition, 13 November 2025",
+      "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-metsera"
+    ],
+    [
+      "3SBio license, 24 July 2025",
+      "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-licensing-agreement-3sbio"
+    ],
+    [
+      "Sigvotatug Phase 3 setback, 22 June 2026",
+      "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-topline-phase-3-results-sigvotatug-vedotin"
+    ],
+    [
+      "Berobenatide / MET-097i alias, June 6 2026",
+      "https://www.pfizer.com/news/press-release/press-release-detail/robust-phase-2b-efficacy-and-favorable-tolerability-support"
+    ]
+  ],
+  "gaps": [
+    "Origins of ritlecitinib, sigvotatug vedotin, atirmociclib, mevrometostat and the 25-valent pneumococcal vaccine were not explicitly established at molecule level in the opened sources; origin is null.",
+    "The ritlecitinib development code was not verified and is null. The November pipeline categorizes vitiligo as registration, while the same-day results describe an intention to submit; the explicit pipeline stage is retained and the discrepancy remains unresolved.",
+    "No specific future company milestone/date was verified for these eight selected entries; next is null. A completed readout was not relabeled as an upcoming catalyst.",
+    "The Metsera and 3SBio transaction releases predate 2026-06 and are used for historical origin/rights only; stages come from November 2026.",
+    "The July/November reporting of sigvotatug is reconciled by retaining the ongoing first-line Phase 3 program and flagging the failed second-line trial. The pipeline snapshot includes additional indications and is not a count of distinct drugs."
+  ]
+}

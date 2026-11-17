@@ -1,0 +1,167 @@
+{
+  "id": "sun",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Sun remains a specialty-generics business with a relatively small innovative clinical pipeline; innovative medicines accounted for 21.1% of Q2 FY27 sales. Selected assets include licensed oncology immunotherapies and an internally discovered GLP-1 program.",
+    "zh": "Sun 仍以特色仿制药业务为基础，创新临床管线相对精简；创新药占2027财年第二季度销售额的21.1%。重点在研项目包括引进的肿瘤免疫疗法及自主发现的GLP-1项目。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "Nidlegy",
+      "code": "Daromun",
+      "modality": "other",
+      "target": {
+        "en": "Fibronectin extra-domain B-targeted IL-2/TNF delivery",
+        "zh": "靶向纤维连接蛋白EDB结构域，递送IL-2与TNF"
+      },
+      "ind": {
+        "en": "Locally advanced melanoma (EMA filing; Sun rights in Europe, Australia and New Zealand); also BCC Phase 3 and cSCC Phase 2",
+        "zh": "局部晚期黑色素瘤（EMA申报；Sun 权益限欧洲、澳大利亚及新西兰）；另包括III期基底细胞癌及II期皮肤鳞癌"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": {
+        "en": "Approval and launch",
+        "zh": "获批及上市",
+        "when": null
+      },
+      "src": "https://sunpharma.com/wp-content/uploads/2026/10/Press-Release-Sun-Pharma-Q2FY27-Financial-Result.pdf"
+    },
+    {
+      "name": "Fibromun",
+      "code": "L19TNF",
+      "modality": "other",
+      "target": {
+        "en": "Fibronectin extra-domain B-targeted TNF fusion protein",
+        "zh": "靶向纤维连接蛋白EDB结构域的TNF融合蛋白"
+      },
+      "ind": {
+        "en": "Soft tissue sarcoma (Phase 2 completed); also glioblastoma Phase 2",
+        "zh": "软组织肉瘤（II期已完成）；另包括II期胶质母细胞瘤"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": {
+        "en": "Start Phase 3 in soft tissue sarcoma",
+        "zh": "启动软组织肉瘤III期研究",
+        "when": null
+      },
+      "src": "https://sunpharma.com/wp-content/uploads/2026/10/Press-Release-Sun-Pharma-Q2FY27-Financial-Result.pdf"
+    },
+    {
+      "name": "utreglutide",
+      "code": "GL0034",
+      "modality": null,
+      "target": {
+        "en": "GLP-1 receptor agonist",
+        "zh": "GLP-1受体激动剂"
+      },
+      "ind": {
+        "en": "Type 2 diabetes",
+        "zh": "2型糖尿病"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": "internal",
+      "next": {
+        "en": "Phase 2 topline data",
+        "zh": "II期顶线数据",
+        "when": "2027H2"
+      },
+      "src": "https://sunpharma.com/wp-content/uploads/2026/10/Press-Release-Sun-Pharma-Q2FY27-Financial-Result.pdf"
+    },
+    {
+      "name": "MM-II",
+      "code": "MM-II",
+      "modality": "other",
+      "target": {
+        "en": "Liposomal intra-articular lubrication; no molecular target disclosed",
+        "zh": "脂质体关节腔内润滑；未披露分子靶点"
+      },
+      "ind": {
+        "en": "Pain in knee osteoarthritis (Phase 2 completed)",
+        "zh": "膝骨关节炎疼痛（II期已完成）"
+      },
+      "phase": "2",
+      "ta": "Bone",
+      "origin": "co-developed",
+      "next": {
+        "en": "Seek commercialization partnership",
+        "zh": "寻求商业化合作伙伴",
+        "when": null
+      },
+      "src": "https://sunpharma.com/wp-content/uploads/2026/10/Press-Release-Sun-Pharma-Q2FY27-Financial-Result.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "GL0034 Phase 2 topline data are expected in the second half of calendar 2027.",
+      "zh": "GL0034 II期顶线数据预计于2027年下半年公布。",
+      "src": "https://sunpharma.com/wp-content/uploads/2026/10/Press-Release-Sun-Pharma-Q2FY27-Financial-Result.pdf"
+    },
+    {
+      "k": "loe",
+      "en": "Q2 FY27 US sales fell 8.2%; Sun attributes the decline largely to lenalidomide erosion.",
+      "zh": "2027财年第二季度美国销售额下降8.2%，公司称主要受 lenalidomide 收入下滑影响。",
+      "src": "https://sunpharma.com/wp-content/uploads/2026/11/FY27-Q2-Earnings-Call-Transcript.pdf"
+    },
+    {
+      "k": "deal",
+      "en": "Organon integration planning is underway; indicative transaction closing is Q4 FY27.",
+      "zh": "Organon 整合筹备正在推进，交易预计于2027财年第四季度完成。",
+      "src": "https://sunpharma.com/wp-content/uploads/2026/10/Sun-Pharma_Q2FY27-Earnings-Presentation.pdf"
+    },
+    {
+      "k": "balance",
+      "en": "Sun reported $3.3 billion consolidated net cash and issued INR78.16 billion of non-convertible debentures.",
+      "zh": "Sun 披露合并口径净现金33亿美元，并发行781.6亿印度卢比不可转换债券。",
+      "src": "https://sunpharma.com/wp-content/uploads/2026/10/Sun-Pharma_Q2FY27-Earnings-Presentation.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Q2 FY27 financial release and pipeline, October 30, 2026",
+      "https://sunpharma.com/wp-content/uploads/2026/10/Press-Release-Sun-Pharma-Q2FY27-Financial-Result.pdf"
+    ],
+    [
+      "Q2 FY27 earnings presentation, October 30, 2026",
+      "https://sunpharma.com/wp-content/uploads/2026/10/Sun-Pharma_Q2FY27-Earnings-Presentation.pdf"
+    ],
+    [
+      "Q2 FY27 call transcript, October 30, 2026",
+      "https://sunpharma.com/wp-content/uploads/2026/11/FY27-Q2-Earnings-Call-Transcript.pdf"
+    ],
+    [
+      "Nidlegy EMA validation and mechanism, July 4, 2024",
+      "https://sunpharma.com/wp-content/uploads/2024/07/Press-Release-Validation-of-Nidlegy%E2%84%A2-Marketing-Authorization-Application-Submission-by-EMA.pdf"
+    ],
+    [
+      "Fibromun licensing and mechanism, October 1, 2024",
+      "https://sunpharma.com/wp-content/uploads/2024/10/Press-Release-Commercializing-specialty-product-FIBROMUN.pdf"
+    ],
+    [
+      "MM-II mechanism and collaboration, April 24, 2025",
+      "https://sunpharma.com/wp-content/uploads/2025/04/Press-Release-MM-II-publication-acceptance-and-OARSI-2025.pdf"
+    ],
+    [
+      "GL0034 internal discovery, June 24, 2020",
+      "https://sunpharma.com/wp-content/uploads/2020/12/Press-Release-Sun-Pharma-presents-preclinical-data-for-GL0034.pdf"
+    ],
+    [
+      "Utreglutide name confirmation, November 12, 2025",
+      "https://sunpharma.com/wp-content/uploads/2025/11/PR-AHA-25.pdf"
+    ]
+  ],
+  "gaps": [
+    "Counts is null: Sun reports five novel clinical entities but no complete phase-count breakdown. The four unapproved assets explicitly named in the latest innovative-medicines table are included; no fifth unapproved asset was inferred.",
+    "Ilumya psoriatic arthritis is excluded because the October 2026 release confirms US approval. Lerodalcibep was not assigned an unverified regulatory stage in Sun territories.",
+    "No dates were disclosed for Nidlegy approval/launch, Fibromun Phase 3 initiation or MM-II partnering. Q4 FY27 for Organon is a fiscal quarter and is preserved as such in watch.",
+    "GL0034 precise modality was not explicitly established in the opened sources and is null. Nidlegy and Fibromun immunocytokine fusion proteins and MM-II liposomes are mapped to other.",
+    "Fibromun is Phase 2 per the latest Sun table, despite older releases describing pivotal/Phase III trials. Nidlegy is reg based on the latest EMA filing row and documented MAA validation; no approval date was verified.",
+    "Supporting sources older than 2026-06: Nidlegy mechanism/rights (July 2024), Fibromun mechanism/licensing (October 2024), MM-II mechanism/collaboration (April 2025), GL0034 internal discovery (June 2020), and utreglutide naming (November 2025). Stages and milestones use October 2026 materials."
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "argenx",
+  "asof": "2026-11",
+  "summary": {
+    "en": "argenx combines filed VYVGART expansions with major Phase 3 programmes in myositis, ITP and Graves’ disease, plus registrational Sjogren’s development. Empasiprubart and acquired FB102 broaden the immunology pipeline beyond FcRn.",
+    "zh": "argenx 将已申报的 VYVGART 适应症拓展与肌炎、ITP 和 Graves 病的重大 III 期项目相结合,并开展干燥综合征的注册性研究。Empasiprubart 和收购获得的 FB102 使免疫学管线拓展到 FcRn 之外。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "efgartigimod (new indications)",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "FcRn",
+        "zh": "FcRn"
+      },
+      "ind": {
+        "en": "Ocular MG and paediatric gMG (US filed); IMNM/dermatomyositis, primary ITP and Graves’ disease (Phase 3); Sjogren’s disease (registrational)",
+        "zh": "眼肌型 MG 和儿童 gMG(美国已申报);IMNM/皮肌炎、原发性 ITP 和 Graves 病(III 期);干燥综合征(注册性研究)"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "IMNM sBLA planned by year-end 2026; paediatric gMG FDA decision February 2027; ITP data 2027H1 and Sjogren data 2027H2",
+        "zh": "计划于 2026 年底前提交 IMNM sBLA;儿童 gMG 的 FDA 决定预计 2027 年 2 月作出;ITP 数据预计 2027 年上半年公布,干燥综合征数据预计 2027 年下半年公布",
+        "when": "2026Q4"
+      },
+      "src": "https://argenx.com/news/2026/press-release-3386023"
+    },
+    {
+      "name": "Empasiprubart",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "C2",
+        "zh": "C2"
+      },
+      "ind": {
+        "en": "Multifocal motor neuropathy; CIDP",
+        "zh": "多灶性运动神经病;CIDP"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "EMPASSION MMN topline results; December 2026",
+        "zh": "EMPASSION MMN 顶线结果;2026 年 12 月",
+        "when": "2026Q4"
+      },
+      "src": "https://argenx.com/news/2026/press-release-3386023"
+    },
+    {
+      "name": "FB102",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "CD122",
+        "zh": "CD122"
+      },
+      "ind": {
+        "en": "Celiac disease; vitiligo; alopecia areata",
+        "zh": "乳糜泻;白癜风;斑秃"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": "acquired",
+      "next": {
+        "en": "Advance into Phase 3",
+        "zh": "推进至 III 期",
+        "when": null
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926114491/tm2627263d1_ex99-1.htm"
+    },
+    {
+      "name": "Adimanebart",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "MuSK agonist",
+        "zh": "MuSK 激动剂"
+      },
+      "ind": {
+        "en": "Spinal muscular atrophy; congenital myasthenic syndromes",
+        "zh": "脊髓性肌萎缩症;先天性肌无力综合征"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "Begin Phase 3 CMS study",
+        "zh": "启动 III 期 CMS 研究",
+        "when": "2026"
+      },
+      "src": "https://argenx.com/news/2026/press-release-3386023"
+    },
+    {
+      "name": "ARGX-121",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "IgA",
+        "zh": "IgA"
+      },
+      "ind": {
+        "en": "IgA nephropathy",
+        "zh": "IgA 肾病"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://argenx.com/news/2026/press-release-3386023"
+    },
+    {
+      "name": "ARGX-124",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "FcRn",
+        "zh": "FcRn"
+      },
+      "ind": {
+        "en": null,
+        "zh": null
+      },
+      "phase": "1",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "Complete Phase 1 evaluation",
+        "zh": "完成 I 期评估",
+        "when": "2026"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/1697862/000169786226000033/argx-20260630_d2.htm"
+    },
+    {
+      "name": "ARGX-118",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "Galectin-10 inhibitor",
+        "zh": "Galectin-10 抑制剂"
+      },
+      "ind": {
+        "en": "Airway inflammation",
+        "zh": "气道炎症"
+      },
+      "phase": "1",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://argenx.com/news/2026/press-release-3386023"
+    },
+    {
+      "name": "TSP-101",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "Fn14 inhibitor",
+        "zh": "Fn14 抑制剂"
+      },
+      "ind": {
+        "en": null,
+        "zh": null
+      },
+      "phase": "1",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://argenx.com/news/2026/press-release-3386023"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "VYVGART Hytrulo IMNM filing is planned by year-end 2026; an additional registrational DM study is planned.",
+      "zh": "VYVGART Hytrulo 的 IMNM 申报计划于 2026 年底前完成;另计划开展一项 DM 注册性研究。",
+      "src": "https://argenx.com/news/2026/press-release-3386023"
+    },
+    {
+      "k": "catalyst",
+      "en": "Empasiprubart MMN data are expected December 2026; CIDP data in 2027H2.",
+      "zh": "Empasiprubart 的 MMN 数据预计 2026 年 12 月公布;CIDP 数据预计 2027 年下半年公布。",
+      "src": "https://argenx.com/news/2026/press-release-3386023"
+    },
+    {
+      "k": "concentration",
+      "en": "VYVGART remains the commercial foundation while several new indications undergo registration or Phase 3 testing.",
+      "zh": "VYVGART 仍是商业化基石,同时多个新适应症正处于注册或 III 期试验阶段。",
+      "src": "https://argenx.com/news/2026/press-release-3386023"
+    },
+    {
+      "k": "deal",
+      "en": "The Forte acquisition added anti-CD122 antibody FB102; positive Phase 2 celiac results support planned Phase 3 advancement.",
+      "zh": "收购 Forte 带来了抗 CD122 抗体 FB102;乳糜泻 II 期结果积极,支持其计划推进至 III 期。",
+      "src": "https://argenx.com/news/2026/press-release-3352029.html"
+    }
+  ],
+  "sources": [
+    [
+      "Q3 2026 results, October 22",
+      "https://argenx.com/news/2026/press-release-3386023"
+    ],
+    [
+      "Pipeline webpage",
+      "https://argenx.com/innovation/our-pipeline"
+    ],
+    [
+      "Pipeline download",
+      "https://argenx.com/content/dam/argenx-commons/assets/pipeline-pdf/pipeline.pdf"
+    ],
+    [
+      "Half-year 2026 filing",
+      "https://www.sec.gov/Archives/edgar/data/1697862/000169786226000033/argx-20260630_d2.htm"
+    ],
+    [
+      "FB102 Phase 2 results, October 8, 2026",
+      "https://www.sec.gov/Archives/edgar/data/1697862/000110465926114491/tm2627263d1_ex99-1.htm"
+    ],
+    [
+      "Forte acquisition, August 27, 2026",
+      "https://argenx.com/news/2026/press-release-3352029.html"
+    ]
+  ],
+  "gaps": [
+    "Phase-by-phase company totals were not verified; counts is null. The interactive pipeline rendered no results in the browser; its downloadable chart and dated filings were also reviewed.",
+    "FB102 remains phase 2 because Phase 3 is planned; adimanebart remains phase 2 because CMS Phase 3 initiation was still prospective in the October update.",
+    "ARGX-118 and TSP-101 phase 1 status follows the October update, superseding earlier preclinical entries. Airway inflammation and FcRn target are supported by the pipeline descriptions.",
+    "ARGX-124 and TSP-101 lead disease indications are undisclosed; ind.en is null. Modalities for empasiprubart, adimanebart, ARGX-121, ARGX-124, ARGX-118 and TSP-101 were not explicitly established in the reviewed descriptions and are null.",
+    "Origins other than acquired FB102 were not verified and are null; additional compound codes were not stated and are null. FB102 Phase 3 timing was not specified.",
+    "Efgartigimod is represented once, combining the filed oMG/paediatric gMG uses with major Phase 3/registrational new indications. Its phase is reg for the highest verified stage; IMNM is not yet filed. IMNM filing and paediatric review dates follow Q3 results; Sjogren UNITY timing follows the half-year filing, without a newer verified forecast.",
+    "Primary ITP is already approved in Japan, but the selected ADVANCE-NEXT development concerns further registration. No new item is created for an already approved adult gMG/CIDP use or delivery-device change. The February 2027 FDA date concerns paediatric gMG, not ocular MG.",
+    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "id": "fosun",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Fosun’s pipeline spans oncology, immune-inflammatory and neurodegenerative disease, combining internal development with licensing. It includes antibody/ADC programs and multiple Chinese regulatory submissions.",
+    "zh": "Fosun 的管线涵盖肿瘤、免疫炎症和神经退行性疾病,将自主开发与授权引进相结合。其中包括抗体/ADC 项目以及多项中国监管申报。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "Foritinib succinate",
+      "code": "SAF-189",
+      "modality": "small molecule",
+      "target": {
+        "en": "ALK",
+        "zh": "ALK"
+      },
+      "ind": {
+        "en": "ALK-positive non-small-cell lung cancer (China)",
+        "zh": "ALK 阳性非小细胞肺癌(中国)"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "name": "Velinotamig",
+      "code": "GR1803",
+      "modality": "bispecific",
+      "target": {
+        "en": "BCMA × CD3",
+        "zh": "BCMA × CD3"
+      },
+      "ind": {
+        "en": "Multiple myeloma (China)",
+        "zh": "多发性骨髓瘤(中国)"
+      },
+      "phase": "reg",
+      "ta": "Hematology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "name": "Luvometinib",
+      "code": "FCN-159",
+      "modality": "small molecule",
+      "target": {
+        "en": "MEK1/2",
+        "zh": "MEK1/2"
+      },
+      "ind": {
+        "en": "Adult NF1-associated symptomatic inoperable plexiform neurofibromas (China)",
+        "zh": "成人 NF1 相关有症状、不可手术的丛状神经纤维瘤(中国)"
+      },
+      "phase": "reg",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "name": "HLX22",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "HER2",
+        "zh": "HER2"
+      },
+      "ind": {
+        "en": "Gastric cancer; other solid tumors",
+        "zh": "胃癌;其他实体瘤"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "name": "AR1001",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "PDE-5",
+        "zh": "PDE-5"
+      },
+      "ind": {
+        "en": "Early Alzheimer’s disease",
+        "zh": "早期阿尔茨海默病"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": {
+        "en": "Clinical data readout expected in 2026H2 per the August report; delivery not verified",
+        "zh": "据 8 月报告,临床数据预计在 2026H2 公布;是否已兑现未核实",
+        "when": "2026H2"
+      },
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "name": "HLX43",
+      "code": null,
+      "modality": "ADC",
+      "target": {
+        "en": "PD-L1",
+        "zh": "PD-L1"
+      },
+      "ind": {
+        "en": "Advanced NSCLC; ESCC; colorectal and cervical cancers",
+        "zh": "晚期 NSCLC;ESCC;结直肠癌和宫颈癌"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "name": "FXS6837",
+      "code": "XH-S003",
+      "modality": "small molecule",
+      "target": {
+        "en": "CFB",
+        "zh": "CFB"
+      },
+      "ind": {
+        "en": "IgA nephropathy; complement-associated glomerular disease",
+        "zh": "IgA 肾病;补体相关肾小球疾病"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "name": "FXS7553",
+      "code": "XH-S004",
+      "modality": "small molecule",
+      "target": {
+        "en": "DPP1",
+        "zh": "DPP1"
+      },
+      "ind": {
+        "en": "Non-cystic-fibrosis bronchiectasis; COPD",
+        "zh": "非囊性纤维化支气管扩张症;COPD"
+      },
+      "phase": "2",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "name": "FXS0683",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "BCL-2",
+        "zh": "BCL-2"
+      },
+      "ind": {
+        "en": "Hematologic malignancies",
+        "zh": "血液系统恶性肿瘤"
+      },
+      "phase": "1",
+      "ta": "Hematology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "September pipeline disclosure reports 54+ oncology programs and 31+ non-oncology programs, counted by indication.",
+      "zh": "9 月管线披露显示,按适应症计,有 54 个以上肿瘤项目和 31 个以上非肿瘤项目。",
+      "src": "https://www.fosunpharma.com/en/innovate/pipeline.html?id=4270909.scm"
+    },
+    {
+      "k": "deal",
+      "en": "The interim filing identifies GR1803 as licensed, alongside internal small-molecule development.",
+      "zh": "中期报告指出 GR1803 为授权引进,同时有内部小分子开发。",
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "k": "balance",
+      "en": "Nine-month 2026 R&D investment was RMB5.247 billion; innovative-drug R&D was RMB4.346 billion.",
+      "zh": "2026 年前九个月研发投入为 RMB5.247 billion;其中创新药研发为 RMB4.346 billion。",
+      "src": "https://www.fosunpharma.com/Upload/File/202610/dbb2833e9ae34f7090a79f2cbfe56d91.pdf"
+    },
+    {
+      "k": "catalyst",
+      "en": "Foritinib, GR1803 and adult-NF1 luvometinib submissions require regulatory decisions; decision dates were not verified.",
+      "zh": "Foritinib、GR1803 和成人 NF1 luvometinib 的申报有待监管决定;决定日期未核实。",
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    }
+  ],
+  "sources": [
+    [
+      "September 2026 pipeline webpage",
+      "https://www.fosunpharma.com/en/innovate/pipeline.html?id=4270909.scm"
+    ],
+    [
+      "2026 interim report, August 26 (exchange disclosure)",
+      "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    ],
+    [
+      "Q3 2026 results filing, October 2026",
+      "https://www.fosunpharma.com/Upload/File/202610/dbb2833e9ae34f7090a79f2cbfe56d91.pdf"
+    ]
+  ],
+  "gaps": [
+    "Company phase-by-phase totals were not verified. The pipeline combines pivotal trials and NDA/BLA programs into 32+ and therefore does not support separate phase 3 and registration counts; counts is null.",
+    "Asset phases reflect the August interim report. The Q3 filing was reviewed for newer context, but current asset-specific changes could not be independently resolved from its extracted text; no claim of a complete November pipeline is made.",
+    "English Q3 and interim press-release pages timed out on opening; primary exchange/company filings were used instead. Some pipeline detail is image-based.",
+    "Origins other than licensed GR1803/AR1001 and internally developed FXS0683 were not verified and are null. Additional codes not stated are null. AR1001 has existing regional rights plus an option for additional worldwide rights; exercise of that option was not verified.",
+    "The August report anticipated 2026H2 clinical data from AR1001, FXS7553, FXS6837 and HLX43, among others; whether those milestones have already occurred was not verified. Next is null where no distinct upcoming event was established. FXS6837 Phase 2b is represented as phase 2.",
+    "Luvometinib is included only for its filed adult NF1 indication, not already approved uses.",
+    "Required curl HEAD checks were attempted for every cited URL. All failed with DNS resolution errors (curl exit 6; HTTP 000) in this environment. Sources were opened through the web browsing tool, but independent curl status verification could not be completed."
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "celltrion",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Biosimilars remain the late-stage core, while early clinical ADCs broaden oncology research. Several regulatory updates are newer than the static pipeline table.",
+    "zh": "生物类似药仍是后期管线的核心,而早期临床 ADC 拓宽了肿瘤研究。若干监管进展比静态管线表更新。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "secukinumab biosimilar",
+      "code": "CT-P55",
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Psoriasis; regulatory review across key markets",
+        "zh": "银屑病;主要市场监管审评中"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.celltrion.com/en-us/"
+    },
+    {
+      "name": "pembrolizumab biosimilar",
+      "code": "CT-P51",
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Lung cancer, melanoma and other cancers; Korean filing",
+        "zh": "肺癌、黑色素瘤及其他癌症;韩国申报"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.celltrion.com/ko-kr/company/media-center/press-release/4893"
+    },
+    {
+      "name": "Herzuma SC",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Oncology; subcutaneous formulation",
+        "zh": "肿瘤;皮下制剂"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.celltrion.com/en-us/"
+    },
+    {
+      "name": "daratumumab biosimilar",
+      "code": "CT-P44",
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Multiple myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.celltrion.com/en-us/products/pipelines/biologics"
+    },
+    {
+      "name": "ocrelizumab biosimilar",
+      "code": "CT-P53",
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Multiple sclerosis",
+        "zh": "多发性硬化"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.celltrion.com/en-us/products/pipelines/biologics"
+    },
+    {
+      "name": "CT-P70",
+      "code": "CT-P70",
+      "modality": "ADC",
+      "target": {
+        "en": "cMET",
+        "zh": "cMET"
+      },
+      "ind": {
+        "en": "Solid tumors, including non-small-cell lung cancer",
+        "zh": "实体瘤,包括非小细胞肺癌"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "Enter dose-optimization part 2",
+        "zh": "进入剂量优化第 2 部分",
+        "when": "2027Q1"
+      },
+      "src": "https://www.celltrion.com/en-us/company/media-center/stories/adc-pipeline"
+    },
+    {
+      "name": "CT-P71",
+      "code": "CT-P71",
+      "modality": "ADC",
+      "target": {
+        "en": "Nectin-4",
+        "zh": "Nectin-4"
+      },
+      "ind": {
+        "en": "Urothelial carcinoma and other solid tumors",
+        "zh": "尿路上皮癌及其他实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.celltrion.com/en-us/company/media-center/stories/adc-pipeline"
+    },
+    {
+      "name": "CT-P73",
+      "code": "CT-P73",
+      "modality": "ADC",
+      "target": {
+        "en": "Tissue factor",
+        "zh": "组织因子"
+      },
+      "ind": {
+        "en": "Cervical, colorectal and other solid tumors",
+        "zh": "宫颈癌、结直肠癌及其他实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.celltrion.com/en-us/company/media-center/stories/adc-pipeline"
+    }
+  ],
+  "watch": [
+    {
+      "k": "policy",
+      "en": "Biosimilar regulatory streamlining could reduce trial enrollment and development costs.",
+      "zh": "生物类似药监管简化可能减少试验入组量和开发成本。",
+      "src": "https://celltrion.com/en-us/company/media-center/press-release/4593"
+    },
+    {
+      "k": "catalyst",
+      "en": "Two ADCs target initial results from the first half of 2027; candidates are not individually identified.",
+      "zh": "两款 ADC 目标于 2027 年上半年公布初步结果;候选药物未逐一指明。",
+      "src": "https://www.celltrion.com/en-us/company/media-center/stories/adc-pipeline"
+    },
+    {
+      "k": "concentration",
+      "en": "Newer products accounted for 67% of biologics sales in Q3 2026.",
+      "zh": "2026 年第三季度,较新产品占生物药销售额的 67%。",
+      "src": "https://www.celltrion.com/ko-kr/company/media-center/press-release/4965"
+    }
+  ],
+  "sources": [
+    [
+      "Global pipeline",
+      "https://www.celltrion.com/en-us/products/pipelines/biologics"
+    ],
+    [
+      "Current company updates",
+      "https://www.celltrion.com/en-us/"
+    ],
+    [
+      "ADC development September 2026",
+      "https://www.celltrion.com/en-us/company/media-center/stories/adc-pipeline"
+    ],
+    [
+      "CT-P51 filing",
+      "https://www.celltrion.com/ko-kr/company/media-center/press-release/4893"
+    ],
+    [
+      "Q3 2026 results",
+      "https://www.celltrion.com/ko-kr/company/media-center/press-release/4965"
+    ],
+    [
+      "Regulatory streamlining",
+      "https://celltrion.com/en-us/company/media-center/press-release/4593"
+    ],
+    [
+      "Earnings archive",
+      "https://www.celltrion.com/en-us/investment/ir/earnings"
+    ]
+  ],
+  "gaps": [
+    "Static table lags CT-P51 and CT-P55 filings; announcements take precedence. No reported phase counts verified.",
+    "Origins and biosimilar targets were not verified; null. CT-P52 and CT-P72 omitted because precise current stage was not independently verified.",
+    "Herzuma SC exact indication and next regulatory decision dates were not disclosed in reviewed update. Regulatory-streamlining release is older than June 2026.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+  ]
+}

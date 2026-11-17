@@ -1,0 +1,262 @@
+{
+  "id": "gilead",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Gilead is building long-acting HIV combinations while expanding oncology and inflammation. Acquired cell therapies, ADCs and autoimmune programs complement internal discovery.",
+    "zh": "Gilead 围绕长效 HIV 联合方案推进研发，并拓展肿瘤及炎症领域；收购获得的细胞疗法、ADC 和自身免疫项目补充内部研发。"
+  },
+  "counts": {
+    "p1": 24,
+    "p2": 12,
+    "p3": 13,
+    "reg": null,
+    "note": "Company pipeline updated October 29, 2026, data at end-Q3: 49 clinical-stage programs, excluding opt-in/planned programs. A separate registration count was not stated; reg is null. These are programs, not unique assets."
+  },
+  "items": [
+    {
+      "name": "anitocabtagene autoleucel (anito-cel)",
+      "code": null,
+      "modality": "cell therapy",
+      "target": {
+        "en": "BCMA-directed CAR T",
+        "zh": "靶向 BCMA 的 CAR-T"
+      },
+      "ind": {
+        "en": "Fourth-line or later relapsed/refractory multiple myeloma",
+        "zh": "四线及以后复发或难治性多发性骨髓瘤"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "acquired",
+      "next": {
+        "en": "FDA action target: December 23",
+        "zh": "FDA 目标审评日期：12 月 23 日",
+        "when": "2026Q4"
+      },
+      "src": "https://s29.q4cdn.com/585078350/files/doc_financials/2026/q3/GILD-Q326-Prepared-Remarks-29-October-2026.pdf"
+    },
+    {
+      "name": "islatravir / lenacapavir",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Reverse-transcriptase / capsid inhibition",
+        "zh": "逆转录酶及衣壳双重抑制"
+      },
+      "ind": {
+        "en": "Weekly oral HIV treatment in virologically suppressed adults",
+        "zh": "病毒学抑制成人的每周口服 HIV 治疗"
+      },
+      "phase": "3",
+      "ta": "Infectious disease",
+      "origin": "co-developed",
+      "next": {
+        "en": "U.S. filing planned",
+        "zh": "计划在美国申报",
+        "when": "2026"
+      },
+      "src": "https://s29.q4cdn.com/585078350/files/doc_financials/2026/q3/GILD-Q326-Prepared-Remarks-29-October-2026.pdf"
+    },
+    {
+      "name": "lenacapavir / teropavimab / zinlirvimab",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "Capsid inhibitor plus broadly neutralizing antibodies",
+        "zh": "衣壳抑制剂联合广谱中和抗体"
+      },
+      "ind": {
+        "en": "Twice-yearly HIV treatment",
+        "zh": "每半年一次的 HIV 治疗"
+      },
+      "phase": "3",
+      "ta": "Infectious disease",
+      "origin": null,
+      "next": null,
+      "src": "https://s29.q4cdn.com/585078350/files/doc_financials/2026/q3/GILD-Q326-Prepared-Remarks-29-October-2026.pdf"
+    },
+    {
+      "name": "GS-3242 / lenacapavir",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Integrase / capsid inhibition",
+        "zh": "整合酶及衣壳双重抑制"
+      },
+      "ind": {
+        "en": "Long-acting HIV treatment (oral and injectable programs)",
+        "zh": "长效 HIV 治疗（口服及注射项目）"
+      },
+      "phase": "2",
+      "ta": "Infectious disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.askgileadmedical.com/docs/conference/Gupta_HIVGlasgow2026_Poster_Oral%20GS-3242_Final_5Nov2026%40pdf"
+    },
+    {
+      "name": "emvistegrast",
+      "code": "GS-1427",
+      "modality": "small molecule",
+      "target": {
+        "en": "Alpha-4-beta-7 integrin inhibitor",
+        "zh": "α4β7 整合素抑制剂"
+      },
+      "ind": {
+        "en": "Ulcerative colitis",
+        "zh": "溃疡性结肠炎"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": "internal",
+      "next": {
+        "en": "Phase 3 monotherapy initiation planned",
+        "zh": "计划启动单药 III 期研究",
+        "when": "2027"
+      },
+      "src": "https://www.gilead.com/company/company-statements/2026/phase-2-swift-study-of-emvistegrast-a-potential-differentiated-once-daily-oral-treatment-meets-primary-endpoint-in-ulcerative-colitis"
+    },
+    {
+      "name": "gamgertamig",
+      "code": "OM336",
+      "modality": "bispecific",
+      "target": {
+        "en": "BCMA / CD3",
+        "zh": "BCMA / CD3"
+      },
+      "ind": {
+        "en": "Immune thrombocytopenia; also autoimmune hemolytic anemia",
+        "zh": "免疫性血小板减少症；另开发自身免疫性溶血性贫血"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": "acquired",
+      "next": {
+        "en": "Registrational studies expected",
+        "zh": "预计进入注册性研究",
+        "when": "2027"
+      },
+      "src": "https://www.gilead.com/news/news-details/2026/gilead-and-kite-advance-leadership-with-new-data-across-pipeline-and-portfolio-at-ash-2026"
+    },
+    {
+      "name": "edecesertib",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "IRAK4 inhibitor",
+        "zh": "IRAK4 抑制剂"
+      },
+      "ind": {
+        "en": "Cutaneous lupus erythematosus",
+        "zh": "皮肤型红斑狼疮"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://s29.q4cdn.com/585078350/files/doc_financials/2026/q3/GILD-Q326-Prepared-Remarks-29-October-2026.pdf"
+    },
+    {
+      "name": "GS-8824",
+      "code": "TUB-040",
+      "modality": "ADC",
+      "target": {
+        "en": "NaPi2b",
+        "zh": "NaPi2b"
+      },
+      "ind": {
+        "en": "Platinum-resistant ovarian cancer; also platinum-sensitive ovarian and endometrial cancer",
+        "zh": "铂耐药卵巢癌；另开发铂敏感卵巢癌及子宫内膜癌"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://s29.q4cdn.com/585078350/files/doc_financials/2026/q3/GILD-Q326-Prepared-Remarks-29-October-2026.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "Q3 HIV sales were $6.2 billion; Biktarvy alone contributed $4.1 billion.",
+      "zh": "三季度 HIV 产品收入为 62 亿美元，其中 Biktarvy 为 41 亿美元。",
+      "src": "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-third-quarter-2026-financial-results"
+    },
+    {
+      "k": "policy",
+      "en": "Biktarvy's Medicare negotiated price takes effect January 1, 2028.",
+      "zh": "Biktarvy 的 Medicare 协商价格将于 2028 年 1 月 1 日生效。",
+      "src": "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-third-quarter-2026-financial-results"
+    },
+    {
+      "k": "catalyst",
+      "en": "Anito-cel's FDA target date is December 23, 2026.",
+      "zh": "Anito-cel 的 FDA 目标审评日期为 2026 年 12 月 23 日。",
+      "src": "https://s29.q4cdn.com/585078350/files/doc_financials/2026/q3/GILD-Q326-Prepared-Remarks-29-October-2026.pdf"
+    },
+    {
+      "k": "deal",
+      "en": "Arcellx, Tubulis and Ouro expanded the portfolio; acquisition integration and development spending remain relevant.",
+      "zh": "Arcellx、Tubulis 和 Ouro 扩充了组合，需关注整合及后续研发投入。",
+      "src": "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-third-quarter-2026-financial-results"
+    },
+    {
+      "k": "other",
+      "en": "KITE-753's Phase 2 studies were partially held while safety differences were investigated.",
+      "zh": "KITE-753 的 II 期研究因调查安全性差异而被部分暂停。",
+      "src": "https://s29.q4cdn.com/585078350/files/doc_financials/2026/q3/GILD-Q326-Prepared-Remarks-29-October-2026.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline, updated October 29, 2026",
+      "https://www.gilead.com/science/pipeline"
+    ],
+    [
+      "Q3 2026 results",
+      "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-third-quarter-2026-financial-results"
+    ],
+    [
+      "Q3 2026 prepared remarks, October 29",
+      "https://s29.q4cdn.com/585078350/files/doc_financials/2026/q3/GILD-Q326-Prepared-Remarks-29-October-2026.pdf"
+    ],
+    [
+      "Arcellx acquisition completed, April 2026",
+      "https://investors.gilead.com/news/news-details/2026/Gilead-Sciences-Completes-Acquisition-of-Arcellx-Ahead-of-Potential-Commercial-Launch-of-Anito-cel/default.aspx"
+    ],
+    [
+      "SWIFT emvistegrast update, October 19, 2026",
+      "https://www.gilead.com/company/company-statements/2026/phase-2-swift-study-of-emvistegrast-a-potential-differentiated-once-daily-oral-treatment-meets-primary-endpoint-in-ulcerative-colitis"
+    ],
+    [
+      "Ouro acquisition completed, June 4, 2026",
+      "https://investors.gilead.com/news/news-details/2026/Gilead-Sciences-and-Lakefront-Complete-Acquisition-of-Ouro-Medicines-to-Further-Expand-Inflammation-Pipeline/default.aspx"
+    ],
+    [
+      "Q2 2026 results: Tubulis/GS-8824 provenance",
+      "https://www.gilead.com/news/news-details/2026/gilead-sciences-announces-second-quarter-2026-financial-results"
+    ],
+    [
+      "Phase 3 ISL/LEN results and Merck collaboration, June 2026",
+      "https://investors.gilead.com/news/news-details/2026/Gilead-and-Merck-Announce-Positive-Topline-Results-From-Two-Phase-3-Studies-Evaluating-IslatravirLenacapavir-an-Oral-Once-Weekly-HIV-Treatment/default.aspx?_sp=fba049c4-ae97-4922-807d-ee5c3b296257"
+    ],
+    [
+      "ASH 2026 pipeline update",
+      "https://www.gilead.com/news/news-details/2026/gilead-and-kite-advance-leadership-with-new-data-across-pipeline-and-portfolio-at-ash-2026"
+    ],
+    [
+      "Gilead HIV Glasgow poster: GS-3242 mechanism and ongoing oral/injectable Phase 2 combinations, November 2026",
+      "https://www.askgileadmedical.com/docs/conference/Gupta_HIVGlasgow2026_Poster_Oral%20GS-3242_Final_5Nov2026%40pdf"
+    ]
+  ],
+  "gaps": [
+    "The pipeline landing page exposed company phase totals but its asset table did not render in the browser extraction; a curl fallback failed because the shell could not resolve the host. Item selection therefore uses Q3 remarks plus company releases, rather than a fully inspectable landing-page asset table.",
+    "reg is null within counts because no separate company registration count was verified; 24/12/13 are company-reported clinical programs and must not be interpreted as deduplicated assets.",
+    "Origins were not verified for the LEN/teropavimab/zinlirvimab combination, GS-3242/LEN combination and edecesertib; their origins are null. Separate codes for anito-cel, ISL/LEN, the three-drug regimen and edecesertib were not verified.",
+    "GS-3242/LEN oral and injectable Phase 2 programs are consolidated into one entry; individual broadly neutralizing antibodies are not duplicated.",
+    "Gamgertamig is acquired via Ouro and subsequently co-developed with Lakefront. June's company release labels it Phase 2, whereas Q3 remarks discuss Phase 1 data; phase 2 follows the explicit development-stage statement, not the phase of the next data presentation.",
+    "Next milestones were not verified for four selected assets and are null. The November 8 edecesertib presentation is past as of November 16 and is not represented as an upcoming catalyst.",
+    "Approved Bixlenvo, Hepcludex and Trodelvy uses are excluded; unfiled label studies and a dosing-only weekly lenacapavir PrEP extension are not counted as major new indications under the brief.",
+    "The April 2026 Arcellx acquisition source predates 2026-06 and is used for provenance only; current regulatory status uses October remarks. GS-8824 remains Phase 1 despite its strategic importance.",
+    "The mixed antibody/small-molecule three-drug regimen is mapped to other."
+  ]
+}

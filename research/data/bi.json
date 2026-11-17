@@ -1,0 +1,255 @@
+{
+  "id": "bi",
+  "asof": "2026-11",
+  "summary": {
+    "en": "The private company's pipeline spans cardiometabolic disease, oncology, respiratory disease and eye health. Late-stage trials and externally sourced innovation remain substantial.",
+    "zh": "这家私营公司的管线覆盖心血管代谢疾病、肿瘤、呼吸疾病及眼科，后期试验与外部创新合作均占有重要位置。"
+  },
+  "counts": {
+    "p1": 22,
+    "p2": 15,
+    "p3": 12,
+    "reg": 1,
+    "note": "Company-reported selected clinical projects on the Human Pharma pipeline, as of August 2026; projects/indications, not unique assets. Snapshot retained unchanged, not recomputed for November events."
+  },
+  "items": [
+    {
+      "name": "survodutide",
+      "code": "BI 456906",
+      "modality": "peptide",
+      "target": {
+        "en": "Glucagon/GLP-1 receptor agonism",
+        "zh": "同时激动胰高血糖素及 GLP-1 受体"
+      },
+      "ind": {
+        "en": "Obesity; also MASH and type 2 diabetes",
+        "zh": "肥胖症；另开发代谢功能障碍相关脂肪性肝炎及2型糖尿病"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://via.ritzau.dk/files/90446/15278323/604222/en"
+    },
+    {
+      "name": "vicadrostat + empagliflozin",
+      "code": "BI 690517",
+      "modality": "small molecule",
+      "target": {
+        "en": "Aldosterone synthase and SGLT2 inhibition",
+        "zh": "抑制醛固酮合成酶及 SGLT2"
+      },
+      "ind": {
+        "en": "Heart failure and cardiovascular risk reduction",
+        "zh": "心力衰竭及降低心血管风险"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": null,
+      "src": "https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/clinical-pipeline"
+    },
+    {
+      "name": "apecotrep",
+      "code": "BI 764198",
+      "modality": "small molecule",
+      "target": {
+        "en": "TRPC6 inhibition",
+        "zh": "抑制 TRPC6"
+      },
+      "ind": {
+        "en": "Focal segmental glomerulosclerosis; also proteinuric kidney disease",
+        "zh": "局灶节段性肾小球硬化；另开发蛋白尿性肾病"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/clinical-pipeline"
+    },
+    {
+      "name": "obrixtamig",
+      "code": "BI 764532",
+      "modality": "bispecific",
+      "target": {
+        "en": "DLL3/CD3 T-cell engagement",
+        "zh": "通过 DLL3/CD3 招募 T 细胞"
+      },
+      "ind": {
+        "en": "Small-cell lung cancer; also extrapulmonary neuroendocrine carcinoma",
+        "zh": "小细胞肺癌；另开发肺外神经内分泌癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://zailab.gcs-web.com/news-releases/news-release-details/boehringer-ingelheim-and-zai-lab-announce-collaboration-dll3"
+    },
+    {
+      "name": "verducatib",
+      "code": "BI 1291583",
+      "modality": "small molecule",
+      "target": {
+        "en": "DPP1/cathepsin C inhibition",
+        "zh": "抑制 DPP1／组织蛋白酶 C"
+      },
+      "ind": {
+        "en": "Bronchiectasis; also COPD",
+        "zh": "支气管扩张症；另开发慢性阻塞性肺疾病"
+      },
+      "phase": "3",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://www.boehringer-ingelheim.com/human-health/lung-diseases/copd-asthma/boehringer-registers-phase-3-trial-verducatib-copd"
+    },
+    {
+      "name": "BI 3034701",
+      "code": "BI 3034701",
+      "modality": "peptide",
+      "target": {
+        "en": "GLP-1/GIP/NPY2 receptor agonism",
+        "zh": "同时激动 GLP-1、GIP 及 NPY2 受体"
+      },
+      "ind": {
+        "en": "Obesity",
+        "zh": "肥胖症"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.globenewswire.com/news-release/2026/07/16/3328210/0/en/boehringer-ingelheim-strengthens-obesity-pipeline-as-potential-first-in-class-triple-receptor-agonist-bi-3034701-enters-phase-ii-development.html"
+    },
+    {
+      "name": "BI 764524",
+      "code": "BI 764524",
+      "modality": "antibody",
+      "target": {
+        "en": "Semaphorin 3A blockade",
+        "zh": "阻断 Semaphorin 3A"
+      },
+      "ind": {
+        "en": "Diabetic retinopathy",
+        "zh": "糖尿病视网膜病变"
+      },
+      "phase": "2",
+      "ta": "Ophthalmology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/clinical-pipeline/bi-764524-sema3a-antibody"
+    },
+    {
+      "name": "BI 765423",
+      "code": "BI 765423",
+      "modality": "antibody",
+      "target": {
+        "en": "IL-11 blockade",
+        "zh": "阻断 IL-11"
+      },
+      "ind": {
+        "en": "Idiopathic pulmonary fibrosis",
+        "zh": "特发性肺纤维化"
+      },
+      "phase": "2",
+      "ta": "Respiratory",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/clinical-pipeline"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "First-half 2026 growth was driven by Jardiance and recent launches.",
+      "zh": "2026年上半年增长主要由 Jardiance 及近期上市产品推动。",
+      "src": "https://www.boehringer-ingelheim.com/about-us/who-we-are/our-half-year-financial-results-2026"
+    },
+    {
+      "k": "deal",
+      "en": "The company says 50% of its pipeline is anchored in external collaborations.",
+      "zh": "公司称其50%的管线依托外部合作。",
+      "src": "https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/clinical-pipeline"
+    },
+    {
+      "k": "other",
+      "en": "Verducatib has expanded into phase 3 COPD development alongside bronchiectasis.",
+      "zh": "Verducatib 在支气管扩张症之外，已拓展至慢性阻塞性肺疾病 III 期开发。",
+      "src": "https://www.boehringer-ingelheim.com/human-health/lung-diseases/copd-asthma/boehringer-registers-phase-3-trial-verducatib-copd"
+    },
+    {
+      "k": "other",
+      "en": "Survodutide has reported phase 3 obesity and cardiovascular-safety results; liver-disease development is separate.",
+      "zh": "Survodutide 已公布肥胖症及心血管安全性 III 期结果，肝病开发属于独立项目。",
+      "src": "https://via.ritzau.dk/files/90446/15278323/604222/en"
+    }
+  ],
+  "sources": [
+    [
+      "Human Pharma pipeline, August 2026",
+      "https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/clinical-pipeline"
+    ],
+    [
+      "Pipeline alternate landing page",
+      "https://www.boehringer-ingelheim.com/pipeline-overview"
+    ],
+    [
+      "Half-year 2026 results",
+      "https://www.boehringer-ingelheim.com/about-us/who-we-are/our-half-year-financial-results-2026"
+    ],
+    [
+      "Survodutide company/Zealand announcement, November 9, 2026",
+      "https://via.ritzau.dk/files/90446/15278323/604222/en"
+    ],
+    [
+      "Survodutide SYNCHRONIZE-2, October 1, 2026",
+      "https://www.boehringer-ingelheim.com/us/human-health/metabolic-diseases/new-phase-iii-data-people-obesity-and-diabetes"
+    ],
+    [
+      "Verducatib AIRWARD registration, October 30, 2026",
+      "https://www.boehringer-ingelheim.com/human-health/lung-diseases/copd-asthma/boehringer-registers-phase-3-trial-verducatib-copd"
+    ],
+    [
+      "BI 3034701 company release, July 16, 2026",
+      "https://www.globenewswire.com/news-release/2026/07/16/3328210/0/en/boehringer-ingelheim-strengthens-obesity-pipeline-as-potential-first-in-class-triple-receptor-agonist-bi-3034701-enters-phase-ii-development.html"
+    ],
+    [
+      "Gubra exchange announcement, July 16, 2026",
+      "https://view.news.eu.nasdaq.com/view?id=b373f26d9a0c206963b3d5d235c66c1d1&lang=en"
+    ],
+    [
+      "BI 764524 pipeline detail",
+      "https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/clinical-pipeline/bi-764524-sema3a-antibody"
+    ],
+    [
+      "Obrixtamig company/Zai Lab release, April 15, 2026",
+      "https://zailab.gcs-web.com/news-releases/news-release-details/boehringer-ingelheim-and-zai-lab-announce-collaboration-dll3"
+    ],
+    [
+      "EASi-KIDNEY update, September 15, 2026",
+      "https://www.boehringer-ingelheim.com/human-health/boehringer-provides-update-easi-kidney-trial"
+    ],
+    [
+      "Company-authored IL-11 release on idw, January 19, 2026",
+      "https://idw-online.de/en/news864502"
+    ],
+    [
+      "Boehringer scientists discovered apecotrep, October 2026",
+      "https://www.boehringer-ingelheim.com/us/science-innovation/human-health-innovation/exploring-trpc6-inhibition-fsgs"
+    ],
+    [
+      "Apecotrep company release, January 28, 2026",
+      "https://www.globenewswire.com/news-release/2026/01/28/3227186/0/en/boehringer-ingelheim-s-investigational-asset-apecotrep-delivers-proteinuria-reduction-in-phase-ii-kidney-trial.html"
+    ]
+  ],
+  "gaps": [
+    "Boehringer website opens returned empty/iframe-only pages. The curl fallback failed because host names could not be resolved. Indexed primary-company text supplied the pipeline and half-year information; partner company releases supplied accessible supporting detail. This limits full-page verification.",
+    "Counts are the company's August 2026 selected-project snapshot. They include zongertinib in registration and the then-active CKD project; they are not November-adjusted counts.",
+    "Already approved zongertinib and nerandomilast are excluded because a qualifying filed major new indication was not verified.",
+    "No specific forward milestone was sufficiently verified for any selected asset; next is null for all eight. Completed trial results are not relabelled as future catalysts.",
+    "Origin is null for vicadrostat/empagliflozin, obrixtamig and verducatib because precise provenance was not verified.",
+    "The September EASi-KIDNEY update URL was opened but rendered empty. Its detailed implications require direct primary-page rechecking; the selected vicadrostat entry is for heart failure/cardiovascular development rather than CKD.",
+    "Older-than-2026-06 supporting sources: January 2026 company-authored IL-11 release for acquired origin and April 2026 partner release for obrixtamig mechanism; August pipeline supplies current phase. January 2026 apecotrep release supports oral TRPC6 pharmacology; October 2026 company text supports internal discovery.",
+    "BI 765423 origin is supported by a company-authored release hosted on idw; the company website was not reachable. No news-reported catalyst date is used."
+  ]
+}

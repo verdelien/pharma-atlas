@@ -1,0 +1,243 @@
+{
+  "id": "neurocrine",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Neuropsychiatry leads the late-stage pipeline, with two pivotal programs and several muscarinic follow-ons. Earlier peptides extend research into endocrine and metabolic disease.",
+    "zh": "神经精神领域引领后期管线,有两个关键性项目和若干毒蕈碱后续项目。早期多肽项目将研究延伸至内分泌和代谢疾病。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "direclidine",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "M4 agonist",
+        "zh": "M4 激动剂"
+      },
+      "ind": {
+        "en": "Schizophrenia; bipolar mania Phase 2",
+        "zh": "精神分裂症;双相躁狂 II 期"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": {
+        "en": "Phase 3 readouts",
+        "zh": "III 期读出",
+        "when": "2027"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000053/q3-2026xearningsrelease.htm"
+    },
+    {
+      "name": "osavampator",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "AMPA positive allosteric modulator",
+        "zh": "AMPA 正向变构调节剂"
+      },
+      "ind": {
+        "en": "Major depressive disorder",
+        "zh": "重度抑郁症"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "Phase 3 readouts",
+        "zh": "III 期读出",
+        "when": "2027"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000053/q3-2026xearningsrelease.htm"
+    },
+    {
+      "name": "NBI-570",
+      "code": "NBI-570",
+      "modality": "small molecule",
+      "target": {
+        "en": "M1/M4 agonist",
+        "zh": "M1/M4 激动剂"
+      },
+      "ind": {
+        "en": "Schizophrenia",
+        "zh": "精神分裂症"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
+    },
+    {
+      "name": "NBI-890",
+      "code": "NBI-890",
+      "modality": "small molecule",
+      "target": {
+        "en": "VMAT2 inhibitor",
+        "zh": "VMAT2 抑制剂"
+      },
+      "ind": {
+        "en": "Tardive dyskinesia",
+        "zh": "迟发性运动障碍"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
+    },
+    {
+      "name": "NBI-567",
+      "code": "NBI-1117567",
+      "modality": "small molecule",
+      "target": {
+        "en": "M1-preferring agonist",
+        "zh": "M1 偏好型激动剂"
+      },
+      "ind": {
+        "en": "Alzheimer's cognitive impairment",
+        "zh": "阿尔茨海默病认知障碍"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000054/nbix-20260930.htm"
+    },
+    {
+      "name": "NBI-569",
+      "code": "NBI-569",
+      "modality": "small molecule",
+      "target": {
+        "en": "M1/M4 agonist",
+        "zh": "M1/M4 激动剂"
+      },
+      "ind": {
+        "en": "Alzheimer's psychosis",
+        "zh": "阿尔茨海默病精神病"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
+    },
+    {
+      "name": "NBIP-1435",
+      "code": "NBIP-1435",
+      "modality": "peptide",
+      "target": {
+        "en": "CRF1 antagonist",
+        "zh": "CRF1 拮抗剂"
+      },
+      "ind": {
+        "en": "Classic congenital adrenal hyperplasia",
+        "zh": "经典型先天性肾上腺皮质增生症"
+      },
+      "phase": "1",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": null,
+      "src": "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
+    },
+    {
+      "name": "NBIP-2118",
+      "code": "NBIP-2118",
+      "modality": "peptide",
+      "target": {
+        "en": "CRF2 agonist",
+        "zh": "CRF2 激动剂"
+      },
+      "ind": {
+        "en": "Obesity",
+        "zh": "肥胖"
+      },
+      "phase": "1",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
+    },
+    {
+      "name": "NBIP-1968",
+      "code": "NBIP-1968",
+      "modality": "peptide",
+      "target": {
+        "en": "GLP-1/GIP/glucagon agonist",
+        "zh": "GLP-1/GIP/胰高血糖素激动剂"
+      },
+      "ind": {
+        "en": "Obesity",
+        "zh": "肥胖"
+      },
+      "phase": "1",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000054/nbix-20260930.htm"
+    },
+    {
+      "name": "NBI-355",
+      "code": "NBI-355",
+      "modality": "small molecule",
+      "target": {
+        "en": "Nav1.2/1.6 inhibitor",
+        "zh": "Nav1.2/1.6 抑制剂"
+      },
+      "ind": {
+        "en": "Epilepsy",
+        "zh": "癫痫"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Two Phase 3 readouts are expected in 2027.",
+      "zh": "预计 2027 年将有两项 III 期读出。",
+      "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000053/q3-2026xearningsrelease.htm"
+    },
+    {
+      "k": "concentration",
+      "en": "INGREZZA generated $801 million of Q3 total revenue of $1.123 billion.",
+      "zh": "INGREZZA 在第三季度 $1.123 billion 的总收入中贡献了 $801 million。",
+      "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000053/q3-2026xearningsrelease.htm"
+    },
+    {
+      "k": "deal",
+      "en": "Muscarinic candidates are licensed from Nxera; selected Japanese rights remain with partners.",
+      "zh": "毒蕈碱候选药物从 Nxera 获得许可;部分日本权益仍由合作伙伴持有。",
+      "src": "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Live pipeline",
+      "https://www.neurocrine.com/pipeline/"
+    ],
+    [
+      "November 2026 chart",
+      "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
+    ],
+    [
+      "Q3 results",
+      "https://www.sec.gov/Archives/edgar/data/914475/000091447526000053/q3-2026xearningsrelease.htm"
+    ],
+    [
+      "Q3 SEC filing",
+      "https://www.sec.gov/Archives/edgar/data/914475/000091447526000054/nbix-20260930.htm"
+    ]
+  ],
+  "gaps": [
+    "No company-reported phase totals found. Full codes not stated for abbreviated candidates are kept in company shorthand.",
+    "Origins for candidates without an explicit licensing marker were not verified. Osavampator partner-retained Japan rights alone do not establish origin; null.",
+    "Sources are complementary: quarterly release supplies Phase 3 timing; chart supplies mechanisms and licensing markers. No precise next dates for early assets.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+  ]
+}

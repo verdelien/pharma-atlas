@@ -1,0 +1,228 @@
+{
+  "id": "amgen",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Late-stage programmes span obesity, cardiovascular disease, autoimmune disease and oncology, alongside biosimilars. MariTide's broad phase 3 programme is a major development commitment.",
+    "zh": "后期项目覆盖肥胖症、心血管病、自身免疫病及肿瘤，同时布局生物类似药。MariTide 庞大的 III 期项目群是重要研发投入方向。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "ABP 206",
+      "code": "ABP 206",
+      "modality": "antibody",
+      "target": {
+        "en": "PD-1 blockade; nivolumab biosimilar",
+        "zh": "阻断 PD-1；nivolumab 生物类似药"
+      },
+      "ind": {
+        "en": "Nivolumab biosimilar programme; melanoma comparative study",
+        "zh": "Nivolumab 生物类似药项目；黑色素瘤对比试验"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "FDA action expected by year-end",
+        "zh": "预计年底前获得 FDA 审评决定",
+        "when": "2026Q4"
+      },
+      "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "ABP 234",
+      "code": "ABP 234",
+      "modality": "antibody",
+      "target": {
+        "en": "PD-1 blockade; pembrolizumab biosimilar",
+        "zh": "阻断 PD-1；pembrolizumab 生物类似药"
+      },
+      "ind": {
+        "en": "Pembrolizumab biosimilar programme; NSCLC comparative studies",
+        "zh": "Pembrolizumab 生物类似药项目；非小细胞肺癌对比试验"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "FDA filing acceptance pending",
+        "zh": "等待 FDA 确认受理",
+        "when": null
+      },
+      "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "maridebart cafraglutide",
+      "code": "AMG 133",
+      "modality": "other",
+      "target": {
+        "en": "GLP-1 receptor agonism and GIP receptor antagonism",
+        "zh": "激动 GLP-1 受体并拮抗 GIP 受体"
+      },
+      "ind": {
+        "en": "Obesity; also diabetes, cardiovascular outcomes, heart failure and sleep apnoea",
+        "zh": "肥胖症；另开发糖尿病、心血管结局、心力衰竭及睡眠呼吸暂停"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": {
+        "en": "Two further phase 3 diabetes study starts",
+        "zh": "再启动两项糖尿病 III 期试验",
+        "when": "2026Q4"
+      },
+      "src": "https://investors.amgen.com/static-files/2456044f-5e82-46e6-935c-46eedf1b2a3a"
+    },
+    {
+      "name": "olpasiran",
+      "code": "AMG 890",
+      "modality": "siRNA",
+      "target": {
+        "en": "Lowering hepatic lipoprotein(a) synthesis",
+        "zh": "降低肝脏脂蛋白(a)合成"
+      },
+      "ind": {
+        "en": "Cardiovascular prevention in elevated lipoprotein(a)",
+        "zh": "脂蛋白(a)升高患者的心血管事件预防"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": null,
+      "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "dazodalibep",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "CD40 ligand inhibition",
+        "zh": "抑制 CD40 配体"
+      },
+      "ind": {
+        "en": "Sjögren's disease",
+        "zh": "干燥综合征"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "OASIZ-303 symptomatic-disease trial completion",
+        "zh": "OASIZ-303 症状负担较重患者试验完成",
+        "when": "2026Q4"
+      },
+      "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "xaluritamig",
+      "code": "AMG 509",
+      "modality": "bispecific",
+      "target": {
+        "en": "STEAP1-directed T-cell engagement",
+        "zh": "通过 STEAP1 靶向招募 T 细胞"
+      },
+      "ind": {
+        "en": "Metastatic castration-resistant prostate cancer",
+        "zh": "转移性去势抵抗性前列腺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.amgenpipeline.com/-/media/Themes/Amgen/amgenpipeline-com/amgenpipeline-com/PDF/amgen-pipeline-chart.pdf"
+    },
+    {
+      "name": "daxdilimab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "ILT7-directed dendritic-cell depletion",
+        "zh": "靶向 ILT7 清除树突状细胞"
+      },
+      "ind": {
+        "en": "Discoid lupus; also inflammatory myositis",
+        "zh": "盘状红斑狼疮；另开发炎性肌病"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "Advance to phase 3 development",
+        "zh": "推进至 III 期开发",
+        "when": null
+      },
+      "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "AMG 732",
+      "code": "AMG 732",
+      "modality": "antibody",
+      "target": {
+        "en": "IGF-1 receptor blockade",
+        "zh": "阻断 IGF-1 受体"
+      },
+      "ind": {
+        "en": "Active thyroid eye disease",
+        "zh": "活动性甲状腺眼病"
+      },
+      "phase": "2",
+      "ta": "Ophthalmology",
+      "origin": null,
+      "next": null,
+      "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Dazodalibep's symptomatic Sjögren's phase 3 trial is expected to complete in Q4.",
+      "zh": "Dazodalibep 针对症状负担较重干燥综合征患者的 III 期试验预计于第四季度完成。",
+      "src": "https://investors.amgen.com/static-files/2456044f-5e82-46e6-935c-46eedf1b2a3a"
+    },
+    {
+      "k": "loe",
+      "en": "Denosumab biosimilars are eroding Prolia and Xgeva.",
+      "zh": "Denosumab 生物类似药正在侵蚀 Prolia 与 Xgeva 的业务。",
+      "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "k": "policy",
+      "en": "Enbrel pricing reflects Medicare Part D price setting effective in 2026.",
+      "zh": "Enbrel 的价格已受到2026年生效的 Medicare Part D 定价影响。",
+      "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "k": "other",
+      "en": "FDA has requested voluntary withdrawal of Tavneos; Amgen is contesting it.",
+      "zh": "FDA 要求自愿撤回 Tavneos，Amgen 正对此提出申辩。",
+      "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline homepage",
+      "https://www.amgenpipeline.com/"
+    ],
+    [
+      "Full pipeline chart, November 3, 2026",
+      "https://www.amgenpipeline.com/-/media/Themes/Amgen/amgenpipeline-com/amgenpipeline-com/PDF/amgen-pipeline-chart.pdf"
+    ],
+    [
+      "Q3 2026 financial results, November 3",
+      "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
+    ],
+    [
+      "Q3 2026 earnings slides",
+      "https://investors.amgen.com/static-files/2456044f-5e82-46e6-935c-46eedf1b2a3a"
+    ]
+  ],
+  "gaps": [
+    "No complete numerical phase-count breakdown was verified; counts is null.",
+    "The pipeline homepage returns no dynamic molecule rows; the full nine-page chart and Q3 release were reviewed instead.",
+    "Origin is null for ABP 206, ABP 234, MariTide, olpasiran, dazodalibep, daxdilimab and AMG 732 because explicit provenance was not verified. Xaluritamig's research collaboration with Xencor is stated in the Q3 release.",
+    "Next is null for olpasiran, xaluritamig and AMG 732 because no specific next milestone was verified. FDA acceptance timing for ABP 234 and the daxdilimab phase 3 transition are undated.",
+    "ABP 234 is filed but awaiting FDA acceptance, so it is 'reg' under the brief's filed/under-review definition; this does not imply an accepted application.",
+    "MariTide is an antibody–peptide conjugate and dazodalibep a fusion protein, both represented as 'other'.",
+    "Approved drugs with unfiled new indications, and formulation-only changes for already approved assets, are excluded. No source older than 2026-06 is used."
+  ]
+}

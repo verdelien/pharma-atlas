@@ -1,0 +1,156 @@
+{
+  "id": "kelun",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Kelun-Biotech, Kelun Pharmaceutical's innovative-drug subsidiary, concentrates on oncology ADCs and external development collaborations. Respiratory immunology provides a smaller diversification stream.",
+    "zh": "Kelun-Biotech 是 Kelun Pharmaceutical 的创新药子公司,专注于肿瘤 ADC 和对外开发合作。呼吸免疫领域提供规模较小的多元化方向。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "sacituzumab tirumotecan (first-line expansions)",
+      "code": "SKB264/MK-2870",
+      "modality": "ADC",
+      "target": {
+        "en": "TROP2",
+        "zh": "TROP2"
+      },
+      "ind": {
+        "en": "First-line NSCLC and TNBC; additional global cancer studies",
+        "zh": "一线 NSCLC 和 TNBC;另有全球其他癌症研究"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://en.kelun-biotech.com/newsCenter.aspx?mid=18&page=1"
+    },
+    {
+      "name": "lunbotinib",
+      "code": "A400/EP0031",
+      "modality": "small molecule",
+      "target": {
+        "en": "RET",
+        "zh": "RET"
+      },
+      "ind": {
+        "en": "RET-fusion-positive NSCLC",
+        "zh": "RET 融合阳性 NSCLC"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": {
+        "en": "Potential commercialization, subject to approval",
+        "zh": "潜在商业化,以获批为前提",
+        "when": "2027H1"
+      },
+      "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
+    },
+    {
+      "name": "SKB378",
+      "code": "SKB378/WIN378",
+      "modality": "antibody",
+      "target": {
+        "en": "TSLP",
+        "zh": "TSLP"
+      },
+      "ind": {
+        "en": "Asthma; Phase 2 COPD",
+        "zh": "哮喘;COPD II 期"
+      },
+      "phase": "3",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
+    },
+    {
+      "name": "SKB118",
+      "code": "SKB118/CR-001",
+      "modality": "bispecific",
+      "target": {
+        "en": "PD-1/VEGF",
+        "zh": "PD-1/VEGF"
+      },
+      "ind": {
+        "en": "Solid tumors",
+        "zh": "实体瘤"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
+    },
+    {
+      "name": "SKB575",
+      "code": "SKB575",
+      "modality": "bispecific",
+      "target": {
+        "en": "TSLP/undisclosed second target",
+        "zh": "TSLP/未披露的第二靶点"
+      },
+      "ind": {
+        "en": "Atopic dermatitis and asthma",
+        "zh": "特应性皮炎和哮喘"
+      },
+      "phase": "1",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "deal",
+      "en": "MSD is running 17 global Phase 3 sac-TMT studies.",
+      "zh": "MSD 正在开展 17 项全球 III 期 sac-TMT 研究。",
+      "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
+    },
+    {
+      "k": "policy",
+      "en": "Three commercial products have indications included in China's NRDL.",
+      "zh": "三款商业化产品的适应症已纳入中国国家医保药品目录 (NRDL)。",
+      "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
+    },
+    {
+      "k": "balance",
+      "en": "July 2026 share placing raised approximately HK$2.72 billion net.",
+      "zh": "2026 年 7 月的股份配售净筹集约 HK$2.72 billion。",
+      "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
+    },
+    {
+      "k": "concentration",
+      "en": "The portfolio emphasizes ADCs and combination oncology therapies.",
+      "zh": "该组合以 ADC 和肿瘤联合疗法为重点。",
+      "src": "https://en.kelun-biotech.com/aboutUs.aspx"
+    }
+  ],
+  "sources": [
+    [
+      "Company pipeline",
+      "https://en.kelun-biotech.com/product.aspx?mid=165"
+    ],
+    [
+      "Company-issued interim results",
+      "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
+    ],
+    [
+      "Company overview",
+      "https://en.kelun-biotech.com/aboutUs.aspx"
+    ],
+    [
+      "October company news",
+      "https://en.kelun-biotech.com/newsCenter.aspx?mid=18&page=1"
+    ]
+  ],
+  "gaps": [
+    "Company pipeline repeatedly timed out; curl fallback failed DNS resolution. Company-issued release on PRNewswire and current company overview/news used.",
+    "Scope focuses on Kelun-Biotech's innovative pipeline; parent-company generic portfolio not mapped. No complete company phase counts verified.",
+    "Phase 1/2 is represented as Phase 2; Phase 2/3 as Phase 3. Current stage details for additional ADCs were not reachable, so omitted.",
+    "Origins not established for most assets; commercial partnerships alone are not treated as discovery origin.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+  ]
+}

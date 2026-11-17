@@ -1,0 +1,304 @@
+{
+  "id": "bayer",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Bayer's pharmaceutical pipeline combines new renal and women's-health indications with cell/gene therapies and molecular imaging. Recent approvals shift several former late-stage programs into commercial execution, leaving a substantial Phase 2 research portfolio.",
+    "zh": "Bayer 制药研发结合肾病及女性健康新适应症、细胞与基因疗法及分子影像。近期多项获批使原后期项目转入商业化阶段，剩余组合包含较多 II 期研发项目。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "finerenone",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Mineralocorticoid receptor antagonist",
+        "zh": "盐皮质激素受体拮抗剂"
+      },
+      "ind": {
+        "en": "Non-diabetic chronic kidney disease (U.S./Japan/China filings)",
+        "zh": "非糖尿病慢性肾病（美国、日本及中国申报）"
+      },
+      "phase": "reg",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": {
+        "en": "Non-diabetic CKD regulatory decisions",
+        "zh": "非糖尿病慢性肾病适应症审评决定",
+        "when": null
+      },
+      "src": "https://reports.bayer.com/quarterly-statement-q3-2026/en/key-events.html"
+    },
+    {
+      "name": "elinzanetant (Lynkuet)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "NK1 / NK3 receptor antagonist",
+        "zh": "NK1 / NK3 受体拮抗剂"
+      },
+      "ind": {
+        "en": "Vasomotor symptoms caused by breast-cancer endocrine therapy (U.S. filing)",
+        "zh": "乳腺癌内分泌治疗引起的血管舒缩症状（美国申报）"
+      },
+      "phase": "reg",
+      "ta": "Women's health",
+      "origin": null,
+      "next": {
+        "en": "FDA priority-review decision for the new indication",
+        "zh": "FDA 对新适应症的优先审评决定",
+        "when": null
+      },
+      "src": "https://www.bayer.com/media/en-us/bayers-lynkuet-elinzanetant-granted-priority-review-by-us-fda-for-additional-indication/"
+    },
+    {
+      "name": "bemdaneprocel",
+      "code": "BRT-DA01",
+      "modality": "cell therapy",
+      "target": {
+        "en": "Replacement of dopamine-producing neurons",
+        "zh": "补充产生多巴胺的神经元"
+      },
+      "ind": {
+        "en": "Parkinson's disease",
+        "zh": "帕金森病"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "exPDite-2 estimated primary completion",
+        "zh": "exPDite-2 预计主要终点完成",
+        "when": "2028Q4"
+      },
+      "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-2026-10-26-final-9d7c7619c9664e35b58ff0dcc2535d7e?v=cc82dafa"
+    },
+    {
+      "name": "124I-evuzamitide",
+      "code": "AT-01",
+      "modality": "other",
+      "target": {
+        "en": "Pan-amyloid PET imaging tracer",
+        "zh": "泛淀粉样蛋白 PET 显像示踪剂"
+      },
+      "ind": {
+        "en": "Diagnosis of cardiac amyloidosis",
+        "zh": "心脏淀粉样变性诊断"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-onepager-2026-10-26-final-a2201d6a7c8b4c0c8afbad53bbb5e8b5?v=f5d767d2"
+    },
+    {
+      "name": "ametefgene parvec",
+      "code": "AB-1005",
+      "modality": "gene therapy",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Parkinson's disease; also multiple system atrophy",
+        "zh": "帕金森病；另开发多系统萎缩"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "REGENERATE-PD estimated primary completion",
+        "zh": "REGENERATE-PD 预计主要终点完成",
+        "when": "2028Q3"
+      },
+      "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-2026-10-26-final-9d7c7619c9664e35b58ff0dcc2535d7e?v=cc82dafa"
+    },
+    {
+      "name": "umiposgene parvec",
+      "code": "AB-1002",
+      "modality": "gene therapy",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Congestive heart failure",
+        "zh": "充血性心力衰竭"
+      },
+      "phase": "2",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": {
+        "en": "GenePHIT estimated primary completion",
+        "zh": "GenePHIT 预计主要终点完成",
+        "when": "2026Q4"
+      },
+      "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-2026-10-26-final-9d7c7619c9664e35b58ff0dcc2535d7e?v=cc82dafa"
+    },
+    {
+      "name": "inclocibart",
+      "code": "BAY 3018250",
+      "modality": "antibody",
+      "target": {
+        "en": "Alpha-2-antiplasmin",
+        "zh": "α2 抗纤溶酶"
+      },
+      "ind": {
+        "en": "Acute ischemic stroke; also pulmonary embolism",
+        "zh": "急性缺血性卒中；另开发肺栓塞"
+      },
+      "phase": "2",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": null,
+      "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-onepager-2026-10-26-final-a2201d6a7c8b4c0c8afbad53bbb5e8b5?v=f5d767d2"
+    },
+    {
+      "name": "nurandociguat",
+      "code": "BAY 3283142",
+      "modality": "small molecule",
+      "target": {
+        "en": "Soluble guanylate cyclase activator",
+        "zh": "可溶性鸟苷酸环化酶激活剂"
+      },
+      "ind": {
+        "en": "Chronic kidney disease",
+        "zh": "慢性肾病"
+      },
+      "phase": "2",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": null,
+      "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-onepager-2026-10-26-final-a2201d6a7c8b4c0c8afbad53bbb5e8b5?v=f5d767d2"
+    },
+    {
+      "name": "SEMA 3a inhibitor",
+      "code": "BAY 3401016",
+      "modality": "other",
+      "target": {
+        "en": "Semaphorin 3A inhibition",
+        "zh": "抑制 Semaphorin 3A"
+      },
+      "ind": {
+        "en": "Alport syndrome",
+        "zh": "Alport 综合征"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "ASSESS estimated primary completion",
+        "zh": "ASSESS 预计主要终点完成",
+        "when": "2027Q4"
+      },
+      "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-2026-10-26-final-9d7c7619c9664e35b58ff0dcc2535d7e?v=cc82dafa"
+    },
+    {
+      "name": "edonentan",
+      "code": "PER-001 / BAY 3826827",
+      "modality": "small molecule",
+      "target": {
+        "en": "Endothelin receptor antagonist",
+        "zh": "内皮素受体拮抗剂"
+      },
+      "ind": {
+        "en": "Non-proliferative diabetic retinopathy; also glaucoma",
+        "zh": "非增殖性糖尿病视网膜病变；另开发青光眼"
+      },
+      "phase": "2",
+      "ta": "Ophthalmology",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-onepager-2026-10-26-final-a2201d6a7c8b4c0c8afbad53bbb5e8b5?v=f5d767d2"
+    }
+  ],
+  "watch": [
+    {
+      "k": "loe",
+      "en": "Q3 Eylea and Xarelto sales fell amid patent expiry and generic competition.",
+      "zh": "三季度 Eylea 及 Xarelto 受专利到期与仿制竞争影响，销售下降。",
+      "src": "https://reports.bayer.com/quarterly-statement-q3-2026/en/business-development-by-division/pharmaceuticals.html"
+    },
+    {
+      "k": "concentration",
+      "en": "Nubeqa and Kerendia are the main pharmaceutical growth drivers.",
+      "zh": "Nubeqa 与 Kerendia 是制药业务的主要增长动力。",
+      "src": "https://reports.bayer.com/quarterly-statement-q3-2026/en/business-development-by-division/pharmaceuticals.html"
+    },
+    {
+      "k": "catalyst",
+      "en": "Lynkuet's breast-cancer endocrine-therapy VMS filing has FDA priority review.",
+      "zh": "Lynkuet 的乳腺癌内分泌治疗相关潮热适应症申报获 FDA 优先审评。",
+      "src": "https://www.bayer.com/media/en-us/bayers-lynkuet-elinzanetant-granted-priority-review-by-us-fda-for-additional-indication/"
+    },
+    {
+      "k": "deal",
+      "en": "Perfuse added PER-001 for $300 million upfront, with contingent payments taking potential value to $2.45 billion.",
+      "zh": "Perfuse 交易以 3 亿美元首付款引入 PER-001，计入或有付款后的潜在总额为 24.5 亿美元。",
+      "src": "https://www.bayer.com/media/en-us/bayer-completes-acquisition-of-perfuse-therapeutics/"
+    },
+    {
+      "k": "other",
+      "en": "Asundexian received U.S. approval in November; launch execution now follows the stroke-development catalyst.",
+      "zh": "Asundexian 于 11 月在美国获批，卒中研发催化后转向上市执行。",
+      "src": "https://www.bayer.com/en-us/united-states/news-and-stories/2026/asundexian-fda"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline landing page, October 26, 2026",
+      "https://www.bayer.com/en/portfolio/pharmaceuticals/pharma-innovation/pipeline-overview"
+    ],
+    [
+      "Pipeline one-page overview, October 26, 2026",
+      "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-onepager-2026-10-26-final-a2201d6a7c8b4c0c8afbad53bbb5e8b5?v=f5d767d2"
+    ],
+    [
+      "Full pipeline package, October 26, 2026",
+      "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-2026-10-26-final-9d7c7619c9664e35b58ff0dcc2535d7e?v=cc82dafa"
+    ],
+    [
+      "Q3 2026 pharmaceuticals results, November 3",
+      "https://reports.bayer.com/quarterly-statement-q3-2026/en/business-development-by-division/pharmaceuticals.html"
+    ],
+    [
+      "Q3 2026 key events",
+      "https://reports.bayer.com/quarterly-statement-q3-2026/en/key-events.html"
+    ],
+    [
+      "Finerenone non-diabetic CKD filing, August 28, 2026",
+      "https://www.bayer.com/media/en-us/bayer-submits-application-in-japan-for-expanded-use-of-kerendia-in-chronic-kidney-disease-therapeutic-area/"
+    ],
+    [
+      "Lynkuet new-indication priority review, September 28, 2026",
+      "https://www.bayer.com/media/en-us/bayers-lynkuet-elinzanetant-granted-priority-review-by-us-fda-for-additional-indication/"
+    ],
+    [
+      "Attralus imaging asset acquisition, January 12, 2026",
+      "https://www.bayer.com/en-us/united-states/news-and-stories/2026/acquisition-of-pan-amyloid-radiotracers-from-attralus"
+    ],
+    [
+      "Perfuse acquisition completed, June 17, 2026",
+      "https://www.bayer.com/media/en-us/bayer-completes-acquisition-of-perfuse-therapeutics/"
+    ],
+    [
+      "Asundexian U.S. approval, November 2026",
+      "https://www.bayer.com/en-us/united-states/news-and-stories/2026/asundexian-fda"
+    ],
+    [
+      "BlueRock/bemdaneprocel mechanism and ownership, September 2024",
+      "https://www.bayer.com/en-us/united-states/news-and-stories/2024/cell-therapy-bemdaneprocel"
+    ]
+  ],
+  "gaps": [
+    "Counts is null: the website rendered zero placeholders, not reliable reported phase totals. Entries were not manually counted.",
+    "Origins were not verified for finerenone, elinzanetant, bemdaneprocel, AB-1005, AB-1002, inclocibart, nurandociguat and BAY 3401016; these are null. Bayer ownership of a subsidiary alone was not treated as proof of an asset's discovery origin.",
+    "AB-1005/AB-1002 transgenes were not verified in the opened current pipeline documents; target.en and target.zh are null. No separate development codes for finerenone/elinzanetant were verified.",
+    "The overview describes BAY 3401016 only as protein therapy, so modality is other. The PET diagnostic tracer AT-01 is also other, rather than therapeutic radioligand.",
+    "Dates taken from the full pipeline are estimated primary completion, not promised data-release dates. Several Phase 2 trials are marked completed; a next disclosure or progression date was not verified, so next is null for inclocibart, nurandociguat, edonentan and AT-01.",
+    "Specific decision dates were not stated in the opened finerenone and elinzanetant filing materials; next.when is null.",
+    "Asundexian's November U.S. approval and sevabertinib's recent approvals supersede the October submission snapshot; approved uses and regional-only submissions were excluded. Finerenone and elinzanetant are retained only for filed major new indications.",
+    "The January 2026 Attralus and September 2024 BlueRock sources predate 2026-06 and support provenance/mechanism only; development phases come from October 2026 materials.",
+    "The overview contains an inconsistent GIRK4 development code compared with the detailed package; that asset is not selected."
+  ]
+}

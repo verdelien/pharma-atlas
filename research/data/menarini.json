@@ -1,0 +1,193 @@
+{
+  "id": "menarini",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Oncology research includes targeted small molecules and an ADC, while the September bofanglutide license expands metabolic development. ([Company profile](https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf); [license](https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html))",
+    "zh": "肿瘤研究包括靶向小分子和一款 ADC,而 9 月的 bofanglutide 许可扩大了代谢领域的开发。([Company profile](https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf); [license](https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html))"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "bofanglutide",
+      "code": "GZR18",
+      "modality": null,
+      "target": {
+        "en": "GLP-1 receptor agonist",
+        "zh": "GLP-1 受体激动剂"
+      },
+      "ind": {
+        "en": "Obesity or overweight",
+        "zh": "肥胖或超重"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": "licensed",
+      "next": {
+        "en": "Global Phase 3 program planned; China pivotal trial completed",
+        "zh": "计划开展全球 III 期项目;中国关键性试验已完成",
+        "when": null
+      },
+      "src": "https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html"
+    },
+    {
+      "name": "dapolsertib",
+      "code": "MEN1703 / SEL24",
+      "modality": "small molecule",
+      "target": {
+        "en": "PIM/FLT3 inhibitor",
+        "zh": "PIM/FLT3 抑制剂"
+      },
+      "ind": {
+        "en": "Relapsed/refractory aggressive B-cell non-Hodgkin lymphoma",
+        "zh": "复发/难治性侵袭性 B 细胞非霍奇金淋巴瘤"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "JASPIS-01 data at ASH on December 13",
+        "zh": "JASPIS-01 数据将于 12 月 13 日在 ASH 公布",
+        "when": "2026Q4"
+      },
+      "src": "https://www.menarini.com/en-us/news/news-detail/menarini-group-and-ryvu-therapeutics-announce-first-clinical-data-from-the-phase-ii-jaspis-01-study-of-dapolsertib.html"
+    },
+    {
+      "name": "MEN1611",
+      "code": "MEN1611",
+      "modality": "small molecule",
+      "target": {
+        "en": "PI3K inhibitor",
+        "zh": "PI3K 抑制剂"
+      },
+      "ind": {
+        "en": "Advanced breast cancer (Phase 2, active); an earlier Phase 1b/2 study in metastatic colorectal cancer is completed",
+        "zh": "晚期乳腺癌(II 期,进行中);此前在转移性结直肠癌中开展的 Ib/II 期研究已完成"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://clinicaltrials.gov/study/NCT05810870"
+    },
+    {
+      "name": "MEN1309",
+      "code": "MEN1309",
+      "modality": "ADC",
+      "target": {
+        "en": "CD205",
+        "zh": "CD205"
+      },
+      "ind": {
+        "en": "Solid tumors",
+        "zh": "实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
+    },
+    {
+      "name": "MEN2312",
+      "code": "MEN2312",
+      "modality": "small molecule",
+      "target": {
+        "en": "KAT6 inhibitor",
+        "zh": "KAT6 抑制剂"
+      },
+      "ind": {
+        "en": "Breast cancer; also solid and hematologic tumors",
+        "zh": "乳腺癌;另有实体瘤和血液肿瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
+    },
+    {
+      "name": "MEN2501",
+      "code": "MEN2501",
+      "modality": "small molecule",
+      "target": {
+        "en": "KIF18A inhibitor",
+        "zh": "KIF18A 抑制剂"
+      },
+      "ind": {
+        "en": "Ovarian cancer",
+        "zh": "卵巢癌"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Dapolsertib's first JASPIS-01 clinical data are scheduled for ASH in December 2026.",
+      "zh": "Dapolsertib 的首批 JASPIS-01 临床数据定于 2026 年 12 月在 ASH 公布。",
+      "src": "https://www.menarini.com/en-us/news/news-detail/menarini-group-and-ryvu-therapeutics-announce-first-clinical-data-from-the-phase-ii-jaspis-01-study-of-dapolsertib.html"
+    },
+    {
+      "k": "deal",
+      "en": "Bofanglutide's European license includes €62 million upfront and up to €664 million in milestones.",
+      "zh": "Bofanglutide 的欧洲许可包括 €62 million 首付款和最高 €664 million 的里程碑付款。",
+      "src": "https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html"
+    },
+    {
+      "k": "deal",
+      "en": "The preclinical GIM-621 license includes $45 million in upfront and near-term payments.",
+      "zh": "临床前项目 GIM-621 的许可包括 $45 million 的首付款和近期付款。",
+      "src": "https://www.menarini.com/en-us/news/news-detail/georgiamune-and-menarini-group-enter-exclusive-global-license-and-collaboration-agreement-for-gim-621-a-first-in-class-oral-immuno-oncology-agent.html"
+    },
+    {
+      "k": "concentration",
+      "en": "The oncology portfolio also contains approved elacestrant and tagraxofusp with indication-expansion trials.",
+      "zh": "肿瘤产品组合还包括已获批的 elacestrant 和 tagraxofusp,并正在开展适应症扩展试验。",
+      "src": "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Group pipeline",
+      "https://www.menarini.com/en-us/innovation-research/our-pipeline-and-products.html"
+    ],
+    [
+      "Current company profile, accessed November 2026",
+      "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
+    ],
+    [
+      "Stemline pipeline",
+      "https://medical.menarinistemline.com/Pipeline/StemlinePipeline"
+    ],
+    [
+      "Dapolsertib update, November 4, 2026",
+      "https://www.menarini.com/en-us/news/news-detail/menarini-group-and-ryvu-therapeutics-announce-first-clinical-data-from-the-phase-ii-jaspis-01-study-of-dapolsertib.html"
+    ],
+    [
+      "Bofanglutide license, September 3, 2026",
+      "https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html"
+    ],
+    [
+      "GIM-621 license, October 22, 2026",
+      "https://www.menarini.com/en-us/news/news-detail/georgiamune-and-menarini-group-enter-exclusive-global-license-and-collaboration-agreement-for-gim-621-a-first-in-class-oral-immuno-oncology-agent.html"
+    ],
+    [
+      "ClinicalTrials.gov: MEN1611 studies",
+      "https://clinicaltrials.gov/search?term=MEN1611"
+    ]
+  ],
+  "gaps": [
+    "Group pipeline tables did not expose asset rows in browser text; the current company profile and Stemline page were also read. No latest quarterly or half-year financial release was located for this private company.",
+    "The English company profile used for MEN1611 predates June 2026; the current Stemline page still lists its breast and colorectal trials, but numerical phase markers were not recoverable there. Phase 2 comes from the older profile and may be stale.",
+    "Origins were not verified for dapolsertib, MEN1611, MEN1309, MEN2312 or MEN2501; origin is null. Bofanglutide's precise modality was not explicitly verified; modality is null.",
+    "Bofanglutide phase 3 refers to the completed China pivotal study, not an already-started European Phase 3 trial; the global program has no disclosed start date.",
+    "No company-reported totals by phase were verified; counts is null. Dates for other next milestones were not disclosed or verified.",
+    "Approved elacestrant, tagraxofusp, selinexor and obicetrapib are excluded because a pending filing for a major new indication was not verified. Preclinical assets are excluded.",
+    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified.",
+    "MEN1611 status re-verified on ClinicalTrials.gov (NCT05810870, last updated 2026-03-10) after the original company PDF link went dead."
+  ]
+}

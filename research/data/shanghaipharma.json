@@ -1,0 +1,152 @@
+{
+  "id": "shanghaipharma",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Shanghai Pharmaceuticals combines distribution and established medicines with a focused innovative pipeline in immunology and neurological disease. Its late-stage assets include antibodies, a stroke small molecule and traditional Chinese medicines.",
+    "zh": "上海医药将分销和成熟药品与聚焦免疫和神经系统疾病的创新管线相结合。其后期资产包括抗体、一款卒中小分子药物和中成药。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "BCD-085",
+      "code": "BCD-085",
+      "modality": "antibody",
+      "target": {
+        "en": "IL-17",
+        "zh": "IL-17"
+      },
+      "ind": {
+        "en": "Ankylosing spondylitis; also plaque psoriasis",
+        "zh": "强直性脊柱炎;另有斑块状银屑病"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
+    },
+    {
+      "name": "Shenqi Sherong pills",
+      "code": null,
+      "modality": "other",
+      "target": null,
+      "ind": {
+        "en": "Cervical spondylotic myelopathy",
+        "zh": "脊髓型颈椎病"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
+    },
+    {
+      "name": "SRD4610",
+      "code": "SRD4610",
+      "modality": "other",
+      "target": null,
+      "ind": {
+        "en": "Amyotrophic lateral sclerosis",
+        "zh": "肌萎缩侧索硬化症"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
+    },
+    {
+      "name": "SHPL-49",
+      "code": "SHPL-49",
+      "modality": "small molecule",
+      "target": null,
+      "ind": {
+        "en": "Acute ischemic stroke",
+        "zh": "急性缺血性卒中"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
+    },
+    {
+      "name": "B001-C",
+      "code": "B001-C",
+      "modality": "antibody",
+      "target": {
+        "en": "CD20",
+        "zh": "CD20"
+      },
+      "ind": {
+        "en": "Neuromyelitis optica",
+        "zh": "视神经脊髓炎"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.sphchina.com/attached/files/PowerPoint/31032026.pdf"
+    },
+    {
+      "name": "B007",
+      "code": "B007",
+      "modality": "antibody",
+      "target": {
+        "en": "CD20",
+        "zh": "CD20"
+      },
+      "ind": {
+        "en": "Myasthenia gravis; also pemphigus and membranous nephropathy",
+        "zh": "重症肌无力;另有天疱疮和膜性肾病"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518810.PDF"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "BCD-085 is under review; the cervical-myelopathy program has reached pre-NDA discussions after Phase 3.",
+      "zh": "BCD-085 正在审评中;颈椎脊髓病项目在 III 期后已进入 NDA 前沟通。",
+      "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
+    },
+    {
+      "k": "concentration",
+      "en": "Nine-month distribution sales were RMB203.975 billion versus RMB18.989 billion pharmaceutical manufacturing sales.",
+      "zh": "前九个月分销销售额为 RMB203.975 billion,药品制造销售额为 RMB18.989 billion。",
+      "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
+    },
+    {
+      "k": "balance",
+      "en": "Nine-month R&D spending was RMB1.516 billion, or 7.98% of pharmaceutical manufacturing revenue.",
+      "zh": "前九个月研发支出为 RMB1.516 billion,占药品制造收入的 7.98%。",
+      "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
+    }
+  ],
+  "sources": [
+    [
+      "Q3 2026 report",
+      "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
+    ],
+    [
+      "H1 2026 report",
+      "https://static.cninfo.com.cn/finalpage/2026-08-28/1225518810.PDF"
+    ],
+    [
+      "Company pipeline presentation, March 2026",
+      "https://www.sphchina.com/attached/files/PowerPoint/31032026.pdf"
+    ]
+  ],
+  "gaps": [
+    "No standalone current pipeline webpage was located; the company pipeline presentation and current filings were reviewed.",
+    "The March 2026 presentation is older than June 2026; B001-C Phase 3 is carried from this source without a newer verified milestone.",
+    "No complete published counts by phase verified; total projects is not a phase breakdown.",
+    "Molecular targets for traditional medicines and SHPL-49, origins for several assets, and dated future events were not verified.",
+    "Pre-NDA discussion is not a marketing application; Shenqi Sherong remains Phase 3.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

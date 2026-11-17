@@ -164,6 +164,22 @@ main{position:relative;overflow:hidden;min-height:0}
 .events b{display:block;font-size:14.5px;margin:3px 0 2px}
 .events p{font-size:13.5px;margin:0;color:var(--ink)}
 .events a{color:var(--ink);text-underline-offset:2px;font-size:12.5px}
+.events p b{display:inline;font-size:inherit;margin:0}
+.events .pc{font-weight:400;color:var(--muted);font-size:12.5px}
+.pgl{font-size:12px;font-weight:700;color:var(--muted);margin:14px 0 4px}
+.ptags{display:flex;flex-wrap:wrap;gap:4px;margin:2px 0 4px}
+.pcn{color:var(--ink)}
+.pgaps{font-size:12.5px;color:var(--muted);margin:8px 0 0}
+.pgaps summary{cursor:pointer}
+.pgaps ul{padding-left:18px;margin:6px 0 0}
+.pgaps li{overflow-wrap:anywhere}
+#view-primer .doc{max-width:720px}
+.doc h2.ptitle{font-size:30px;line-height:1.2;margin:0 0 8px;letter-spacing:-0.015em}
+.ptoc{font-size:14px}
+#view-primer a{color:var(--ink);text-underline-offset:2px}
+.ptab{display:block;overflow-x:auto;max-width:100%;border-collapse:collapse;font-size:13px;margin:10px 0}
+.ptab th,.ptab td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+.ptab th{color:var(--muted);font-weight:600}
 .eh{display:flex;gap:8px;align-items:center}
 .ed{font-size:12px;color:var(--muted);font-weight:600;min-width:58px}
 .ek{font-size:11px;border:1px solid var(--line);border-radius:4px;padding:0 6px;color:var(--muted)}
@@ -284,6 +300,7 @@ dialog#howto .x{float:right}
       <button class="tab" role="tab" aria-selected="true" data-view="graph">Graph</button>
       <button class="tab" role="tab" aria-selected="false" data-view="table">Top 100</button>
       <button class="tab" role="tab" aria-selected="false" data-view="compare">Compare</button>
+      <button class="tab" role="tab" aria-selected="false" data-view="primer">Primer</button>
       <button class="tab" role="tab" aria-selected="false" data-view="method">Method</button>
       <button class="tab" role="tab" aria-selected="false" data-view="schema">Schema</button>
     </nav>
@@ -367,6 +384,10 @@ dialog#howto .x{float:right}
       </div>
     </section>
 
+    <section id="view-primer" class="view" role="tabpanel" hidden>
+      <article class="doc" id="primer-body"></article>
+    </section>
+
     <!-- METHOD -->
     <section id="view-method" class="view" role="tabpanel" hidden>
       <article class="doc">
@@ -439,6 +460,8 @@ dialog#howto .x{float:right}
 
         <h2>Re-screen (Phase 10)</h2>
         <p>The Top 100 was re-checked, and two omitted companies with revenue clearly above the last place on the list were added: Eurofarma (US$2.24B in 2025, grade B) and Intas Pharmaceuticals (FY2025 ₹20,855.5 crore, about $2.45B, grade B). Both are private companies, and have been added with profile, revenue, a few product rows (without per-product revenue) and recent events, but no collaboration records yet. The ranking table therefore now contains 102 companies; No. 101 and 102 (Hanmi and Nippon Shinyaku, about $1.0–1.1B) are close to the edge of the list and are kept. The re-check is not exhaustive: Zentiva, EMS, Qilu, Taisho, Hetero and others that may reach this size had no verifiable recent revenue found, so they were not added. Distribution groups such as Sinopharm and Jointown, and over-the-counter or device companies such as Siemens Healthineers, Kenvue and Haleon are not counted under the basis used.</p>
+
+        <p><b>Pipeline data</b>: pipeline entries come from company pipeline pages, results releases, exchange filings and clinicaltrials.gov, as of November 2026. Each item links to its source, and fields that could not be verified are left blank.</p>
 
         <h2>Expansion log</h2>
         <p><b>Phase 7, batch 1a</b>: Boehringer Ingelheim, Takeda, Bayer, Astellas, Vertex and Biogen were added with profile, top five products, LOE and recent events, plus 6 new collaborations (Adcetris, Nubeqa, Mylan–Biocon biosimilars, Casgevy, Leqembi, Spinraza) and 2 supporting nodes (CRISPR Therapeutics, Ionis). The 5-year share-price snapshots for these companies will be added in a later batch.</p>
@@ -605,6 +628,17 @@ dialog#howto .x{float:right}
           </dl>
         </div>
         <div class="entity">
+          <h3>Pipeline (PIPE)</h3>
+          <p>One record per company, loaded from <code>pipeline.js</code>. Any field may be null, and a company may be missing entirely.</p>
+          <dl class="fields">
+            <dt>asof, summary{en,zh}</dt><dd>month the record was compiled; one or two sentences on the character of the pipeline</dd>
+            <dt>counts{p1,p2,p3,reg,note}</dt><dd>phase counts as reported by the company, or null; never counted by us</dd>
+            <dt>items[]</dt><dd>name, code, modality, target{en,zh}, ind{en,zh}, phase ("reg" | "3" | "2" | "1"), ta, origin, next{en,zh,when}, src</dd>
+            <dt>watch[]</dt><dd>k (catalyst / loe / concentration / deal / policy / balance / other), en, zh, src</dd>
+            <dt>sources[], gaps[]</dt><dd>[label, url] pairs; a list of what could not be verified</dd>
+          </dl>
+        </div>
+        <div class="entity">
           <h3>Source</h3>
           <dl class="fields">
             <dt>publisher, title, date, url</dt><dd>basic information about the source</dd>
@@ -632,11 +666,12 @@ dialog#howto .x{float:right}
 <li>Use Compare to put two companies side by side; use the time slider and Historical Top 100 to see how the league table changed since 2000.</li></ul>
 <h3>4. What to be careful about</h3><ul>
 <li>Grade A/B/C shows how well a revenue figure is verified. "待核实" / "to be verified" means unverified; blanks are deliberate, never filled by guesswork.</li>
-<li>Not covered yet: R&amp;D pipeline, and LOE for several large companies. It shows what is known about the past and the marketed portfolio, not future winners.</li>
+<li>Pipelines are summarised from company sources as of November 2026 (open a company and see Pipeline); LOE for several large companies is still being verified. It shows what is known about the past and the marketed portfolio, not future winners.</li>
 <li>Compiled from public sources and may contain errors. Informational only, not investment advice.</li></ul>
 </dialog>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="pipeline.js"></script><script src="primer.js"></script>
 <script>
 (function(){
 "use strict";
@@ -2628,7 +2663,7 @@ readColors();
 /* ---------- tabs ---------- */
 const tabs=[...document.querySelectorAll(".tab")];
 function show(view){tabs.forEach(t=>t.setAttribute("aria-selected",String(t.dataset.view===view)));
-  ["graph","table","compare","method","schema"].forEach(v=>{document.getElementById("view-"+v).hidden=(v!==view);});
+  ["graph","table","compare","primer","method","schema"].forEach(v=>{document.getElementById("view-"+v).hidden=(v!==view);});
   if(view==="graph")resize();}
 tabs.forEach(t=>t.addEventListener("click",()=>show(t.dataset.view)));
 
@@ -2878,6 +2913,58 @@ function productsHTML(id){const x=byId[id],list=PROD[id];
       '<div class="loe"><span class="lh">LOE</span><div>'+p.loe.map(r=>'<div class="lr"><span>'+esc(r[0])+'</span><span>'+esc(r[1])+'</span><span>'+esc(r[2]||"")+'</span></div>').join("")+'</div></div></li>';});
   h+='</ol>'+loeChart(list);if(PSRC[id])h+='<p class="src">Sources: '+PSRC[id].map(r=>'<a href="'+r[1]+'" target="_blank" rel="noopener">'+esc(r[0])+' ↗</a>').join(' · ')+'</p>';return h;}
 
+/* ---------- pipeline, what to watch, primer ---------- */
+const LANG="en",PIPE=window.PIPE||{};
+const tx=o=>o&&o[LANG]||o&&o.en||"";
+const T={pipe:"Pipeline",asof:a=>"As of "+a+".",reported:"Company-reported: ",p1:"Phase 1",p2:"Phase 2",p3:"Phase 3",filed:"Filed",gReg:"Filed / under review",
+  origin:{internal:"In-house",licensed:"Licensed in",acquired:"Acquired","co-developed":"Co-developed"},
+  next:(t,w)=>"Next: "+t+(w?" ("+w+")":""),source:"Source",sources:"Sources: ",gaps:n=>"What we could not verify ("+n+")",
+  watch:"What to watch",watchSub:"Points a new investor could look into. Informational only, not investment advice.",
+  conc:(b,s)=>"<b>"+b+"</b> is about "+s+"% of FY2025 drug revenue.",loe:(b,y)=>"Next US loss of exclusivity among top products: <b>"+b+"</b> in "+y+".",late:n=>"<b>"+n+"</b> filed or Phase 3 assets listed below.",
+  wk:{catalyst:"Catalyst",loe:"Patent cliff",concentration:"Concentration",deal:"Deals",policy:"Pricing & policy",balance:"Balance sheet",other:"Other"},
+  primerGo:"New to pharma investing? Read the primer",primer:"Primer",noPrimer:"The primer text could not be loaded.",glance:"Pipelines at a glance",covered:n=>n+" of 100 companies covered so far",
+  co:"Company",nextMs:"Next stated milestone",ms:(n,t,w)=>n+": "+t+" ("+w+")",lateCmp:(n,m)=>n+" filed · "+m+" Phase 3"};
+const PHASES=[["reg",T.gReg],["3",T.p3],["2",T.p2],["1",T.p1],["?","Stage not disclosed"]];
+const hlink=(u,label)=>/^http/.test(u||"")?'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(label)+' ↗</a>':'';
+const pipeCount=(id,ph)=>((PIPE[id]||{}).items||[]).filter(i=>i.phase===ph).length;
+function pipelineHTML(id){const P=PIPE[id];if(!P)return "";
+  let h='<h3 class="sec">'+T.pipe+'</h3><p class="sub">'+esc(tx(P.summary))+(P.asof?' '+T.asof(esc(P.asof)):'')+'</p>';
+  const c=P.counts;if(c){const parts=[["p1",T.p1],["p2",T.p2],["p3",T.p3],["reg",T.filed]].filter(r=>c[r[0]]!=null).map(r=>r[1]+' '+esc(c[r[0]]));
+    if(parts.length||c.note)h+='<p class="pn">'+(parts.length?'<span class="pcn">'+T.reported+parts.join(' · ')+'</span> ':'')+esc(c.note||"")+'</p>';}
+  const items=P.items||[];
+  PHASES.forEach(g=>{const l=items.filter(i=>(["reg","3","2","1"].includes(i.phase)?i.phase:"?")===g[0]);if(!l.length)return;
+    h+='<p class="pgl">'+g[1]+'</p><ol class="events">'+l.map(i=>{
+      const tags=[i.modality,i.ta,T.origin[i.origin]].filter(Boolean),nx=i.next&&tx(i.next),tg=tx(i.target),sl=hlink(i.src,T.source);
+      return '<li><b>'+esc(i.name)+(i.code&&i.code!==i.name?' <span class="pc">'+esc(i.code)+'</span>':'')+'</b>'+
+        (tags.length?'<div class="ptags">'+tags.map(t=>'<span class="ek">'+esc(t)+'</span>').join("")+'</div>':'')+
+        '<p>'+(tg?'<span class="muted">'+esc(tg)+'</span><br>':'')+esc(tx(i.ind))+'</p>'+
+        (nx?'<p>'+T.next(esc(nx),esc(i.next.when||""))+'</p>':'')+(sl?'<p>'+sl+'</p>':'')+'</li>';}).join("")+'</ol>';});
+  const srcs=(P.sources||[]).map(r=>hlink(r[1],r[0])).filter(Boolean);
+  if(srcs.length)h+='<p class="src">'+T.sources+srcs.join(' · ')+'</p>';
+  const gaps=(P.gaps||[]).filter(Boolean);
+  if(gaps.length)h+='<details class="pgaps"><summary>'+T.gaps(gaps.length)+'</summary><ul>'+gaps.map(g=>'<li>'+esc(g)+'</li>').join("")+'</ul></details>';
+  return h;}
+function watchHTML(id){const P=PIPE[id],w=P&&P.watch||[],list=PROD[id];if(!w.length&&!list)return "";
+  const facts=[];
+  if(list){const base=BASE[id]?BASE[id].v:byId[id].v,top=list.filter(p=>p.v).sort((a,b)=>b.v-a.v)[0];
+    if(top&&base&&top.v/base>=0.15)facts.push(T.conc(esc(top.b),Math.round(top.v/base*100)));
+    const loe=list.filter(p=>p.us&&p.us>=2026).sort((a,b)=>a.us-b.us)[0];if(loe)facts.push(T.loe(esc(loe.b),esc(loe.us)));}
+  const late=pipeCount(id,"reg")+pipeCount(id,"3");if(late)facts.push(T.late(late));
+  let h='<h3 class="sec">'+T.watch+'</h3><p class="sub">'+T.watchSub+'</p>';
+  if(facts.length||w.length)h+='<ul class="events">'+facts.map(f=>'<li><p>'+f+'</p></li>').join("")+
+    w.map(o=>{const sl=hlink(o.src,T.source);return '<li><div class="eh"><span class="ek">'+esc(T.wk[o.k]||T.wk.other)+'</span></div><p>'+esc(tx(o))+(sl?' '+sl:'')+'</p></li>';}).join("")+'</ul>';
+  return h+'<p class="src"><button class="linkish" type="button" data-go="primer">'+T.primerGo+'</button></p>';}
+function renderPrimer(){const el=document.getElementById("primer-body"),R=window.PRIMER&&(window.PRIMER[LANG]||window.PRIMER.en);if(!el)return;
+  let h="";const secs=R&&R.sections||[];
+  if(R)h+='<h2 class="ptitle">'+esc(R.title)+'</h2><p class="lede">'+esc(R.lede)+'</p><ul class="ptoc">'+secs.map(s=>'<li><a href="#pr-'+esc(s.id)+'">'+esc(s.h)+'</a></li>').join("")+'<li><a href="#pr-glance">'+T.glance+'</a></li></ul>'+
+    secs.map(s=>'<section id="pr-'+esc(s.id)+'"><h3>'+esc(s.h)+'</h3>'+s.body+'</section>').join("");
+  else h+='<h2 class="ptitle">'+T.primer+'</h2><p class="lede">'+T.noPrimer+'</p>';
+  const rows=Object.keys(PIPE).filter(id=>byId[id]).map(id=>({id,f:pipeCount(id,"reg"),t:pipeCount(id,"3")})).sort((a,b)=>(b.f+b.t)-(a.f+a.t));
+  h+='<section id="pr-glance"><h3>'+T.glance+'</h3><p class="muted">'+T.covered(rows.length)+'</p>';
+  if(rows.length)h+='<table class="ptab"><thead><tr><th>'+T.co+'</th><th>'+T.filed+'</th><th>'+T.p3+'</th><th>'+T.nextMs+'</th></tr></thead><tbody>'+rows.map(r=>{const n=(PIPE[r.id].items||[]).find(i=>i.next&&i.next.when);
+    return '<tr><td><button class="linkish" type="button" data-node="'+esc(r.id)+'">'+esc(nameOf(r.id))+'</button></td><td>'+r.f+'</td><td>'+r.t+'</td><td>'+(n?T.ms(esc(n.name),esc(tx(n.next)),esc(n.next.when)):'<span class="muted">—</span>')+'</td></tr>';}).join("")+'</tbody></table>';
+  el.innerHTML=h+'</section>';}
+
 function eventsHTML(id){const ev=EVENTS[id];if(!ev)return "";
   let h="<h3 class=\"sec\">Recent developments</h3><p class=\"sub\">Selected events that change how this company should be understood, newest first.</p><ol class=\"events\">";
   ev.forEach(e=>{h+='<li><div class="eh"><span class="ed">'+esc(e.d)+'</span><span class="ek k-'+e.k+'">'+EVK[e.k]+'</span></div><b>'+esc(e.t)+'</b><p>'+esc(e.s)+(e.u?' <a href="'+e.u+'" target="_blank" rel="noopener">Source ↗</a>':'')+'</p></li>';});
@@ -2930,7 +3017,7 @@ function openNode(id){
       '<dt>Region</dt><dd><span class="dot" style="background:var('+REG_VAR[x.reg]+')"></span>'+region+'</dd>'+
       '<dt>Status</dt><dd>'+esc(x.s)+'</dd>'+
       '<dt>Listing</dt><dd>'+(x.l?esc(x.l):'Not separately listed')+'</dd>'+profileRows(id)+'</dl>'+profileHTML(id)+
-      (x.t?'<p class="note">'+esc(x.t)+'</p>':'')+productsHTML(id)+eventsHTML(id)+stockHTML(id)+compHTML(id);
+      (x.t?'<p class="note">'+esc(x.t)+'</p>':'')+productsHTML(id)+pipelineHTML(id)+watchHTML(id)+eventsHTML(id)+stockHTML(id)+compHTML(id);
   }
   // ownership and lineage
   const kids=OWN.filter(o=>o.p===id);const sp=spinOf[id];
@@ -2958,6 +3045,11 @@ function ensureVisible(id){let changed=false;
   if(!nodeMap[id]&&!byId[id].sup&&!showAll){showAll=true;tAll.setAttribute("aria-pressed","true");changed=true;}
   if(changed)build();}
 
+renderPrimer();
+document.getElementById("view-primer").addEventListener("click",e=>{const n=e.target.closest("[data-node]");if(n){show("graph");ensureVisible(n.dataset.node);openNode(n.dataset.node);return;}
+  const a=e.target.closest('a[href^="#pr-"]');if(a){const t=document.getElementById(a.getAttribute("href").slice(1));if(t){e.preventDefault();t.scrollIntoView();}}});
+pb.addEventListener("click",e=>{if(e.target.closest('[data-go="primer"]')){show("primer");document.getElementById("view-primer").scrollTop=0;}});
+
 /* ---------- search ---------- */
 const q=document.getElementById("q"),res=document.getElementById("results");
 const TAS=[...new Set(DEALS.map(d=>d.ta))].sort();
@@ -2969,6 +3061,8 @@ function renderResults(){
   if(cos.length){h+='<h4>Companies</h4>';cos.forEach(c=>{resItems.push({k:"c",id:c.id});h+='<button data-i="'+(resItems.length-1)+'">'+esc(c.n)+'<small>'+(c.sup?"Supporting node"+(parentOf[c.id]?", now "+esc(nameOf(parentOf[c.id].p)):""):"#"+c.r+", "+esc(COUNTRY[c.c]))+'</small></button>';});}
   const prods=[];Object.keys(PROD).forEach(cid=>PROD[cid].forEach((p,i)=>{if((p.b+" "+p.g+" "+p.ind).toLowerCase().includes(query))prods.push({cid,i,p});}));
   if(prods.length){h+='<h4>Top products</h4>';prods.slice(0,8).forEach(o=>{resItems.push({k:"p",id:o.cid,i:o.i});h+='<button data-i="'+(resItems.length-1)+'">'+esc(o.p.b)+' <span style="color:var(--muted)">'+esc(o.p.g)+'</span><small>'+esc(nameOf(o.cid))+'; '+(o.p.v?'FY2025 $'+o.p.v.toFixed(2)+'B':"FY2025 to be verified")+'; '+esc(o.p.ind)+'; first approved '+esc(o.p.yr)+(o.p.on?'<br>'+esc(o.p.on):'')+'</small></button>';});}
+  const pls=[];Object.keys(PIPE).forEach(cid=>{if(byId[cid])(PIPE[cid].items||[]).forEach(i=>{if([i.name,i.code,i.ind&&i.ind.en,i.ind&&i.ind.zh].filter(Boolean).join(" ").toLowerCase().includes(query))pls.push({cid,i});});});
+  if(pls.length){h+='<h4>'+T.pipe+'</h4>';pls.slice(0,6).forEach(o=>{resItems.push({k:"c",id:o.cid});h+='<button data-i="'+(resItems.length-1)+'">'+esc(o.i.name)+(o.i.code&&o.i.code!==o.i.name?' <span style="color:var(--muted)">'+esc(o.i.code)+'</span>':'')+'<small>'+esc(nameOf(o.cid))+'; '+((PHASES.find(g=>g[0]===o.i.phase)||[])[1]||"")+'; '+esc(tx(o.i.ind))+'</small></button>';});}
   if(ds.length){h+='<h4>Drugs and programs</h4>';ds.forEach(d=>{resItems.push({k:"d",id:d.id});
     h+='<button data-i="'+(resItems.length-1)+'">'+esc(d.p)+' <span style="color:var(--muted)">'+esc(d.g)+'</span><small>'+esc(nameOf(d.a))+' ↔ '+esc(nameOf(d.b))+', '+d.y+'; '+esc(d.ind)+(d.ap&&d.ap!=="—"?'; '+esc(d.ap):'')+(d.now?'<br>Now: '+esc(d.now):'')+'</small></button>';});}
   if(tas.length){h+='<h4>Therapeutic areas</h4>';tas.forEach(t=>{resItems.push({k:"t",id:t});h+='<button data-i="'+(resItems.length-1)+'">'+esc(t)+'<small>'+DEALS.filter(d=>d.ta===t).length+' collaborations; highlights them in the graph</small></button>';});}
@@ -3041,13 +3135,14 @@ function renderCompare(){const a=selA.value,b=selB.value,A=byId[a],B=byId[b];
   const pk=pairKey(a,b),deals=DEALS.filter(d=>pairKey(root(d.a),root(d.b))===pk).sort((x,y)=>x.y-y.y),comps=COMP.filter(c=>pairKey(root(c.a),root(c.b))===pk);
   let h='<section class="csec"><h2>Collaborations</h2>';
   if(deals.length)h+='<p class="sub">'+deals.length+(deals.length>1?" collaborations":" collaborations")+", including collaborations signed through acquired companies. Click to open the full card in the graph.</p><ul class=\"timeline\">"+deals.map(d=>'<li><button data-deal="'+d.id+'"><span class="yr">'+d.y+'</span><span><b>'+esc(d.p)+'</b> <span class="st '+d.st+'">'+STATUS[d.st]+'</span><small>'+esc(d.ty.map(t=>TYPE[t]).join(", "))+'; '+esc(d.ind)+((root(d.a)!==d.a||root(d.b)!==d.b)?"; signatories "+esc(nameOf(d.a))+' / '+esc(nameOf(d.b)):'')+'</small></span></button></li>').join("")+'</ul>';
-  else h+="<p class=\"sub\">No drug collaborations between the two are recorded yet."+(!(A.p&&B.p)?"Collaboration data for one of them will be completed in Phase 7.":'')+'</p>';
+  else h+="<p class=\"sub\">No drug collaborations between the two are recorded yet."+(!(A.p&&B.p)?"Collaboration data for one of them is still being compiled.":'')+'</p>';
   h+='</section>';
   const taA=(PROF[a]||{}).ta||[],taB=(PROF[b]||{}).ta||[],norm=t=>t.toLowerCase().split(/[ (\/,]/)[0],shared=taA.filter(t=>taB.some(u=>norm(u)===norm(t)));
-  const tas=(list,other)=>list.length?'<div class="tas">'+list.map(t=>'<span'+(other.some(u=>norm(u)===norm(t))?' class="on"':'')+'>'+esc(t)+'</span>').join("")+'</div>':'<span class="muted">Phase 7</span>';
-  const prods=id=>{const l=(PROD[id]||[]).slice(0,3);return l.length?l.map(p=>esc(p.b)+' <span class="muted">'+(p.v?'$'+p.v.toFixed(1)+'B':'n/v')+'</span>').join('<br>'):'<span class="muted">Phase 7</span>';};
+  const tas=(list,other)=>list.length?'<div class="tas">'+list.map(t=>'<span'+(other.some(u=>norm(u)===norm(t))?' class="on"':'')+'>'+esc(t)+'</span>').join("")+'</div>':'<span class="muted">Not yet compiled</span>';
+  const prods=id=>{const l=(PROD[id]||[]).slice(0,3);return l.length?l.map(p=>esc(p.b)+' <span class="muted">'+(p.v?'$'+p.v.toFixed(1)+'B':'n/v')+'</span>').join('<br>'):'<span class="muted">Not yet compiled</span>';};
   const nextLoe=id=>{const l=(PROD[id]||[]).filter(p=>p.us&&p.us>=2026).sort((x,y)=>x.us-y.us);return l.length?esc(l[0].b)+' <span class="muted">US '+l[0].us+'</span>':'<span class="muted">—</span>';};
   const ret=id=>{const st=STOCK[id];if(!st)return '<span class="muted">'+(/Private/.test(byId[id].s)?'Private':'—')+'</span>';if(st.summary)return '<b>'+(st.rets[0][1]>=0?'+':'')+st.rets[0][1].toFixed(0)+'%</b> <span class="muted">'+esc(st.rets[0][0])+'</span>';const q=st.q,r=(q[q.length-1][1]/q[0][1]-1)*100;return '<b>'+(r>=0?'+':'')+r.toFixed(0)+'%</b> <span class="muted">'+esc(q[0][0])+' → '+esc(q[q.length-1][0])+'</span>';};
+  const late=id=>PIPE[id]?T.lateCmp(pipeCount(id,"reg"),pipeCount(id,"3")):'<span class="muted">—</span>';
   const ev=id=>{const l=(EVENTS[id]||[]).slice(0,2);return l.length?l.map(e=>'<span class="muted">'+esc(e.d)+'</span> '+esc(e.t)).join('<br>'):'<span class="muted">—</span>';};
   const pf=(id,X)=>esc(((PROF[id]||{}).f||"—")+' / '+((PROF[id]||{}).hq||COUNTRY[X.c]));
   h+='<section class="csec"><h2>Company profiles</h2><div class="table-wrap"><table class="ctab"><thead><tr><th></th><th>'+esc(A.n)+'</th><th>'+esc(B.n)+'</th></tr></thead><tbody>'+
@@ -3056,6 +3151,7 @@ function renderCompare(){const a=selA.value,b=selB.value,A=byId[a],B=byId[b];
     '<tr><th>Areas of strength</th><td>'+tas(taA,taB)+'</td><td>'+tas(taB,taA)+'</td></tr>'+
     '<tr><th>Top products, FY2025</th><td>'+prods(a)+'</td><td>'+prods(b)+'</td></tr>'+
     '<tr><th>Next US LOE in top five</th><td>'+nextLoe(a)+'</td><td>'+nextLoe(b)+'</td></tr>'+
+    '<tr><th>Late-stage pipeline</th><td>'+late(a)+'</td><td>'+late(b)+'</td></tr>'+
     '<tr><th>Recent developments</th><td>'+ev(a)+'</td><td>'+ev(b)+'</td></tr>'+
     '<tr><th>Five-year return</th><td>'+ret(a)+'</td><td>'+ret(b)+'</td></tr>'+
     '</tbody></table></div>'+(shared.length?"<p class=\"sub\">Shared strengths are highlighted. Overlap in therapeutic areas alone does not mean competition; competition is judged only on specific products.</p>":'')+'</section>';

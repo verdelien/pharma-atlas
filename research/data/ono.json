@@ -1,0 +1,238 @@
+{
+  "id": "ono",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Ono combines oncology filings and label expansions with internally developed gastric-cancer and neuroscience candidates. Licensed late-stage immunology and hematology programs broaden the portfolio.",
+    "zh": "Ono 将肿瘤领域的申报和适应症扩展,与自主研发的胃癌和神经科学候选药物相结合。已获许可的后期免疫和血液项目拓宽了产品组合。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "tirabrutinib (CNS lymphoma)",
+      "code": "ONO-4059",
+      "modality": "small molecule",
+      "target": {
+        "en": "BTK",
+        "zh": "BTK"
+      },
+      "ind": {
+        "en": "CNS lymphoma in the US and Japan; also Phase 3 pemphigus",
+        "zh": "美国和日本的中枢神经系统淋巴瘤;另有天疱疮 III 期"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "name": "ripretinib (Japan registration)",
+      "code": "DCC-2618",
+      "modality": "small molecule",
+      "target": {
+        "en": "KIT",
+        "zh": "KIT"
+      },
+      "ind": {
+        "en": "Fourth-line GIST in Japan; also Phase 3 mutation-selected second-line GIST",
+        "zh": "日本四线 GIST;另有突变选择的二线 GIST III 期"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "name": "nivolumab (anaplastic thyroid cancer)",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "PD-1",
+        "zh": "PD-1"
+      },
+      "ind": {
+        "en": "Anaplastic thyroid cancer with lenvatinib in Japan",
+        "zh": "日本与 lenvatinib 联用治疗间变性甲状腺癌"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "name": "ONO-4578",
+      "code": "ONO-4578",
+      "modality": "small molecule",
+      "target": {
+        "en": "EP4 prostaglandin receptor",
+        "zh": "EP4 前列腺素受体"
+      },
+      "ind": {
+        "en": "First-line gastric cancer; also Phase 2 colorectal cancer",
+        "zh": "一线胃癌;另有结直肠癌 II 期"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "name": "sapablursen",
+      "code": "ONO-0530",
+      "modality": "other",
+      "target": {
+        "en": "TMPRSS6",
+        "zh": "TMPRSS6"
+      },
+      "ind": {
+        "en": "Polycythemia vera",
+        "zh": "真性红细胞增多症"
+      },
+      "phase": "3",
+      "ta": "Hematology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "name": "povetacicept",
+      "code": "ONO-8531",
+      "modality": "other",
+      "target": {
+        "en": "BAFF/APRIL dual antagonist",
+        "zh": "BAFF/APRIL 双重拮抗剂"
+      },
+      "ind": {
+        "en": "IgA nephropathy; also membranous nephropathy",
+        "zh": "IgA 肾病;另有膜性肾病"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "name": "ONO-2808",
+      "code": "ONO-2808",
+      "modality": "small molecule",
+      "target": {
+        "en": "S1P5 receptor agonist",
+        "zh": "S1P5 受体激动剂"
+      },
+      "ind": {
+        "en": "Multiple system atrophy",
+        "zh": "多系统萎缩"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "name": "cenobamate (seizure expansions)",
+      "code": "ONO-2017",
+      "modality": "small molecule",
+      "target": {
+        "en": "Sodium channels / GABAA",
+        "zh": "钠通道 / GABAA"
+      },
+      "ind": {
+        "en": "Pediatric partial-onset seizures; also generalized tonic-clonic seizures",
+        "zh": "儿童部分性发作癫痫;另有全面强直-阵挛发作"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "name": "BHV-1300",
+      "code": "BHV-1300",
+      "modality": "other",
+      "target": {
+        "en": "IgG degradation",
+        "zh": "IgG 降解"
+      },
+      "ind": {
+        "en": "Graves' disease",
+        "zh": "格雷夫斯病"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "name": "ONO-1110",
+      "code": "ONO-1110",
+      "modality": "small molecule",
+      "target": {
+        "en": "Endocannabinoid modulation",
+        "zh": "内源性大麻素调节"
+      },
+      "ind": {
+        "en": "Postherpetic neuralgia; also fibromyalgia and interstitial cystitis",
+        "zh": "带状疱疹后神经痛;另有纤维肌痛和间质性膀胱炎"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.ono-pharma.com/en/news/20261029.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Tirabrutinib CNS lymphoma and nivolumab thyroid-cancer applications are filed; ONO-4578 and ONO-2808 entered Phase 3.",
+      "zh": "Tirabrutinib 治疗中枢神经系统淋巴瘤和 nivolumab 治疗甲状腺癌的申请已提交;ONO-4578 和 ONO-2808 已进入 III 期。",
+      "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    },
+    {
+      "k": "other",
+      "en": "ONO-1110 missed primary endpoints in three pain-related Phase 2 studies; further studies are planned based on subgroup/exploratory signals.",
+      "zh": "ONO-1110 在三项疼痛相关 II 期研究中未达到主要终点;基于亚组/探索性信号,计划开展进一步研究。",
+      "src": "https://www.ono-pharma.com/en/news/20261029.html"
+    },
+    {
+      "k": "deal",
+      "en": "Povetacicept, sapablursen and BHV-1300 are licensed from Vertex, Ionis and Biohaven, respectively.",
+      "zh": "Povetacicept、sapablursen 和 BHV-1300 分别从 Vertex、Ionis 和 Biohaven 获得许可。",
+      "src": "https://www.ono-pharma.com/en/ir/library/pipeline"
+    }
+  ],
+  "sources": [
+    [
+      "Complete pipeline, October 29",
+      "https://www.ono-pharma.com/en/ir/library/pipeline"
+    ],
+    [
+      "H1 FY2026 results, October 29",
+      "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
+    ],
+    [
+      "Development progress and fiscal-year trial timelines",
+      "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/presen/20261029_2_en%23.pdf"
+    ],
+    [
+      "ONO-1110 Phase 2 results, October 29",
+      "https://www.ono-pharma.com/en/news/20261029.html"
+    ]
+  ],
+  "gaps": [
+    "No complete company phase totals verified.",
+    "Pipeline webpage phase bars were not readable; numeric stages were confirmed in the results appendix.",
+    "Origin internal follows company In-house disclosure, including group subsidiaries; it does not establish pre-acquisition discovery provenance.",
+    "Povetacicept and BHV-1300 are mapped to modality other because their precise permitted modality classification was not explicit; sapablursen is an antisense oligonucleotide.",
+    "Fiscal-year trial completion projections were not converted into calendar dates; next is null where no calendar milestone was verified.",
+    "ONO-1110 psychiatric programs were discontinued and are excluded.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "sobi",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Sobi's rare-disease pipeline centers on immune and hematologic label expansions plus a growing gout franchise. Acquisitions and commercial licenses supply several key development opportunities.",
+    "zh": "Sobi 的罕见病管线以免疫和血液学适应症扩展为中心,并有不断壮大的痛风产品线。收购和商业许可提供了若干关键的开发机会。"
+  },
+  "counts": {
+    "p1": null,
+    "p2": 5,
+    "p3": 3,
+    "reg": 3,
+    "note": "Company pipeline webpage updated 26 October 2026 reports 5 Phase 2, 3 Phase 3, 3 registration and 1 Phase 4 programs. Phase 1 is not reported. These are program counts, not unique assets; NASP is classified as registration by the company despite its CRL."
+  },
+  "items": [
+    {
+      "name": "emapalumab (European HLH/MAS expansion)",
+      "code": "Gamifant",
+      "modality": "antibody",
+      "target": {
+        "en": "Interferon-gamma",
+        "zh": "干扰素-γ"
+      },
+      "ind": {
+        "en": "HLH/MAS in Still's disease; also mHLH and sepsis",
+        "zh": "Still 病中的 HLH/MAS;另有 mHLH 和脓毒症"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "European regulatory decision",
+        "zh": "欧洲监管决定",
+        "when": null
+      },
+      "src": "https://www.sobi.com/en/pipeline"
+    },
+    {
+      "name": "olezarsen (severe hypertriglyceridemia)",
+      "code": "Tryngolza",
+      "modality": "other",
+      "target": null,
+      "ind": {
+        "en": "Severe hypertriglyceridemia in Europe",
+        "zh": "欧洲重度高甘油三酯血症"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": "licensed",
+      "next": {
+        "en": "European regulatory decision",
+        "zh": "欧洲监管决定",
+        "when": "2026Q4"
+      },
+      "src": "https://www.sobi.com/sites/sobi/files/pr/202610269994-1.pdf"
+    },
+    {
+      "name": "pozdeutinurad",
+      "code": "AR882",
+      "modality": "small molecule",
+      "target": {
+        "en": "URAT1",
+        "zh": "URAT1"
+      },
+      "ind": {
+        "en": "Progressive and tophaceous gout",
+        "zh": "进展性和痛风石性痛风"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": "acquired",
+      "next": {
+        "en": "FDA NDA submission, targeted mid-year",
+        "zh": "FDA NDA 申报,目标为年中",
+        "when": "2027"
+      },
+      "src": "https://www.sobi.com/en/press-releases/sobi-completes-acquisition-arthrosi-therapeutics-strengthening-pipeline-potential-treatment-gout-2424540"
+    },
+    {
+      "name": "pacritinib (new-indication development)",
+      "code": "Vonjo",
+      "modality": "small molecule",
+      "target": null,
+      "ind": {
+        "en": "VEXAS; also CMML and Phase 3 myelofibrosis confirmation",
+        "zh": "VEXAS;另有 CMML 和 III 期骨髓纤维化确证研究"
+      },
+      "phase": "2",
+      "ta": "Hematology",
+      "origin": null,
+      "next": {
+        "en": "PAXIS Phase 2 and PACIFICA Phase 3 results",
+        "zh": "PAXIS II 期和 PACIFICA III 期结果",
+        "when": "2027"
+      },
+      "src": "https://www.sobi.com/sites/sobi/files/pr/202610269994-1.pdf"
+    },
+    {
+      "name": "avatrombopag (aplastic anemia)",
+      "code": "Doptelet",
+      "modality": "small molecule",
+      "target": {
+        "en": "Thrombopoietin receptor",
+        "zh": "血小板生成素受体"
+      },
+      "ind": {
+        "en": "Difficult-to-treat aplastic anemia",
+        "zh": "难治性再生障碍性贫血"
+      },
+      "phase": "3",
+      "ta": "Hematology",
+      "origin": null,
+      "next": {
+        "en": "Phase 2/3 results",
+        "zh": "II/III 期结果",
+        "when": "2028"
+      },
+      "src": "https://www.sobi.com/sites/sobi/files/pr/202610269994-1.pdf"
+    },
+    {
+      "name": "lacutamab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "KIR3DL2",
+        "zh": "KIR3DL2"
+      },
+      "ind": {
+        "en": "Cutaneous T-cell lymphoma and Sézary syndrome",
+        "zh": "皮肤 T 细胞淋巴瘤和 Sézary 综合征"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.sobi.com/en/pipeline"
+    },
+    {
+      "name": "NASP (resubmission after CRL)",
+      "code": null,
+      "modality": "other",
+      "target": null,
+      "ind": {
+        "en": "Uncontrolled gout",
+        "zh": "未控制的痛风"
+      },
+      "phase": null,
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "FDA resubmission",
+        "zh": "FDA 重新提交",
+        "when": null
+      },
+      "src": "https://www.sobi.com/sites/sobi/files/pr/sobi-q3-2026-presentation_0.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "NASP received an FDA CRL; the company is working toward resubmission rather than awaiting an approval decision.",
+      "zh": "NASP 收到 FDA 完整回复函 (CRL);公司正在着手重新提交,而非等待批准决定。",
+      "src": "https://www.sobi.com/sites/sobi/files/pr/sobi-q3-2026-presentation_0.pdf"
+    },
+    {
+      "k": "catalyst",
+      "en": "Pozdeutinurad filing is targeted for mid-2027; Tryngolza's European decision is expected in Q4 2026.",
+      "zh": "Pozdeutinurad 的申报目标为 2027 年中;Tryngolza 的欧洲决定预计在 2026 年第四季度作出。",
+      "src": "https://www.sobi.com/sites/sobi/files/pr/sobi-q3-2026-presentation_0.pdf"
+    },
+    {
+      "k": "deal",
+      "en": "Lacutamab's Innate partnership provides global commercialization rights with an option for full development rights after positive Phase 3 results.",
+      "zh": "Lacutamab 与 Innate 的合作提供全球商业化权利,并在 III 期结果积极后可选择获得完整开发权。",
+      "src": "https://www.sobi.com/sites/sobi/files/pr/202610269994-1.pdf"
+    },
+    {
+      "k": "concentration",
+      "en": "Hematology contributed SEK6.171 billion of SEK9.124 billion Q3 revenue.",
+      "zh": "血液学贡献了第三季度 SEK9.124 billion 收入中的 SEK6.171 billion。",
+      "src": "https://www.sobi.com/sites/sobi/files/pr/202610269994-1.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline, October 26",
+      "https://www.sobi.com/en/pipeline"
+    ],
+    [
+      "Q3 2026 report",
+      "https://www.sobi.com/sites/sobi/files/pr/202610269994-1.pdf"
+    ],
+    [
+      "Q3 2026 presentation, PR version",
+      "https://www.sobi.com/sites/sobi/files/pr/sobi-q3-2026-presentation_0.pdf"
+    ],
+    [
+      "Arthrosi acquisition",
+      "https://www.sobi.com/en/press-releases/sobi-completes-acquisition-arthrosi-therapeutics-strengthening-pipeline-potential-treatment-gout-2424540"
+    ]
+  ],
+  "gaps": [
+    "Company phase counts are program counts; one asset can appear in several phases. Unreported Phase 1 total is null.",
+    "NASP remains classified as registration on the pipeline, but following its CRL no accepted resubmission was verified; item phase is null.",
+    "The Q3 report lists Q4 2026 for Gamifant's European decision and NASP resubmission, while the PR presentation places them in 2027; next.when is null for both because these primary materials conflict.",
+    "Pozdeutinurad's item source establishes its acquired origin and Phase 3 status; the Q3 presentation supplies the 2027 filing timing.",
+    "Lacutamab is still Phase 2 on the pipeline; its planned confirmatory Phase 3 trial is not assumed to have started.",
+    "Pacritinib is represented by its new VEXAS/CMML programs at Phase 2; the existing-indication Phase 3 confirmation is mentioned without creating a duplicate asset.",
+    "Avatrombopag's Phase 2/3 trial is mapped to phase 3; transition into its later component was not verified.",
+    "Olezarsen's permitted modality is other because it is an antisense medicine; some targets and origins remain unverified.",
+    "The February 2026 acquisition source is older than June 2026; current development is cross-checked against October materials.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

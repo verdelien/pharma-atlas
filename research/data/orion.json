@@ -1,0 +1,141 @@
+{
+  "id": "orion",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Oncology dominates Orion's clinical pipeline; partners run its pivotal prostate-cancer and cardiovascular studies. Earlier research is expanding into immuno-oncology biologics.",
+    "zh": "肿瘤领域主导 Orion 的临床管线;合作伙伴开展其关键性前列腺癌和心血管研究。早期研究正在扩展至免疫肿瘤生物药。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "darolutamide (biochemical recurrence)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "High-risk biochemically recurrent prostate cancer; also localized disease",
+        "zh": "高危生化复发性前列腺癌;另有局限性疾病"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.orionpharma.com/science/pipeline/"
+    },
+    {
+      "name": "opevesostat",
+      "code": "ODM-208 / MK-5684",
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Metastatic castration-resistant prostate cancer; also breast, endometrial and ovarian cancers",
+        "zh": "转移性去势抵抗性前列腺癌;另有乳腺癌、子宫内膜癌和卵巢癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.orionpharma.com/science/pipeline/"
+    },
+    {
+      "name": "levosimendan (PH-HFpEF)",
+      "code": "TNX-103",
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Pulmonary hypertension with heart failure with preserved ejection fraction",
+        "zh": "伴射血分数保留型心力衰竭的肺动脉高压"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.orionpharma.com/science/pipeline/"
+    },
+    {
+      "name": "ODM-212",
+      "code": "ODM-212",
+      "modality": "small molecule",
+      "target": {
+        "en": "TEAD inhibition",
+        "zh": "TEAD 抑制"
+      },
+      "ind": {
+        "en": "Mesothelioma; also EHE and other solid tumours",
+        "zh": "间皮瘤;另有 EHE 和其他实体瘤"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.orionpharma.com/science/pipeline/"
+    },
+    {
+      "name": "ODM-216",
+      "code": "ODM-216",
+      "modality": "bispecific",
+      "target": {
+        "en": "PVRIG and PD-L1",
+        "zh": "PVRIG 和 PD-L1"
+      },
+      "ind": {
+        "en": "Advanced solid tumours",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.orionpharma.com/science/pipeline/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "Nubeqa growth and royalties remain major earnings drivers.",
+      "zh": "Nubeqa 的增长和特许权使用费仍是主要盈利驱动因素。",
+      "src": "https://www.orionpharma.com/newsroom/all-news/releases/stock-releases/2026/orion-group-interim-report-januaryseptember-2026-strong-financial-performance-and-positive-developments-in-the-rd-pipeline-/"
+    },
+    {
+      "k": "deal",
+      "en": "Bayer, MSD and Tenax conduct key late-stage trials.",
+      "zh": "Bayer、MSD 和 Tenax 开展关键性后期试验。",
+      "src": "https://www.orionpharma.com/science/pipeline/"
+    },
+    {
+      "k": "other",
+      "en": "ODM-216 is Orion's first biologic to enter clinical development.",
+      "zh": "ODM-216 是 Orion 首个进入临床开发的生物药。",
+      "src": "https://www.orionpharma.com/newsroom/all-news/releases/stock-releases/2026/orion-group-interim-report-januaryseptember-2026-strong-financial-performance-and-positive-developments-in-the-rd-pipeline-/"
+    }
+  ],
+  "sources": [
+    [
+      "Clinical pipeline",
+      "https://www.orionpharma.com/science/pipeline/"
+    ],
+    [
+      "Q3 2026 results",
+      "https://www.orionpharma.com/newsroom/all-news/releases/stock-releases/2026/orion-group-interim-report-januaryseptember-2026-strong-financial-performance-and-positive-developments-in-the-rd-pipeline-/"
+    ],
+    [
+      "Q3 2026 presentation",
+      "https://www.orionpharma.com/4aac8d/globalassets/investors/reports-and-presentations/2026/orion-q3-2026-presentation.pdf"
+    ]
+  ],
+  "gaps": [
+    "No company-reported phase counts verified; counts is null.",
+    "Targets or origins not explicitly established in reviewed sources are null.",
+    "No dated future catalysts verified. Phase 1/2 ODM-216 is represented as Phase 1, consistent with Q3 results.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

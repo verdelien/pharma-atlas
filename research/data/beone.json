@@ -1,0 +1,243 @@
+{
+  "id": "beone",
+  "asof": "2026-11",
+  "summary": {
+    "en": "The November pipeline spans hematologic cancers and solid tumors, with several accepted submissions and Phase 3 programs. ([Pipeline](https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf))",
+    "zh": "11 月的管线涵盖血液肿瘤和实体瘤,有多项申报已获受理及多个 III 期项目。([Pipeline](https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf))"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "zanubrutinib",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "BTK inhibitor",
+        "zh": "BTK 抑制剂"
+      },
+      "ind": {
+        "en": "First-line mantle cell lymphoma; US, China and EU filings",
+        "zh": "一线套细胞淋巴瘤;美国、中国和欧盟申报"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "Japan first-line MCL submission",
+        "zh": "日本一线 MCL 申报",
+        "when": "2026Q4"
+      },
+      "src": "https://ir.beonemedicines.com/news/beone-medicines-announces-third-quarter-2026-financial-results-and-business-updates/090a271d-e1d2-4195-b14c-36ffab8c3614"
+    },
+    {
+      "name": "tislelizumab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "PD-1",
+        "zh": "PD-1"
+      },
+      "ind": {
+        "en": "First-line HER2-positive gastroesophageal adenocarcinoma; China filing",
+        "zh": "一线 HER2 阳性胃食管腺癌;中国申报"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "China regulatory action",
+        "zh": "中国监管行动",
+        "when": "2027H1"
+      },
+      "src": "https://ir.beonemedicines.com/news/beone-medicines-announces-third-quarter-2026-financial-results-and-business-updates/090a271d-e1d2-4195-b14c-36ffab8c3614"
+    },
+    {
+      "name": "zanidatamab",
+      "code": null,
+      "modality": "bispecific",
+      "target": {
+        "en": "HER2",
+        "zh": "HER2"
+      },
+      "ind": {
+        "en": "First-line HER2-positive gastroesophageal adenocarcinoma; China filing",
+        "zh": "一线 HER2 阳性胃食管腺癌;中国申报"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": {
+        "en": "China regulatory action",
+        "zh": "中国监管行动",
+        "when": "2027H1"
+      },
+      "src": "https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf"
+    },
+    {
+      "name": "tacabrutideg",
+      "code": "BGB-16673",
+      "modality": "small molecule",
+      "target": {
+        "en": "BTK degrader",
+        "zh": "BTK 降解剂"
+      },
+      "ind": {
+        "en": "Relapsed/refractory chronic lymphocytic leukemia",
+        "zh": "复发/难治性慢性淋巴细胞白血病"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "Potential submission based on Phase 2 in mid-2027",
+        "zh": "可能于 2027 年中基于 II 期数据提交申报",
+        "when": "2027"
+      },
+      "src": "https://ir.beonemedicines.com/news/beone-medicines-announces-third-quarter-2026-financial-results-and-business-updates/090a271d-e1d2-4195-b14c-36ffab8c3614"
+    },
+    {
+      "name": "BGB-43395",
+      "code": "BGB-43395",
+      "modality": "small molecule",
+      "target": {
+        "en": "CDK4 inhibitor",
+        "zh": "CDK4 抑制剂"
+      },
+      "ind": {
+        "en": "First-line HR-positive/HER2-negative breast cancer",
+        "zh": "一线 HR 阳性/HER2 阴性乳腺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf"
+    },
+    {
+      "name": "BG-C9074",
+      "code": "BG-C9074",
+      "modality": "ADC",
+      "target": {
+        "en": "B7-H4",
+        "zh": "B7-H4"
+      },
+      "ind": {
+        "en": "First-line ovarian cancer maintenance",
+        "zh": "一线卵巢癌维持治疗"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf"
+    },
+    {
+      "name": "BGB-B2033",
+      "code": "BGB-B2033",
+      "modality": "bispecific",
+      "target": {
+        "en": "GPC3 × 4-1BB",
+        "zh": "GPC3 × 4-1BB"
+      },
+      "ind": {
+        "en": "Previously treated hepatocellular carcinoma",
+        "zh": "既往治疗过的肝细胞癌"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "Phase 3 GroundBBreaker-301 initiation",
+        "zh": "III 期 GroundBBreaker-301 启动",
+        "when": "2026Q4"
+      },
+      "src": "https://ir.beonemedicines.com/news/beone-medicines-announces-third-quarter-2026-financial-results-and-business-updates/090a271d-e1d2-4195-b14c-36ffab8c3614"
+    },
+    {
+      "name": "BGB-58067",
+      "code": "BGB-58067",
+      "modality": "small molecule",
+      "target": {
+        "en": "MTA-cooperative PRMT5 inhibitor",
+        "zh": "MTA 协同 PRMT5 抑制剂"
+      },
+      "ind": {
+        "en": "Solid tumors",
+        "zh": "实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf"
+    },
+    {
+      "name": "BG-C477",
+      "code": "BG-C477",
+      "modality": "ADC",
+      "target": {
+        "en": "CEA",
+        "zh": "CEA"
+      },
+      "ind": {
+        "en": "Solid tumors; including previously treated CEA-high non-small cell lung cancer",
+        "zh": "实体瘤;包括既往治疗过的 CEA 高表达非小细胞肺癌"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "BRUKINSA generated approximately $1.4 billion of the quarter's $1.9 billion total revenue.",
+      "zh": "本季度总收入 $1.9 billion,其中 BRUKINSA 贡献约 $1.4 billion。",
+      "src": "https://beonemedicines.com/stories/five-key-takeaways-third-quarter-2026-results/"
+    },
+    {
+      "k": "catalyst",
+      "en": "Tacabrutideg's potential CLL submission is expected in mid-2027.",
+      "zh": "Tacabrutideg 可能的 CLL 申报预计在 2027 年中。",
+      "src": "https://ir.beonemedicines.com/news/beone-medicines-announces-third-quarter-2026-financial-results-and-business-updates/090a271d-e1d2-4195-b14c-36ffab8c3614"
+    },
+    {
+      "k": "deal",
+      "en": "A Revolution Medicines collaboration adds combination studies and selected Asian RAS(ON) rights.",
+      "zh": "与 Revolution Medicines 的合作增加了联合用药研究以及部分亚洲 RAS(ON) 权益。",
+      "src": "https://ir.beonemedicines.com/news/beone-medicines-announces-third-quarter-2026-financial-results-and-business-updates/090a271d-e1d2-4195-b14c-36ffab8c3614"
+    },
+    {
+      "k": "balance",
+      "en": "Q3 2026 free cash flow was $474 million.",
+      "zh": "2026 年第三季度自由现金流为 $474 million。",
+      "src": "https://beonemedicines.com/stories/five-key-takeaways-third-quarter-2026-results/"
+    }
+  ],
+  "sources": [
+    [
+      "Global clinical pipeline, November 3, 2026",
+      "https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf"
+    ],
+    [
+      "Q3 2026 results, November 5, 2026",
+      "https://ir.beonemedicines.com/news/beone-medicines-announces-third-quarter-2026-financial-results-and-business-updates/090a271d-e1d2-4195-b14c-36ffab8c3614"
+    ],
+    [
+      "Company Q3 takeaways",
+      "https://beonemedicines.com/stories/five-key-takeaways-third-quarter-2026-results/"
+    ]
+  ],
+  "gaps": [
+    "Counts is null: company totals by numerical phase were not verified; the pipeline chart was not manually counted.",
+    "Origins were not verified for zanubrutinib, tislelizumab, tacabrutideg, BGB-43395, BGB-B2033, BGB-58067 or BG-C477.",
+    "The pipeline identifies DualityBio collaboration for BG-C9074 and Zymeworks/Jazz collaboration for zanidatamab; co-developed records this collaboration, not unrestricted worldwide commercial ownership.",
+    "BGB-B2033 remains phase 2 here: the chart lists Phase 3 but flags the study as potentially not yet enrolling, and Q3 results still forecast its initiation in Q4.",
+    "Sonrotoclax/BEQALZI is excluded: it is already marketed in MCL and the pending EU MCL application is a geographic filing, not a verified major new indication.",
+    "Zanidatamab's next milestone and tacabrutideg's phase 3 are corroborated by the Q3 release and November pipeline, respectively. Tacabrutideg timing is mid-2027; when uses 2027 because no exact quarter or half-year was disclosed.",
+    "Readout dates for BGB-43395, BG-C9074 and BGB-58067 were not disclosed in the sources read; next is null. Development codes not explicitly verified are null.",
+    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified."
+  ]
+}

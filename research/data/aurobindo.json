@@ -1,0 +1,117 @@
+{
+  "id": "aurobindo",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Aurobindo is generic-heavy; its disclosed biologics development pipeline is concentrated in CuraTeQ biosimilars. European filings, further-market trials and manufacturing expansion are central to that pipeline.",
+    "zh": "Aurobindo 以仿制药为主;其披露的生物药开发管线集中于 CuraTeQ 生物类似药。欧洲申报、其他市场的试验以及产能扩张是该管线的核心。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "denosumab biosimilar",
+      "code": "FUGEVY / FILVIZY",
+      "modality": "antibody",
+      "target": null,
+      "ind": {
+        "en": "Bone health; also oncology",
+        "zh": "骨健康;另有肿瘤"
+      },
+      "phase": "reg",
+      "ta": "Bone",
+      "origin": null,
+      "next": null,
+      "src": "https://www.aurobindo.com/api/uploads/resultsannouncement/Earnings-Presentation_Q2FY27.pdf"
+    },
+    {
+      "name": "omalizumab biosimilar",
+      "code": "OMAZIJEV",
+      "modality": "antibody",
+      "target": null,
+      "ind": {
+        "en": "Respiratory and allergic disease",
+        "zh": "呼吸系统和过敏性疾病"
+      },
+      "phase": "reg",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://www.aurobindo.com/api/uploads/resultsannouncement/Earnings-Presentation_Q2FY27.pdf"
+    },
+    {
+      "name": "ranibizumab biosimilar",
+      "code": "BP05",
+      "modality": "antibody",
+      "target": null,
+      "ind": {
+        "en": "Retinal disease",
+        "zh": "视网膜疾病"
+      },
+      "phase": "3",
+      "ta": "Ophthalmology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.aurobindo.com/api/uploads/resultsannouncement/Earnings-Presentation_Q2FY27.pdf"
+    },
+    {
+      "name": "tocilizumab biosimilar",
+      "code": "BP08",
+      "modality": "antibody",
+      "target": null,
+      "ind": {
+        "en": "Autoimmune disease",
+        "zh": "自身免疫性疾病"
+      },
+      "phase": null,
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "Regulatory filing",
+        "zh": "监管申报",
+        "when": "2027"
+      },
+      "src": "https://www.aurobindo.com/api/uploads/resultsannouncement/Earnings-Presentation_Q2FY27.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Denosumab and omalizumab are under European review; further North American filings are planned.",
+      "zh": "Denosumab 和 omalizumab 正在接受欧洲审评;计划进一步在北美申报。",
+      "src": "https://www.aurobindo.com/api/uploads/resultsannouncement/Earnings-Presentation_Q2FY27.pdf"
+    },
+    {
+      "k": "other",
+      "en": "CuraTeQ is adding 10,000 L of mammalian capacity and repurposing vaccine capacity for completion by end-2027.",
+      "zh": "CuraTeQ 正在新增 10,000 L 哺乳动物细胞产能,并改造疫苗产能,计划于 2027 年底前完成。",
+      "src": "https://www.aurobindo.com/api/uploads/resultsannouncement/Earnings-Presentation_Q2FY27.pdf"
+    },
+    {
+      "k": "balance",
+      "en": "September net cash including investments was $189 million; quarterly R&D spending was INR 376 crore.",
+      "zh": "9 月含投资的净现金为 $189 million;季度研发支出为 INR 376 crore。",
+      "src": "https://www.aurobindo.com/api/uploads/resultsannouncement/PressRelease_Q2FY27.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "CuraTeQ company and pipeline",
+      "https://www.curateqbio.com/"
+    ],
+    [
+      "Q2 FY27 earnings presentation",
+      "https://www.aurobindo.com/api/uploads/resultsannouncement/Earnings-Presentation_Q2FY27.pdf"
+    ],
+    [
+      "Q2 FY27 earnings release",
+      "https://www.aurobindo.com/api/uploads/resultsannouncement/PressRelease_Q2FY27.pdf"
+    ]
+  ],
+  "gaps": [
+    "No conventional full-group innovative-drug pipeline or published phase totals verified.",
+    "Current biosimilar targets, detailed indications and discovery origins were not explicit in the reviewed presentation and remain null or broad.",
+    "BP08 has completed a pivotal study but its numeric phase is not explicit; phase is null.",
+    "Preclinical trastuzumab SC and pertuzumab programs are excluded because clinical entry is still prospective.",
+    "Already marketed biosimilars are excluded; the selection is therefore limited to four assets.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

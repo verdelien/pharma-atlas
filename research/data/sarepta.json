@@ -1,0 +1,141 @@
+{
+  "id": "sarepta",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Sarepta is prioritizing siRNA development alongside its muscle-disease gene therapies. SRP-9003 remains a late-stage asset on clinical hold, while DM1 and FSHD candidates are preparing for pivotal development.",
+    "zh": "Sarepta 在其肌肉疾病基因疗法之外,优先推进 siRNA 开发。SRP-9003 仍是处于临床暂停的后期资产,而 DM1 和 FSHD 候选药物正为关键性开发做准备。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "bidridistrogene xeboparvovec",
+      "code": "SRP-9003",
+      "modality": "gene therapy",
+      "target": {
+        "en": "Beta-sarcoglycan replacement",
+        "zh": "β-肌聚糖替代"
+      },
+      "ind": {
+        "en": "Limb-girdle muscular dystrophy 2E/R4",
+        "zh": "肢带型肌营养不良 2E/R4"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "Align with FDA on BLA path after sirolimus data",
+        "zh": "在 sirolimus 数据之后,与 FDA 就 BLA 路径达成一致",
+        "when": null
+      },
+      "src": "https://investorrelations.sarepta.com/static-files/1fd9545d-da6b-4e33-8278-e1fb72235ab8"
+    },
+    {
+      "name": "SRP-1003",
+      "code": "ARO-DM1",
+      "modality": "siRNA",
+      "target": {
+        "en": "DMPK RNA",
+        "zh": "DMPK RNA"
+      },
+      "ind": {
+        "en": "Myotonic dystrophy type 1",
+        "zh": "1 型强直性肌营养不良"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": {
+        "en": "Multiple ascending dose data",
+        "zh": "多次递增剂量数据",
+        "when": "2026Q4"
+      },
+      "src": "https://investorrelations.sarepta.com/static-files/1fd9545d-da6b-4e33-8278-e1fb72235ab8"
+    },
+    {
+      "name": "SRP-1001",
+      "code": "ARO-DUX4",
+      "modality": "siRNA",
+      "target": {
+        "en": "DUX4 RNA",
+        "zh": "DUX4 RNA"
+      },
+      "ind": {
+        "en": "Facioscapulohumeral muscular dystrophy type 1",
+        "zh": "1 型面肩肱型肌营养不良"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": {
+        "en": "Multiple ascending dose data",
+        "zh": "多次递增剂量数据",
+        "when": "2026Q4"
+      },
+      "src": "https://investorrelations.sarepta.com/static-files/1fd9545d-da6b-4e33-8278-e1fb72235ab8"
+    },
+    {
+      "name": "SRP-1005",
+      "code": null,
+      "modality": "siRNA",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Huntington's disease",
+        "zh": "亨廷顿病"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": {
+        "en": "Proof-of-biology data; company specifies mid-2027",
+        "zh": "生物学概念验证数据;公司明确为 2027 年中",
+        "when": "2027"
+      },
+      "src": "https://investorrelations.sarepta.com/static-files/1fd9545d-da6b-4e33-8278-e1fb72235ab8"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "DM1 and FSHD multiple-dose data are expected in Q4 2026.",
+      "zh": "DM1 和 FSHD 多次给药数据预计在 2026 年第四季度公布。",
+      "src": "https://investorrelations.sarepta.com/static-files/f27d9c41-a988-47b6-8caa-0048065d74dc"
+    },
+    {
+      "k": "other",
+      "en": "SRP-9003 is on clinical hold; FDA requires sirolimus data before accepting a BLA.",
+      "zh": "SRP-9003 处于临床暂停;FDA 要求在受理 BLA 前提供 sirolimus 数据。",
+      "src": "https://investorrelations.sarepta.com/static-files/1fd9545d-da6b-4e33-8278-e1fb72235ab8"
+    },
+    {
+      "k": "concentration",
+      "en": "Duchenne commercial cash generation funds pipeline investment.",
+      "zh": "杜氏肌营养不良的商业现金流为管线投资提供资金。",
+      "src": "https://investorrelations.sarepta.com/static-files/f27d9c41-a988-47b6-8caa-0048065d74dc"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline",
+      "https://www.sarepta.com/products-pipeline/pipeline"
+    ],
+    [
+      "Q3 2026 Form 10-Q",
+      "https://investorrelations.sarepta.com/static-files/1fd9545d-da6b-4e33-8278-e1fb72235ab8"
+    ],
+    [
+      "Q3 2026 presentation",
+      "https://investorrelations.sarepta.com/static-files/f27d9c41-a988-47b6-8caa-0048065d74dc"
+    ]
+  ],
+  "gaps": [
+    "Pipeline page carries April 2026 and August 2025 dates; November 2026 filings take precedence.",
+    "No published phase counts verified.",
+    "Phase 1/2 siRNA studies mapped to phase 2; these are not yet Phase 3.",
+    "SRP-9003 origin was not established; SRP-1005 molecular target not verified in reviewed text.",
+    "Approved products and confirmatory studies for existing indications excluded.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

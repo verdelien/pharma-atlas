@@ -1,0 +1,62 @@
+{
+  "id": "abbott",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Abbott Established Pharmaceuticals focuses on locally tailored branded medicines in emerging markets and expanding biosimilar access. No named unapproved EPD drug candidate with verifiable development status was identified in the reviewed current materials.",
+    "zh": "Abbott Established Pharmaceuticals 专注于面向新兴市场的本地化品牌药,并扩大生物类似药的可及性。在所审阅的现有资料中,未发现具有可核实开发状态、已命名的未获批 EPD 候选药物。"
+  },
+  "counts": null,
+  "items": [],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "EPD's Q3 2026 sales were USD 1.614 billion, all international.",
+      "zh": "EPD 2026 年第三季度销售额为 USD 1.614 billion,全部来自国际市场。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1800/000162828026066601/abt-2026q3xexhibitx991.htm"
+    },
+    {
+      "k": "other",
+      "en": "EPD Q3 comparable sales increased 8.4%; commercial execution matters alongside new products.",
+      "zh": "EPD 第三季度可比销售额增长 8.4%;除新产品外,商业执行同样重要。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1800/000162828026066601/abt-2026q3xexhibitx991.htm"
+    },
+    {
+      "k": "deal",
+      "en": "Abbott's biosimilar access strategy relies on biotechnology partners and its emerging-market distribution footprint.",
+      "zh": "Abbott 的生物类似药可及性策略依赖生物技术合作伙伴及其在新兴市场的分销网络。",
+      "src": "https://medicines.abbott.com/biosimilars/"
+    },
+    {
+      "k": "policy",
+      "en": "Abbott identifies differing regulations, supply-chain disruptions and awareness as barriers to biosimilar uptake.",
+      "zh": "Abbott 认为各国法规差异、供应链中断和认知度不足是生物类似药推广的障碍。",
+      "src": "https://medicines.abbott.com/biosimilars/"
+    }
+  ],
+  "sources": [
+    [
+      "EPD biosimilars strategy",
+      "https://medicines.abbott.com/biosimilars/"
+    ],
+    [
+      "Medicines product portfolio",
+      "https://medicines.abbott.com/products/"
+    ],
+    [
+      "Q3 2026 earnings release, October 21",
+      "https://www.sec.gov/Archives/edgar/data/1800/000162828026066601/abt-2026q3xexhibitx991.htm"
+    ],
+    [
+      "Abbott 2026 pipeline overview",
+      "https://www.abbott.com/en-us/corpnewsroom/strategy-and-strength/abbotts-pipeline-in-2026-a-look-at-the-healthcare-r-d-clinical-programs-and-product-launches-shaping-future-growth"
+    ]
+  ],
+  "gaps": [
+    "No company-published EPD phase counts or named unapproved drug pipeline with verifiable current stages were located; counts is null and items is empty.",
+    "The product page describes more than 1,500 marketed products; these are not counted as investigational assets.",
+    "Abbott's corporate pipeline overview primarily discusses medical devices, nutrition and diagnostics, which are outside this EPD drug-pipeline scope.",
+    "Individual biosimilar candidates, development phases, provenance and future milestone dates were not disclosed in the reviewed EPD pages; none are inferred from a partner's entire portfolio.",
+    "Live strategy/product pages do not provide an explicit update date; their freshness cannot be established precisely.",
+    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": "nipponshinyaku",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Nippon Shinyaku combines internally developed and collaborative rare-disease programmes with externally sourced US and Japanese commercial rights. Filing-stage opportunities include deramiocel and Japanese oncology and immunology applications.",
+    "zh": "Nippon Shinyaku 将内部开发和合作的罕见病项目与外部获得的美国和日本商业化权利相结合。处于申报阶段的机会包括 deramiocel 以及日本的肿瘤和免疫学申请。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "deramiocel",
+      "code": "CAP-1002",
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Duchenne muscular dystrophy; US BLA",
+        "zh": "杜氏肌营养不良症;美国 BLA"
+      },
+      "phase": "reg",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "FDA target action date November 22, 2026",
+        "zh": "FDA 目标行动日期为 November 22, 2026",
+        "when": "2026Q4"
+      },
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3813"
+    },
+    {
+      "name": "obinutuzumab (new indications)",
+      "code": "GA101",
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Idiopathic nephrotic syndrome (Japan filed); lupus nephritis and extra-renal lupus (Phase 3)",
+        "zh": "特发性肾病综合征(日本已申报);狼疮性肾炎和肾外狼疮(III 期)"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
+    },
+    {
+      "name": "loncastuximab tesirine (Japan)",
+      "code": "MT-2111",
+      "modality": "ADC",
+      "target": {
+        "en": "CD19",
+        "zh": "CD19"
+      },
+      "ind": {
+        "en": "Relapsed/refractory diffuse large B-cell lymphoma after at least two systemic therapies",
+        "zh": "至少接受过两种全身治疗后的复发/难治性弥漫性大 B 细胞淋巴瘤"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3832"
+    },
+    {
+      "name": "fenfluramine (new indications)",
+      "code": "ZX008",
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "CDKL5 deficiency disorder; Rett syndrome (Japan)",
+        "zh": "CDKL5 缺乏症;Rett 综合征(日本)"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
+    },
+    {
+      "name": "selexipag (arteriosclerosis obliterans)",
+      "code": "NS-304",
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Arteriosclerosis obliterans (Japan)",
+        "zh": "闭塞性动脉硬化症(日本)"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
+    },
+    {
+      "name": "brogidirsen",
+      "code": "NS-089/NCNP-02",
+      "modality": "other",
+      "target": {
+        "en": "Dystrophin exon 44 skipping",
+        "zh": "抗肌萎缩蛋白外显子 44 跳跃"
+      },
+      "ind": {
+        "en": "Duchenne muscular dystrophy",
+        "zh": "杜氏肌营养不良症"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3820"
+    },
+    {
+      "name": "NS-229",
+      "code": "NS-229",
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Eosinophilic granulomatosis with polyangiitis",
+        "zh": "嗜酸性肉芽肿性多血管炎"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
+    },
+    {
+      "name": "NS-035",
+      "code": "NS-035",
+      "modality": "other",
+      "target": {
+        "en": "Restoration of functional fukutin protein production",
+        "zh": "恢复功能性 fukutin 蛋白的生成"
+      },
+      "ind": {
+        "en": "Fukuyama congenital muscular dystrophy",
+        "zh": "福山型先天性肌营养不良症"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
+    },
+    {
+      "name": "tadekinig alfa",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "IL-18 binding protein",
+        "zh": "IL-18 结合蛋白"
+      },
+      "ind": {
+        "en": "Monogenic hyperinflammatory syndrome with NLRC4 or XIAP mutations",
+        "zh": "伴 NLRC4 或 XIAP 突变的单基因高炎症综合征"
+      },
+      "phase": null,
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": {
+        "en": "Prepare US BLA",
+        "zh": "准备美国 BLA",
+        "when": null
+      },
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
+    },
+    {
+      "name": "clemidsogene lanparvovec",
+      "code": "RGX-121",
+      "modality": "gene therapy",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Mucopolysaccharidosis type II",
+        "zh": "II 型黏多糖贮积症"
+      },
+      "phase": null,
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": {
+        "en": "Prepare BLA; regulatory path requires clarification following clinical hold",
+        "zh": "准备 BLA;临床暂停后监管路径有待明确",
+        "when": null
+      },
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Deramiocel FDA target action date was extended to November 22, 2026.",
+      "zh": "Deramiocel 的 FDA 目标行动日期已延长至 November 22, 2026。",
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3813"
+    },
+    {
+      "k": "other",
+      "en": "RGX-121 was placed on clinical hold in August; the November pipeline lists preparation for BLA, without confirming a dated resolution.",
+      "zh": "RGX-121 于 8 月被临床暂停;11 月的管线列出了 BLA 准备工作,但未确认解决的具体时间。",
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3811"
+    },
+    {
+      "k": "deal",
+      "en": "The October Tanabe sublicense adds Japanese commercialization rights to loncastuximab; Tanabe retains development and regulatory responsibility.",
+      "zh": "10 月的 Tanabe 分许可使 loncastuximab 增加了日本商业化权利;Tanabe 保留开发和监管责任。",
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3832"
+    },
+    {
+      "k": "deal",
+      "en": "Exercising the AB2 Bio option adds US commercialization rights to tadekinig alfa.",
+      "zh": "行使 AB2 Bio 期权后,tadekinig alfa 增加了美国商业化权利。",
+      "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3778"
+    }
+  ],
+  "sources": [
+    [
+      "Product development, November 13, 2026",
+      "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
+    ],
+    [
+      "Deramiocel FDA-date update, August 25",
+      "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3813"
+    ],
+    [
+      "RGX-121 regulatory update, August 25",
+      "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3811"
+    ],
+    [
+      "Loncastuximab sublicense and filing, October 29",
+      "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3832"
+    ],
+    [
+      "Tadekinig option exercise, July 30",
+      "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3778"
+    ],
+    [
+      "Brogidirsen update, October 1",
+      "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3820"
+    ],
+    [
+      "NS-035 description, August 26",
+      "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3815"
+    ],
+    [
+      "Latest results library",
+      "https://www.nippon-shinyaku.co.jp/english/ir/ir_library/index.html"
+    ]
+  ],
+  "gaps": [
+    "No published company-wide phase totals were verified; counts is null. Unverified mechanisms, modalities, origins, codes and next milestone dates are null.",
+    "Tadekinig alfa and RGX-121 are labelled preparation for BLA, not filed, in the November pipeline. Their clinical phase was not established from the reviewed company pages, so phase is null.",
+    "The November table lists CAP-1002 as Phase III extension; the separate company release verifies the pending BLA and November 22 FDA date, so its highest selected stage is reg.",
+    "Japanese filing and indication-expansion entries are regional programmes, not claims of first global approval. Pirtobrutinib is omitted because the November 16 release announces first-line CLL approval and the table does not isolate a remaining new indication.",
+    "The dynamic IR library loaded without financial-document links. The November 13 pipeline is current, but the corresponding half-year results presentation could not be read. No next dates were verified for the other selected assets.",
+    "Antisense oligonucleotides are mapped to modality other because the allowed vocabulary has no antisense category. Additional targets/modalities were not inferred from medicine names.",
+    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+  ]
+}

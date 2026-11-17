@@ -1,0 +1,277 @@
+{
+  "id": "otsuka",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Psychiatry, rare disease and partnered oncology supply a broad late-stage pipeline across Otsuka Pharmaceutical and Taiho/Astex. Acquisitions and licenses are material alongside in-house development.",
+    "zh": "精神科、罕见病和合作肿瘤项目为 Otsuka Pharmaceutical 和 Taiho/Astex 提供了广泛的后期管线。除自主研发外,收购和许可也占重要地位。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "zipalertinib",
+      "code": "TAS6417 / CLN-081",
+      "modality": "small molecule",
+      "target": {
+        "en": "EGFR exon 20 insertion mutations",
+        "zh": "EGFR 20 号外显子插入突变"
+      },
+      "ind": {
+        "en": "Previously treated NSCLC; also first-line/adjuvant development",
+        "zh": "既往治疗过的 NSCLC;另有一线/辅助治疗开发"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": {
+        "en": "FDA target action date February 27, 2027",
+        "zh": "FDA 目标行动日期 2027 年 2 月 27 日",
+        "when": "2027Q1"
+      },
+      "src": "https://www.taihooncology.com/us/news/us-food-and-drug-administration-accepts-new-drug-application-for-zipalertinib-for-the-treatment-of-locally-advanced-or-metastatic-non-small-cell-lung-cancer-with-egfr-exon-20-insertion-mutations/"
+    },
+    {
+      "name": "ulotaront",
+      "code": "SEP-363856",
+      "modality": "small molecule",
+      "target": {
+        "en": "TAAR1/5-HT1A agonism",
+        "zh": "TAAR1/5-HT1A 激动"
+      },
+      "ind": {
+        "en": "Schizophrenia; also generalized anxiety disorder",
+        "zh": "精神分裂症;另有广泛性焦虑障碍"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.otsuka.co.jp/en/research-and-development/pipeline/"
+    },
+    {
+      "name": "ulefnersen",
+      "code": "ION363",
+      "modality": "other",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Amyotrophic lateral sclerosis",
+        "zh": "肌萎缩侧索硬化症"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.otsuka.co.jp/en/research-and-development/pipeline/"
+    },
+    {
+      "name": "methylone",
+      "code": "TSND-201",
+      "modality": "small molecule",
+      "target": {
+        "en": "Monoamine release",
+        "zh": "单胺释放"
+      },
+      "ind": {
+        "en": "Post-traumatic stress disorder",
+        "zh": "创伤后应激障碍"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "acquired",
+      "next": {
+        "en": "EMPOWER-1 full study completion expected around year-end 2027",
+        "zh": "EMPOWER-1 全部研究预计在 2027 年底前后完成",
+        "when": "2027Q4"
+      },
+      "src": "https://www.otsuka.co.jp/en/research-and-development/pipeline/"
+    },
+    {
+      "name": "repinatrabit",
+      "code": "JNT-517",
+      "modality": "small molecule",
+      "target": {
+        "en": "SLC6A19 inhibition",
+        "zh": "SLC6A19 抑制"
+      },
+      "ind": {
+        "en": "Phenylketonuria",
+        "zh": "苯丙酮尿症"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.otsuka.co.jp/en/research-and-development/pipeline/"
+    },
+    {
+      "name": "zunibergene rocparvovec",
+      "code": "4D-150",
+      "modality": "gene therapy",
+      "target": {
+        "en": "VEGF inhibition",
+        "zh": "VEGF 抑制"
+      },
+      "ind": {
+        "en": "Neovascular AMD, Japan",
+        "zh": "新生血管性 AMD,日本"
+      },
+      "phase": "3",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.otsuka.co.jp/en/research-and-development/pipeline/"
+    },
+    {
+      "name": "azacitidine / cedazuridine",
+      "code": "ASTX030",
+      "modality": "small molecule",
+      "target": {
+        "en": "DNA methyltransferase / cytidine deaminase inhibition",
+        "zh": "DNA 甲基转移酶 / 胞苷脱氨酶抑制"
+      },
+      "ind": {
+        "en": "MDS/CMML; also AML",
+        "zh": "MDS/CMML;另有 AML"
+      },
+      "phase": "3",
+      "ta": "Hematology",
+      "origin": null,
+      "next": {
+        "en": "AZTOUND data presentation at ASH, December 14, 2026",
+        "zh": "AZTOUND 数据将于 2026 年 12 月 14 日在 ASH 公布",
+        "when": "2026Q4"
+      },
+      "src": "https://www.taihooncology.com/us/news/taiho-oncology-and-taiho-pharmaceutical-to-present-data-from-aztound-trial-evaluating-oral-azacitidine-and-cedazuridine-in-myelodysplastic-syndromes-or-chronic-myelomonocytic-leukemia-at-the-68th-american-society-of-hematology-annual-meeting-and-expositio/"
+    },
+    {
+      "name": "AB521",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "HIF-2α inhibition",
+        "zh": "HIF-2α 抑制"
+      },
+      "ind": {
+        "en": "Renal cell carcinoma, Japan",
+        "zh": "肾细胞癌,日本"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.taiho.co.jp/en/science/pipeline/"
+    },
+    {
+      "name": "AB154",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "TIGIT",
+        "zh": "TIGIT"
+      },
+      "ind": {
+        "en": "Upper GI cancer/NSCLC with AB122, Japan",
+        "zh": "与 AB122 联用治疗上消化道癌/NSCLC,日本"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.taiho.co.jp/en/science/pipeline/"
+    },
+    {
+      "name": "TAS-205",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "PGD synthase inhibition",
+        "zh": "PGD 合酶抑制"
+      },
+      "ind": {
+        "en": "Duchenne muscular dystrophy, Japan",
+        "zh": "杜氏肌营养不良,日本"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.taiho.co.jp/en/science/pipeline/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Zipalertinib has a February 27, 2027 FDA target date in the company release archive.",
+      "zh": "公司新闻稿存档显示,Zipalertinib 的 FDA 目标日期为 2027 年 2 月 27 日。",
+      "src": "https://www.taihooncology.com/us/news/us-food-and-drug-administration-accepts-new-drug-application-for-zipalertinib-for-the-treatment-of-locally-advanced-or-metastatic-non-small-cell-lung-cancer-with-egfr-exon-20-insertion-mutations/"
+    },
+    {
+      "k": "deal",
+      "en": "The Transcend acquisition cost $700m upfront, plus up to $525m contingent consideration.",
+      "zh": "Transcend 收购的成本为 $700m 首付款,另有最高 $525m 的或有对价。",
+      "src": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260615_1.html"
+    },
+    {
+      "k": "catalyst",
+      "en": "ASTX030 Phase 3 results will be presented at ASH in December 2026.",
+      "zh": "ASTX030 III 期结果将于 2026 年 12 月在 ASH 公布。",
+      "src": "https://www.taihooncology.com/us/news/taiho-oncology-and-taiho-pharmaceutical-to-present-data-from-aztound-trial-evaluating-oral-azacitidine-and-cedazuridine-in-myelodysplastic-syndromes-or-chronic-myelomonocytic-leukemia-at-the-68th-american-society-of-hematology-annual-meeting-and-expositio/"
+    },
+    {
+      "k": "other",
+      "en": "The Q3 filing reports several oncology discontinuations, including TAS1553, TAS0612 and TAS2940.",
+      "zh": "第三季度申报文件披露了若干肿瘤项目的终止,包括 TAS1553、TAS0612 和 TAS2940。",
+      "src": "https://financialfilings.com/filings/otsuka-holdings-co-ltd/interim-quarterly-report/2026/75036860/"
+    }
+  ],
+  "sources": [
+    [
+      "Otsuka Pharmaceutical pipeline, September 30, 2026",
+      "https://www.otsuka.co.jp/en/research-and-development/pipeline/"
+    ],
+    [
+      "Taiho pipeline, September 30, 2026",
+      "https://www.taiho.co.jp/en/science/pipeline/"
+    ],
+    [
+      "Holdings pipeline landing page",
+      "https://www.otsuka.com/en/ir/library/pipeline.html"
+    ],
+    [
+      "Holdings quarterly materials landing page",
+      "https://www.otsuka.com/en/ir/library/materials.html"
+    ],
+    [
+      "Q3 2026 company filing, accessible mirror",
+      "https://financialfilings.com/filings/otsuka-holdings-co-ltd/interim-quarterly-report/2026/75036860/"
+    ],
+    [
+      "Transcend acquisition completion, June 15, 2026",
+      "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260615_1.html"
+    ],
+    [
+      "Taiho company press-release archive",
+      "https://www.taihooncology.com/us/news/"
+    ],
+    [
+      "Zipalertinib FDA acceptance, April 28, 2026",
+      "https://www.taihooncology.com/us/news/us-food-and-drug-administration-accepts-new-drug-application-for-zipalertinib-for-the-treatment-of-locally-advanced-or-metastatic-non-small-cell-lung-cancer-with-egfr-exon-20-insertion-mutations/"
+    ],
+    [
+      "ASTX030 ASH presentation announcement, November 4, 2026",
+      "https://www.taihooncology.com/us/news/taiho-oncology-and-taiho-pharmaceutical-to-present-data-from-aztound-trial-evaluating-oral-azacitidine-and-cedazuridine-in-myelodysplastic-syndromes-or-chronic-myelomonocytic-leukemia-at-the-68th-american-society-of-hematology-annual-meeting-and-expositio/"
+    ]
+  ],
+  "gaps": [
+    "Holdings pipeline/results pages returned navigation without document links. The latest Q3 filing was read through FinancialFilings because the primary document could not be retrieved; no secondary analysis was used. Asset sources are the two subsidiaries’ primary pipelines and company releases.",
+    "No complete company-published phase-count series was verified; counts is null.",
+    "Combined Phase I/II/III ulefnersen maps to 3; it is an antisense oligonucleotide, mapped to other. Its specific molecular target was not explicitly verified from opened sources and is null.",
+    "Origin remains null for repinatrabit, ASTX030, AB521, AB154 and TAS-205. Pipeline placement alone was not treated as proof of discovery origin. Generic names for AB521/AB154 were not independently verified and codes are used as names.",
+    "No next milestone/date was verified for the seven assets with next null. Methylone full-study completion is not a promised top-line data date.",
+    "The zipalertinib FDA date is from an April 2026 release reproduced in the company archive, older than 2026-06; the September pipeline still lists the US filing. No later first-line filing was established from the opened company source.",
+    "Approved centanafadine, sibeprenlimab and other marketed products were excluded absent a verified major new indication filing. Same-indication regional development is not treated as a new molecule.",
+    "Required curl HEAD checks were attempted, but local DNS resolution failed (curl exit 6, HTTP 000); HTTP status could not be independently confirmed locally. Sources were opened with the web browser tool."
+  ]
+}

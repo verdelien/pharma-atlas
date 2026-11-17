@@ -1,0 +1,167 @@
+{
+  "id": "grifols",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Plasma-derived therapies and new delivery formats dominate development, alongside a smaller recombinant antibody effort. The selected programs span late-stage protein therapy and early GigaGen candidates.",
+    "zh": "开发以血浆来源疗法和新型给药形式为主,另有规模较小的重组抗体项目。所选项目涵盖后期蛋白疗法和早期 GigaGen 候选药物。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "alpha-1 proteinase inhibitor 15% subcutaneous",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "Alpha-1 proteinase replacement",
+        "zh": "α1 蛋白酶替代"
+      },
+      "ind": {
+        "en": "Alpha-1 antitrypsin deficiency",
+        "zh": "α1 抗胰蛋白酶缺乏症"
+      },
+      "phase": "3",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
+    },
+    {
+      "name": "trimodulin",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "IgM/IgA/IgG-enriched polyclonal immunoglobulins",
+        "zh": "富含 IgM/IgA/IgG 的多克隆免疫球蛋白"
+      },
+      "ind": {
+        "en": "Severe community-acquired pneumonia",
+        "zh": "重症社区获得性肺炎"
+      },
+      "phase": "3",
+      "ta": "Infectious disease",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1438569/000110465926044901/grfs-20251231x20f.htm"
+    },
+    {
+      "name": "GRF312 5%",
+      "code": "GRF312",
+      "modality": "antibody",
+      "target": {
+        "en": "Topical immunoglobulin immunomodulation",
+        "zh": "局部免疫球蛋白免疫调节"
+      },
+      "ind": {
+        "en": "Dry eye disease",
+        "zh": "干眼症"
+      },
+      "phase": "2",
+      "ta": "Ophthalmology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.grifols.com/en/view-news/-/news/grifols-recibe-aprobacion-de-la-fda-para-iniciar-un-ensayo-de-fase-2-con-un-colirio-de-inmunoglobulinas-para-la-enfermedad-del-ojo-seco"
+    },
+    {
+      "name": "GIGA-564",
+      "code": "GIGA-564",
+      "modality": "antibody",
+      "target": {
+        "en": "Non-blocking CTLA-4 antibody",
+        "zh": "非阻断型 CTLA-4 抗体"
+      },
+      "ind": {
+        "en": "Solid tumors",
+        "zh": "实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.grifols.com/en/view-news/-/news/gigagen-presents-positive-phase-1-data-on-non-blocking-anti-ctla-4-drug-candidate-giga-564-at-aacr-2026"
+    },
+    {
+      "name": "GIGA-2339",
+      "code": "GIGA-2339",
+      "modality": "antibody",
+      "target": {
+        "en": "Recombinant polyclonal anti-HBV antibodies",
+        "zh": "重组多克隆抗 HBV 抗体"
+      },
+      "ind": {
+        "en": "Chronic hepatitis B",
+        "zh": "慢性乙型肝炎"
+      },
+      "phase": "1",
+      "ta": "Infectious disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.grifols.com/en/view-news/-/news/gigagen-doses-first-patient-in-phase-1-trial-of-recombinant-polyclonal-drug-candidate-giga-2339-for-hepatitis-b-virus"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "SPARTA alpha-1 efficacy topline results are expected by year-end 2026.",
+      "zh": "SPARTA α1 疗效顶线结果预计在 2026 年底前公布。",
+      "src": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
+    },
+    {
+      "k": "concentration",
+      "en": "Immunoglobulins led Q3 growth, increasing 11.3% at constant currency.",
+      "zh": "免疫球蛋白带动第三季度增长,按固定汇率计增长 11.3%。",
+      "src": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
+    },
+    {
+      "k": "balance",
+      "en": "Q3 net leverage was 3.98x; liquidity was EUR 2.14 billion.",
+      "zh": "第三季度净杠杆率为 3.98x;流动性为 EUR 2.14 billion。",
+      "src": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
+    },
+    {
+      "k": "other",
+      "en": "Egypt targets around one million liters of collected plasma in 2026.",
+      "zh": "埃及 2026 年的血浆采集目标约为一百万升。",
+      "src": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
+    }
+  ],
+  "sources": [
+    [
+      "Therapeutic areas and current pipeline links",
+      "https://www.grifols.com/en/key-therapeutic-areas"
+    ],
+    [
+      "Current pipeline chart",
+      "https://www.grifols.com/documents/3625622/4659304/GRIF_Image24-Pipeline.pdf/a9b32822-ac18-8434-d179-425992d4c2ff?t=1791374948867"
+    ],
+    [
+      "Q3 2026 results, November 2",
+      "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
+    ],
+    [
+      "2025 Form 20-F",
+      "https://www.sec.gov/Archives/edgar/data/1438569/000110465926044901/grfs-20251231x20f.htm"
+    ],
+    [
+      "GRF312 development and Selagine license",
+      "https://www.grifols.com/en/view-news/-/news/grifols-recibe-aprobacion-de-la-fda-para-iniciar-un-ensayo-de-fase-2-con-un-colirio-de-inmunoglobulinas-para-la-enfermedad-del-ojo-seco"
+    ],
+    [
+      "GIGA-564 April 2026 update",
+      "https://www.grifols.com/en/view-news/-/news/gigagen-presents-positive-phase-1-data-on-non-blocking-anti-ctla-4-drug-candidate-giga-564-at-aacr-2026"
+    ],
+    [
+      "GIGA-2339 Phase 1 start",
+      "https://www.grifols.com/en/view-news/-/news/gigagen-doses-first-patient-in-phase-1-trial-of-recombinant-polyclonal-drug-candidate-giga-2339-for-hepatitis-b-virus"
+    ]
+  ],
+  "gaps": [
+    "No verified aggregate Phase 1/2/3/registration counts were available; counts is null.",
+    "Trimodulin's phase and Biotest acquisition provenance rely on the 2025 Form 20-F, published before June 2026; it remains listed in the current pipeline.",
+    "GRF312 phase and license provenance rely on May 21, 2025; GIGA-564 phase relies on April 17, 2026; GIGA-2339 phase relies on November 19, 2024. All are older than June 2026 and remain present in the current pipeline.",
+    "GIGA-564 and GIGA-2339 subsidiary ownership was verified, but acquisition versus internal origin was not established from the selected sources; origin is null. Alpha-1 subcutaneous origin is also null.",
+    "Most program-specific next milestones were not stated; next is null.",
+    "SPARTA is a post-marketing efficacy program for marketed intravenous alpha-1, so it is a watch point rather than an investigational item. Unfiled expansions of approved Xembify/Gamunex and approved fibrinogen indications are excluded.",
+    "The current one-page graphical chart was loaded, but screenshot rendering failed; phase assignments use explicit company text rather than inferred chart positions.",
+    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+  ]
+}

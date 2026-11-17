@@ -1,0 +1,177 @@
+{
+  "id": "biomarin",
+  "asof": "2026-11",
+  "summary": {
+    "en": "BioMarin focuses on rare genetic disorders, with a filed skeletal-disease expansion, pivotal peptide and renal programs, and recently added licensed or acquired assets.",
+    "zh": "BioMarin 专注于罕见遗传病,拥有已申报的骨骼疾病适应症拓展、关键性多肽和肾脏项目,以及近期新增的授权引进或收购资产。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "vosoritide (hypochondroplasia)",
+      "code": "VOXZOGO",
+      "modality": "peptide",
+      "target": null,
+      "ind": {
+        "en": "Hypochondroplasia",
+        "zh": "软骨发育低下"
+      },
+      "phase": "reg",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "FDA decision, May 30",
+        "zh": "FDA 决定,5 月 30 日",
+        "when": "2027H1"
+      },
+      "src": "https://www.biomarin.com/news/press-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results/"
+    },
+    {
+      "name": "BMN 820",
+      "code": "DMX-200",
+      "modality": "small molecule",
+      "target": {
+        "en": "CCR2",
+        "zh": "CCR2"
+      },
+      "ind": {
+        "en": "Focal segmental glomerulosclerosis",
+        "zh": "局灶节段性肾小球硬化"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": {
+        "en": "ACTION 3 pivotal results",
+        "zh": "ACTION 3 关键性结果",
+        "when": "2028"
+      },
+      "src": "https://www.biomarin.com/news/press-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results/"
+    },
+    {
+      "name": "BMN 333",
+      "code": "BMN 333",
+      "modality": "peptide",
+      "target": {
+        "en": "C-type natriuretic peptide",
+        "zh": "C 型利钠肽"
+      },
+      "ind": {
+        "en": "Achondroplasia",
+        "zh": "软骨发育不全"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "Dose-response data",
+        "zh": "剂量反应数据",
+        "when": "2027"
+      },
+      "src": "https://www.biomarin.com/news/press-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results/"
+    },
+    {
+      "name": "BMN 351",
+      "code": "BMN 351",
+      "modality": "other",
+      "target": {
+        "en": "Dystrophin exon 51 skipping",
+        "zh": "Dystrophin 外显子 51 跳读"
+      },
+      "ind": {
+        "en": "Duchenne muscular dystrophy",
+        "zh": "杜氏肌营养不良症"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "Program update",
+        "zh": "项目更新",
+        "when": "2026Q4"
+      },
+      "src": "https://medical.biomarin.com/en-us/pipeline-and-clinical-development-programs/"
+    },
+    {
+      "name": "BMN 450",
+      "code": "HM15421 / GC1134A",
+      "modality": "other",
+      "target": null,
+      "ind": {
+        "en": "Fabry disease",
+        "zh": "法布里病"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.biomarin.com/news/press-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results/"
+    },
+    {
+      "name": "BMN 440",
+      "code": "ALE1",
+      "modality": "small molecule",
+      "target": null,
+      "ind": {
+        "en": "Hypophosphatasia",
+        "zh": "低磷酸酯酶症"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": "acquired",
+      "next": {
+        "en": "Phase 1/2a data",
+        "zh": "I/IIa 期数据",
+        "when": "2027"
+      },
+      "src": "https://www.biomarin.com/news/press-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "VOXZOGO's hypochondroplasia decision is due May 30, 2027; its achondroplasia full-approval review is due February 28.",
+      "zh": "VOXZOGO 的软骨发育低下适应症决定将于 2027 年 5 月 30 日作出;其软骨发育不全完全批准审评将于 2 月 28 日到期。",
+      "src": "https://www.biomarin.com/news/press-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results/"
+    },
+    {
+      "k": "deal",
+      "en": "Four 2026 transactions added programs from preclinical to Phase 3; Amicus commercial integration is ongoing.",
+      "zh": "2026 年的四项交易新增了从临床前到 III 期的项目;Amicus 的商业整合正在进行。",
+      "src": "https://www.biomarin.com/news/press-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results/"
+    },
+    {
+      "k": "concentration",
+      "en": "International order timing affects VOXZOGO; over 75% of its Q3 revenue came from outside the US.",
+      "zh": "国际订单的时间安排会影响 VOXZOGO;其第三季度收入超过 75% 来自美国以外。",
+      "src": "https://www.biomarin.com/news/press-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results/"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline, updated November 2",
+      "https://www.biomarin.com/science/research-pipeline/"
+    ],
+    [
+      "Clinical development programs",
+      "https://medical.biomarin.com/en-us/pipeline-and-clinical-development-programs/"
+    ],
+    [
+      "Q3 2026 results",
+      "https://www.biomarin.com/news/press-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results/"
+    ],
+    [
+      "Q3 2026 presentation",
+      "https://s203.q4cdn.com/846063244/files/content_files/BMRN-Q3-26-Earnings-Presentation-FINAL.pdf"
+    ]
+  ],
+  "gaps": [
+    "Interactive pipeline rows were not exposed on the corporate webpage; results and medical trial listings supply verified clinical programs.",
+    "No complete phase totals verified.",
+    "Phase 1/2 assets are mapped to phase 2 and Phase 2/3 BMN 333 to phase 3; this does not imply each trial has entered its later component.",
+    "BMN 351 is an antisense oligonucleotide, mapped to permitted modality other; BMN 450 is an enzyme replacement biologic, also other.",
+    "Some targets and origins are unverified and null.",
+    "BMN 430 is preclinical and excluded.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

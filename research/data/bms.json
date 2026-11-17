@@ -1,0 +1,249 @@
+{
+  "id": "bms",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Oncology and hematology dominate the selected late-stage assets, alongside lung fibrosis and anticoagulation. External collaborations add bispecific antibodies and ADCs to the portfolio.",
+    "zh": "所选后期资产集中于肿瘤和血液病，同时覆盖肺纤维化及抗凝治疗。外部合作为管线补充了双抗和 ADC 项目。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "mezigdomide",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Cereblon E3 ligase modulation",
+        "zh": "调节 cereblon E3 泛素连接酶"
+      },
+      "ind": {
+        "en": "Relapsed/refractory multiple myeloma with carfilzomib/dexamethasone",
+        "zh": "联合 carfilzomib 及地塞米松治疗复发或难治性多发性骨髓瘤"
+      },
+      "phase": "reg",
+      "ta": "Hematology",
+      "origin": null,
+      "next": {
+        "en": "FDA target action date: May 13, 2027",
+        "zh": "FDA 目标审评日期：2027年5月13日",
+        "when": "2027Q2"
+      },
+      "src": "https://investors.bms.com/iframes/press-releases/press-release-details/2026/U-S--Food-and-Drug-Administration-Accepts-Bristol-Myers-Squibbs-New-Drug-Application-for-Mezigdomide-in-Patients-with-Relapsed-or-Refractory-Multiple-Myeloma/default.aspx"
+    },
+    {
+      "name": "admilparant",
+      "code": "BMS-986278",
+      "modality": "small molecule",
+      "target": {
+        "en": "LPA1 receptor antagonism",
+        "zh": "拮抗 LPA1 受体"
+      },
+      "ind": {
+        "en": "Idiopathic pulmonary fibrosis; also progressive pulmonary fibrosis",
+        "zh": "特发性肺纤维化；另开发进展性肺纤维化"
+      },
+      "phase": "3",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000024/bmy-20260930.htm"
+    },
+    {
+      "name": "RYZ101",
+      "code": null,
+      "modality": "radioligand",
+      "target": {
+        "en": "Actinium-225 DOTATATE targeting SSTR2",
+        "zh": "靶向 SSTR2 的锕-225 DOTATATE"
+      },
+      "ind": {
+        "en": "Gastroenteropancreatic neuroendocrine tumours after Lu-177 therapy",
+        "zh": "镥-177 治疗后进展的胃肠胰神经内分泌肿瘤"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "acquired",
+      "next": {
+        "en": "FDA discussions on submission; detailed ACTION-1 data",
+        "zh": "与 FDA 讨论申报路径，并公布 ACTION-1 详细数据",
+        "when": null
+      },
+      "src": "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Announces-Positive-Topline-Results-from-the-Interim-Analysis-of-Phase-3-ACTION-1-for-RYZ101-RayzeBios-Radiopharmaceutical-Therapy-in-Patients-with-GEP-NETs/default.aspx?linkId=1020022032"
+    },
+    {
+      "name": "milvexian",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Factor XIa inhibition",
+        "zh": "抑制凝血因子 XIa"
+      },
+      "ind": {
+        "en": "Atrial fibrillation stroke prevention; also secondary stroke prevention",
+        "zh": "预防房颤相关卒中；另开发卒中二级预防"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.bms.com/research-and-development/pipeline.html"
+    },
+    {
+      "name": "pumitamig",
+      "code": "BNT327/BMS986545",
+      "modality": "bispecific",
+      "target": {
+        "en": "PD-L1 and VEGF-A blockade",
+        "zh": "同时阻断 PD-L1 和 VEGF-A"
+      },
+      "ind": {
+        "en": "Lung cancer; also multiple other solid tumours",
+        "zh": "肺癌；另开发多种实体瘤"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://investors.bms.com/iframes/press-releases/press-release-details/2026/BioNTech-and-Bristol-Myers-Squibb-Report-Encouraging-Global-Phase-2-data-for-Pumitamig-in-Advanced-NSCLC-After-Progression-on-Immunotherapy-Plus-Chemotherapy/default.aspx"
+    },
+    {
+      "name": "izalontamab brengitecan",
+      "code": "BL-B01D1",
+      "modality": "ADC",
+      "target": {
+        "en": "EGFR/HER3-directed ADC",
+        "zh": "靶向 EGFR/HER3 的 ADC"
+      },
+      "ind": {
+        "en": "EGFR-mutated NSCLC after TKI; also breast cancer",
+        "zh": "EGFR 突变非小细胞肺癌经 TKI 治疗后；另开发乳腺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://investors.bms.com/iframes/press-releases/press-release-details/2026/Bristol-Myers-Squibb-to-Showcase-Next-Generation-Cancer-Modalities-and-Leadership-Across-Solid-Tumors-at-ESMO-2026/default.aspx"
+    },
+    {
+      "name": "arlocabtagene autoleucel",
+      "code": "BMS-986393",
+      "modality": "cell therapy",
+      "target": {
+        "en": "GPRC5D-directed CAR T cells",
+        "zh": "靶向 GPRC5D 的 CAR-T 细胞"
+      },
+      "ind": {
+        "en": "Relapsed/refractory multiple myeloma",
+        "zh": "复发或难治性多发性骨髓瘤"
+      },
+      "phase": "3",
+      "ta": "Hematology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.bmsclinicaltrials.com/us/en/quintessential2mmtrial/arlo-cel-moa"
+    },
+    {
+      "name": "golcadomide",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Cereblon E3 ligase modulation",
+        "zh": "调节 cereblon E3 泛素连接酶"
+      },
+      "ind": {
+        "en": "High-risk first-line large B-cell lymphoma; also follicular lymphoma",
+        "zh": "一线高风险大 B 细胞淋巴瘤；另开发滤泡性淋巴瘤"
+      },
+      "phase": "3",
+      "ta": "Hematology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.bms.com/research-and-development/pipeline.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Mezigdomide's FDA action date is May 13, 2027.",
+      "zh": "Mezigdomide 的 FDA 目标审评日期为2027年5月13日。",
+      "src": "https://investors.bms.com/iframes/press-releases/press-release-details/2026/U-S--Food-and-Drug-Administration-Accepts-Bristol-Myers-Squibbs-New-Drug-Application-for-Mezigdomide-in-Patients-with-Relapsed-or-Refractory-Multiple-Myeloma/default.aspx"
+    },
+    {
+      "k": "other",
+      "en": "ALOFT-IPF succeeded at 60mg; the 120mg dose was not statistically significant.",
+      "zh": "ALOFT-IPF 的60毫克剂量达到终点，120毫克剂量未显示统计学显著性。",
+      "src": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000022/a2026q3ex991-filing.htm"
+    },
+    {
+      "k": "concentration",
+      "en": "Q3 legacy products still generated $5.4bn, versus $7.7bn from the Growth Portfolio.",
+      "zh": "第三季度传统产品仍贡献54亿美元收入，成长产品组合贡献77亿美元。",
+      "src": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000022/a2026q3ex991-filing.htm"
+    },
+    {
+      "k": "deal",
+      "en": "Q3 acquired R&D charges were $1.6bn, mainly from licensing and ongoing collaborations.",
+      "zh": "第三季度购入研发费用为16亿美元，主要涉及许可协议及持续合作。",
+      "src": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000022/a2026q3ex991-filing.htm"
+    }
+  ],
+  "sources": [
+    [
+      "Company pipeline, October 29, 2026",
+      "https://www.bms.com/research-and-development/pipeline.html"
+    ],
+    [
+      "Q3 2026 earnings release",
+      "https://www.sec.gov/Archives/edgar/data/14272/000001427226000022/a2026q3ex991-filing.htm"
+    ],
+    [
+      "Q3 2026 Form 10-Q",
+      "https://www.sec.gov/Archives/edgar/data/14272/000001427226000024/bmy-20260930.htm"
+    ],
+    [
+      "Mezigdomide NDA acceptance, July 13, 2026",
+      "https://investors.bms.com/iframes/press-releases/press-release-details/2026/U-S--Food-and-Drug-Administration-Accepts-Bristol-Myers-Squibbs-New-Drug-Application-for-Mezigdomide-in-Patients-with-Relapsed-or-Refractory-Multiple-Myeloma/default.aspx"
+    ],
+    [
+      "RYZ101 ACTION-1, October 12, 2026",
+      "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Announces-Positive-Topline-Results-from-the-Interim-Analysis-of-Phase-3-ACTION-1-for-RYZ101-RayzeBios-Radiopharmaceutical-Therapy-in-Patients-with-GEP-NETs/default.aspx?linkId=1020022032"
+    ],
+    [
+      "Pumitamig global data, October 25, 2026",
+      "https://investors.bms.com/iframes/press-releases/press-release-details/2026/BioNTech-and-Bristol-Myers-Squibb-Report-Encouraging-Global-Phase-2-data-for-Pumitamig-in-Advanced-NSCLC-After-Progression-on-Immunotherapy-Plus-Chemotherapy/default.aspx"
+    ],
+    [
+      "BioNTech Q3 2026: pivotal pumitamig programme",
+      "https://www.sec.gov/Archives/edgar/data/1776985/000177698526000080/a99120261103_bntxq32026pre.htm"
+    ],
+    [
+      "Iza-bren ESMO programme, October 19, 2026",
+      "https://investors.bms.com/iframes/press-releases/press-release-details/2026/Bristol-Myers-Squibb-to-Showcase-Next-Generation-Cancer-Modalities-and-Leadership-Across-Solid-Tumors-at-ESMO-2026/default.aspx"
+    ],
+    [
+      "Arlo-cel mechanism",
+      "https://www.bmsclinicaltrials.com/us/en/quintessential2mmtrial/arlo-cel-moa"
+    ],
+    [
+      "Golcadomide ASCO 2026 presentation",
+      "https://medcommsvdp.web.bms.com/f5f8ca35-de1c-4635-8ba4-c127a1709f00/b8c920a6-cfc9-4903-b922-57e43d04b93e/b8c920a6-cfc9-4903-b922-57e43d04b93e_viewable_rendition__v.pdf"
+    ],
+    [
+      "J&J pipeline: milvexian co-development, October 13, 2026",
+      "https://www.investor.jnj.com/pipeline/novel-therapies/default.aspx"
+    ],
+    [
+      "RayzeBio acquisition completed, February 26, 2024",
+      "https://news.bms.com/news/details/2024/Bristol-Myers-Squibb-Completes-Acquisition-of-RayzeBio-Adding-Differentiated-Actinium-Based-Radiopharmaceutical-Platform/default.aspx"
+    ]
+  ],
+  "gaps": [
+    "The dynamic company pipeline does not fully render on open; indexed company-table text was checked against Q3 release/filing and asset-specific primary sources. A full interactive-table audit was not possible.",
+    "The reported total of 49 compounds is not a phase breakdown; no complete reported phase-count set was verified, so counts is null.",
+    "Origins are null for mezigdomide, admilparant, iza-bren, arlo-cel and golcadomide because precise provenance was not established in the reviewed sources. Unverified development codes are null.",
+    "Next is null where no specific forward milestone was verified; undated regulatory planning is not assigned an invented date.",
+    "Arlo-cel's positive registrational QUINTESSENTIAL result was Phase 2; phase 3 here refers to the separate earlier-line 2–4L programme listed in the October pipeline, not an upgrade of that trial.",
+    "Iza-bren phase 3 data include partner-sponsored Chinese trials; a BMS-territory regulatory filing was not verified.",
+    "Golcadomide mechanism source is ASCO 2026 (May/June conference material); stage is from the October pipeline. No clearly pre-2026-06 source is used for current status.",
+    "The February 2024 RayzeBio acquisition release is older than 2026-06 and is used only for RYZ101 provenance; current status comes from October 2026 sources."
+  ]
+}

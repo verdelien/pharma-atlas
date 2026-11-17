@@ -1,0 +1,283 @@
+{
+  "id": "regeneron",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Regeneron's pipeline spans antibodies, bispecifics and genetic medicines across immunology, oncology and cardiometabolic disease. Its discovery platform is complemented by Alnylam licenses and Intellia collaboration; several major programs remain in Phase 3.",
+    "zh": "Regeneron 研发覆盖免疫、肿瘤及心血管代谢领域，技术包括抗体、双抗和遗传药物；内部发现平台由 Alnylam 许可项目和 Intellia 合作补充，多个重点项目仍处于 III 期。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "cemdisiran",
+      "code": null,
+      "modality": "siRNA",
+      "target": {
+        "en": "C5 silencing",
+        "zh": "沉默 C5"
+      },
+      "ind": {
+        "en": "Generalized myasthenia gravis; also PNH and geographic atrophy with/without pozelimab",
+        "zh": "全身型重症肌无力；另以联合或单药方式开发阵发性睡眠性血红蛋白尿及地图样萎缩"
+      },
+      "phase": "reg",
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": {
+        "en": "FDA decision expected in November",
+        "zh": "预计 11 月获 FDA 审评决定",
+        "when": "2026Q4"
+      },
+      "src": "https://newsroom.regeneron.com/news-releases/news-release-details/cemdisiran-regulatory-submissions-accepted-review-fda-and-ema/"
+    },
+    {
+      "name": "fianlimab",
+      "code": "REGN3767",
+      "modality": "antibody",
+      "target": {
+        "en": "LAG-3",
+        "zh": "LAG-3"
+      },
+      "ind": {
+        "en": "Adjuvant melanoma with cemiplimab; also metastatic melanoma",
+        "zh": "与 cemiplimab 联合用于黑色素瘤辅助治疗；另开发转移性黑色素瘤"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "Adjuvant Phase 3 results",
+        "zh": "辅助治疗 III 期结果",
+        "when": "2027H1"
+      },
+      "src": "https://investor.regeneron.com/static-files/976f8d36-6416-4dab-bf38-d54b47e5da1f"
+    },
+    {
+      "name": "cenvacibart",
+      "code": "REGN7508",
+      "modality": "antibody",
+      "target": {
+        "en": "Factor XI catalytic domain",
+        "zh": "凝血因子 XI 催化结构域"
+      },
+      "ind": {
+        "en": "Post-knee-replacement VTE prevention; also other thrombosis settings",
+        "zh": "膝关节置换术后静脉血栓预防；另开发其他血栓场景"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": {
+        "en": "ROXI-APEX estimated primary completion",
+        "zh": "ROXI-APEX 预计主要终点完成",
+        "when": "2027Q1"
+      },
+      "src": "https://investor.regeneron.com/static-files/b2ed1583-79e3-4b97-a52c-33cd61710185"
+    },
+    {
+      "name": "amrecibart",
+      "code": "REGN9933",
+      "modality": "antibody",
+      "target": {
+        "en": "Factor XI A2 domain",
+        "zh": "凝血因子 XI A2 结构域"
+      },
+      "ind": {
+        "en": "Stroke prevention in atrial fibrillation; also PAD and catheter thrombosis",
+        "zh": "房颤卒中预防；另开发外周动脉疾病及导管相关血栓"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": null,
+      "src": "https://investor.regeneron.com/static-files/976f8d36-6416-4dab-bf38-d54b47e5da1f"
+    },
+    {
+      "name": "freneslerbart / mevonlerbart",
+      "code": "REGN1908-1909",
+      "modality": "antibody",
+      "target": {
+        "en": "Fel d 1 neutralization",
+        "zh": "中和 Fel d 1"
+      },
+      "ind": {
+        "en": "Cat allergy",
+        "zh": "猫过敏"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.regeneron.com/science/investigational-pipeline"
+    },
+    {
+      "name": "nexiguran ziclumeran",
+      "code": "nex-z / NTLA-2001",
+      "modality": "other",
+      "target": {
+        "en": "CRISPR/Cas9 TTR knockout",
+        "zh": "CRISPR/Cas9 敲除 TTR"
+      },
+      "ind": {
+        "en": "ATTR cardiomyopathy; also hereditary ATTR polyneuropathy",
+        "zh": "ATTR 心肌病；另开发遗传性 ATTR 多发性神经病"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://investor.regeneron.com/static-files/976f8d36-6416-4dab-bf38-d54b47e5da1f"
+    },
+    {
+      "name": "olatorepatide",
+      "code": "HS-20094",
+      "modality": "other",
+      "target": {
+        "en": "GLP-1 / GIP receptor agonist",
+        "zh": "GLP-1 / GIP 受体激动剂"
+      },
+      "ind": {
+        "en": "Obesity",
+        "zh": "肥胖症"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": "licensed",
+      "next": {
+        "en": "Phase 3 initiation in obesity without diabetes planned",
+        "zh": "计划启动无糖尿病肥胖人群 III 期研究",
+        "when": "2026Q4"
+      },
+      "src": "https://investor.regeneron.com/static-files/976f8d36-6416-4dab-bf38-d54b47e5da1f"
+    },
+    {
+      "name": "ALN-CIDEB",
+      "code": null,
+      "modality": "siRNA",
+      "target": {
+        "en": "CIDEB silencing",
+        "zh": "沉默 CIDEB"
+      },
+      "ind": {
+        "en": "Metabolic dysfunction-associated steatohepatitis",
+        "zh": "代谢功能障碍相关脂肪性肝炎"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": "licensed",
+      "next": {
+        "en": "Phase 3 MASH/MASLD initiation planned",
+        "zh": "计划启动 MASH/MASLD III 期研究",
+        "when": "2026Q4"
+      },
+      "src": "https://investor.regeneron.com/static-files/976f8d36-6416-4dab-bf38-d54b47e5da1f"
+    },
+    {
+      "name": "ubamatamab",
+      "code": "REGN4018",
+      "modality": "bispecific",
+      "target": {
+        "en": "MUC16 / CD3",
+        "zh": "MUC16 / CD3"
+      },
+      "ind": {
+        "en": "Low-grade serous ovarian cancer; also high-grade disease and NSCLC",
+        "zh": "低级别浆液性卵巢癌；另开发高级别病变及非小细胞肺癌"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "Confirmatory Phase 3 planned",
+        "zh": "计划开展确证性 III 期研究",
+        "when": null
+      },
+      "src": "https://regeneronpharmaceuticalsinc.gcs-web.com/news-releases/news-release-details/regeneron-reports-third-quarter-2026-financial-and-operating"
+    },
+    {
+      "name": "baloncibart",
+      "code": "REGN7544",
+      "modality": "antibody",
+      "target": {
+        "en": "NPR1 antagonist",
+        "zh": "NPR1 拮抗剂"
+      },
+      "ind": {
+        "en": "Postural orthostatic tachycardia syndrome",
+        "zh": "体位性直立性心动过速综合征"
+      },
+      "phase": "2",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": {
+        "en": "Phase 3 initiation, subject to regulatory feedback",
+        "zh": "拟启动 III 期研究，取决于监管反馈",
+        "when": "2027H1"
+      },
+      "src": "https://regeneronpharmaceuticalsinc.gcs-web.com/news-releases/news-release-details/regeneron-reports-third-quarter-2026-financial-and-operating"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "Sanofi collaboration revenue was $2.724 billion of Q3 total revenue of $5.116 billion.",
+      "zh": "三季度总收入 51.16 亿美元中，Sanofi 合作收入为 27.24 亿美元。",
+      "src": "https://regeneronpharmaceuticalsinc.gcs-web.com/news-releases/news-release-details/regeneron-reports-third-quarter-2026-financial-and-operating"
+    },
+    {
+      "k": "other",
+      "en": "Fianlimab's first-line metastatic melanoma trial missed its primary endpoint; adjuvant Phase 3 continues.",
+      "zh": "Fianlimab 一线转移性黑色素瘤研究未达主要终点，辅助治疗 III 期仍在进行。",
+      "src": "https://investor.regeneron.com/static-files/976f8d36-6416-4dab-bf38-d54b47e5da1f"
+    },
+    {
+      "k": "deal",
+      "en": "The expanded Sanofi alliance adds long-acting immunology antibodies, with a $1 billion upfront payment and shared future economics.",
+      "zh": "扩大后的 Sanofi 联盟纳入长效免疫抗体，涉及 10 亿美元首付款及未来收益与成本分担。",
+      "src": "https://regeneronpharmaceuticalsinc.gcs-web.com/news-releases/news-release-details/regeneron-reports-third-quarter-2026-financial-and-operating"
+    },
+    {
+      "k": "catalyst",
+      "en": "Cemdisiran's U.S. action date is in November 2026; EU decision is expected in H2 2027.",
+      "zh": "Cemdisiran 美国目标审评时间为 2026 年 11 月，欧盟决定预计在 2027 年下半年。",
+      "src": "https://newsroom.regeneron.com/news-releases/news-release-details/cemdisiran-regulatory-submissions-accepted-review-fda-and-ema/"
+    },
+    {
+      "k": "other",
+      "en": "The FDA lifted the clinical holds on nex-z's Phase 3 ATTR studies.",
+      "zh": "FDA 已解除 nex-z 的 ATTR III 期研究临床暂停。",
+      "src": "https://investor.regeneron.com/static-files/976f8d36-6416-4dab-bf38-d54b47e5da1f"
+    }
+  ],
+  "sources": [
+    [
+      "Investigational pipeline, October 30, 2026",
+      "https://www.regeneron.com/science/investigational-pipeline"
+    ],
+    [
+      "Q3 2026 results, October 30",
+      "https://regeneronpharmaceuticalsinc.gcs-web.com/news-releases/news-release-details/regeneron-reports-third-quarter-2026-financial-and-operating"
+    ],
+    [
+      "Q3 2026 Form 10-Q, October 30",
+      "https://investor.regeneron.com/static-files/976f8d36-6416-4dab-bf38-d54b47e5da1f"
+    ],
+    [
+      "October 2026 corporate presentation",
+      "https://investor.regeneron.com/static-files/b2ed1583-79e3-4b97-a52c-33cd61710185"
+    ],
+    [
+      "Cemdisiran filing acceptance, June 22, 2026",
+      "https://newsroom.regeneron.com/news-releases/news-release-details/cemdisiran-regulatory-submissions-accepted-review-fda-and-ema/"
+    ]
+  ],
+  "gaps": [
+    "Counts is null: the landing page reports about 50 molecules and 13 Phase 3 programs but no complete numerical Phase 1/2/registration series; an October corporate deck states 12 Phase 3 programs. These snapshots were not combined into invented counts.",
+    "Origins were not verified for fianlimab, cenvacibart, amrecibart, REGN1908-1909, ubamatamab and baloncibart. General platform statements were not taken as proof of each asset's internal origin.",
+    "The pipeline HTML omits numerical phase labels in extraction; phases use the quarterly filing and corporate deck. Olatorepatide and ALN-CIDEB remain phase 2 until their planned phase 3 starts are confirmed.",
+    "Cemdisiran monotherapy and pozelimab combination indications are consolidated to avoid repeating cemdisiran as separate assets. Pozelimab is already approved in another disease.",
+    "Future data/decision dates were not verified for amrecibart, REGN1908-1909 and nex-z; next is null. Ubamatamab's Phase 3 start is planned without a verified date. Cenvacibart's date is estimated primary completion, not a promised readout.",
+    "Nex-z is gene editing, mapped to other because gene editing is absent from the required modality vocabulary. Olatorepatide follows the landing page modality group other; its more specific molecular format was not established from readable company material.",
+    "Approved linvoseltamab, garetosmab, DB-OTO and existing Dupixent/Libtayo uses were excluded, along with regional-only filings and dosing/formulation-only applications.",
+    "The filing and pipeline show spelling/extraction variants for certain generic names; item names follow the current pipeline spelling (notably baloncibart). No separate development code for cemdisiran or generic name for ALN-CIDEB was verified."
+  ]
+}

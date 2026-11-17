@@ -1,0 +1,153 @@
+{
+  "id": "lupin",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Complex generics, inhaled medicines and biosimilars dominate development. Named clinical-stage disclosure is limited, with much of the pipeline presented as product categories and launch ambitions.",
+    "zh": "研发以复杂仿制药、吸入制剂和生物类似药为主。已点名的临床阶段披露有限,管线多以产品类别和上市目标的形式呈现。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "denosumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Japan submission; bone disease",
+        "zh": "日本申报;骨病"
+      },
+      "phase": "reg",
+      "ta": "Bone",
+      "origin": null,
+      "next": null,
+      "src": "https://www.lupin.com/integrated-report-2026/intellectual-capital.html"
+    },
+    {
+      "name": "aflibercept biosimilar",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "India submission; ophthalmology",
+        "zh": "印度申报;眼科"
+      },
+      "phase": "reg",
+      "ta": "Ophthalmology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.lupin.com/integrated-report-2026/intellectual-capital.html"
+    },
+    {
+      "name": "nivolumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Oncology; India-focused clinical development",
+        "zh": "肿瘤;以印度为重点的临床开发"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.lupin.com/integrated-report-2026/intellectual-capital.html"
+    },
+    {
+      "name": "pembrolizumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Oncology; India-focused clinical development",
+        "zh": "肿瘤;以印度为重点的临床开发"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.lupin.com/integrated-report-2026/intellectual-capital.html"
+    },
+    {
+      "name": "telacebec",
+      "code": "Q203",
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Tuberculosis, leprosy and Buruli ulcer",
+        "zh": "结核病、麻风病和布鲁里溃疡"
+      },
+      "phase": null,
+      "ta": "Infectious disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.lupin.com/integrated-report-2026/intellectual-capital.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "policy",
+      "en": "Tarapur, Mandideep Unit-1 and Pithampur Unit-II remain remediation sites.",
+      "zh": "Tarapur、Mandideep Unit-1 和 Pithampur Unit-II 仍为整改工厂。",
+      "src": "https://www.lupin.com/uploads/lupin_investor_presentation_q2fy27_5f3f3e1e0b.pdf"
+    },
+    {
+      "k": "concentration",
+      "en": "US and India represented 39% and 31% of Q2 FY2027 sales, respectively.",
+      "zh": "美国和印度分别占 2027 财年第二季度销售额的 39% 和 31%。",
+      "src": "https://www.lupin.com/media/press-releases/lupin-q2-fy-2027-results"
+    },
+    {
+      "k": "catalyst",
+      "en": "Company targets six biosimilar filings in regulated markets by 2029.",
+      "zh": "公司目标是到 2029 年在受监管市场完成六项生物类似药申报。",
+      "src": "https://www.lupin.com/uploads/lupin_investor_presentation_q2fy27_5f3f3e1e0b.pdf"
+    },
+    {
+      "k": "deal",
+      "en": "TB Alliance leads telacebec clinical work; Lupin supports manufacturing and regulatory activities.",
+      "zh": "TB Alliance 主导 telacebec 的临床工作;Lupin 支持生产和注册事务。",
+      "src": "https://www.lupin.com/integrated-report-2026/intellectual-capital.html"
+    }
+  ],
+  "sources": [
+    [
+      "FY2026 development review",
+      "https://www.lupin.com/integrated-report-2026/intellectual-capital.html"
+    ],
+    [
+      "Q2 FY2027 results",
+      "https://www.lupin.com/media/press-releases/lupin-q2-fy-2027-results"
+    ],
+    [
+      "Q2 investor presentation",
+      "https://www.lupin.com/uploads/lupin_investor_presentation_q2fy27_5f3f3e1e0b.pdf"
+    ],
+    [
+      "Ranibizumab approval",
+      "https://www.lupin.com/investors/press-releases/lupin-receives-approval-from-u-s-fda-for-ranluspec-tm-ranibizumab-injection"
+    ]
+  ],
+  "gaps": [
+    "No complete current asset-by-phase page located; annual development review and latest quarterly presentation used. No company phase totals verified.",
+    "Numbered phases are undisclosed for nivolumab, pembrolizumab and telacebec in reviewed materials; null. Denosumab phase reflects Japan submission, not India approval status.",
+    "Origins except telacebec collaboration, asset-specific next dates and targets were not verified. Aflibercept recorded as other biologic modality.",
+    "Ranibizumab and pegfilgrastim are already approved and excluded. Generic launch projections were not used as proof of clinical phase.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed.",
+    "Telacebec collaboration establishes responsibilities but does not establish discovery origin; origin is null. Annual development review covers FY2026, ending March 2026; later quarterly sources and approval announcements supersede older statuses where verified."
+  ]
+}

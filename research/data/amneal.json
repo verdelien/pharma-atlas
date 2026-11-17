@@ -1,0 +1,117 @@
+{
+  "id": "amneal",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Development is dominated by complex generics, drug-device products and biosimilars rather than a conventional novel-drug pipeline. The tirzepatide ANDAs and biosimilar expansion illustrate that strategy.",
+    "zh": "开发以复杂仿制药、药械组合产品和生物类似药为主,而非传统的创新药管线。tirzepatide ANDA 和生物类似药扩张体现了这一策略。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "generic tirzepatide autoinjector",
+      "code": null,
+      "modality": "peptide",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Diabetes and weight management; references Mounjaro and Zepbound",
+        "zh": "糖尿病和体重管理;参照 Mounjaro 和 Zepbound"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-and-Adalvo-Announce-FDA-Acceptance-for-Review-of-Two-U-S--ANDAs-for-Generic-Tirzepatide-Autoinjector-2026-_ei9_NKxPV/default.aspx"
+    },
+    {
+      "name": "omalizumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Immunology/allergy",
+        "zh": "免疫/过敏"
+      },
+      "phase": null,
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "Estimated approval",
+        "zh": "预计获批",
+        "when": "2026Q4"
+      },
+      "src": "https://amneal.com/pipeline/"
+    },
+    {
+      "name": "epinephrine prefilled syringe",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Emergency/critical care",
+        "zh": "急诊/重症监护"
+      },
+      "phase": null,
+      "ta": "Other",
+      "origin": null,
+      "next": {
+        "en": "Estimated approval and launch",
+        "zh": "预计获批和上市",
+        "when": "2026Q4"
+      },
+      "src": "https://amneal.com/pipeline/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "deal",
+      "en": "Kashiv acquisition expanded biosimilar R&D and manufacturing capabilities.",
+      "zh": "收购 Kashiv 扩大了生物类似药研发和生产能力。",
+      "src": "https://amneal.com/innovating-access/our-timeline/"
+    },
+    {
+      "k": "catalyst",
+      "en": "FDA accepted two generic tirzepatide ANDAs; no approval date stated.",
+      "zh": "FDA 已受理两项 tirzepatide 仿制药 ANDA;未说明获批日期。",
+      "src": "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-and-Adalvo-Announce-FDA-Acceptance-for-Review-of-Two-U-S--ANDAs-for-Generic-Tirzepatide-Autoinjector-2026-_ei9_NKxPV/default.aspx"
+    },
+    {
+      "k": "balance",
+      "en": "2026 operating cash-flow guidance was reduced to $325–375 million as inventory increased.",
+      "zh": "由于库存增加,2026 年经营现金流指引下调至 $325–375 million。",
+      "src": "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-Reports-Third-Quarter-2026-Financial-Results/"
+    }
+  ],
+  "sources": [
+    [
+      "Diversified pipeline",
+      "https://amneal.com/pipeline/"
+    ],
+    [
+      "Q3 2026 results",
+      "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-Reports-Third-Quarter-2026-Financial-Results/"
+    ],
+    [
+      "Tirzepatide ANDA acceptance",
+      "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-and-Adalvo-Announce-FDA-Acceptance-for-Review-of-Two-U-S--ANDAs-for-Generic-Tirzepatide-Autoinjector-2026-_ei9_NKxPV/default.aspx"
+    ],
+    [
+      "Corporate timeline",
+      "https://amneal.com/innovating-access/our-timeline/"
+    ]
+  ],
+  "gaps": [
+    "Pipeline chart is dated April 2026, older than June 2026; company timeline supersedes its stale romidepsin entry, which is already approved and excluded.",
+    "Only three pending opportunities verified; approved launch opportunities excluded. No published phase counts located.",
+    "Omalizumab and epinephrine filing status, asset origins and targets were not verified; phases and targets are null. Estimated approval is not evidence of filing.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+  ]
+}

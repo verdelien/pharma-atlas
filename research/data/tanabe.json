@@ -1,0 +1,177 @@
+{
+  "id": "tanabe",
+  "asof": "2026-11",
+  "summary": {
+    "en": "The pipeline spans neurology, immune disease and oncology, mixing in-house research with licensed antibodies. Late-stage regional filings sit alongside earlier discovery programs.",
+    "zh": "管线涵盖神经科学、免疫疾病和肿瘤,将自主研究与许可的抗体相结合。后期区域性申报与较早期的发现项目并存。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "ND0612",
+      "code": "ND0612",
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Parkinson's disease; US filing",
+        "zh": "帕金森病;美国申报"
+      },
+      "phase": "reg",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.tanabe-pharma.com/en/develop/pipeline.html"
+    },
+    {
+      "name": "loncastuximab tesirine",
+      "code": "MT-2111",
+      "modality": "ADC",
+      "target": {
+        "en": "CD19",
+        "zh": "CD19"
+      },
+      "ind": {
+        "en": "Relapsed/refractory diffuse large B-cell lymphoma; Japan filing",
+        "zh": "复发/难治性弥漫大 B 细胞淋巴瘤;日本申报"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.tanabe-pharma.com/en/news/rel_261029/main/0/link/e_rel_261029.pdf"
+    },
+    {
+      "name": "inebilizumab (IgG4-related disease)",
+      "code": "MT-0551",
+      "modality": "antibody",
+      "target": {
+        "en": "CD19",
+        "zh": "CD19"
+      },
+      "ind": {
+        "en": "IgG4-related disease in Asia; systemic sclerosis Phase 3 in Japan",
+        "zh": "亚洲 IgG4 相关疾病;日本系统性硬化症 III 期"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.tanabe-pharma.com/en/develop/pipeline.html"
+    },
+    {
+      "name": "six-disease combination vaccine",
+      "code": "MT-1803",
+      "modality": "vaccine",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Pertussis, diphtheria, tetanus, polio, Hib and hepatitis B",
+        "zh": "百日咳、白喉、破伤风、脊髓灰质炎、Hib 和乙型肝炎"
+      },
+      "phase": "3",
+      "ta": "Vaccines",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.tanabe-pharma.com/en/develop/pipeline.html"
+    },
+    {
+      "name": "unasnemab",
+      "code": "MT-3921",
+      "modality": "antibody",
+      "target": {
+        "en": "RGMa",
+        "zh": "RGMa"
+      },
+      "ind": {
+        "en": "Spinal cord injury; earlier HTLV-1 myelopathy",
+        "zh": "脊髓损伤;早期为 HTLV-1 脊髓病"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.tanabe-pharma.com/en/develop/pipeline.html"
+    },
+    {
+      "name": "MT-4561",
+      "code": "MT-4561",
+      "modality": "small molecule",
+      "target": {
+        "en": "BRD4 degradation",
+        "zh": "BRD4 降解"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.tanabe-pharma.com/en/develop/pipeline.html"
+    },
+    {
+      "name": "MT-3534",
+      "code": "MT-3534",
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Autoimmune disease",
+        "zh": "自身免疫性疾病"
+      },
+      "phase": "1",
+      "ta": "Immunology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.tanabe-pharma.com/en/develop/pipeline.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "ND0612 remains filed in the US.",
+      "zh": "ND0612 在美国仍处于申报状态。",
+      "src": "https://www.tanabe-pharma.com/en/develop/pipeline.html"
+    },
+    {
+      "k": "deal",
+      "en": "Loncastuximab Japanese filing includes a Nippon Shinyaku sublicense.",
+      "zh": "Loncastuximab 的日本申报包括 Nippon Shinyaku 的分许可。",
+      "src": "https://www.tanabe-pharma.com/en/news/rel_261029/main/0/link/e_rel_261029.pdf"
+    },
+    {
+      "k": "deal",
+      "en": "Dersimelagon rights transferred; it is excluded from retained pipeline items.",
+      "zh": "Dersimelagon 权益已转让;已从保留的管线项目中剔除。",
+      "src": "https://www.tanabe-pharma.com/en/news.html"
+    }
+  ],
+  "sources": [
+    [
+      "October 23 pipeline",
+      "https://www.tanabe-pharma.com/en/develop/pipeline.html"
+    ],
+    [
+      "October 29 filing announcement",
+      "https://www.tanabe-pharma.com/en/news/rel_261029/main/0/link/e_rel_261029.pdf"
+    ],
+    [
+      "Company news",
+      "https://www.tanabe-pharma.com/en/news.html"
+    ]
+  ],
+  "gaps": [
+    "No current quarterly results release located in company news; October pipeline and subsequent filing used.",
+    "Pipeline table lags loncastuximab filing; filing announcement takes precedence. Mixed Phase 1/2 is represented as Phase 2.",
+    "No company phase totals or dated next milestones located; undisclosed targets and ND0612 mechanism are null.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+  ]
+}

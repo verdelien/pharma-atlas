@@ -164,6 +164,22 @@ main{position:relative;overflow:hidden;min-height:0}
 .events b{display:block;font-size:14.5px;margin:3px 0 2px}
 .events p{font-size:13.5px;margin:0;color:var(--ink)}
 .events a{color:var(--ink);text-underline-offset:2px;font-size:12.5px}
+.events p b{display:inline;font-size:inherit;margin:0}
+.events .pc{font-weight:400;color:var(--muted);font-size:12.5px}
+.pgl{font-size:12px;font-weight:700;color:var(--muted);margin:14px 0 4px}
+.ptags{display:flex;flex-wrap:wrap;gap:4px;margin:2px 0 4px}
+.pcn{color:var(--ink)}
+.pgaps{font-size:12.5px;color:var(--muted);margin:8px 0 0}
+.pgaps summary{cursor:pointer}
+.pgaps ul{padding-left:18px;margin:6px 0 0}
+.pgaps li{overflow-wrap:anywhere}
+#view-primer .doc{max-width:720px}
+.doc h2.ptitle{font-size:30px;line-height:1.2;margin:0 0 8px;letter-spacing:-0.015em}
+.ptoc{font-size:14px}
+#view-primer a{color:var(--ink);text-underline-offset:2px}
+.ptab{display:block;overflow-x:auto;max-width:100%;border-collapse:collapse;font-size:13px;margin:10px 0}
+.ptab th,.ptab td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+.ptab th{color:var(--muted);font-weight:600}
 .eh{display:flex;gap:8px;align-items:center}
 .ed{font-size:12px;color:var(--muted);font-weight:600;min-width:58px}
 .ek{font-size:11px;border:1px solid var(--line);border-radius:4px;padding:0 6px;color:var(--muted)}
@@ -284,6 +300,7 @@ dialog#howto .x{float:right}
       <button class="tab" role="tab" aria-selected="true" data-view="graph">Graph</button>
       <button class="tab" role="tab" aria-selected="false" data-view="table">Top 100</button>
       <button class="tab" role="tab" aria-selected="false" data-view="compare">Compare</button>
+      <button class="tab" role="tab" aria-selected="false" data-view="primer">投资入门</button>
       <button class="tab" role="tab" aria-selected="false" data-view="method">Method</button>
       <button class="tab" role="tab" aria-selected="false" data-view="schema">Schema</button>
     </nav>
@@ -367,6 +384,10 @@ dialog#howto .x{float:right}
       </div>
     </section>
 
+    <section id="view-primer" class="view" role="tabpanel" hidden>
+      <article class="doc" id="primer-body"></article>
+    </section>
+
     <!-- METHOD -->
     <section id="view-method" class="view" role="tabpanel" hidden>
       <article class="doc">
@@ -439,6 +460,8 @@ dialog#howto .x{float:right}
 
         <h2>Re-screen (Phase 10)</h2>
         <p>对 Top 100 做了一次复查,补入两家被遗漏、收入明确高于榜单末位的公司:Eurofarma(2025 年 US$2.24B,B 级)与 Intas Pharmaceuticals(FY2025 ₹20,855.5 crore,约 $2.45B,B 级)。两家都是私营公司,已加入 profile、收入、少量产品行(无分产品收入)与近期事件,暂无合作记录。因此排名表现在含 102 家公司;第 101、102 名(Hanmi、Nippon Shinyaku,约 $1.0–1.1B)接近榜单边界,仍保留。复查并非穷尽:Zentiva、EMS、Qilu、Taisho、Hetero 等可能达到该规模的公司没有找到可核实的最新收入,因此没有加入。Sinopharm 与 Jointown 等分销型集团、以及 Siemens Healthineers、Kenvue、Haleon 等非处方药或器械公司按口径不计入。</p>
+
+        <p><b>管线数据</b>:管线条目来自公司管线页面、业绩公告、交易所公告和 clinicaltrials.gov,截至 2026 年 11 月。每个条目都链接到来源,无法核实的字段留空。</p>
 
         <h2>Expansion log</h2>
         <p><b>Phase 7, batch 1a</b>:Boehringer Ingelheim、Takeda、Bayer、Astellas、Vertex、Biogen 加入 profile、前五大产品、LOE 与近期事件,并新增 6 项合作(Adcetris、Nubeqa、Mylan–Biocon biosimilars、Casgevy、Leqembi、Spinraza)和 2 个 supporting node(CRISPR Therapeutics、Ionis)。这些公司的 5 年股价快照将在后续批次统一补充。</p>
@@ -605,6 +628,17 @@ dialog#howto .x{float:right}
           </dl>
         </div>
         <div class="entity">
+          <h3>Pipeline (PIPE)</h3>
+          <p>每家公司一条记录,由 <code>pipeline.js</code> 载入。任何字段都可能为 null,公司也可能整体缺失。</p>
+          <dl class="fields">
+            <dt>asof, summary{en,zh}</dt><dd>记录整理的月份;用一两句话概括管线特点</dd>
+            <dt>counts{p1,p2,p3,reg,note}</dt><dd>公司自行披露的各阶段数量,否则为 null;我们不自行计数</dd>
+            <dt>items[]</dt><dd>name, code, modality, target{en,zh}, ind{en,zh}, phase ("reg" | "3" | "2" | "1"), ta, origin, next{en,zh,when}, src</dd>
+            <dt>watch[]</dt><dd>k(catalyst / loe / concentration / deal / policy / balance / other)、en、zh、src</dd>
+            <dt>sources[], gaps[]</dt><dd>[名称, 链接] 列表;未能核实的内容清单</dd>
+          </dl>
+        </div>
+        <div class="entity">
           <h3>Source</h3>
           <dl class="fields">
             <dt>publisher, title, date, url</dt><dd>来源的基本信息</dd>
@@ -632,11 +666,12 @@ dialog#howto .x{float:right}
 <li>用 Compare 并排比较两家公司;用时间滑块和 Historical Top 100 看 2000 年以来排名怎么变。</li></ul>
 <h3>4. 需要注意</h3><ul>
 <li>Grade A/B/C 表示收入数字的核实程度。“待核实”表示未核实;空白是有意留空,不做猜测填充。</li>
-<li>尚未覆盖:研发管线,以及若干大公司的 LOE。它反映过去和已上市产品组合的已知信息,不预测未来赢家。</li>
+<li>研发管线根据公司公开资料整理,截至 2026 年 11 月(打开公司面板查看“研发管线”);若干大公司的 LOE 仍在核实中。它反映过去和已上市产品组合的已知信息,不预测未来赢家。</li>
 <li>数据整理自公开来源,可能有误。仅供信息参考,不构成投资建议。</li></ul>
 </dialog>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="pipeline.js"></script><script src="primer.js"></script>
 <script>
 (function(){
 "use strict";
@@ -2628,7 +2663,7 @@ readColors();
 /* ---------- tabs ---------- */
 const tabs=[...document.querySelectorAll(".tab")];
 function show(view){tabs.forEach(t=>t.setAttribute("aria-selected",String(t.dataset.view===view)));
-  ["graph","table","compare","method","schema"].forEach(v=>{document.getElementById("view-"+v).hidden=(v!==view);});
+  ["graph","table","compare","primer","method","schema"].forEach(v=>{document.getElementById("view-"+v).hidden=(v!==view);});
   if(view==="graph")resize();}
 tabs.forEach(t=>t.addEventListener("click",()=>show(t.dataset.view)));
 
@@ -2878,6 +2913,58 @@ function productsHTML(id){const x=byId[id],list=PROD[id];
       '<div class="loe"><span class="lh">LOE</span><div>'+p.loe.map(r=>'<div class="lr"><span>'+esc(r[0])+'</span><span>'+esc(r[1])+'</span><span>'+esc(r[2]||"")+'</span></div>').join("")+'</div></div></li>';});
   h+='</ol>'+loeChart(list);if(PSRC[id])h+='<p class="src">Sources: '+PSRC[id].map(r=>'<a href="'+r[1]+'" target="_blank" rel="noopener">'+esc(r[0])+' ↗</a>').join(' · ')+'</p>';return h;}
 
+/* ---------- pipeline, what to watch, primer ---------- */
+const LANG="zh",PIPE=window.PIPE||{};
+const tx=o=>o&&o[LANG]||o&&o.en||"";
+const T={pipe:"研发管线",asof:a=>"截至 "+a+"。",reported:"公司披露:",p1:"I 期",p2:"II 期",p3:"III 期",filed:"申报",gReg:"申报/审评中",
+  origin:{internal:"自研",licensed:"引进",acquired:"收购","co-developed":"合作开发"},
+  next:(t,w)=>"下一步:"+t+(w?"("+w+")":""),source:"来源",sources:"来源:",gaps:n=>"未能核实的内容("+n+")",
+  watch:"值得关注",watchSub:"新手投资者可以留意的要点。仅供参考,不构成投资建议。",
+  conc:(b,s)=>"<b>"+b+"</b> 约占 FY2025 药品收入的 "+s+"%。",loe:(b,y)=>"主要产品中最近的美国 LOE:<b>"+b+"</b>,"+y+" 年。",late:n=>"下方列出 <b>"+n+"</b> 个已申报或 III 期品种。",
+  wk:{catalyst:"催化剂",loe:"专利悬崖",concentration:"集中度",deal:"交易",policy:"价格与政策",balance:"财务",other:"其他"},
+  primerGo:"刚接触医药投资?先读入门",primer:"投资入门",noPrimer:"入门内容未能加载。",glance:"管线速览",covered:n=>"已覆盖 "+n+" / 100 家公司",
+  co:"公司",nextMs:"下一个已披露里程碑",ms:(n,t,w)=>n+":"+t+"("+w+")",lateCmp:(n,m)=>n+" 申报 · "+m+" III 期"};
+const PHASES=[["reg",T.gReg],["3",T.p3],["2",T.p2],["1",T.p1],["?","阶段未披露"]];
+const hlink=(u,label)=>/^http/.test(u||"")?'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(label)+' ↗</a>':'';
+const pipeCount=(id,ph)=>((PIPE[id]||{}).items||[]).filter(i=>i.phase===ph).length;
+function pipelineHTML(id){const P=PIPE[id];if(!P)return "";
+  let h='<h3 class="sec">'+T.pipe+'</h3><p class="sub">'+esc(tx(P.summary))+(P.asof?' '+T.asof(esc(P.asof)):'')+'</p>';
+  const c=P.counts;if(c){const parts=[["p1",T.p1],["p2",T.p2],["p3",T.p3],["reg",T.filed]].filter(r=>c[r[0]]!=null).map(r=>r[1]+' '+esc(c[r[0]]));
+    if(parts.length||c.note)h+='<p class="pn">'+(parts.length?'<span class="pcn">'+T.reported+parts.join(' · ')+'</span> ':'')+esc(c.note||"")+'</p>';}
+  const items=P.items||[];
+  PHASES.forEach(g=>{const l=items.filter(i=>(["reg","3","2","1"].includes(i.phase)?i.phase:"?")===g[0]);if(!l.length)return;
+    h+='<p class="pgl">'+g[1]+'</p><ol class="events">'+l.map(i=>{
+      const tags=[i.modality,i.ta,T.origin[i.origin]].filter(Boolean),nx=i.next&&tx(i.next),tg=tx(i.target),sl=hlink(i.src,T.source);
+      return '<li><b>'+esc(i.name)+(i.code&&i.code!==i.name?' <span class="pc">'+esc(i.code)+'</span>':'')+'</b>'+
+        (tags.length?'<div class="ptags">'+tags.map(t=>'<span class="ek">'+esc(t)+'</span>').join("")+'</div>':'')+
+        '<p>'+(tg?'<span class="muted">'+esc(tg)+'</span><br>':'')+esc(tx(i.ind))+'</p>'+
+        (nx?'<p>'+T.next(esc(nx),esc(i.next.when||""))+'</p>':'')+(sl?'<p>'+sl+'</p>':'')+'</li>';}).join("")+'</ol>';});
+  const srcs=(P.sources||[]).map(r=>hlink(r[1],r[0])).filter(Boolean);
+  if(srcs.length)h+='<p class="src">'+T.sources+srcs.join(' · ')+'</p>';
+  const gaps=(P.gaps||[]).filter(Boolean);
+  if(gaps.length)h+='<details class="pgaps"><summary>'+T.gaps(gaps.length)+'</summary><ul>'+gaps.map(g=>'<li>'+esc(g)+'</li>').join("")+'</ul></details>';
+  return h;}
+function watchHTML(id){const P=PIPE[id],w=P&&P.watch||[],list=PROD[id];if(!w.length&&!list)return "";
+  const facts=[];
+  if(list){const base=BASE[id]?BASE[id].v:byId[id].v,top=list.filter(p=>p.v).sort((a,b)=>b.v-a.v)[0];
+    if(top&&base&&top.v/base>=0.15)facts.push(T.conc(esc(top.b),Math.round(top.v/base*100)));
+    const loe=list.filter(p=>p.us&&p.us>=2026).sort((a,b)=>a.us-b.us)[0];if(loe)facts.push(T.loe(esc(loe.b),esc(loe.us)));}
+  const late=pipeCount(id,"reg")+pipeCount(id,"3");if(late)facts.push(T.late(late));
+  let h='<h3 class="sec">'+T.watch+'</h3><p class="sub">'+T.watchSub+'</p>';
+  if(facts.length||w.length)h+='<ul class="events">'+facts.map(f=>'<li><p>'+f+'</p></li>').join("")+
+    w.map(o=>{const sl=hlink(o.src,T.source);return '<li><div class="eh"><span class="ek">'+esc(T.wk[o.k]||T.wk.other)+'</span></div><p>'+esc(tx(o))+(sl?' '+sl:'')+'</p></li>';}).join("")+'</ul>';
+  return h+'<p class="src"><button class="linkish" type="button" data-go="primer">'+T.primerGo+'</button></p>';}
+function renderPrimer(){const el=document.getElementById("primer-body"),R=window.PRIMER&&(window.PRIMER[LANG]||window.PRIMER.en);if(!el)return;
+  let h="";const secs=R&&R.sections||[];
+  if(R)h+='<h2 class="ptitle">'+esc(R.title)+'</h2><p class="lede">'+esc(R.lede)+'</p><ul class="ptoc">'+secs.map(s=>'<li><a href="#pr-'+esc(s.id)+'">'+esc(s.h)+'</a></li>').join("")+'<li><a href="#pr-glance">'+T.glance+'</a></li></ul>'+
+    secs.map(s=>'<section id="pr-'+esc(s.id)+'"><h3>'+esc(s.h)+'</h3>'+s.body+'</section>').join("");
+  else h+='<h2 class="ptitle">'+T.primer+'</h2><p class="lede">'+T.noPrimer+'</p>';
+  const rows=Object.keys(PIPE).filter(id=>byId[id]).map(id=>({id,f:pipeCount(id,"reg"),t:pipeCount(id,"3")})).sort((a,b)=>(b.f+b.t)-(a.f+a.t));
+  h+='<section id="pr-glance"><h3>'+T.glance+'</h3><p class="muted">'+T.covered(rows.length)+'</p>';
+  if(rows.length)h+='<table class="ptab"><thead><tr><th>'+T.co+'</th><th>'+T.filed+'</th><th>'+T.p3+'</th><th>'+T.nextMs+'</th></tr></thead><tbody>'+rows.map(r=>{const n=(PIPE[r.id].items||[]).find(i=>i.next&&i.next.when);
+    return '<tr><td><button class="linkish" type="button" data-node="'+esc(r.id)+'">'+esc(nameOf(r.id))+'</button></td><td>'+r.f+'</td><td>'+r.t+'</td><td>'+(n?T.ms(esc(n.name),esc(tx(n.next)),esc(n.next.when)):'<span class="muted">—</span>')+'</td></tr>';}).join("")+'</tbody></table>';
+  el.innerHTML=h+'</section>';}
+
 function eventsHTML(id){const ev=EVENTS[id];if(!ev)return "";
   let h='<h3 class="sec">Recent developments</h3><p class="sub">经过挑选、会改变对这家公司理解的事件,按时间倒序。</p><ol class="events">';
   ev.forEach(e=>{h+='<li><div class="eh"><span class="ed">'+esc(e.d)+'</span><span class="ek k-'+e.k+'">'+EVK[e.k]+'</span></div><b>'+esc(e.t)+'</b><p>'+esc(e.s)+(e.u?' <a href="'+e.u+'" target="_blank" rel="noopener">Source ↗</a>':'')+'</p></li>';});
@@ -2930,7 +3017,7 @@ function openNode(id){
       '<dt>Region</dt><dd><span class="dot" style="background:var('+REG_VAR[x.reg]+')"></span>'+region+'</dd>'+
       '<dt>Status</dt><dd>'+esc(x.s)+'</dd>'+
       '<dt>Listing</dt><dd>'+(x.l?esc(x.l):'Not separately listed')+'</dd>'+profileRows(id)+'</dl>'+profileHTML(id)+
-      (x.t?'<p class="note">'+esc(x.t)+'</p>':'')+productsHTML(id)+eventsHTML(id)+stockHTML(id)+compHTML(id);
+      (x.t?'<p class="note">'+esc(x.t)+'</p>':'')+productsHTML(id)+pipelineHTML(id)+watchHTML(id)+eventsHTML(id)+stockHTML(id)+compHTML(id);
   }
   // ownership and lineage
   const kids=OWN.filter(o=>o.p===id);const sp=spinOf[id];
@@ -2958,6 +3045,11 @@ function ensureVisible(id){let changed=false;
   if(!nodeMap[id]&&!byId[id].sup&&!showAll){showAll=true;tAll.setAttribute("aria-pressed","true");changed=true;}
   if(changed)build();}
 
+renderPrimer();
+document.getElementById("view-primer").addEventListener("click",e=>{const n=e.target.closest("[data-node]");if(n){show("graph");ensureVisible(n.dataset.node);openNode(n.dataset.node);return;}
+  const a=e.target.closest('a[href^="#pr-"]');if(a){const t=document.getElementById(a.getAttribute("href").slice(1));if(t){e.preventDefault();t.scrollIntoView();}}});
+pb.addEventListener("click",e=>{if(e.target.closest('[data-go="primer"]')){show("primer");document.getElementById("view-primer").scrollTop=0;}});
+
 /* ---------- search ---------- */
 const q=document.getElementById("q"),res=document.getElementById("results");
 const TAS=[...new Set(DEALS.map(d=>d.ta))].sort();
@@ -2969,6 +3061,8 @@ function renderResults(){
   if(cos.length){h+='<h4>Companies</h4>';cos.forEach(c=>{resItems.push({k:"c",id:c.id});h+='<button data-i="'+(resItems.length-1)+'">'+esc(c.n)+'<small>'+(c.sup?"Supporting node"+(parentOf[c.id]?", now "+esc(nameOf(parentOf[c.id].p)):""):"#"+c.r+", "+esc(COUNTRY[c.c]))+'</small></button>';});}
   const prods=[];Object.keys(PROD).forEach(cid=>PROD[cid].forEach((p,i)=>{if((p.b+" "+p.g+" "+p.ind).toLowerCase().includes(query))prods.push({cid,i,p});}));
   if(prods.length){h+='<h4>Top products</h4>';prods.slice(0,8).forEach(o=>{resItems.push({k:"p",id:o.cid,i:o.i});h+='<button data-i="'+(resItems.length-1)+'">'+esc(o.p.b)+' <span style="color:var(--muted)">'+esc(o.p.g)+'</span><small>'+esc(nameOf(o.cid))+'; '+(o.p.v?'FY2025 $'+o.p.v.toFixed(2)+'B':'FY2025 待核实')+'; '+esc(o.p.ind)+'; first approved '+esc(o.p.yr)+(o.p.on?'<br>'+esc(o.p.on):'')+'</small></button>';});}
+  const pls=[];Object.keys(PIPE).forEach(cid=>{if(byId[cid])(PIPE[cid].items||[]).forEach(i=>{if([i.name,i.code,i.ind&&i.ind.en,i.ind&&i.ind.zh].filter(Boolean).join(" ").toLowerCase().includes(query))pls.push({cid,i});});});
+  if(pls.length){h+='<h4>'+T.pipe+'</h4>';pls.slice(0,6).forEach(o=>{resItems.push({k:"c",id:o.cid});h+='<button data-i="'+(resItems.length-1)+'">'+esc(o.i.name)+(o.i.code&&o.i.code!==o.i.name?' <span style="color:var(--muted)">'+esc(o.i.code)+'</span>':'')+'<small>'+esc(nameOf(o.cid))+'; '+((PHASES.find(g=>g[0]===o.i.phase)||[])[1]||"")+'; '+esc(tx(o.i.ind))+'</small></button>';});}
   if(ds.length){h+='<h4>Drugs and programs</h4>';ds.forEach(d=>{resItems.push({k:"d",id:d.id});
     h+='<button data-i="'+(resItems.length-1)+'">'+esc(d.p)+' <span style="color:var(--muted)">'+esc(d.g)+'</span><small>'+esc(nameOf(d.a))+' ↔ '+esc(nameOf(d.b))+', '+d.y+'; '+esc(d.ind)+(d.ap&&d.ap!=="—"?'; '+esc(d.ap):'')+(d.now?'<br>Now: '+esc(d.now):'')+'</small></button>';});}
   if(tas.length){h+='<h4>Therapeutic areas</h4>';tas.forEach(t=>{resItems.push({k:"t",id:t});h+='<button data-i="'+(resItems.length-1)+'">'+esc(t)+'<small>'+DEALS.filter(d=>d.ta===t).length+' collaborations; highlights them in the graph</small></button>';});}
@@ -3041,13 +3135,14 @@ function renderCompare(){const a=selA.value,b=selB.value,A=byId[a],B=byId[b];
   const pk=pairKey(a,b),deals=DEALS.filter(d=>pairKey(root(d.a),root(d.b))===pk).sort((x,y)=>x.y-y.y),comps=COMP.filter(c=>pairKey(root(c.a),root(c.b))===pk);
   let h='<section class="csec"><h2>Collaborations</h2>';
   if(deals.length)h+='<p class="sub">'+deals.length+(deals.length>1?' 项合作':' 项合作')+',包括通过被收购公司签署的合作。点击在图中打开完整卡片。</p><ul class="timeline">'+deals.map(d=>'<li><button data-deal="'+d.id+'"><span class="yr">'+d.y+'</span><span><b>'+esc(d.p)+'</b> <span class="st '+d.st+'">'+STATUS[d.st]+'</span><small>'+esc(d.ty.map(t=>TYPE[t]).join(", "))+'; '+esc(d.ind)+((root(d.a)!==d.a||root(d.b)!==d.b)?'; 签约方 '+esc(nameOf(d.a))+' / '+esc(nameOf(d.b)):'')+'</small></span></button></li>').join("")+'</ul>';
-  else h+='<p class="sub">目前没有收录两者之间的药物合作。'+(!(A.p&&B.p)?'其中一家的合作数据将在 Phase 7 补全。':'')+'</p>';
+  else h+='<p class="sub">目前没有收录两者之间的药物合作。'+(!(A.p&&B.p)?'其中一家的合作数据仍在整理中。':'')+'</p>';
   h+='</section>';
   const taA=(PROF[a]||{}).ta||[],taB=(PROF[b]||{}).ta||[],norm=t=>t.toLowerCase().split(/[ (\/,]/)[0],shared=taA.filter(t=>taB.some(u=>norm(u)===norm(t)));
-  const tas=(list,other)=>list.length?'<div class="tas">'+list.map(t=>'<span'+(other.some(u=>norm(u)===norm(t))?' class="on"':'')+'>'+esc(t)+'</span>').join("")+'</div>':'<span class="muted">Phase 7</span>';
-  const prods=id=>{const l=(PROD[id]||[]).slice(0,3);return l.length?l.map(p=>esc(p.b)+' <span class="muted">'+(p.v?'$'+p.v.toFixed(1)+'B':'n/v')+'</span>').join('<br>'):'<span class="muted">Phase 7</span>';};
+  const tas=(list,other)=>list.length?'<div class="tas">'+list.map(t=>'<span'+(other.some(u=>norm(u)===norm(t))?' class="on"':'')+'>'+esc(t)+'</span>').join("")+'</div>':'<span class="muted">待补充</span>';
+  const prods=id=>{const l=(PROD[id]||[]).slice(0,3);return l.length?l.map(p=>esc(p.b)+' <span class="muted">'+(p.v?'$'+p.v.toFixed(1)+'B':'n/v')+'</span>').join('<br>'):'<span class="muted">待补充</span>';};
   const nextLoe=id=>{const l=(PROD[id]||[]).filter(p=>p.us&&p.us>=2026).sort((x,y)=>x.us-y.us);return l.length?esc(l[0].b)+' <span class="muted">US '+l[0].us+'</span>':'<span class="muted">—</span>';};
   const ret=id=>{const st=STOCK[id];if(!st)return '<span class="muted">'+(/Private/.test(byId[id].s)?'Private':'—')+'</span>';if(st.summary)return '<b>'+(st.rets[0][1]>=0?'+':'')+st.rets[0][1].toFixed(0)+'%</b> <span class="muted">'+esc(st.rets[0][0])+'</span>';const q=st.q,r=(q[q.length-1][1]/q[0][1]-1)*100;return '<b>'+(r>=0?'+':'')+r.toFixed(0)+'%</b> <span class="muted">'+esc(q[0][0])+' → '+esc(q[q.length-1][0])+'</span>';};
+  const late=id=>PIPE[id]?T.lateCmp(pipeCount(id,"reg"),pipeCount(id,"3")):'<span class="muted">—</span>';
   const ev=id=>{const l=(EVENTS[id]||[]).slice(0,2);return l.length?l.map(e=>'<span class="muted">'+esc(e.d)+'</span> '+esc(e.t)).join('<br>'):'<span class="muted">—</span>';};
   const pf=(id,X)=>esc(((PROF[id]||{}).f||"—")+' / '+((PROF[id]||{}).hq||COUNTRY[X.c]));
   h+='<section class="csec"><h2>Company profiles</h2><div class="table-wrap"><table class="ctab"><thead><tr><th></th><th>'+esc(A.n)+'</th><th>'+esc(B.n)+'</th></tr></thead><tbody>'+
@@ -3056,6 +3151,7 @@ function renderCompare(){const a=selA.value,b=selB.value,A=byId[a],B=byId[b];
     '<tr><th>Areas of strength</th><td>'+tas(taA,taB)+'</td><td>'+tas(taB,taA)+'</td></tr>'+
     '<tr><th>Top products, FY2025</th><td>'+prods(a)+'</td><td>'+prods(b)+'</td></tr>'+
     '<tr><th>Next US LOE in top five</th><td>'+nextLoe(a)+'</td><td>'+nextLoe(b)+'</td></tr>'+
+    '<tr><th>后期管线</th><td>'+late(a)+'</td><td>'+late(b)+'</td></tr>'+
     '<tr><th>Recent developments</th><td>'+ev(a)+'</td><td>'+ev(b)+'</td></tr>'+
     '<tr><th>Five-year return</th><td>'+ret(a)+'</td><td>'+ret(b)+'</td></tr>'+
     '</tbody></table></div>'+(shared.length?'<p class="sub">共同的优势领域已高亮。领域重叠本身不等于竞争,竞争部分只看具体产品。</p>':'')+'</section>';

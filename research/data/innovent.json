@@ -1,0 +1,249 @@
+{
+  "id": "innovent",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Innovent's pipeline spans oncology, metabolism, immunology and eye disease. ADCs and immune-engaging therapies are advancing into pivotal trials alongside licensed and collaborative programs.",
+    "zh": "Innovent 的管线涵盖肿瘤、代谢、免疫和眼科疾病。ADC 和免疫接合疗法正与授权及合作项目一同推进至关键性试验。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "arcotatug tavatecan",
+      "code": "IBI343 / TAK-921",
+      "modality": "ADC",
+      "target": {
+        "en": "CLDN18.2",
+        "zh": "CLDN18.2"
+      },
+      "ind": {
+        "en": "Later-line gastric cancer; also pancreatic cancer",
+        "zh": "后线胃癌;另有胰腺癌"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://en.innoventbio.com/InvestorsAndMedia/PressReleaseDetail?key=612"
+    },
+    {
+      "name": "IBI363",
+      "code": "TAK-928",
+      "modality": "other",
+      "target": {
+        "en": "PD-1 / alpha-biased IL-2",
+        "zh": "PD-1 / α 偏向性 IL-2"
+      },
+      "ind": {
+        "en": "IO-resistant squamous NSCLC; also melanoma and colorectal cancer",
+        "zh": "免疫肿瘤药物耐药的鳞状 NSCLC;另有黑色素瘤和结直肠癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": {
+        "en": "Melanoma pivotal readout supporting potential filing by end-2026 or early-2027",
+        "zh": "黑色素瘤关键性结果支持在 2026 年底或 2027 年初可能的申报",
+        "when": null
+      },
+      "src": "https://en.innoventbio.com/InvestorsAndMedia/PressReleaseDetail?key=612"
+    },
+    {
+      "name": "IBI354",
+      "code": "IBI354",
+      "modality": "ADC",
+      "target": {
+        "en": "HER2",
+        "zh": "HER2"
+      },
+      "ind": {
+        "en": "Platinum-resistant ovarian cancer; also HER2-positive breast cancer",
+        "zh": "铂耐药卵巢癌;另有 HER2 阳性乳腺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "Ovarian study readout supporting potential NDA",
+        "zh": "卵巢癌研究结果支持潜在 NDA",
+        "when": "2026H2"
+      },
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf"
+    },
+    {
+      "name": "IBI3003",
+      "code": "IBI3003",
+      "modality": "other",
+      "target": {
+        "en": "GPRC5D / BCMA / CD3",
+        "zh": "GPRC5D / BCMA / CD3"
+      },
+      "ind": {
+        "en": "Relapsed/refractory multiple myeloma",
+        "zh": "复发/难治性多发性骨髓瘤"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf"
+    },
+    {
+      "name": "tigulixostat",
+      "code": "IBI128",
+      "modality": "small molecule",
+      "target": {
+        "en": "Xanthine oxidase",
+        "zh": "黄嘌呤氧化酶"
+      },
+      "ind": {
+        "en": "Gout with hyperuricemia",
+        "zh": "痛风伴高尿酸血症"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf"
+    },
+    {
+      "name": "efdamrofusp alfa",
+      "code": "IBI302",
+      "modality": "other",
+      "target": {
+        "en": "VEGF / complement",
+        "zh": "VEGF / 补体"
+      },
+      "ind": {
+        "en": "Neovascular AMD",
+        "zh": "新生血管性 AMD"
+      },
+      "phase": "3",
+      "ta": "Ophthalmology",
+      "origin": null,
+      "next": {
+        "en": "Planned NDA around year-end",
+        "zh": "计划在年底前后提交 NDA",
+        "when": "2026"
+      },
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf"
+    },
+    {
+      "name": "IBI3016",
+      "code": "IBI3016",
+      "modality": "siRNA",
+      "target": {
+        "en": "Angiotensinogen",
+        "zh": "血管紧张素原"
+      },
+      "ind": {
+        "en": "Hypertension",
+        "zh": "高血压"
+      },
+      "phase": "2",
+      "ta": "Cardiovascular",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf"
+    },
+    {
+      "name": "IBI3002",
+      "code": "IBI3002",
+      "modality": "bispecific",
+      "target": {
+        "en": "TSLP / IL-4Ralpha",
+        "zh": "TSLP / IL-4Rα"
+      },
+      "ind": {
+        "en": "Atopic dermatitis; also respiratory diseases",
+        "zh": "特应性皮炎;另有呼吸系统疾病"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf"
+    },
+    {
+      "name": "IBI324",
+      "code": "OLN324",
+      "modality": "bispecific",
+      "target": {
+        "en": "VEGF-A / ANG-2",
+        "zh": "VEGF-A / ANG-2"
+      },
+      "ind": {
+        "en": "Diabetic macular edema; also neovascular AMD",
+        "zh": "糖尿病黄斑水肿;另有新生血管性 AMD"
+      },
+      "phase": "1",
+      "ta": "Ophthalmology",
+      "origin": "co-developed",
+      "next": {
+        "en": "Planned global Phase 3 initiation",
+        "zh": "计划启动全球 III 期",
+        "when": "2026H2"
+      },
+      "src": "https://en.innoventbio.com/InvestorsAndMedia/PressReleaseDetail?key=612"
+    },
+    {
+      "name": "IBI3032",
+      "code": "IBI3032",
+      "modality": "small molecule",
+      "target": {
+        "en": "GLP-1 receptor",
+        "zh": "GLP-1 受体"
+      },
+      "ind": {
+        "en": "Obesity and type 2 diabetes",
+        "zh": "肥胖和 2 型糖尿病"
+      },
+      "phase": "1",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "IBI343 is under NMPA review; several other pivotal readouts could support filings.",
+      "zh": "IBI343 正在接受 NMPA 审评;其他多项关键性结果可能支持申报。",
+      "src": "https://en.innoventbio.com/InvestorsAndMedia/PressReleaseDetail?key=612"
+    },
+    {
+      "k": "deal",
+      "en": "Takeda and other partners support global development.",
+      "zh": "Takeda 和其他合作伙伴支持全球开发。",
+      "src": "https://en.innoventbio.com/InvestorsAndMedia/PressReleaseDetail?key=612"
+    },
+    {
+      "k": "policy",
+      "en": "Thirteen marketed products were listed on China's reimbursement list at the interim reporting date.",
+      "zh": "截至中期报告日,有十三款上市产品被纳入中国医保目录。",
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "2026 interim report",
+      "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0929/2026092900476.pdf"
+    ],
+    [
+      "2026 interim results",
+      "https://en.innoventbio.com/InvestorsAndMedia/PressReleaseDetail?key=612"
+    ],
+    [
+      "Company pipeline entry point",
+      "https://en.innoventbio.com/"
+    ]
+  ],
+  "gaps": [
+    "Company reports combined Phase 1/2 and Phase 3/pivotal categories, not separate phase counts; counts is null.",
+    "Company website is JavaScript-rendered; the full pipeline chart and narrative were reviewed in the September 2026 HKEX report.",
+    "Origins not explicitly established are null.",
+    "IBI324 Phase 3 start was planned, not confirmed in reviewed primary materials; phase 1 retained from JADE.",
+    "No later NDA acceptance for IBI354 or IBI302 independently verified.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

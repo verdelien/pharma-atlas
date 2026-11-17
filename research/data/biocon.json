@@ -1,0 +1,133 @@
+{
+  "id": "biocon",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Biocon's development centers on biosimilars and complex peptide generics, including Biocon Biologics' next oncology wave. Pertuzumab gained US approval in November 2026, leaving newer oncology candidates with less detailed public staging.",
+    "zh": "Biocon 的开发以生物类似药和复杂多肽仿制药为核心,包括 Biocon Biologics 的下一波肿瘤产品。Pertuzumab 于 2026 年 11 月获美国批准,较新的肿瘤候选药物公开披露的阶段信息较少。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "generic semaglutide",
+      "code": null,
+      "modality": "peptide",
+      "target": {
+        "en": "GLP-1 receptor",
+        "zh": "GLP-1 受体"
+      },
+      "ind": {
+        "en": "Diabetes and obesity generics; filings in Canada, Brazil, Saudi Arabia and Turkey",
+        "zh": "糖尿病和肥胖仿制药;在加拿大、巴西、沙特阿拉伯和土耳其申报"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www.biocon.com/docs/Q3FY26-Earnings-call-Transcript.pdf"
+    },
+    {
+      "name": "trastuzumab / hyaluronidase biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "HER2",
+        "zh": "HER2"
+      },
+      "ind": {
+        "en": "Oncology; specific lead indication not disclosed",
+        "zh": "肿瘤;具体首个适应症未披露"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.biocon.com/docs/SE-Biocon_Pertuzumab_FDA_Approval.pdf"
+    },
+    {
+      "name": "nivolumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "PD-1",
+        "zh": "PD-1"
+      },
+      "ind": {
+        "en": "Oncology; specific lead indication not disclosed",
+        "zh": "肿瘤;具体首个适应症未披露"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.biocon.com/docs/SE-Biocon_Pertuzumab_FDA_Approval.pdf"
+    },
+    {
+      "name": "pembrolizumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "PD-1",
+        "zh": "PD-1"
+      },
+      "ind": {
+        "en": "Oncology; specific lead indication not disclosed",
+        "zh": "肿瘤;具体首个适应症未披露"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.biocon.com/docs/SE-Biocon_Pertuzumab_FDA_Approval.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "FDA approved Pebrilzo, the pertuzumab biosimilar, on November 16, 2026.",
+      "zh": "FDA 于 2026 年 11 月 16 日批准 pertuzumab 生物类似药 Pebrilzo。",
+      "src": "https://www.biocon.com/docs/SE-Biocon_Pertuzumab_FDA_Approval.pdf"
+    },
+    {
+      "k": "balance",
+      "en": "Quarterly interest costs fell 12% year on year to INR240 crore in Q2 FY27.",
+      "zh": "2027 财年第二季度利息支出同比下降 12%,至 INR240 crore。",
+      "src": "https://www.biocon.com/biocon-q2fy27-revenue/"
+    },
+    {
+      "k": "concentration",
+      "en": "Biosimilars revenue of INR2,809 crore exceeded generics revenue of INR774 crore in Q2 FY27.",
+      "zh": "2027 财年第二季度生物类似药收入 INR2,809 crore,超过仿制药收入 INR774 crore。",
+      "src": "https://www.biocon.com/biocon-q2fy27-revenue/"
+    }
+  ],
+  "sources": [
+    [
+      "Q2 FY27 results",
+      "https://www.biocon.com/biocon-q2fy27-revenue/"
+    ],
+    [
+      "November 16 pertuzumab approval and pipeline",
+      "https://www.biocon.com/docs/SE-Biocon_Pertuzumab_FDA_Approval.pdf"
+    ],
+    [
+      "Biosimilar portfolio",
+      "https://www.bioconbiologicsus.com/"
+    ],
+    [
+      "January 2026 oncology expansion",
+      "https://www.biocon.com/docs/BBL_SGX_JPMorgan_06012026.pdf"
+    ],
+    [
+      "Q3 FY26 transcript",
+      "https://www.biocon.com/docs/Q3FY26-Earnings-call-Transcript.pdf"
+    ]
+  ],
+  "gaps": [
+    "No published clinical phase counts verified.",
+    "Clinical phases, specific lead indications, candidate codes and origins for new oncology biosimilars not disclosed in reviewed company materials.",
+    "Generic semaglutide filing evidence comes from February 2026 transcript, older than June 2026; later status not independently verified.",
+    "Pertuzumab and other already-approved biosimilars excluded from items; US portfolio page still labels pertuzumab under review, superseded by November 16 announcement.",
+    "Q2 FY27 release was indexed but direct browser retrieval timed out.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

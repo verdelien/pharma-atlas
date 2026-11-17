@@ -1,0 +1,116 @@
+{
+  "id": "kedrion",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Kedrion's disclosed development focuses on plasma-derived products and rare diseases, including immunoglobulin expansions and plasminogen eye drops. Public asset-level information is limited.",
+    "zh": "Kedrion 披露的开发聚焦血浆来源产品和罕见病,包括免疫球蛋白适应症拓展和纤溶酶原滴眼液。公开的单个资产层面信息有限。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "IVIg 10% (pediatric and immune-disease expansions)",
+      "code": "KIg10 / QIVIGY",
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Pediatric primary immunodeficiency; also stiff person syndrome",
+        "zh": "儿童原发性免疫缺陷;另有僵人综合征"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://clinicaltrials.gov/study/NCT04944979"
+    },
+    {
+      "name": "plasminogen eye drops",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "Plasminogen replacement",
+        "zh": "纤溶酶原替代"
+      },
+      "ind": {
+        "en": "Ligneous conjunctivitis in type 1 plasminogen deficiency",
+        "zh": "1 型纤溶酶原缺乏症中的木样结膜炎"
+      },
+      "phase": null,
+      "ta": "Ophthalmology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.kedrion.com/research-development/"
+    },
+    {
+      "name": "Factor V program",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "Factor V replacement",
+        "zh": "因子 V 替代"
+      },
+      "ind": {
+        "en": "Congenital Factor V deficiency",
+        "zh": "先天性因子 V 缺乏症"
+      },
+      "phase": null,
+      "ta": "Hematology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.kedrion.com/ema-grants-orphan-drug-designation-to-kedrions-factor-v-program/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "other",
+      "en": "QIVIGY received FDA orphan designation for stiff person syndrome in September 2026; a clinical study is underway.",
+      "zh": "QIVIGY 于 2026 年 9 月获 FDA 授予僵人综合征孤儿药资格;一项临床研究正在进行。",
+      "src": "https://www.kedrion.com/fda-grants-orphan-drug-designation-for-stiff-person-syndrome-program/"
+    },
+    {
+      "k": "other",
+      "en": "Factor V received EMA orphan designation; that does not establish approval or a clinical phase.",
+      "zh": "因子 V 获 EMA 孤儿药资格;这并不代表已获批或已进入某一临床阶段。",
+      "src": "https://www.kedrion.com/ema-grants-orphan-drug-designation-to-kedrions-factor-v-program/"
+    },
+    {
+      "k": "concentration",
+      "en": "R&D includes extremely rare diseases and improvements to plasma-derived products and manufacturing.",
+      "zh": "研发包括极罕见疾病,以及对血浆来源产品和生产工艺的改进。",
+      "src": "https://www.kedrion.com/research-development/"
+    }
+  ],
+  "sources": [
+    [
+      "Research and development",
+      "https://www.kedrion.com/research-development/"
+    ],
+    [
+      "Pediatric IVIg Phase 3",
+      "https://clinicaltrials.gov/study/NCT04944979"
+    ],
+    [
+      "SPS program",
+      "https://www.kedrion.com/fda-grants-orphan-drug-designation-for-stiff-person-syndrome-program/"
+    ],
+    [
+      "Factor V program",
+      "https://www.kedrion.com/ema-grants-orphan-drug-designation-to-kedrions-factor-v-program/"
+    ],
+    [
+      "Investor relations",
+      "https://www.kedrion.com/investor-relations/"
+    ]
+  ],
+  "gaps": [
+    "No dated 2026 quarterly or half-year financial report could be retrieved from investor pages.",
+    "No published phase counts verified; only three distinct disclosed development assets included.",
+    "Factor V and plasminogen eye-drop current phases not stated in the company pages; phase is null.",
+    "IVIg lead entry uses verified pediatric Phase 3; SPS phase not independently established from an accessible primary record.",
+    "Origin and specific molecular targets not explicitly established are null; no dated future catalysts verified.",
+    "Pediatric registry update and Factor V release are May 2026, older than June 2026; R&D page is undated.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

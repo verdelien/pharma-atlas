@@ -1,0 +1,233 @@
+{
+  "id": "vertex",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Kidney disease, rare endocrine disorders and cell therapy broaden a business still dominated by cystic fibrosis. Povetacicept is under regulatory review, while multiple other programs remain in pivotal or proof-of-concept development.",
+    "zh": "肾病、罕见内分泌疾病和细胞疗法拓宽了仍以囊性纤维化为主的业务。Povetacicept 正在接受监管审评,其他多个项目仍处于关键性或概念验证开发阶段。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "povetacicept",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "BAFF/APRIL inhibition",
+        "zh": "BAFF/APRIL 抑制"
+      },
+      "ind": {
+        "en": "IgA nephropathy; also membranous nephropathy and myasthenia gravis",
+        "zh": "IgA 肾病;另有膜性肾病和重症肌无力"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "FDA target action date November 30, 2026",
+        "zh": "FDA 目标行动日期 2026 年 11 月 30 日",
+        "when": "2026Q4"
+      },
+      "src": "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "inaxaplin",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "APOL1 inhibition",
+        "zh": "APOL1 抑制"
+      },
+      "ind": {
+        "en": "APOL1-mediated kidney disease",
+        "zh": "APOL1 介导的肾病"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "internal",
+      "next": {
+        "en": "AMPLITUDE interim analysis, early 2027",
+        "zh": "AMPLITUDE 中期分析,2027 年初",
+        "when": "2027H1"
+      },
+      "src": "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "atumelnant",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "ACTH receptor antagonism",
+        "zh": "ACTH 受体拮抗"
+      },
+      "ind": {
+        "en": "Congenital adrenal hyperplasia; also ACTH-dependent Cushing’s syndrome",
+        "zh": "先天性肾上腺皮质增生症;另有 ACTH 依赖性库欣综合征"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "Complete adult CAH trial enrollment",
+        "zh": "完成成人 CAH 试验入组",
+        "when": "2027Q1"
+      },
+      "src": "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "zimislecel",
+      "code": "VX-880",
+      "modality": "cell therapy",
+      "target": {
+        "en": "Insulin-producing islet-cell replacement",
+        "zh": "产生胰岛素的胰岛细胞替代"
+      },
+      "ind": {
+        "en": "Type 1 diabetes with severe hypoglycemia",
+        "zh": "伴严重低血糖的 1 型糖尿病"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www.vrtx.com/en-global/our-science/pipeline/"
+    },
+    {
+      "name": "VX-993",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Painful diabetic peripheral neuropathy",
+        "zh": "痛性糖尿病周围神经病变"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "Phase 2 enrollment complete by year-end 2026; results mid-2027",
+        "zh": "II 期入组于 2026 年底前完成;结果预计 2027 年中",
+        "when": "2026Q4"
+      },
+      "src": "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "VX-407",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Restore polycystin-1 function",
+        "zh": "恢复多囊蛋白-1 功能"
+      },
+      "ind": {
+        "en": "Autosomal dominant polycystic kidney disease",
+        "zh": "常染色体显性多囊肾病"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "AGLOW results",
+        "zh": "AGLOW 结果",
+        "when": "2027"
+      },
+      "src": "https://www.vrtx.com/en-global/our-science/pipeline/"
+    },
+    {
+      "name": "VX-670",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "Oligonucleotide linked to cyclic peptide",
+        "zh": "与环肽连接的寡核苷酸"
+      },
+      "ind": {
+        "en": "Myotonic dystrophy type 1",
+        "zh": "1 型强直性肌营养不良"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "GALILEO interim results",
+        "zh": "GALILEO 中期结果",
+        "when": "2026H2"
+      },
+      "src": "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "VX-017",
+      "code": null,
+      "modality": "cell therapy",
+      "target": {
+        "en": "Insulin-producing islet-cell replacement",
+        "zh": "产生胰岛素的胰岛细胞替代"
+      },
+      "ind": {
+        "en": "Type 1 diabetes, regardless of blood type",
+        "zh": "1 型糖尿病,不论血型"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": {
+        "en": "Advance into pivotal development",
+        "zh": "推进至关键性开发",
+        "when": "2027"
+      },
+      "src": "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "Q3 CF revenue was $3.27bn of $3.44bn total revenue.",
+      "zh": "第三季度 CF 收入为 $3.27bn,总收入为 $3.44bn。",
+      "src": "https://investors.vrtx.com/static-files/96eaf409-9dfc-4ccd-9964-63e3f07cb5a5"
+    },
+    {
+      "k": "catalyst",
+      "en": "Povetacicept has a November 30 FDA date; inaxaplin interim data are expected early 2027.",
+      "zh": "Povetacicept 的 FDA 日期为 11 月 30 日;inaxaplin 中期数据预计在 2027 年初公布。",
+      "src": "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "k": "deal",
+      "en": "Crinetics acquisition closed September 1; Vertex borrowed $4.5bn in Q3.",
+      "zh": "Crinetics 收购于 9 月 1 日完成;Vertex 在第三季度借款 $4.5bn。",
+      "src": "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "k": "other",
+      "en": "Vertex prioritizes VX-017 over zimislecel to reach patients regardless of blood type.",
+      "zh": "Vertex 优先推进 VX-017 而非 zimislecel,以使不同血型的患者均可获益。",
+      "src": "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    }
+  ],
+  "sources": [
+    [
+      "R&D pipeline",
+      "https://www.vrtx.com/en-global/our-science/pipeline/"
+    ],
+    [
+      "Q3 2026 results, November 2",
+      "https://news.vrtx.com/news-releases/news-release-details/vertex-reports-third-quarter-2026-financial-results"
+    ],
+    [
+      "Q3 2026 presentation",
+      "https://investors.vrtx.com/static-files/96eaf409-9dfc-4ccd-9964-63e3f07cb5a5"
+    ]
+  ],
+  "gaps": [
+    "No complete published phase counts were verified; counts is null.",
+    "Phase 1/2 VX-017 and VX-670 map to 2; zimislecel Phase 1/2/3 maps to 3. Combined study labels do not establish the phase of every cohort.",
+    "Povetacicept’s priority-review filing supersedes the Phase 3 label on the general pipeline page.",
+    "Origin was only explicitly established for inaxaplin; all other origins are null. Povetacicept modality and VX-993 target were not explicitly verified from the opened current sources and are null.",
+    "VX-670 is an oligonucleotide-peptide conjugate, mapped to other rather than siRNA. No named molecular target was inferred.",
+    "No next milestone was verified for zimislecel; next is null. VX-407 2027 results timing is from the Q3 presentation. Early-2027 inaxaplin guidance maps to 2027H1.",
+    "Suzetrigine’s unfiled Phase 3 neuropathic-pain expansion and same-indication geographic/pediatric expansions of approved products are excluded under the brief’s approved-asset rule.",
+    "Required curl HEAD checks were attempted, but local DNS resolution failed (curl exit 6, HTTP 000); HTTP status could not be independently confirmed locally. Sources were opened with the web browser tool."
+  ]
+}

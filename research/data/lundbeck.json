@@ -1,0 +1,160 @@
+{
+  "id": "lundbeck",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Lundbeck concentrates on brain diseases, with pivotal epilepsy and multiple system atrophy programs alongside migraine and neurohormonal antibodies.",
+    "zh": "Lundbeck 专注于脑部疾病,除偏头痛和神经激素抗体外,还有癫痫和多系统萎缩的关键性项目。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "eptinezumab (China migraine registration)",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "CGRP",
+        "zh": "CGRP"
+      },
+      "ind": {
+        "en": "Migraine prevention in China",
+        "zh": "中国偏头痛预防"
+      },
+      "phase": "reg",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
+    },
+    {
+      "name": "bexicaserin",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "5-HT2C receptor agonist",
+        "zh": "5-HT2C 受体激动剂"
+      },
+      "ind": {
+        "en": "Developmental and epileptic encephalopathies",
+        "zh": "发育性和癫痫性脑病"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "DEEp OCEAN pivotal results",
+        "zh": "DEEp OCEAN 关键性研究结果",
+        "when": "2026Q4"
+      },
+      "src": "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
+    },
+    {
+      "name": "amlenetug",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "Alpha-synuclein",
+        "zh": "α-突触核蛋白"
+      },
+      "ind": {
+        "en": "Multiple system atrophy",
+        "zh": "多系统萎缩"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
+    },
+    {
+      "name": "bocunebart",
+      "code": "Lu AG09222",
+      "modality": "antibody",
+      "target": {
+        "en": "PACAP",
+        "zh": "PACAP"
+      },
+      "ind": {
+        "en": "Migraine prevention",
+        "zh": "偏头痛预防"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
+    },
+    {
+      "name": "asedebart",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "ACTH",
+        "zh": "ACTH"
+      },
+      "ind": {
+        "en": "Congenital adrenal hyperplasia; also Cushing's disease",
+        "zh": "先天性肾上腺皮质增生症;另有库欣病"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
+    },
+    {
+      "name": "Lu AF28996",
+      "code": "Lu AF28996",
+      "modality": "small molecule",
+      "target": {
+        "en": "D1/D2 dopamine receptor agonist",
+        "zh": "D1/D2 多巴胺受体激动剂"
+      },
+      "ind": {
+        "en": "Parkinson's disease",
+        "zh": "帕金森病"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "DEEp OCEAN results are expected in Q4 2026; amlenetug results are expected in 2027.",
+      "zh": "DEEp OCEAN 结果预计于 2026 年第四季度公布;amlenetug 结果预计于 2027 年公布。",
+      "src": "https://mb.cision.com/Main/18215/4422511/4365708.pdf"
+    },
+    {
+      "k": "concentration",
+      "en": "Migraine and neuro-rare franchises are central to the company's next strategy phase.",
+      "zh": "偏头痛和神经罕见病业务是公司下一阶段战略的核心。",
+      "src": "https://mb.cision.com/Main/18215/4422511/4365708.pdf"
+    },
+    {
+      "k": "balance",
+      "en": "2026 guidance includes DKK 5.6–5.7 billion R&D spending and DKK 4–5 billion net debt.",
+      "zh": "2026 年指引包括 DKK 5.6–5.7 billion 的研发支出和 DKK 4–5 billion 的净债务。",
+      "src": "https://mb.cision.com/Main/18215/4422511/4365708.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Global pipeline",
+      "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
+    ],
+    [
+      "Q3 2026 financial report, November 10",
+      "https://mb.cision.com/Main/18215/4422511/4365708.pdf"
+    ]
+  ],
+  "gaps": [
+    "No explicit company totals by phase verified; counts is null.",
+    "Origins and several development codes were not verified; these fields are null.",
+    "No dated next milestone verified for most assets.",
+    "China registration is a geographic expansion of an approved medicine.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; curl status validation remains unverified."
+  ]
+}

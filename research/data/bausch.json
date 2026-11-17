@@ -1,0 +1,100 @@
+{
+  "id": "bausch",
+  "asof": "2026-11",
+  "summary": {
+    "en": "The October unconsolidated pipeline highlights only two drug programs, led by Phase 3 larsucosterol. Aesthetic-device development sits alongside this narrow pharmaceutical pipeline.",
+    "zh": "10 月的非合并管线仅重点列出两个药物项目,以 III 期 larsucosterol 为首。医美器械开发与这条较窄的制药管线并行。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "larsucosterol",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "Epigenetic modulation",
+        "zh": "表观遗传调节"
+      },
+      "ind": {
+        "en": "Severe alcohol-associated hepatitis",
+        "zh": "重症酒精相关性肝炎"
+      },
+      "phase": "3",
+      "ta": "Other",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.bauschhealth.com/siteassets/pdf/bauschhealth-rd-pipeline-october-2026.pdf"
+    },
+    {
+      "name": "amiselimod",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "S1P modulation",
+        "zh": "S1P 调节"
+      },
+      "ind": {
+        "en": "Mild-to-moderate ulcerative colitis",
+        "zh": "轻至中度溃疡性结肠炎"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.bauschhealth.com/siteassets/pdf/bauschhealth-rd-pipeline-october-2026.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "Only larsucosterol and amiselimod are highlighted as pharmaceutical clinical programs.",
+      "zh": "仅 larsucosterol 和 amiselimod 被列为重点药物临床项目。",
+      "src": "https://www.bauschhealth.com/siteassets/pdf/bauschhealth-rd-pipeline-october-2026.pdf"
+    },
+    {
+      "k": "other",
+      "en": "Amiselimod remains under internal opportunity review.",
+      "zh": "Amiselimod 仍处于内部机会评估中。",
+      "src": "https://www.bauschhealth.com/siteassets/pdf/bauschhealth-rd-pipeline-october-2026.pdf"
+    },
+    {
+      "k": "balance",
+      "en": "Bausch reported more than $500m net debt reduction in Q3, excluding Bausch + Lomb.",
+      "zh": "Bausch 报告第三季度净债务减少超过 $500m(不含 Bausch + Lomb)。",
+      "src": "https://ir.bauschhealth.com/news-releases/2026/10-28-2026"
+    },
+    {
+      "k": "policy",
+      "en": "The pipeline document flags negotiated Xifaxan prices becoming effective in 2027.",
+      "zh": "管线文件指出,Xifaxan 的谈判价格将于 2027 年生效。",
+      "src": "https://www.bauschhealth.com/siteassets/pdf/bauschhealth-rd-pipeline-october-2026.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline page, October 2026",
+      "https://www.bauschhealth.com/r-d/our-pipeline"
+    ],
+    [
+      "October 2026 pipeline",
+      "https://www.bauschhealth.com/siteassets/pdf/bauschhealth-rd-pipeline-october-2026.pdf"
+    ],
+    [
+      "Q3 2026 results, October 28",
+      "https://ir.bauschhealth.com/news-releases/2026/10-28-2026"
+    ],
+    [
+      "Q1 2026 filing: DURECT acquisition",
+      "https://www.sec.gov/Archives/edgar/data/885590/000088559026000053/bhc-20260331.htm"
+    ]
+  ],
+  "gaps": [
+    "This is the unconsolidated Bausch Health pharmaceutical pipeline, as explicitly labeled in the October document; Bausch + Lomb’s separate eye-health pipeline is not merged into it.",
+    "The company highlights two pharmaceutical programs, so the thin list is intentional. Aesthetic devices are excluded because their development stages do not map to drug Phases 1–3.",
+    "Amiselimod is retained at Phase 2 based on its completed development bar and opportunity-review status, not treated as an initiated Phase 3 program. The illustrative bar is not milestone guidance.",
+    "No future drug-program milestone/date was verified; both next fields are null. Modalities and development codes were not explicitly verified and are null. Amiselimod origin is null.",
+    "Counts is null: no company-published counts by phase were verified.",
+    "Larsucosterol acquired origin is documented in the Q1 2026 filing, which is older than 2026-06; current Phase 3 status comes from October 2026.",
+    "Required curl HEAD checks were attempted, but local DNS resolution failed (curl exit 6, HTTP 000); HTTP status could not be independently confirmed locally. Sources were opened with the web browser tool."
+  ]
+}

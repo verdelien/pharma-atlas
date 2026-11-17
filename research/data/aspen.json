@@ -1,0 +1,102 @@
+{
+  "id": "aspen",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Aspen emphasizes established brands, complex manufacturing and regional registrations rather than a broad novel-drug research pipeline. Licensed HIV prevention and generic GLP-1 expansion are notable development opportunities.",
+    "zh": "Aspen 侧重成熟品牌、复杂生产工艺和区域注册,而非广泛的创新药研发管线。授权引进的 HIV 预防药物和 GLP-1 仿制药扩张是值得关注的开发机会。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "generic semaglutide (regional registrations)",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Diabetes; regional registration expansion beyond Canada",
+        "zh": "糖尿病;在加拿大以外地区扩大注册"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www.aspenpharma.com/media/"
+    },
+    {
+      "name": "alimatravir",
+      "code": "MK-8527",
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Once-monthly oral HIV-1 prevention",
+        "zh": "每月一次口服 HIV-1 预防"
+      },
+      "phase": "3",
+      "ta": "Infectious disease",
+      "origin": "licensed",
+      "next": {
+        "en": "Phase 3 results, followed by submissions if favorable",
+        "zh": "III 期结果;若结果良好,随后提交申报",
+        "when": null
+      },
+      "src": "https://www.aspenpharma.com/aspen-pharmacare-expands-access-ambitions-for-hiv-prevention-across-africa-through-new-agreement-with-msd/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "deal",
+      "en": "MSD license covers alimatravir development, manufacture and commercialization in 129 countries.",
+      "zh": "MSD 的授权涵盖 alimatravir 在 129 个国家的开发、生产和商业化。",
+      "src": "https://www.aspenpharma.com/aspen-pharmacare-expands-access-ambitions-for-hiv-prevention-across-africa-through-new-agreement-with-msd/"
+    },
+    {
+      "k": "other",
+      "en": "Canadian semaglutide commercialization depends on API supply from Dr. Reddy's.",
+      "zh": "semaglutide 在加拿大的商业化依赖 Dr. Reddy's 的原料药供应。",
+      "src": "https://www.aspenpharma.com/strong-execution-positions-aspen-for-sustainable-growth/"
+    },
+    {
+      "k": "balance",
+      "en": "APAC disposal generated R28 billion gross proceeds; annual free cash flow before dividends was R3.8 billion.",
+      "zh": "出售亚太业务获得总收益 R28 billion;股息前年度自由现金流为 R3.8 billion。",
+      "src": "https://www.aspenpharma.com/strong-execution-positions-aspen-for-sustainable-growth/"
+    },
+    {
+      "k": "concentration",
+      "en": "GLP-1 rollout and sterile-manufacturing utilization are key operating drivers.",
+      "zh": "GLP-1 的推广和无菌生产产能利用率是关键运营驱动因素。",
+      "src": "https://www.aspenpharma.com/strong-execution-positions-aspen-for-sustainable-growth/"
+    }
+  ],
+  "sources": [
+    [
+      "FY2026 financial results",
+      "https://www.aspenpharma.com/strong-execution-positions-aspen-for-sustainable-growth/"
+    ],
+    [
+      "Regional registrations and operating context",
+      "https://www.aspenpharma.com/media/"
+    ],
+    [
+      "MSD HIV-prevention license",
+      "https://www.aspenpharma.com/aspen-pharmacare-expands-access-ambitions-for-hiv-prevention-across-africa-through-new-agreement-with-msd/"
+    ],
+    [
+      "Viramal women's-health license",
+      "https://www.aspenpharma.com/aspen-concludes-an-exclusive-womens-health-portfolio-licensing-agreement-with-viramal/"
+    ]
+  ],
+  "gaps": [
+    "No comprehensive asset-by-phase pipeline page found. FY2026 report/presentation landing pages returned 403; reachable company financial-results release used. Only two distinct development assets retained.",
+    "Semaglutide registration evidence is September 2026; exact November status in each market was not verified, so no country-specific pending claim is made. Canadian approval is excluded from phase assessment.",
+    "No published phase totals or dated next milestones located. Asset modalities, molecular targets and semaglutide origin were not verified; null.",
+    "Viramal license announcement predates June 2026 and does not name assets/stages; excluded from items.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+  ]
+}

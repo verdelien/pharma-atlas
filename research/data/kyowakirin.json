@@ -1,0 +1,188 @@
+{
+  "id": "kyowakirin",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Kyowa Kirin combines rare-disease gene therapy and antibodies with licensed oncology and skeletal-disease programs. The most advanced work includes Japan registration and pivotal global or Japanese trials.",
+    "zh": "Kyowa Kirin 将罕见病基因疗法和抗体与授权引进的肿瘤和骨骼疾病项目相结合。最前沿的工作包括日本注册以及全球或日本的关键性试验。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "atidarsagene autotemcel (Japan)",
+      "code": "OTL-200",
+      "modality": "gene therapy",
+      "target": null,
+      "ind": {
+        "en": "Metachromatic leukodystrophy",
+        "zh": "异染性脑白质营养不良"
+      },
+      "phase": "reg",
+      "ta": "Rare disease",
+      "origin": "internal",
+      "next": null,
+      "src": "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/0118/teaserItems1/00/linkList/0/link/summary_2026_q3_en.pdf"
+    },
+    {
+      "name": "ziftomenib (newly diagnosed AML)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Menin",
+        "zh": "Menin"
+      },
+      "ind": {
+        "en": "Newly diagnosed AML combinations",
+        "zh": "初治 AML 联合疗法"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
+    },
+    {
+      "name": "infigratinib",
+      "code": "KK8398",
+      "modality": "small molecule",
+      "target": {
+        "en": "FGFR3",
+        "zh": "FGFR3"
+      },
+      "ind": {
+        "en": "Achondroplasia in Japan; hypochondroplasia Phase 3 in preparation",
+        "zh": "日本软骨发育不全;软骨发育低下 III 期筹备中"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
+    },
+    {
+      "name": "OTL-203",
+      "code": "OTL-203",
+      "modality": "gene therapy",
+      "target": null,
+      "ind": {
+        "en": "Hurler syndrome",
+        "zh": "Hurler 综合征"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
+    },
+    {
+      "name": "tivozanib eyedrops",
+      "code": "KHK4951",
+      "modality": "small molecule",
+      "target": {
+        "en": "VEGF receptor",
+        "zh": "VEGF 受体"
+      },
+      "ind": {
+        "en": "Neovascular age-related macular degeneration; also diabetic macular edema",
+        "zh": "新生血管性年龄相关性黄斑变性;另有糖尿病黄斑水肿"
+      },
+      "phase": "2",
+      "ta": "Ophthalmology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
+    },
+    {
+      "name": "OTL-201",
+      "code": "OTL-201",
+      "modality": "gene therapy",
+      "target": null,
+      "ind": {
+        "en": "Sanfilippo syndrome type A",
+        "zh": "A 型 Sanfilippo 综合征"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
+    },
+    {
+      "name": "KK2260",
+      "code": "KK2260",
+      "modality": "bispecific",
+      "target": {
+        "en": "EGFR × TfR1",
+        "zh": "EGFR × TfR1"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
+    },
+    {
+      "name": "KK2845",
+      "code": "KK2845",
+      "modality": "ADC",
+      "target": {
+        "en": "TIM-3",
+        "zh": "TIM-3"
+      },
+      "ind": {
+        "en": "AML and other hematologic malignancies",
+        "zh": "AML 及其他血液系统恶性肿瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "OTL-200 is filed in Japan; OTL-203's pivotal Hurler study and Japanese infigratinib Phase 3 are ongoing.",
+      "zh": "OTL-200 已在日本申报;OTL-203 的关键性 Hurler 研究和日本 infigratinib III 期正在进行。",
+      "src": "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/0118/teaserItems1/00/linkList/0/link/summary_2026_q3_en.pdf"
+    },
+    {
+      "k": "deal",
+      "en": "Ziftomenib originates from Kura Oncology and infigratinib from QED Therapeutics.",
+      "zh": "Ziftomenib 来自 Kura Oncology,infigratinib 来自 QED Therapeutics。",
+      "src": "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
+    },
+    {
+      "k": "balance",
+      "en": "Nine-month R&D expenditure was JPY67.7 billion.",
+      "zh": "前九个月研发支出为 JPY67.7 billion。",
+      "src": "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/0118/teaserItems1/00/linkList/0/link/summary_2026_q3_en.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline, September 30 with October update",
+      "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
+    ],
+    [
+      "Q3 2026 financial summary, November 2",
+      "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/0118/teaserItems1/00/linkList/0/link/summary_2026_q3_en.pdf"
+    ],
+    [
+      "Q3 2026 pipeline appendix",
+      "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/0118/teaserItems1/00/linkList/00/link/appendix_2026_q3_en.pdf"
+    ]
+  ],
+  "gaps": [
+    "No published complete phase totals verified.",
+    "Gene-therapy molecular targets are not specified in the reviewed pipeline and are null.",
+    "Origin follows the company's In-House or Licensed classification; this does not establish original discovery before acquired subsidiaries joined the group.",
+    "No dated asset-level upcoming events verified.",
+    "OTL-201 is shown as Phase 2 on the pipeline and described as Phase I/II-equivalent in results.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

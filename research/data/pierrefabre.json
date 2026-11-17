@@ -1,0 +1,168 @@
+{
+  "id": "pierrefabre",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Pierre Fabre’s investigational pipeline is concentrated in early precision oncology, complemented by fetal protein replacement. Acquisitions and purchased development rights supply several of its clinical assets.",
+    "zh": "Pierre Fabre 的在研管线集中于早期精准肿瘤,并辅以胎儿蛋白替代疗法。收购和购买的开发权益提供了其若干临床资产。"
+  },
+  "counts": {
+    "p1": 4,
+    "p2": 1,
+    "p3": null,
+    "reg": 1,
+    "note": "As reported on the undated Pierre Fabre Pharmaceuticals US pipeline page, accessed November 17, 2026; Phase III count not separately disclosed."
+  },
+  "items": [
+    {
+      "name": "ER004",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "Ectodysplasin A1 replacement",
+        "zh": "外胚层发育不良蛋白 A1 (Ectodysplasin A1) 替代"
+      },
+      "ind": {
+        "en": "X-linked hypohidrotic ectodermal dysplasia",
+        "zh": "X 连锁少汗性外胚层发育不良"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.pierrefabrepharmaceuticals.com/partnerships-and-pipeline"
+    },
+    {
+      "name": "Exarafenib",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Pan-RAF",
+        "zh": "Pan-RAF"
+      },
+      "ind": {
+        "en": "NRAS-mutant melanoma",
+        "zh": "NRAS 突变黑色素瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.pierrefabrepharmaceuticals.com/partnerships-and-pipeline"
+    },
+    {
+      "name": "PFL-002",
+      "code": "VERT-002",
+      "modality": "antibody",
+      "target": {
+        "en": "c-MET degradation",
+        "zh": "c-MET 降解"
+      },
+      "ind": {
+        "en": "MET-altered non-small-cell lung cancer",
+        "zh": "MET 改变的非小细胞肺癌"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.pierrefabrepharmaceuticals.com/partnerships-and-pipeline"
+    },
+    {
+      "name": "PFL-721",
+      "code": "STX-721",
+      "modality": "small molecule",
+      "target": {
+        "en": "EGFR exon 20 insertion",
+        "zh": "EGFR 20 号外显子插入"
+      },
+      "ind": {
+        "en": "EGFR exon 20 insertion-mutant NSCLC",
+        "zh": "EGFR 20 号外显子插入突变 NSCLC"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.pierrefabrepharmaceuticals.com/partnerships-and-pipeline"
+    },
+    {
+      "name": "PFL-241",
+      "code": "STX-241",
+      "modality": "small molecule",
+      "target": {
+        "en": "EGFR C797S",
+        "zh": "EGFR C797S"
+      },
+      "ind": {
+        "en": "EGFR exon 19/21 plus C797S-mutant NSCLC",
+        "zh": "EGFR 19/21 号外显子加 C797S 突变 NSCLC"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.pierrefabrepharmaceuticals.com/partnerships-and-pipeline"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Tabelecleucel’s resubmitted US BLA has a March 31, 2027 action date; its regulatory history merits attention.",
+      "zh": "Tabelecleucel 重新提交的美国 BLA 行动日期为 2027 年 3 月 31 日;其监管历程值得关注。",
+      "src": "https://www.pierrefabrepharmaceuticals.com/sites/default/files/press/20261014_PR_Final_BLA_Acceptance_Announcement.pdf"
+    },
+    {
+      "k": "concentration",
+      "en": "In 2025, 89% of pharmaceutical R&D investment went to precision oncology.",
+      "zh": "2025 年,药品研发投入的 89% 用于精准肿瘤。",
+      "src": "https://www.pierre-fabre.com/en/news/2025-results-growth-investments-innovation"
+    },
+    {
+      "k": "deal",
+      "en": "The company purchased worldwide PFL-721 and PFL-241 rights from Antares in 2025.",
+      "zh": "2025 年,公司从 Antares 购得 PFL-721 和 PFL-241 的全球权益。",
+      "src": "https://www.pierre-fabre.com/fr/article/renforcer-rd-acquisition-mondiale-droits-inhibiteurs"
+    },
+    {
+      "k": "other",
+      "en": "Pharmaceuticals generated 44% of 2025 revenue; dermo-cosmetics and personal care generated 55%.",
+      "zh": "药品占 2025 年收入的 44%;皮肤美容和个人护理占 55%。",
+      "src": "https://www.pierre-fabre.com/en/news/2025-results-growth-investments-innovation"
+    }
+  ],
+  "sources": [
+    [
+      "US partnerships and pipeline",
+      "https://www.pierrefabrepharmaceuticals.com/partnerships-and-pipeline"
+    ],
+    [
+      "FY2025 results, March 19, 2026",
+      "https://www.pierre-fabre.com/en/news/2025-results-growth-investments-innovation"
+    ],
+    [
+      "Corporate R&D page, April 2026 snapshot",
+      "https://www.pierre-fabre.com/en/innovate/research-development-pharma"
+    ],
+    [
+      "PFL-721/PFL-241 rights acquisition, June 2025",
+      "https://www.pierre-fabre.com/fr/article/renforcer-rd-acquisition-mondiale-droits-inhibiteurs"
+    ],
+    [
+      "Vertical Bio acquisition, September 2023",
+      "https://www.pierrefabrepharmaceuticals.com/sites/default/files/press/20230912_PR_Acquisition_VerticalBio.pdf"
+    ],
+    [
+      "Tabelecleucel FDA resubmission acceptance, October 14, 2026",
+      "https://www.pierrefabrepharmaceuticals.com/sites/default/files/press/20261014_PR_Final_BLA_Acceptance_Announcement.pdf"
+    ]
+  ],
+  "gaps": [
+    "The US pipeline page explicitly reports four Phase I products, one Phase II product and one registration product. No separate Phase III total is stated; counts.p3 is null. These are company-reported US portfolio counts, not counts of the selected items.",
+    "Tabelecleucel is excluded from items because it is already approved outside the US and the reviewed US filing concerns the same indication, rather than a major new indication. Its ongoing US review is retained in watch.",
+    "The April corporate R&D page says four clinical agents, while the March results release says five clinical molecules and the US page describes six products including registration; scope and dates differ and were not reconciled into new totals.",
+    "The US pipeline is undated. The latest group results located were published March 19, 2026, before 2026-06. The April R&D snapshot, June 2025 asset-rights release and September 2023 acquisition release also predate 2026-06; old transaction sources establish origin only.",
+    "ER004 origin and additional asset codes were not verified and are null. Dated upcoming milestones for the five selected assets were not verified; next is null.",
+    "PFL-002 is described in a Phase I/II study announcement but as Phase I on the pipeline; phase 1 follows the pipeline. Purchased worldwide rights for PFL-721/PFL-241 are classified as acquired, rather than inferred internal discovery.",
+    "Required curl HEAD checks were attempted for every cited URL. All failed with DNS resolution errors (curl exit 6; HTTP 000) in this environment. Sources were opened through the web browsing tool, but independent curl status verification could not be completed."
+  ]
+}

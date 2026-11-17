@@ -1,0 +1,156 @@
+{
+  "id": "almirall",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Almirall concentrates on medical dermatology, combining biologic lifecycle expansion with a largely proof-of-concept pipeline. Its November update highlights four ongoing Phase 2 studies and two additional planned studies across three investigational molecules.",
+    "zh": "Almirall 专注于医学皮肤病领域,将生物制剂生命周期拓展与以概念验证为主的管线相结合。其 11 月更新重点介绍了涉及三个在研分子的四项进行中的 II 期研究和两项计划开展的研究。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "lebrikizumab (new indications)",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Paediatric atopic dermatitis (EU registration); nummular eczema (Phase 3)",
+        "zh": "儿童特应性皮炎(欧盟注册);钱币状湿疹(III 期)"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.almirall.com/innovation/pipeline"
+    },
+    {
+      "name": "anti-IL-1RAP mAb",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "IL-1RAP",
+        "zh": "IL-1RAP"
+      },
+      "ind": {
+        "en": "Hidradenitis suppurativa; planned pyoderma gangrenosum study",
+        "zh": "化脓性汗腺炎;计划开展坏疽性脓皮病研究"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
+    },
+    {
+      "name": "anti-IL-21 mAb",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "IL-21",
+        "zh": "IL-21"
+      },
+      "ind": {
+        "en": "Hidradenitis suppurativa",
+        "zh": "化脓性汗腺炎"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
+    },
+    {
+      "name": "IL-2muFc",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "IL-2 mutant Fc fusion protein",
+        "zh": "IL-2 突变体 Fc 融合蛋白"
+      },
+      "ind": {
+        "en": "Alopecia areata; atopic dermatitis; planned SLE with cutaneous manifestations",
+        "zh": "斑秃;特应性皮炎;计划开展伴皮肤表现的 SLE 研究"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
+    },
+    {
+      "name": "readthrough inducer",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Recessive dystrophic / junctional epidermolysis bullosa",
+        "zh": "隐性营养不良型/交界型大疱性表皮松解症"
+      },
+      "phase": "1",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.almirall.com/innovation/pipeline"
+    },
+    {
+      "name": "anti-IL-13/OX40L bispecific",
+      "code": null,
+      "modality": "bispecific",
+      "target": {
+        "en": "IL-13 / OX40L",
+        "zh": "IL-13 / OX40L"
+      },
+      "ind": {
+        "en": "Atopic dermatitis",
+        "zh": "特应性皮炎"
+      },
+      "phase": "1",
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.almirall.com/innovation/pipeline"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "The November results update expects first pipeline readouts in Q4 2026; it does not allocate dates to individual assets.",
+      "zh": "11 月业绩更新预计首批管线数据将于 2026 年第四季度读出;未给出各个资产的具体时间。",
+      "src": "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
+    },
+    {
+      "k": "concentration",
+      "en": "European dermatology generated €520.3 million of €889.2 million group net sales in 9M 2026.",
+      "zh": "2026 年前九个月,欧洲皮肤科业务贡献了集团 €889.2 million 净销售额中的 €520.3 million。",
+      "src": "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
+    },
+    {
+      "k": "deal",
+      "en": "A Q3 2026 CrystalO collaboration adds ion-channel small-molecule discovery in dermatology.",
+      "zh": "2026 年第三季度与 CrystalO 的合作新增了皮肤病领域离子通道小分子药物发现。",
+      "src": "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline webpage",
+      "https://www.almirall.com/innovation/pipeline"
+    ],
+    [
+      "9M 2026 results, November 9",
+      "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
+    ]
+  ],
+  "gaps": [
+    "Company-wide counts by phase were not verified; counts is null. Unverified codes, mechanisms, modalities, origins and milestone dates are null rather than inferred.",
+    "The webpage labels pyoderma gangrenosum and cutaneous SLE Phase 2, but the dated November release says those studies have yet to start; they are identified as planned within their existing asset entries.",
+    "Tirbanibulin registration is labelled actinic-keratosis lifecycle management without a verified new indication, so it is excluded. Multiple studies of the same molecule are combined into one entry.",
+    "Origins were not established for the selected molecules. Individual next milestones and dates were not allocated in the November update, so next is null. Lebrikizumab modality and target were not explicitly established in the reviewed descriptions.",
+    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "ucb",
+  "asof": "2026-11",
+  "summary": {
+    "en": "UCB concentrates on immunology and neuroscience, combining late-stage antibodies and seizure treatments with earlier programs. Recent acquisitions added cell therapy and a T-cell engager.",
+    "zh": "UCB 专注于免疫学和神经科学,将后期抗体和癫痫治疗药物与早期项目相结合。近期收购新增了细胞疗法和一款 T 细胞衔接器。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "fenfluramine",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Serotonin release and receptor activity",
+        "zh": "血清素释放和受体活性"
+      },
+      "ind": {
+        "en": "CDKL5 deficiency disorder (U.S./EU filed); also Rett syndrome",
+        "zh": "CDKL5 缺乏症(美国/欧盟已申报);另有 Rett 综合征"
+      },
+      "phase": "reg",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase"
+    },
+    {
+      "name": "dapirolizumab pegol",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "CD40L",
+        "zh": "CD40L"
+      },
+      "ind": {
+        "en": "Systemic lupus erythematosus",
+        "zh": "系统性红斑狼疮"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": "co-developed",
+      "next": {
+        "en": "Second Phase 3 topline results",
+        "zh": "第二项 III 期顶线结果",
+        "when": "2028"
+      },
+      "src": "https://www.ucb.com/our-science/pipeline"
+    },
+    {
+      "name": "STACCATO alprazolam",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Benzodiazepine",
+        "zh": "苯二氮䓬类"
+      },
+      "ind": {
+        "en": "Prolonged seizures",
+        "zh": "长时间发作"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "Event-driven topline results: Q4 2026 or H1 2027",
+        "zh": "事件驱动的顶线结果:2026 年第四季度或 2027 年上半年",
+        "when": null
+      },
+      "src": "https://www.ucb.com/our-science/pipeline"
+    },
+    {
+      "name": "bepranemab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "Tau",
+        "zh": "Tau"
+      },
+      "ind": {
+        "en": "Alzheimer's disease",
+        "zh": "阿尔茨海默病"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "Signal-confirming Phase 2 start",
+        "zh": "确认信号的 II 期启动",
+        "when": "2027H1"
+      },
+      "src": "https://www.ucb.com/our-science/pipeline"
+    },
+    {
+      "name": "glovadalen",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Dopamine D1 positive allosteric modulator",
+        "zh": "多巴胺 D1 正向变构调节剂"
+      },
+      "ind": {
+        "en": "Parkinson's disease",
+        "zh": "帕金森病"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.ucb.com/our-science/pipeline"
+    },
+    {
+      "name": "galvokimig",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "IL-13/IL-17A/IL-17F",
+        "zh": "IL-13/IL-17A/IL-17F"
+      },
+      "ind": {
+        "en": "Atopic dermatitis; also COPD and bronchiectasis",
+        "zh": "特应性皮炎;另有 COPD 和支气管扩张"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "Atopic dermatitis 52-week results",
+        "zh": "特应性皮炎 52 周结果",
+        "when": "2028"
+      },
+      "src": "https://www.ucb.com/our-science/pipeline"
+    },
+    {
+      "name": "rezanecel",
+      "code": null,
+      "modality": "cell therapy",
+      "target": {
+        "en": "GABA interneuron replacement",
+        "zh": "GABA 中间神经元替代"
+      },
+      "ind": {
+        "en": "Mesial temporal lobe epilepsy",
+        "zh": "内侧颞叶癫痫"
+      },
+      "phase": null,
+      "ta": "Neuroscience",
+      "origin": "acquired",
+      "next": {
+        "en": "Phase 3 start",
+        "zh": "III 期启动",
+        "when": "2027H1"
+      },
+      "src": "https://www.ucb.com/our-science/pipeline"
+    },
+    {
+      "name": "cizutamig",
+      "code": null,
+      "modality": "bispecific",
+      "target": {
+        "en": "BCMA x CD3",
+        "zh": "BCMA x CD3"
+      },
+      "ind": {
+        "en": "Myasthenia gravis; autoimmune rheumatic disease-associated interstitial lung disease",
+        "zh": "重症肌无力;自身免疫性风湿病相关间质性肺病"
+      },
+      "phase": null,
+      "ta": "Immunology",
+      "origin": "acquired",
+      "next": {
+        "en": "Phase 2 start expected by year-end",
+        "zh": "预计年底前启动 II 期",
+        "when": "2026Q4"
+      },
+      "src": "https://www.ucb.com/our-science/pipeline"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "STACCATO seizure results are event-driven; timing spans Q4 2026/H1 2027.",
+      "zh": "STACCATO 癫痫发作结果由事件驱动;时间跨 2026 年第四季度/2027 年上半年。",
+      "src": "https://www.ucb.com/our-science/pipeline"
+    },
+    {
+      "k": "loe",
+      "en": "UCB lists Briviact loss of exclusivity in Europe and the U.S. in August 2026.",
+      "zh": "UCB 列出 Briviact 于 2026 年 8 月在欧洲和美国的独占期结束 (LOE)。",
+      "src": "https://www.ucb.com/investors"
+    },
+    {
+      "k": "concentration",
+      "en": "The October guidance upgrade depends on stronger Bimzelx and Cimzia performance.",
+      "zh": "10 月上调的指引取决于 Bimzelx 和 Cimzia 更强劲的表现。",
+      "src": "https://www.ucb.com/newsroom/press-releases/article/strong-performance-drives-further-upgrade-to-ucb-s-2026-financial-guidance"
+    },
+    {
+      "k": "balance",
+      "en": "June net financial debt was EUR 2.821 billion after acquisitions and other cash uses.",
+      "zh": "6 月净财务债务为 EUR 2.821 billion,在收购和其他现金支出之后。",
+      "src": "https://www.ucb.com/investors/performance"
+    }
+  ],
+  "sources": [
+    [
+      "Clinical pipeline",
+      "https://www.ucb.com/our-science/pipeline"
+    ],
+    [
+      "Half-year 2026 results and R&D update, July 30",
+      "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase"
+    ],
+    [
+      "October 22 guidance update",
+      "https://www.ucb.com/newsroom/press-releases/article/strong-performance-drives-further-upgrade-to-ucb-s-2026-financial-guidance"
+    ],
+    [
+      "Investor product overview",
+      "https://www.ucb.com/investors"
+    ],
+    [
+      "Financial performance",
+      "https://www.ucb.com/investors/performance"
+    ]
+  ],
+  "gaps": [
+    "No verified current company-reported phase totals were obtained; counts is null.",
+    "Rezanecel and cizutamig have future phase-start guidance, but their current phase was not stated explicitly in the accessible current pipeline; phase is null rather than advancing them prematurely.",
+    "Unverified origins are null. The half-year release identifies rezanecel and cizutamig as acquired additions; dapirolizumab is co-developed with Biogen.",
+    "STACCATO's alternative Q4 2026/H1 2027 timing cannot be represented as one unambiguous period; next.when is null.",
+    "Code fields are null where not explicitly verified. Galvokimig is multispecific, represented by the allowed antibody modality.",
+    "Approved products with only Phase 3 indication expansion studies, including bimekizumab and rozanolixizumab, are excluded under the brief's approved-asset rule.",
+    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+  ]
+}

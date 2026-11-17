@@ -1,0 +1,177 @@
+{
+  "id": "exelixis",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Oncology development is led by zanzalintinib's registration and pivotal trials, backed by an early portfolio of small molecules, ADCs and a bispecific antibody. Commercial funding remains centered on cabozantinib.",
+    "zh": "肿瘤开发以 zanzalintinib 的注册性和关键性试验为主导,辅以早期的小分子、ADC 和一款双特异性抗体组合。商业资金来源仍以 cabozantinib 为中心。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "zanzalintinib",
+      "code": "XL092",
+      "modality": "small molecule",
+      "target": {
+        "en": "MET/VEGFR/AXL/MER",
+        "zh": "MET/VEGFR/AXL/MER"
+      },
+      "ind": {
+        "en": "Previously treated colorectal cancer; Phase 3 renal cancer and other expansions",
+        "zh": "既往治疗过的结直肠癌;III 期肾癌及其他适应症拓展"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "FDA target action date March 3",
+        "zh": "FDA 目标行动日期 3 月 3 日",
+        "when": "2027Q1"
+      },
+      "src": "https://exelixis.gcs-web.com/news-releases/news-release-details/exelixis-announces-third-quarter-2026-financial-results-and"
+    },
+    {
+      "name": "XL309",
+      "code": "XL309",
+      "modality": "small molecule",
+      "target": {
+        "en": "USP1",
+        "zh": "USP1"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.exelixis.com/clinical-trials-pipeline/"
+    },
+    {
+      "name": "XB010",
+      "code": "XB010",
+      "modality": "ADC",
+      "target": {
+        "en": "5T4",
+        "zh": "5T4"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.exelixis.com/clinical-trials-pipeline/"
+    },
+    {
+      "name": "XB628",
+      "code": "XB628",
+      "modality": "bispecific",
+      "target": {
+        "en": "PD-L1/NKG2A",
+        "zh": "PD-L1/NKG2A"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.exelixis.com/clinical-trials-pipeline/"
+    },
+    {
+      "name": "XB371",
+      "code": "XB371",
+      "modality": "ADC",
+      "target": {
+        "en": "Tissue factor",
+        "zh": "组织因子"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.exelixis.com/clinical-trials-pipeline/"
+    },
+    {
+      "name": "ADU-1805",
+      "code": "ADU-1805",
+      "modality": "antibody",
+      "target": {
+        "en": "SIRP-alpha",
+        "zh": "SIRP-α"
+      },
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.exelixis.com/clinical-trials-pipeline/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "STELLAR-304 renal-cancer topline results are expected in Q1 2027.",
+      "zh": "STELLAR-304 肾癌顶线结果预计在 2027 年第一季度公布。",
+      "src": "https://exelixis.gcs-web.com/news-releases/news-release-details/exelixis-announces-third-quarter-2026-financial-results-and"
+    },
+    {
+      "k": "catalyst",
+      "en": "FDA review of zanzalintinib was extended three months to March 3, 2027.",
+      "zh": "FDA 对 zanzalintinib 的审评延长三个月,至 2027 年 3 月 3 日。",
+      "src": "https://exelixis.gcs-web.com/news-releases/news-release-details/exelixis-announces-third-quarter-2026-financial-results-and"
+    },
+    {
+      "k": "concentration",
+      "en": "Cabozantinib generated $604.9 million of US product revenue in Q3 2026.",
+      "zh": "2026 年第三季度,cabozantinib 的美国产品收入为 $604.9 million。",
+      "src": "https://exelixis.gcs-web.com/news-releases/news-release-details/exelixis-announces-third-quarter-2026-financial-results-and"
+    },
+    {
+      "k": "deal",
+      "en": "ADU-1805 remains subject to an option agreement with Sairopa.",
+      "zh": "ADU-1805 仍受与 Sairopa 的期权协议约束。",
+      "src": "https://www.exelixis.com/clinical-trials-pipeline/"
+    }
+  ],
+  "sources": [
+    [
+      "Current pipeline",
+      "https://www.exelixis.com/clinical-trials-pipeline/"
+    ],
+    [
+      "Q3 2026 results",
+      "https://exelixis.gcs-web.com/news-releases/news-release-details/exelixis-announces-third-quarter-2026-financial-results-and"
+    ],
+    [
+      "Q3 investor presentation",
+      "https://ir.exelixis.com/static-files/8a8d265f-24d9-4b8f-af74-4624ec4a7f80"
+    ],
+    [
+      "2025 annual report for asset origins",
+      "https://ir.exelixis.com/static-files/22152415-4042-42c6-b0b1-7898815b68b7"
+    ],
+    [
+      "Q3 filing",
+      "https://ir.exelixis.com/static-files/60fa00c3-1eff-41ed-97a8-7ef7f7a262f7"
+    ]
+  ],
+  "gaps": [
+    "No company-reported phase totals found. Six distinct clinical assets retained; preclinical/IND-planned assets excluded.",
+    "Origins use annual-report collaboration disclosures, older than June 2026, corroborated for current stages by latest pipeline. Zanzalintinib discovery origin was not explicitly verified; null.",
+    "ADU-1805 option has not been assumed exercised; origin null. No dated next events for early clinical assets.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "biogen",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Immunology and rare-disease registrational programs broaden Biogen’s neurology pipeline. Licensed and acquired assets contribute prominently to its late-stage portfolio.",
+    "zh": "免疫和罕见病注册性项目拓宽了 Biogen 的神经科学管线。授权引进和收购的资产在其后期组合中占据突出位置。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "litifilimab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "BDCA2",
+        "zh": "BDCA2"
+      },
+      "ind": {
+        "en": "Systemic lupus erythematosus; also cutaneous lupus",
+        "zh": "系统性红斑狼疮;另有皮肤型狼疮"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "TOPAZ-1/2 results in first half of December 2026; CLE results H1 2027",
+        "zh": "TOPAZ-1/2 结果将在 2026 年 12 月上半月公布;CLE 结果在 H1 2027",
+        "when": "2026Q4"
+      },
+      "src": "https://www.biogen.com/science-and-innovation/pipeline.html"
+    },
+    {
+      "name": "felzartamab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "CD38",
+        "zh": "CD38"
+      },
+      "ind": {
+        "en": "Antibody-mediated kidney-transplant rejection; also IgAN/PMN",
+        "zh": "抗体介导的肾移植排斥反应;另有 IgAN/PMN"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": "acquired",
+      "next": {
+        "en": "Phase 3 AMR readout",
+        "zh": "III 期 AMR 结果",
+        "when": "2027H1"
+      },
+      "src": "https://www.biogen.com/science-and-innovation/pipeline.html"
+    },
+    {
+      "name": "zorevunersen",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "SCN1A; increase NaV1.1",
+        "zh": "SCN1A;增加 NaV1.1"
+      },
+      "ind": {
+        "en": "Dravet syndrome",
+        "zh": "Dravet 综合征"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "co-developed",
+      "next": {
+        "en": "Phase 3 Dravet readout",
+        "zh": "III 期 Dravet 结果",
+        "when": "2027Q3"
+      },
+      "src": "https://www.biogen.com/science-and-innovation/pipeline.html"
+    },
+    {
+      "name": "dapirolizumab pegol",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "CD40L",
+        "zh": "CD40L"
+      },
+      "ind": {
+        "en": "Systemic lupus erythematosus",
+        "zh": "系统性红斑狼疮"
+      },
+      "phase": "3",
+      "ta": "Immunology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.biogen.com/science-and-innovation/pipeline.html"
+    },
+    {
+      "name": "salanersen",
+      "code": "BIIB115",
+      "modality": "other",
+      "target": {
+        "en": "Increase functional SMN protein",
+        "zh": "增加功能性 SMN 蛋白"
+      },
+      "ind": {
+        "en": "Spinal muscular atrophy",
+        "zh": "脊髓性肌萎缩症"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.biogen.com/science-and-innovation/pipeline.html"
+    },
+    {
+      "name": "diranersen",
+      "code": "BIIB080",
+      "modality": "other",
+      "target": {
+        "en": "Tau mRNA",
+        "zh": "Tau mRNA"
+      },
+      "ind": {
+        "en": "Alzheimer’s disease",
+        "zh": "阿尔茨海默病"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": {
+        "en": "Advance to confirmatory Phase 3 development",
+        "zh": "推进至确证性 III 期开发",
+        "when": null
+      },
+      "src": "https://biogen.gcs-web.com/node/31091/html"
+    },
+    {
+      "name": "BIIB091",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Peripheral BTK inhibition",
+        "zh": "外周 BTK 抑制"
+      },
+      "ind": {
+        "en": "Multiple sclerosis",
+        "zh": "多发性硬化"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.biogen.com/science-and-innovation/pipeline.html"
+    },
+    {
+      "name": "BIIB145",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "BTK degradation",
+        "zh": "BTK 降解"
+      },
+      "ind": {
+        "en": "Autoimmune disease",
+        "zh": "自身免疫性疾病"
+      },
+      "phase": "1",
+      "ta": "Immunology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.biogen.com/science-and-innovation/pipeline.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "TOPAZ-1/2 lupus results are expected in early December; AMR and CLE results in H1 2027.",
+      "zh": "TOPAZ-1/2 狼疮结果预计在 12 月初公布;AMR 和 CLE 结果在 H1 2027。",
+      "src": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000094/exhibit991-q32026pressrele.htm"
+    },
+    {
+      "k": "concentration",
+      "en": "MS product revenue fell 13% year on year in Q3.",
+      "zh": "第三季度 MS 产品收入同比下降 13%。",
+      "src": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000094/exhibit991-q32026pressrele.htm"
+    },
+    {
+      "k": "balance",
+      "en": "September cash was $1.3bn against approximately $7.7bn debt.",
+      "zh": "9 月现金为 $1.3bn,债务约为 $7.7bn。",
+      "src": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000094/exhibit991-q32026pressrele.htm"
+    },
+    {
+      "k": "deal",
+      "en": "The Q3 filing documents Ionis, UCB, Stoke and HI-Bio-linked economics across selected programs.",
+      "zh": "第三季度申报文件记录了部分项目中与 Ionis、UCB、Stoke 和 HI-Bio 相关的经济条款。",
+      "src": "https://biogen.gcs-web.com/node/31091/html"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline, October 28, 2026",
+      "https://www.biogen.com/science-and-innovation/pipeline.html"
+    ],
+    [
+      "Q3 2026 results, October 28",
+      "https://www.sec.gov/Archives/edgar/data/875045/000087504526000094/exhibit991-q32026pressrele.htm"
+    ],
+    [
+      "Q3 2026 SEC filing",
+      "https://biogen.gcs-web.com/node/31091/html"
+    ]
+  ],
+  "gaps": [
+    "No full company-published phase-count breakdown was verified; counts is null.",
+    "The pipeline component failed to render on direct open; the web search extraction exposed the complete company asset descriptions. Current stages were cross-checked against quarterly disclosures where available.",
+    "Antisense oligonucleotides salanersen, zorevunersen and diranersen map to other, not siRNA. Dapirolizumab is a PEG-conjugated antibody Fab fragment, represented as antibody.",
+    "Diranersen remains Phase 2 with planned Phase 3 advancement; a planned confirmatory trial is not classified as already initiated.",
+    "Origin remains null for litifilimab and BIIB091. Additional development codes were not verified and are null. Undated next milestones for dapirolizumab, salanersen, BIIB091 and BIIB145 are null.",
+    "Approved therapies, including lecanemab, tofersen and omaveloxolone, are excluded absent a verified filed major new indication. Multiple felzartamab/litifilimab indications are consolidated into one asset each.",
+    "Required curl HEAD checks were attempted, but local DNS resolution failed (curl exit 6, HTTP 000); HTTP status could not be independently confirmed locally. Sources were opened with the web browser tool."
+  ]
+}

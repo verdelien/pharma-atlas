@@ -1,0 +1,187 @@
+{
+  "id": "alkermes",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Alkermes focuses on neuroscience, led by pivotal orexin-2 agonist development in narcolepsy. Acquired oxybate programs and extensions of existing medicines complement its sleep and psychiatric pipeline.",
+    "zh": "Alkermes 专注于神经科学,以发作性睡病中的关键性 orexin-2 激动剂开发为主导。收购的羟丁酸盐项目及现有药物的延伸开发补充了其睡眠和精神疾病管线。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "alixorexton",
+      "code": "ALKS 2680",
+      "modality": "small molecule",
+      "target": {
+        "en": "Orexin-2 receptor",
+        "zh": "Orexin-2 受体"
+      },
+      "ind": {
+        "en": "Narcolepsy types 1 and 2; also idiopathic hypersomnia Phase 2",
+        "zh": "1 型和 2 型发作性睡病;另有特发性嗜睡症 II 期"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "Narcolepsy Phase 3 results beginning mid-2027; IH data around year-end 2026 or early 2027",
+        "zh": "发作性睡病 III 期结果自 2027 年中起陆续公布;IH 数据预计在 2026 年底或 2027 年初前后",
+        "when": null
+      },
+      "src": "https://www.alkermes.com/Research-and-Development/Pipeline"
+    },
+    {
+      "name": "sodium oxybate extended-release (idiopathic hypersomnia)",
+      "code": "LUMRYZ",
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Idiopathic hypersomnia",
+        "zh": "特发性嗜睡症"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "acquired",
+      "next": {
+        "en": "Supplemental NDA based on REVITALYZ",
+        "zh": "基于 REVITALYZ 的补充 NDA",
+        "when": null
+      },
+      "src": "https://www.alkermes.com/Research-and-Development/Pipeline"
+    },
+    {
+      "name": "olanzapine / samidorphan (pediatric)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Pediatric schizophrenia and bipolar I disorder",
+        "zh": "儿童精神分裂症和 I 型双相情感障碍"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.alkermes.com/Research-and-Development/Pipeline"
+    },
+    {
+      "name": "ALKS 7290",
+      "code": "ALKS 7290",
+      "modality": "small molecule",
+      "target": {
+        "en": "Orexin-2 receptor",
+        "zh": "Orexin-2 受体"
+      },
+      "ind": {
+        "en": "ADHD; also adjunctive major depressive disorder",
+        "zh": "ADHD;另有重度抑郁症辅助治疗"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "ADHD Phase 2 data",
+        "zh": "ADHD II 期数据",
+        "when": "2027H2"
+      },
+      "src": "https://www.alkermes.com/Research-and-Development/Pipeline"
+    },
+    {
+      "name": "ALKS 4510",
+      "code": "ALKS 4510",
+      "modality": "small molecule",
+      "target": {
+        "en": "Orexin-2 receptor",
+        "zh": "Orexin-2 受体"
+      },
+      "ind": {
+        "en": "Fatigue in multiple sclerosis and Parkinson's disease",
+        "zh": "多发性硬化和帕金森病相关疲劳"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "Planned Phase 2 study; proof-of-concept data toward year-end 2027",
+        "zh": "计划开展 II 期研究;概念验证数据预计在 2027 年底前后",
+        "when": "2027"
+      },
+      "src": "https://www.alkermes.com/Research-and-Development/Pipeline"
+    },
+    {
+      "name": "valiloxybate",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "GABA-B receptor",
+        "zh": "GABA-B 受体"
+      },
+      "ind": {
+        "en": "Narcolepsy and idiopathic hypersomnia",
+        "zh": "发作性睡病和特发性嗜睡症"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.alkermes.com/Research-and-Development/Pipeline"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Alixorexton narcolepsy Phase 3 data are expected beginning mid-2027.",
+      "zh": "Alixorexton 发作性睡病 III 期数据预计自 2027 年中起陆续公布。",
+      "src": "https://investor.alkermes.com/static-files/341cadc5-2510-468e-98bf-922aeb3ab043"
+    },
+    {
+      "k": "concentration",
+      "en": "Three candidates share orexin-2 receptor agonism, concentrating development on one biological pathway.",
+      "zh": "三个候选药物均为 orexin-2 受体激动剂,开发集中于同一条生物学通路。",
+      "src": "https://www.alkermes.com/Research-and-Development/Pipeline"
+    },
+    {
+      "k": "deal",
+      "en": "The Avadel acquisition added LUMRYZ and valiloxybate; LUMRYZ IH development could support an additional indication.",
+      "zh": "收购 Avadel 带来了 LUMRYZ 和 valiloxybate;LUMRYZ 的 IH 开发可能支持新增一项适应症。",
+      "src": "https://investor.alkermes.com/static-files/1d2adc53-1061-488a-a88f-ca3b0711136e"
+    },
+    {
+      "k": "balance",
+      "en": "Q3 R&D expense rose to $121.1 million from $81.7 million a year earlier.",
+      "zh": "第三季度研发费用由去年同期的 $81.7 million 增至 $121.1 million。",
+      "src": "https://investor.alkermes.com/static-files/32c8658c-ba1a-497c-a32a-2306289ff4c7"
+    }
+  ],
+  "sources": [
+    [
+      "October 2026 pipeline",
+      "https://www.alkermes.com/Research-and-Development/Pipeline"
+    ],
+    [
+      "Q3 2026 results",
+      "https://investor.alkermes.com/static-files/32c8658c-ba1a-497c-a32a-2306289ff4c7"
+    ],
+    [
+      "Q3 prepared remarks",
+      "https://investor.alkermes.com/static-files/341cadc5-2510-468e-98bf-922aeb3ab043"
+    ],
+    [
+      "Q3 Form 10-Q",
+      "https://investor.alkermes.com/static-files/1d2adc53-1061-488a-a88f-ca3b0711136e"
+    ]
+  ],
+  "gaps": [
+    "No company-reported phase counts verified.",
+    "Origins for proprietary orexin compounds and olanzapine/samidorphan were not explicitly established in reviewed text; null.",
+    "Targets of olanzapine/samidorphan and sodium oxybate were not specified in reviewed materials; null.",
+    "ALKS 4510 remains phase 1; planned phase 2 start is not treated as completed.",
+    "Alixorexton IH readout spans year-end 2026 or early 2027; no narrower date assigned.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "grunenthal",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Grünenthal concentrates on pain, with a partnered Phase 3 cell therapy and proprietary earlier-stage analgesics. Tegacorat extends development into Duchenne muscular dystrophy.",
+    "zh": "Grünenthal 专注于疼痛领域,拥有一项合作的 III 期细胞疗法和自有的早期镇痛药。Tegacorat 将开发延伸至杜氏肌营养不良症。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "Qutenza (post-surgical neuropathic pain)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Post-surgical neuropathic pain",
+        "zh": "术后神经病理性疼痛"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": {
+        "en": "Publication of AV001 data",
+        "zh": "发表 AV001 数据",
+        "when": "2026Q4"
+      },
+      "src": "https://www.grunenthal.com/science/pipeline"
+    },
+    {
+      "name": "rexlemestrocel-L",
+      "code": "MPC-06-ID",
+      "modality": "cell therapy",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Chronic low back pain with degenerative disc disease",
+        "zh": "伴椎间盘退行性病变的慢性腰痛"
+      },
+      "phase": "3",
+      "ta": "Other",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.grunenthal.com/science/pipeline"
+    },
+    {
+      "name": "tegacorat",
+      "code": "GRM-01 / GRT6019",
+      "modality": "small molecule",
+      "target": {
+        "en": "Glucocorticoid receptor",
+        "zh": "糖皮质激素受体"
+      },
+      "ind": {
+        "en": "Duchenne muscular dystrophy",
+        "zh": "杜氏肌营养不良症"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.grunenthal.com/science/clinical-trial-transparency/data-clinical-trials"
+    },
+    {
+      "name": "NOP receptor agonist",
+      "code": "GRT7040",
+      "modality": null,
+      "target": {
+        "en": "Nociceptin receptor",
+        "zh": "痛敏肽受体"
+      },
+      "ind": {
+        "en": "Acute postoperative pain; broader acute and chronic pain research",
+        "zh": "急性术后疼痛;更广泛的急慢性疼痛研究"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.grunenthal.com/science/clinical-trial-transparency/data-clinical-trials"
+    },
+    {
+      "name": "NaV1.8 inhibitor",
+      "code": "GRT7041",
+      "modality": null,
+      "target": {
+        "en": "NaV1.8",
+        "zh": "NaV1.8"
+      },
+      "ind": {
+        "en": "Acute and chronic pain",
+        "zh": "急慢性疼痛"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.grunenthal.com/science/clinical-trial-transparency/data-clinical-trials"
+    }
+  ],
+  "watch": [
+    {
+      "k": "other",
+      "en": "Qutenza met the EMA-aligned AV001 endpoint but missed the FDA-aligned endpoint; no US sNDA is planned.",
+      "zh": "Qutenza 达到了与 EMA 一致的 AV001 终点,但未达到与 FDA 一致的终点;不计划提交美国 sNDA。",
+      "src": "https://www.grunenthal.com/science/pipeline"
+    },
+    {
+      "k": "loe",
+      "en": "Palexia and Nebido loss of exclusivity affected 2025 revenue.",
+      "zh": "Palexia 和 Nebido 的独占期结束 (LOE) 影响了 2025 年收入。",
+      "src": "https://www.grunenthal.com/press-room/press-releases/2026/2025-full-year-result-grunenthal"
+    },
+    {
+      "k": "balance",
+      "en": "Year-end 2025 net leverage was 2.24 times.",
+      "zh": "2025 年底净杠杆率为 2.24 倍。",
+      "src": "https://www.grunenthal.com/press-room/press-releases/2026/2025-full-year-result-grunenthal"
+    }
+  ],
+  "sources": [
+    [
+      "Development pipeline",
+      "https://www.grunenthal.com/science/pipeline"
+    ],
+    [
+      "Clinical trial register",
+      "https://www.grunenthal.com/science/clinical-trial-transparency/data-clinical-trials"
+    ],
+    [
+      "2025 financial results",
+      "https://www.grunenthal.com/press-room/press-releases/2026/2025-full-year-result-grunenthal"
+    ]
+  ],
+  "gaps": [
+    "Latest financial release verified is March 2026, older than June 2026; no newer interim results verified.",
+    "Counts by phase not published in reviewed sources.",
+    "Origins for Qutenza and GRT7041 and some molecular modalities were not explicitly verified.",
+    "Pipeline narrative still describes planned Phase 2 starts; current company trial register establishes tegacorat and GRT7040 Phase 2 status.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

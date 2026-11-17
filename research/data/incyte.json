@@ -1,0 +1,232 @@
+{
+  "id": "incyte",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Incyte combines late-stage hematology and immunology with expanding gastrointestinal oncology programs. ([Q3 update](https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides))",
+    "zh": "Incyte 将后期血液学和免疫学项目与不断扩展的胃肠肿瘤项目相结合。([Q3 update](https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides))"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "povorcitinib",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "JAK1 inhibitor",
+        "zh": "JAK1 抑制剂"
+      },
+      "ind": {
+        "en": "Moderate-to-severe hidradenitis suppurativa; also vitiligo and prurigo nodularis",
+        "zh": "中重度化脓性汗腺炎;另有白癜风和结节性痒疹"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": null,
+      "next": {
+        "en": "US potential approval and launch",
+        "zh": "美国潜在获批和上市",
+        "when": "2027Q1"
+      },
+      "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
+    },
+    {
+      "name": "tafasitamab",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": "CD19",
+        "zh": "CD19"
+      },
+      "ind": {
+        "en": "Newly diagnosed diffuse large B-cell lymphoma",
+        "zh": "初治弥漫大 B 细胞淋巴瘤"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "US potential approval and launch",
+        "zh": "美国潜在获批和上市",
+        "when": "2027Q1"
+      },
+      "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
+    },
+    {
+      "name": "INCA033989",
+      "code": "INCA033989",
+      "modality": "antibody",
+      "target": {
+        "en": "Mutant calreticulin",
+        "zh": "突变型钙网蛋白"
+      },
+      "ind": {
+        "en": "Essential thrombocythemia; also myelofibrosis",
+        "zh": "原发性血小板增多症;另有骨髓纤维化"
+      },
+      "phase": "3",
+      "ta": "Hematology",
+      "origin": null,
+      "next": {
+        "en": "Second-line myelofibrosis Phase 3 initiation",
+        "zh": "二线骨髓纤维化 III 期启动",
+        "when": "2026Q4"
+      },
+      "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
+    },
+    {
+      "name": "latarcibart",
+      "code": "VGA039",
+      "modality": "antibody",
+      "target": {
+        "en": "Protein S modulator",
+        "zh": "蛋白 S 调节剂"
+      },
+      "ind": {
+        "en": "Von Willebrand disease",
+        "zh": "血管性血友病"
+      },
+      "phase": "3",
+      "ta": "Hematology",
+      "origin": "acquired",
+      "next": {
+        "en": "VIVID-6 topline data; early 2029",
+        "zh": "VIVID-6 顶线数据;2029 年初",
+        "when": "2029"
+      },
+      "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
+    },
+    {
+      "name": "INCB161734",
+      "code": "INCB161734",
+      "modality": "small molecule",
+      "target": {
+        "en": "KRAS G12D inhibitor",
+        "zh": "KRAS G12D 抑制剂"
+      },
+      "ind": {
+        "en": "First-line metastatic pancreatic ductal adenocarcinoma; also colorectal cancer",
+        "zh": "一线转移性胰腺导管腺癌;另有结直肠癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "DAWN-303 topline data",
+        "zh": "DAWN-303 顶线数据",
+        "when": "2028"
+      },
+      "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
+    },
+    {
+      "name": "INCA33890",
+      "code": "INCA33890",
+      "modality": "bispecific",
+      "target": {
+        "en": "TGFβR2 × PD-1",
+        "zh": "TGFβR2 × PD-1"
+      },
+      "ind": {
+        "en": "First-line microsatellite-stable colorectal cancer",
+        "zh": "一线微卫星稳定型结直肠癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": {
+        "en": "NEXERA-303 topline data",
+        "zh": "NEXERA-303 顶线数据",
+        "when": "2029"
+      },
+      "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
+    },
+    {
+      "name": "INCB123667",
+      "code": "INCB123667",
+      "modality": "small molecule",
+      "target": {
+        "en": "CDK2 inhibitor",
+        "zh": "CDK2 抑制剂"
+      },
+      "ind": {
+        "en": "Platinum-resistant ovarian cancer; first-line maintenance planned",
+        "zh": "铂耐药卵巢癌;计划开展一线维持治疗"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "MAESTRA-3 first-line maintenance Phase 3 initiation",
+        "zh": "MAESTRA-3 一线维持治疗 III 期启动",
+        "when": "2026Q4"
+      },
+      "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
+    },
+    {
+      "name": "INCA035784",
+      "code": "INCA035784",
+      "modality": "bispecific",
+      "target": {
+        "en": "Mutant calreticulin × CD3",
+        "zh": "突变型钙网蛋白 × CD3"
+      },
+      "ind": {
+        "en": "CALR-mutated myelofibrosis or essential thrombocythemia",
+        "zh": "CALR 突变骨髓纤维化或原发性血小板增多症"
+      },
+      "phase": null,
+      "ta": "Hematology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://incyte.com/our-science/pharmaceutical-portfolio"
+    }
+  ],
+  "watch": [
+    {
+      "k": "loe",
+      "en": "The Q3 presentation frames 2029 as the Jakafi transition and prioritizes growth beyond Jakafi.",
+      "zh": "第三季度演示文稿将 2029 年定位为 Jakafi 的过渡期,并将 Jakafi 之外的增长列为优先。",
+      "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
+    },
+    {
+      "k": "catalyst",
+      "en": "Povorcitinib's prurigo nodularis Phase 3 data are expected in Q4 2026.",
+      "zh": "Povorcitinib 结节性痒疹 III 期数据预计在 2026 年第四季度公布。",
+      "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
+    },
+    {
+      "k": "balance",
+      "en": "September cash and marketable securities totaled $3.9 billion after the Vega acquisition.",
+      "zh": "收购 Vega 后,9 月现金及有价证券合计 $3.9 billion。",
+      "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
+    },
+    {
+      "k": "other",
+      "en": "INCB123667 enrollment in Phase 3 platinum-resistant ovarian cancer was stopped as focus shifted to maintenance.",
+      "zh": "随着重点转向维持治疗,INCB123667 在 III 期铂耐药卵巢癌中的入组已停止。",
+      "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
+    }
+  ],
+  "sources": [
+    [
+      "Company portfolio, July 29, 2026",
+      "https://incyte.com/our-science/pharmaceutical-portfolio"
+    ],
+    [
+      "Q3 results, October 29, 2026",
+      "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
+    ],
+    [
+      "Q3 presentation",
+      "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
+    ]
+  ],
+  "gaps": [
+    "No numerical phase is disclosed for INCA035784 in the portfolio text; phase is null. The company uses clinical-proof-of-concept/pivotal categories, which were not guessed into numerical phases.",
+    "INCB123667 is represented by its ongoing Phase 2 MAESTRA-1 study; Phase 3 MAESTRA-2 enrollment was discontinued and MAESTRA-3 had not yet been confirmed started. Presentation corroborates ongoing Phase 2 status.",
+    "INCA33890 is also written INCA033890 in parts of the Q3 release. Merus collaboration for INCA33890 and INCA035784 is stated in the portfolio footnotes.",
+    "Origins were not verified for povorcitinib, tafasitamab, INCA033989, INCB161734 or INCB123667; origin is null. Unverified development codes are null.",
+    "Counts is null: portfolio totals are not counts by numerical phase. No next milestone date was verified for INCA035784.",
+    "Approved ruxolitinib cream and axatilimab were excluded because their new-indication programs had not been verified as filed. Their studies are not treated as registration.",
+    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified."
+  ]
+}

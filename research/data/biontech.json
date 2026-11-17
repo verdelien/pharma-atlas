@@ -1,0 +1,199 @@
+{
+  "id": "biontech",
+  "asof": "2026-11",
+  "summary": {
+    "en": "BioNTech's oncology pipeline combines partnered antibodies and ADCs with mRNA immunotherapies, including several pivotal programs.",
+    "zh": "BioNTech 的肿瘤管线将合作抗体和 ADC 与 mRNA 免疫疗法相结合,包括多个关键性项目。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "pumitamig",
+      "code": "BNT327 / BMS986545",
+      "modality": "bispecific",
+      "target": {
+        "en": "PD-L1 × VEGF-A",
+        "zh": "PD-L1 × VEGF-A"
+      },
+      "ind": {
+        "en": "Lung cancer; also colorectal, gastric and breast cancer",
+        "zh": "肺癌;另有结直肠癌、胃癌和乳腺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    },
+    {
+      "name": "gotistobart",
+      "code": "BNT316 / ONC-392",
+      "modality": "antibody",
+      "target": {
+        "en": "CTLA-4",
+        "zh": "CTLA-4"
+      },
+      "ind": {
+        "en": "Previously treated squamous NSCLC",
+        "zh": "既往治疗过的鳞状 NSCLC"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": {
+        "en": "First stage-2 interim analysis, event-dependent",
+        "zh": "首次第 2 阶段中期分析,取决于事件数",
+        "when": "2026"
+      },
+      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    },
+    {
+      "name": "trastuzumab pamirtecan",
+      "code": "BNT323 / DB-1303",
+      "modality": "ADC",
+      "target": {
+        "en": "HER2",
+        "zh": "HER2"
+      },
+      "ind": {
+        "en": "Metastatic breast cancer; also endometrial cancer",
+        "zh": "转移性乳腺癌;另有子宫内膜癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    },
+    {
+      "name": "BNT113",
+      "code": "BNT113",
+      "modality": "vaccine",
+      "target": {
+        "en": "HPV16 E6/E7",
+        "zh": "HPV16 E6/E7"
+      },
+      "ind": {
+        "en": "HPV16-positive head and neck cancer",
+        "zh": "HPV16 阳性头颈癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    },
+    {
+      "name": "elfetabart drozuntecan",
+      "code": "BNT324 / DB-1311",
+      "modality": "ADC",
+      "target": null,
+      "ind": {
+        "en": "Solid tumors; combinations in lung cancer",
+        "zh": "实体瘤;肺癌联合疗法"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    },
+    {
+      "name": "autogene cevumeran",
+      "code": "BNT122 / RO7198457",
+      "modality": "vaccine",
+      "target": {
+        "en": "Individual tumor neoantigens",
+        "zh": "个体化肿瘤新抗原"
+      },
+      "ind": {
+        "en": "Adjuvant pancreatic cancer",
+        "zh": "胰腺癌辅助治疗"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    },
+    {
+      "name": "BNT116",
+      "code": "BNT116",
+      "modality": "vaccine",
+      "target": {
+        "en": "Multiple NSCLC antigens",
+        "zh": "多种 NSCLC 抗原"
+      },
+      "ind": {
+        "en": "Non-small cell lung cancer",
+        "zh": "非小细胞肺癌"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.biontech.com/int/en/home/pipeline-and-products/pipeline.html"
+    },
+    {
+      "name": "BNT211",
+      "code": "BNT211",
+      "modality": "cell therapy",
+      "target": {
+        "en": "CLDN6",
+        "zh": "CLDN6"
+      },
+      "ind": {
+        "en": "Solid tumors",
+        "zh": "实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.biontech.com/int/en/home/pipeline-and-products/pipeline.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "BNT113 missed the PFS endpoint; its survival analysis continues.",
+      "zh": "BNT113 未达到 PFS 终点;其生存分析仍在继续。",
+      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    },
+    {
+      "k": "other",
+      "en": "BNT323 breast-cancer benefit was modest, with serious and fatal ILD reported; next steps remain under discussion.",
+      "zh": "BNT323 在乳腺癌中的获益有限,并报告了严重及致死性 ILD;后续安排仍在讨论中。",
+      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    },
+    {
+      "k": "balance",
+      "en": "Cash and securities were EUR16.2 billion.",
+      "zh": "现金及证券为 EUR16.2 billion。",
+      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline webpage",
+      "https://www.biontech.com/int/en/home/pipeline-and-products/pipeline.html"
+    ],
+    [
+      "November 2026 complete pipeline chart",
+      "https://www.biontech.com/content/dam/biontech-corporate/global/pdf/home/pipeline-and-products/pipeline/assets/BioNTech_Pipeline-2026-Q3_EN.pdf"
+    ],
+    [
+      "Q3 2026 results, November 3",
+      "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    ]
+  ],
+  "gaps": [
+    "The webpage's interactive asset cards were not fully readable on open; its complete downloadable pipeline chart was reviewed.",
+    "No complete company phase-count breakdown verified.",
+    "Mixed Phase 2/3 programs use phase 3 where the source confirms a Phase 3 component.",
+    "BNT324 target and some origins were not verified and are null.",
+    "Autogene cevumeran's terminated colorectal trial is excluded; pancreatic development remains active.",
+    "No precise forthcoming date verified for most assets.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

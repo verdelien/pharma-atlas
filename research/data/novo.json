@@ -1,0 +1,256 @@
+{
+  "id": "novo",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Obesity and diabetes remain central, with late-stage diversification into liver, cardiac and rare blood diseases. Acquired assets contribute to that diversification.",
+    "zh": "肥胖与糖尿病仍是研发核心，后期管线正向肝病、心脏病及罕见血液病拓展，收购资产是多元化的重要来源。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "CagriSema",
+      "code": null,
+      "modality": "peptide",
+      "target": {
+        "en": "Amylin and GLP-1 receptor agonism",
+        "zh": "激动胰淀素及 GLP-1 受体"
+      },
+      "ind": {
+        "en": "Obesity; also type 2 diabetes",
+        "zh": "肥胖症；另开发2型糖尿病"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": {
+        "en": "US obesity regulatory decision",
+        "zh": "美国肥胖症适应症审评决定",
+        "when": "2026Q4"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    },
+    {
+      "name": "denecimig",
+      "code": "Mim8",
+      "modality": "bispecific",
+      "target": {
+        "en": "FIXa/FX bridging; factor VIIIa mimic",
+        "zh": "连接 FIXa 与 FX，模拟凝血因子 VIIIa"
+      },
+      "ind": {
+        "en": "Haemophilia A with or without inhibitors",
+        "zh": "伴或不伴抑制物的甲型血友病"
+      },
+      "phase": "reg",
+      "ta": "Hematology",
+      "origin": null,
+      "next": {
+        "en": "US regulatory decision; review extended for manufacturing remediation",
+        "zh": "美国审评决定；因生产设施整改而延长审评",
+        "when": "2027H1"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    },
+    {
+      "name": "etavopivat",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Red-cell pyruvate kinase activation",
+        "zh": "激活红细胞丙酮酸激酶"
+      },
+      "ind": {
+        "en": "Sickle cell disease in patients aged 12+; also thalassaemia",
+        "zh": "12岁及以上患者的镰状细胞病；另开发地中海贫血"
+      },
+      "phase": "reg",
+      "ta": "Hematology",
+      "origin": "acquired",
+      "next": {
+        "en": "US regulatory decision after November 2026 submissions",
+        "zh": "2026年11月申报后的美国审评决定",
+        "when": "2027H2"
+      },
+      "src": "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=920485"
+    },
+    {
+      "name": "cagrilintide",
+      "code": null,
+      "modality": "peptide",
+      "target": {
+        "en": "Amylin receptor agonism",
+        "zh": "激动胰淀素受体"
+      },
+      "ind": {
+        "en": "Obesity",
+        "zh": "肥胖症"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": {
+        "en": "RENEW 1 and 2 phase 3 results",
+        "zh": "RENEW 1及2 III 期结果",
+        "when": "2027H2"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    },
+    {
+      "name": "zenagamtide",
+      "code": null,
+      "modality": "peptide",
+      "target": {
+        "en": "GLP-1 and amylin receptor agonism",
+        "zh": "同时激动 GLP-1 和胰淀素受体"
+      },
+      "ind": {
+        "en": "Obesity; also type 2 diabetes; oral and injectable",
+        "zh": "肥胖症；另开发2型糖尿病，包含口服及注射制剂"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916559"
+    },
+    {
+      "name": "efruxifermin",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "FGF21 analogue",
+        "zh": "FGF21 类似物"
+      },
+      "ind": {
+        "en": "MASH with fibrosis, including compensated cirrhosis",
+        "zh": "伴纤维化的代谢功能障碍相关脂肪性肝炎，包括代偿期肝硬化"
+      },
+      "phase": "3",
+      "ta": "Metabolic",
+      "origin": "acquired",
+      "next": {
+        "en": "Phase 3 safety results across F1–F4 disease",
+        "zh": "F1至F4患者的 III 期安全性结果",
+        "when": "2026Q4"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    },
+    {
+      "name": "coramitug",
+      "code": "PRX004",
+      "modality": "antibody",
+      "target": {
+        "en": "Pathogenic transthyretin amyloid depletion",
+        "zh": "清除致病性转甲状腺素蛋白淀粉样沉积"
+      },
+      "ind": {
+        "en": "Transthyretin amyloid cardiomyopathy",
+        "zh": "转甲状腺素蛋白淀粉样变性心肌病"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": "acquired",
+      "next": {
+        "en": "CLEOPATTRA estimated primary completion, not a confirmed readout date",
+        "zh": "CLEOPATTRA 预计主要终点完成时间，并非确认的数据发布日期",
+        "when": "2029"
+      },
+      "src": "https://ir.prothena.com/investors/press-releases/news-details/2026/Prothena-Reports-Second-Quarter-2026-Financial-Results-and-Business-Highlights/default.aspx"
+    },
+    {
+      "name": "UBT251",
+      "code": null,
+      "modality": "peptide",
+      "target": {
+        "en": "GLP-1/GIP/glucagon receptor agonism",
+        "zh": "同时激动 GLP-1、GIP 及胰高血糖素受体"
+      },
+      "ind": {
+        "en": "Obesity; also type 2 diabetes",
+        "zh": "肥胖症；另开发2型糖尿病"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": {
+        "en": "Obesity phase 1/2 results",
+        "zh": "肥胖症 I/II 期结果",
+        "when": "2027H1"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "CagriSema's US obesity decision is expected in Q4 2026.",
+      "zh": "CagriSema 肥胖症适应症预计于2026年第四季度获美国审评决定。",
+      "src": "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    },
+    {
+      "k": "other",
+      "en": "Denecimig review has been extended for manufacturing remediation; no clinical efficacy or safety deficiencies were identified by FDA.",
+      "zh": "Denecimig 因生产设施整改延长审评；FDA 未指出临床疗效或安全性资料存在缺陷。",
+      "src": "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    },
+    {
+      "k": "concentration",
+      "en": "GLP-1 volume growth remains a central business driver.",
+      "zh": "GLP-1 产品销量增长仍是公司业务的重要驱动力。",
+      "src": "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    },
+    {
+      "k": "other",
+      "en": "ZEUS and HERMES missed their primary endpoints; ziltivekimab's AMI programme remains in the forward milestone table.",
+      "zh": "ZEUS 和 HERMES 未达到主要终点；ziltivekimab 的急性心肌梗死项目仍列于后续里程碑表。",
+      "src": "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    }
+  ],
+  "sources": [
+    [
+      "R&D pipeline",
+      "https://www.novonordisk.com/science-and-technology/r-d-pipeline.html"
+    ],
+    [
+      "Q3 2026 SEC filing: verified replacement for unavailable presentation",
+      "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    ],
+    [
+      "Q3 2026 financial report filed with SEC",
+      "https://www.sec.gov/Archives/edgar/data/353278/000162828026069805/caq32026.htm"
+    ],
+    [
+      "Etavopivat submissions, November 12, 2026",
+      "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=920485"
+    ],
+    [
+      "Zenagamtide mechanism, June 6, 2026",
+      "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916559"
+    ],
+    [
+      "2025 annual report: mechanisms and acquisitions",
+      "https://annualreport.novonordisk.com/2025/strategic-aspirations/innovation-and-therapeutic-focus.html"
+    ],
+    [
+      "Denecimig CHMP opinion, September 17, 2026",
+      "https://www.ema.europa.eu/en/documents/smop-initial/chmp-summary-positive-opinion-frehemgo_en.pdf"
+    ],
+    [
+      "Prothena Q2 2026: coramitug",
+      "https://ir.prothena.com/investors/press-releases/news-details/2026/Prothena-Reports-Second-Quarter-2026-Financial-Results-and-Business-Highlights/default.aspx"
+    ],
+    [
+      "Akero transaction announcement, October 9, 2025",
+      "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916433"
+    ]
+  ],
+  "gaps": [
+    "The public pipeline table is dynamic and does not expose asset rows on open; the quarterly SEC filing replaces the unavailable Q3 presentation. Its anticipated-milestone table re-verifies CagriSema registration/US decision Q4 2026, cagrilintide Phase 3/RENEW results H2 2027, efruxifermin Phase 3/safety results Q4 2026 and UBT251 Phase 2 with obesity Phase 1/2 results H1 2027. Local curl verification failed at DNS resolution (HTTP 000).",
+    "A complete published phase-count breakdown was not verified. The reported 10 phase 3 programmes is not a full set of phase counts, so counts is null.",
+    "Origin was not established explicitly for CagriSema, denecimig, cagrilintide, zenagamtide or UBT251; origin is null. Unverified development codes are null.",
+    "Zenagamtide's exact next readout timing was not verified; next is null. Oral and injectable programmes are consolidated into one asset.",
+    "Etavopivat is updated to registration using the November 12 company release, superseding its Q3 phase 3 listing; expected US decision timing remains from Q3 guidance.",
+    "Historical sources older than 2026-06 are used for mechanisms/provenance only: the 2025 annual report (published 2026) and the October 2025 Akero announcement. Current stages and dates come from Q3/November 2026 materials.",
+    "Efruxifermin is a fusion-protein FGF21 analogue, represented as 'other'. CagriSema is a combination of peptide agents and is separately listed from standalone cagrilintide."
+  ]
+}

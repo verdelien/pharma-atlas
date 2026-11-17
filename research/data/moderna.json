@@ -1,0 +1,237 @@
+{
+  "id": "moderna",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Moderna's mRNA portfolio spans vaccines, cancer therapies and rare metabolic disorders. Intismeran has positive pivotal melanoma results, while several respiratory vaccines are already commercial.",
+    "zh": "Moderna 的 mRNA 产品组合涵盖疫苗、癌症疗法和罕见代谢病。Intismeran 在黑色素瘤关键性研究中取得积极结果,多款呼吸道疫苗已实现商业化。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "mCOMBRIAX / mCOFLU (additional markets)",
+      "code": "mRNA-1083",
+      "modality": "vaccine",
+      "target": {
+        "en": "Influenza and SARS-CoV-2",
+        "zh": "流感和 SARS-CoV-2"
+      },
+      "ind": {
+        "en": "Influenza and COVID-19 prevention; review in Japan, UK and Australia",
+        "zh": "流感和 COVID-19 预防;日本、英国和澳大利亚审评中"
+      },
+      "phase": "reg",
+      "ta": "Vaccines",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+    },
+    {
+      "name": "intismeran autogene",
+      "code": "mRNA-4157",
+      "modality": "vaccine",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Adjuvant melanoma; also NSCLC and other cancers",
+        "zh": "辅助治疗黑色素瘤;另有 NSCLC 和其他癌症"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.modernatx.com/research/product-pipeline"
+    },
+    {
+      "name": "pandemic influenza vaccine",
+      "code": "mRNA-1018",
+      "modality": "vaccine",
+      "target": {
+        "en": "Pandemic influenza",
+        "zh": "大流行性流感"
+      },
+      "ind": {
+        "en": "Pandemic influenza prevention",
+        "zh": "大流行性流感预防"
+      },
+      "phase": "3",
+      "ta": "Vaccines",
+      "origin": null,
+      "next": null,
+      "src": "https://www.modernatx.com/research/product-pipeline"
+    },
+    {
+      "name": "norovirus vaccine",
+      "code": "mRNA-1403",
+      "modality": "vaccine",
+      "target": {
+        "en": "Norovirus",
+        "zh": "诺如病毒"
+      },
+      "ind": {
+        "en": "Norovirus gastroenteritis prevention",
+        "zh": "诺如病毒胃肠炎预防"
+      },
+      "phase": "3",
+      "ta": "Vaccines",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+    },
+    {
+      "name": "propionic acidemia therapy",
+      "code": "mRNA-3927",
+      "modality": "other",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Propionic acidemia",
+        "zh": "丙酸血症"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": {
+        "en": "Pivotal data",
+        "zh": "关键性数据",
+        "when": "2026"
+      },
+      "src": "https://www.modernatx.com/research/product-pipeline"
+    },
+    {
+      "name": "methylmalonic acidemia therapy",
+      "code": "mRNA-3705",
+      "modality": "other",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Methylmalonic acidemia",
+        "zh": "甲基丙二酸血症"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.modernatx.com/research/product-pipeline"
+    },
+    {
+      "name": "CMV vaccine",
+      "code": "mRNA-1647",
+      "modality": "vaccine",
+      "target": {
+        "en": "Cytomegalovirus",
+        "zh": "巨细胞病毒"
+      },
+      "ind": {
+        "en": "CMV in transplant recipients",
+        "zh": "移植受者的 CMV 感染"
+      },
+      "phase": "2",
+      "ta": "Vaccines",
+      "origin": null,
+      "next": null,
+      "src": "https://www.modernatx.com/research/product-pipeline"
+    },
+    {
+      "name": "EBV vaccine",
+      "code": "mRNA-1189",
+      "modality": "vaccine",
+      "target": {
+        "en": "Epstein-Barr virus",
+        "zh": "EB 病毒"
+      },
+      "ind": {
+        "en": "Infectious mononucleosis prevention",
+        "zh": "传染性单核细胞增多症预防"
+      },
+      "phase": "2",
+      "ta": "Vaccines",
+      "origin": null,
+      "next": null,
+      "src": "https://www.modernatx.com/research/product-pipeline"
+    },
+    {
+      "name": "cancer antigen therapy",
+      "code": "mRNA-4359",
+      "modality": "other",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Melanoma; also NSCLC",
+        "zh": "黑色素瘤;另有 NSCLC"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+    },
+    {
+      "name": "T-cell engager",
+      "code": "mRNA-2808",
+      "modality": "other",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Multiple myeloma",
+        "zh": "多发性骨髓瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "ASH oral presentation on December 12",
+        "zh": "ASH 口头报告,12 月 12 日",
+        "when": "2026Q4"
+      },
+      "src": "https://www.modernatx.com/research/product-pipeline"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Intismeran is moving toward regulatory submissions after positive Phase 3 results.",
+      "zh": "Intismeran 在取得积极的 III 期结果后,正推进监管申报。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+    },
+    {
+      "k": "other",
+      "en": "Norovirus interim data missed early-success criteria; no additional seasonal cohort is planned.",
+      "zh": "诺如病毒中期数据未达到早期成功标准;不再计划增加季节性队列。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+    },
+    {
+      "k": "balance",
+      "en": "September financing raised approximately $2.6 billion net through convertible notes.",
+      "zh": "9 月通过可转换票据融资,净筹集约 $2.6 billion。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline",
+      "https://www.modernatx.com/research/product-pipeline"
+    ],
+    [
+      "Q3 2026 results",
+      "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+    ]
+  ],
+  "gaps": [
+    "Pipeline page is labelled May 28, 2026, older than June 2026; November results take precedence.",
+    "No published phase counts verified.",
+    "Origins and detailed molecular targets not established in reviewed sources are null.",
+    "Propionic acidemia retains phase 2 from the pipeline despite a registrational study; no phase 3 designation verified.",
+    "Norovirus development path is under review after interim analysis; it remains listed as phase 3 rather than implying another trial is assured.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+  ]
+}

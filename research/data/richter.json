@@ -1,0 +1,116 @@
+{
+  "id": "richter",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Women's health and neuropsychiatry anchor development, supported by biosimilars and generics. Public materials identify a small set of named clinical candidates amid many unnamed portfolio projects.",
+    "zh": "女性健康和神经精神领域是开发的核心,并有生物类似药和仿制药支撑。公开资料中点名的临床候选药物数量不多,另有许多未具名的产品组合项目。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "estetrol (US menopause)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Estrogen receptor",
+        "zh": "雌激素受体"
+      },
+      "ind": {
+        "en": "Menopausal symptoms; US NDA accepted",
+        "zh": "更年期症状;美国 NDA 已受理"
+      },
+      "phase": "reg",
+      "ta": "Women's health",
+      "origin": null,
+      "next": null,
+      "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/en/2026/presentationq32026.pdf?hash=B6844E1B2198B31145CCAA8CA3113CB5&rev=4d08b3abd54d48d6b59469b043aae58d"
+    },
+    {
+      "name": "RGH-932",
+      "code": "RGH-932/ABBV-932",
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Bipolar depression and generalized anxiety disorder",
+        "zh": "双相抑郁和广泛性焦虑障碍"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/hu/2026/richter_ir_presentation_november_2026.pdf?hash=903C8171D1588A58C683CB2970855C82&rev=36de267f113647aaa39aff34b43fe096"
+    },
+    {
+      "name": "RGH-202",
+      "code": "RGH-202",
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": null,
+        "zh": null
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/hu/2026/richter_ir_presentation_november_2026.pdf?hash=903C8171D1588A58C683CB2970855C82&rev=36de267f113647aaa39aff34b43fe096"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "Vraylar royalties reached HUF189 billion in the first nine months of 2026.",
+      "zh": "2026 年前九个月,Vraylar 特许权使用费达到 HUF189 billion。",
+      "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/en/2026/presentationq32026.pdf?hash=B6844E1B2198B31145CCAA8CA3113CB5&rev=4d08b3abd54d48d6b59469b043aae58d"
+    },
+    {
+      "k": "loe",
+      "en": "Company strategy explicitly targets managing cariprazine loss-of-exclusivity effects through new CNS assets.",
+      "zh": "公司战略明确提出通过新的 CNS 资产来应对 cariprazine 独占期结束 (LOE) 的影响。",
+      "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/hu/2026/richter_ir_presentation_november_2026.pdf?hash=903C8171D1588A58C683CB2970855C82&rev=36de267f113647aaa39aff34b43fe096"
+    },
+    {
+      "k": "catalyst",
+      "en": "Estetrol's US application has been accepted; a decision date was not verified.",
+      "zh": "Estetrol 的美国申请已获受理;未核实决定日期。",
+      "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/en/2026/presentationq32026.pdf?hash=B6844E1B2198B31145CCAA8CA3113CB5&rev=4d08b3abd54d48d6b59469b043aae58d"
+    },
+    {
+      "k": "balance",
+      "en": "Nine-month free cash flow before M&A reached HUF223 billion.",
+      "zh": "并购前九个月自由现金流达到 HUF223 billion。",
+      "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/en/2026/presentationq32026.pdf?hash=B6844E1B2198B31145CCAA8CA3113CB5&rev=4d08b3abd54d48d6b59469b043aae58d"
+    }
+  ],
+  "sources": [
+    [
+      "Original research page",
+      "https://www.gedeonrichter.com/uk/en/areas-of-expertise/original-research"
+    ],
+    [
+      "November pipeline presentation",
+      "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/hu/2026/richter_ir_presentation_november_2026.pdf?hash=903C8171D1588A58C683CB2970855C82&rev=36de267f113647aaa39aff34b43fe096"
+    ],
+    [
+      "Q3 2026 results presentation",
+      "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/en/2026/presentationq32026.pdf?hash=B6844E1B2198B31145CCAA8CA3113CB5&rev=4d08b3abd54d48d6b59469b043aae58d"
+    ],
+    [
+      "RGH-202 registry",
+      "https://clinicaltrials.gov/study/NCT07931703"
+    ]
+  ],
+  "gaps": [
+    "Only three distinct named clinical/registration assets verified in current materials; many pipeline-chart projects are unnamed. No company phase totals used.",
+    "RGH-202 registry rendered only a JavaScript shell; its indication, target, modality and origin are null. November presentation identifies Phase 2.",
+    "RGH-932 mechanism/modality and estetrol origin were not verified; no future milestone dates established. Source renders the US brand as FYLREY; generic name used.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed.",
+    "Original-research landing page is dated March 2025, older than June 2026; named asset stages come from November 2026 presentations."
+  ]
+}

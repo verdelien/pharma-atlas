@@ -1,0 +1,229 @@
+{
+  "id": "astellas",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Oncology dominates, with new Phase 3 protein-degradation and T-cell-engager programs. Cell and gene therapies add earlier-stage ophthalmology and rare-disease exposure.",
+    "zh": "肿瘤领域占主导,新增 III 期蛋白降解和 T 细胞接合器项目。细胞和基因疗法则带来较早期的眼科和罕见病布局。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "enfortumab vedotin",
+      "code": "ASG-22ME",
+      "modality": "ADC",
+      "target": {
+        "en": "Nectin-4",
+        "zh": "Nectin-4"
+      },
+      "ind": {
+        "en": "Muscle-invasive bladder cancer with pembrolizumab; Japan/China filings",
+        "zh": "联合 pembrolizumab 治疗肌层浸润性膀胱癌;日本/中国申报"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_sup_en.pdf"
+    },
+    {
+      "name": "setidegrasib",
+      "code": "ASP3082",
+      "modality": "small molecule",
+      "target": {
+        "en": "KRAS G12D degradation",
+        "zh": "KRAS G12D 降解"
+      },
+      "ind": {
+        "en": "Previously treated NSCLC; also pancreatic cancer",
+        "zh": "既往治疗过的 NSCLC;另有胰腺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "NSCLC Phase 3 readout in company fiscal 2028",
+        "zh": "NSCLC III 期结果将在公司 2028 财年公布",
+        "when": "FY2028"
+      },
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_pre_en.pdf"
+    },
+    {
+      "name": "ASP2138",
+      "code": null,
+      "modality": "bispecific",
+      "target": {
+        "en": "CLDN18.2/CD3",
+        "zh": "CLDN18.2/CD3"
+      },
+      "ind": {
+        "en": "Gastric/gastroesophageal junction cancer; also pancreatic cancer",
+        "zh": "胃癌/胃食管结合部癌;另有胰腺癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": {
+        "en": "Gastric/GEJ Phase 3 readout in company fiscal 2029",
+        "zh": "胃癌/GEJ III 期结果将在公司 2029 财年公布",
+        "when": "FY2029"
+      },
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_pre_en.pdf"
+    },
+    {
+      "name": "zocaglusagene nuzaparvovec",
+      "code": "AT845",
+      "modality": "gene therapy",
+      "target": {
+        "en": "GAA gene replacement",
+        "zh": "GAA 基因替代"
+      },
+      "ind": {
+        "en": "Pompe disease",
+        "zh": "庞贝病"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_sup_en.pdf"
+    },
+    {
+      "name": "ASP7317",
+      "code": null,
+      "modality": "cell therapy",
+      "target": {
+        "en": "Retinal pigment epithelial cell replacement",
+        "zh": "视网膜色素上皮细胞替代"
+      },
+      "ind": {
+        "en": "Geographic atrophy secondary to AMD",
+        "zh": "AMD 继发的地图样萎缩"
+      },
+      "phase": "1",
+      "ta": "Ophthalmology",
+      "origin": null,
+      "next": {
+        "en": "Phase 3/pivotal study start in company fiscal 2026–2027",
+        "zh": "III 期/关键性研究将在公司 2026–2027 财年启动",
+        "when": null
+      },
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_pre_en.pdf"
+    },
+    {
+      "name": "ASP6958",
+      "code": "VIR-5500",
+      "modality": "bispecific",
+      "target": {
+        "en": "PSMA/CD3",
+        "zh": "PSMA/CD3"
+      },
+      "ind": {
+        "en": "Prostate cancer",
+        "zh": "前列腺癌"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": {
+        "en": "Registrational study planning",
+        "zh": "注册性研究规划中",
+        "when": null
+      },
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_sup_en.pdf"
+    },
+    {
+      "name": "ASP1002",
+      "code": null,
+      "modality": "bispecific",
+      "target": {
+        "en": "Claudin 4/CD137",
+        "zh": "Claudin 4/CD137"
+      },
+      "ind": {
+        "en": "Cancer",
+        "zh": "癌症"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_sup_en.pdf"
+    },
+    {
+      "name": "ASP546C",
+      "code": "XNW27011",
+      "modality": "ADC",
+      "target": {
+        "en": "CLDN18.2",
+        "zh": "CLDN18.2"
+      },
+      "ind": {
+        "en": "Cancer; Astellas territory excludes greater China",
+        "zh": "癌症;Astellas 的权益区域不含大中华区"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": {
+        "en": "Astellas Phase 3/pivotal gastric/GEJ study start in company fiscal 2026–2027",
+        "zh": "Astellas 的 III 期/关键性胃癌/GEJ 研究将在公司 2026–2027 财年启动",
+        "when": null
+      },
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_sup_en.pdf"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "Oncology supplies both new Phase 3 focus-area programs: setidegrasib and ASP2138.",
+      "zh": "两个新的 III 期重点领域项目均来自肿瘤领域:setidegrasib 和 ASP2138。",
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_pre_en.pdf"
+    },
+    {
+      "k": "catalyst",
+      "en": "Setidegrasib NSCLC and ASP2138 gastric/GEJ readouts are guided for fiscal 2028 and fiscal 2029.",
+      "zh": "Setidegrasib NSCLC 和 ASP2138 胃癌/GEJ 的结果预计分别在 2028 财年和 2029 财年公布。",
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_pre_en.pdf"
+    },
+    {
+      "k": "deal",
+      "en": "Vir and Evopoint supply licensed oncology programs; ASP546C rights exclude greater China.",
+      "zh": "Vir 和 Evopoint 提供授权引进的肿瘤项目;ASP546C 的权益不含大中华区。",
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_sup_en.pdf"
+    },
+    {
+      "k": "other",
+      "en": "ASP5541 prostate-cancer development was discontinued.",
+      "zh": "ASP5541 的前列腺癌开发已终止。",
+      "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_sup_en.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline page, August 2026",
+      "https://www.astellas.com/en/science/research-and-development/pipeline"
+    ],
+    [
+      "FY2026 Q2 supplement, October pipeline",
+      "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_sup_en.pdf"
+    ],
+    [
+      "FY2026 Q2 presentation",
+      "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_pre_en.pdf"
+    ],
+    [
+      "Setidegrasib Phase 3 initiation, September 2026",
+      "https://newsroom.astellas.com/2026-09-24-astellas-doses-first-patient-in-phase-3-study-of-setidegrasib-in-previously-treated-kras-g12d-mutated-advanced-non-small-cell-lung-cancer"
+    ]
+  ],
+  "gaps": [
+    "No complete company-published phase-count breakdown was verified; counts is null.",
+    "The dynamic pipeline page returned no asset rows; the October supplement and results presentation were read instead.",
+    "Origin is null for setidegrasib, ASP2138, AT845 and ASP7317: explicit discovery/acquisition provenance was not established from the opened materials. Parenthetical legacy-company names were not treated as proof of an acquisition.",
+    "ASP7317 is Phase 1b in the detailed presentation, mapped to 1; AT845 is listed in Phase 2. No calendar-year conversion of fiscal milestone guidance was inferred.",
+    "ASP546C is Phase 1 in the Astellas supplement; the presentation describes a global Phase 1b/2 trial and a separate Evopoint Phase 3 trial in China, outside Astellas rights. Phase 1 records the company-listed Astellas stage.",
+    "Marketed assets with unfiled indication expansions and same-indication geographic filings were excluded. PADCEV is retained for filed muscle-invasive bladder-cancer expansion; its MIBC approvals already obtained in the US/EU are not pending milestones.",
+    "Undated next milestones are null; additional development codes not explicitly verified are null.",
+    "Required curl HEAD checks were attempted, but local DNS resolution failed (curl exit 6, HTTP 000); HTTP status could not be independently confirmed locally. Sources were opened with the web browser tool."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "cipla",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Cipla's development activity is generic- and respiratory-heavy, with much of the pipeline disclosed only in aggregate. Licensed oncology biologics add differentiated opportunities, but current company releases provide limited asset-level stage detail.",
+    "zh": "Cipla 的开发活动以仿制药和呼吸系统为主,管线大部分仅以汇总形式披露。授权引进的肿瘤生物药带来差异化机会,但公司目前发布的信息中单个资产层面的阶段细节有限。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "rolditamig deuderuxtecan",
+      "code": "TQB2102",
+      "modality": "ADC",
+      "target": {
+        "en": "HER2",
+        "zh": "HER2"
+      },
+      "ind": {
+        "en": "HER2-expressing cancers, including HER2-low advanced breast cancer",
+        "zh": "HER2 表达癌症,包括 HER2 低表达晚期乳腺癌"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.cipla.com/press-releases-statements/cipla-and-sbp-group-sign-exclusive-licensing-agreement-potential-best"
+    },
+    {
+      "name": "pembrolizumab biosimilar",
+      "code": "QL2107",
+      "modality": "antibody",
+      "target": null,
+      "ind": {
+        "en": "Cancer; specific licensed indications not disclosed",
+        "zh": "癌症;具体授权适应症未披露"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.cipla.com/press-releases-statements/cipla-announces-exclusive-partnership-qilu-pharmaceutical-licensing-and-supply-of-biosimilar-to-keytruda"
+    }
+  ],
+  "watch": [
+    {
+      "k": "deal",
+      "en": "Cipla licensed TQB2102 for India, South Africa and five other emerging markets; the partner retains manufacturing and supply.",
+      "zh": "Cipla 获得 TQB2102 在印度、南非及其他五个新兴市场的授权;合作方保留生产和供应。",
+      "src": "https://www.cipla.com/press-releases-statements/cipla-and-sbp-group-sign-exclusive-licensing-agreement-potential-best"
+    },
+    {
+      "k": "deal",
+      "en": "Qilu handles development, registration and supply of QL2107; Cipla handles US commercialization.",
+      "zh": "Qilu 负责 QL2107 的开发、注册和供应;Cipla 负责美国商业化。",
+      "src": "https://www.cipla.com/press-releases-statements/cipla-announces-exclusive-partnership-qilu-pharmaceutical-licensing-and-supply-of-biosimilar-to-keytruda"
+    },
+    {
+      "k": "balance",
+      "en": "Q2 FY27 R&D was INR423 crore, 5.7% of revenue; operating revenue was INR7,404 crore.",
+      "zh": "2027 财年第二季度研发支出为 INR423 crore,占收入的 5.7%;营业收入为 INR7,404 crore。",
+      "src": "https://www.cipla.com/sites/default/files/Q2-FY27-Investor-Presentation.pdf"
+    },
+    {
+      "k": "other",
+      "en": "The September pipeline disclosure shows 46 ANDAs/NDAs under approval and 44 tentatively approved, rather than named clinical candidates.",
+      "zh": "9 月的管线披露显示有 46 项 ANDA/NDA 审批中、44 项获暂时批准,而非已命名的临床候选药物。",
+      "src": "https://www.cipla.com/sites/default/files/Q2-FY27-Investor-Presentation.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Q2 FY27 investor presentation, October 27",
+      "https://www.cipla.com/sites/default/files/Q2-FY27-Investor-Presentation.pdf"
+    ],
+    [
+      "TQB2102 licensing, August 31",
+      "https://www.cipla.com/press-releases-statements/cipla-and-sbp-group-sign-exclusive-licensing-agreement-potential-best"
+    ],
+    [
+      "QL2107 licensing, September 3",
+      "https://www.cipla.com/press-releases-statements/cipla-announces-exclusive-partnership-qilu-pharmaceutical-licensing-and-supply-of-biosimilar-to-keytruda"
+    ]
+  ],
+  "gaps": [
+    "No full named innovative pipeline page was located; the complete current investor presentation was reviewed.",
+    "Only two individually named unapproved assets could be verified from reachable current company materials.",
+    "Exact phases and dated next milestones were not disclosed in the opened licensing releases; these fields are null.",
+    "QL2107 receptor target and specific development indications were not established in the opened company release.",
+    "The Q2 transcript and press-release PDFs returned fetch errors, and the annual report timed out; the current Q2 presentation loaded successfully.",
+    "Regulatory totals refer to generic filings and are not company counts by clinical phase.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "eisai",
+  "asof": "2026-11",
+  "summary": {
+    "en": "The November reference data emphasize neuroscience, alongside oncology ADC and small-molecule programs. ([Reference data](https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/))",
+    "zh": "11 月的参考数据以神经科学为重点,同时包括肿瘤 ADC 和小分子项目。([Reference data](https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/))"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "evenamide",
+      "code": "EA8001",
+      "modality": "small molecule",
+      "target": {
+        "en": "Voltage-gated sodium channels; modulates glutamate release",
+        "zh": "电压门控钠通道;调节谷氨酸释放"
+      },
+      "ind": {
+        "en": "Treatment-resistant schizophrenia",
+        "zh": "难治性精神分裂症"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/"
+    },
+    {
+      "name": "etalanetug",
+      "code": "E2814",
+      "modality": "antibody",
+      "target": {
+        "en": "Microtubule-binding region of tau",
+        "zh": "tau 的微管结合区"
+      },
+      "ind": {
+        "en": "Dominantly inherited Alzheimer's disease; also sporadic early disease",
+        "zh": "显性遗传性阿尔茨海默病;另有散发性早期疾病"
+      },
+      "phase": "3",
+      "ta": "Neuroscience",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://media-us.eisai.com/2026-07-13-Eisai-Presents-Latest-Findings-Showed-Etalanetug-Reduced-Alzheimers-Disease-Tau-Tangle-Specific-Plasma-Biomarker-MTBR-tau243-at-Alzheimers-Association-International-Conference-R-AAIC-R-2026"
+    },
+    {
+      "name": "ledasorexton",
+      "code": "E2086",
+      "modality": "small molecule",
+      "target": {
+        "en": "Orexin 2 receptor agonist",
+        "zh": "Orexin 2 受体激动剂"
+      },
+      "ind": {
+        "en": "Narcolepsy",
+        "zh": "发作性睡病"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/"
+    },
+    {
+      "name": "farletuzumab ecteribulin",
+      "code": "MORAb-202",
+      "modality": "ADC",
+      "target": {
+        "en": "Folate receptor alpha",
+        "zh": "叶酸受体 α"
+      },
+      "ind": {
+        "en": "Ovarian, peritoneal and fallopian tube cancers",
+        "zh": "卵巢癌、腹膜癌和输卵管癌"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/"
+    },
+    {
+      "name": "E7386",
+      "code": "E7386",
+      "modality": "small molecule",
+      "target": {
+        "en": "CBP/β-catenin interaction inhibitor",
+        "zh": "CBP/β-catenin 相互作用抑制剂"
+      },
+      "ind": {
+        "en": "Solid tumors with lenvatinib",
+        "zh": "联合 lenvatinib 治疗实体瘤"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/"
+    },
+    {
+      "name": "E6742",
+      "code": "E6742",
+      "modality": "small molecule",
+      "target": {
+        "en": "TLR7/8 inhibitor",
+        "zh": "TLR7/8 抑制剂"
+      },
+      "ind": {
+        "en": "Systemic lupus erythematosus",
+        "zh": "系统性红斑狼疮"
+      },
+      "phase": "2",
+      "ta": "Immunology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/"
+    },
+    {
+      "name": "E2511",
+      "code": "E2511",
+      "modality": null,
+      "target": {
+        "en": "TrkA integrated synapse regenerant",
+        "zh": "TrkA 整合型突触再生剂"
+      },
+      "ind": {
+        "en": "Alzheimer's disease",
+        "zh": "阿尔茨海默病"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/"
+    },
+    {
+      "name": "E2025",
+      "code": "E2025",
+      "modality": "antibody",
+      "target": {
+        "en": "EphA4",
+        "zh": "EphA4"
+      },
+      "ind": {
+        "en": "Alzheimer's disease",
+        "zh": "阿尔茨海默病"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "concentration",
+      "en": "First-half FY2026 revenue included ¥194.8 billion from Lenvima and ¥61.5 billion from Leqembi.",
+      "zh": "2026 财年上半年收入中,Lenvima 贡献 ¥194.8 billion,Leqembi 贡献 ¥61.5 billion。",
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086746/"
+    },
+    {
+      "k": "balance",
+      "en": "First-half R&D spending was ¥88.1 billion; investment prioritized E2814 and E2086.",
+      "zh": "上半年研发支出为 ¥88.1 billion;投入优先用于 E2814 和 E2086。",
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086746/"
+    },
+    {
+      "k": "deal",
+      "en": "Lenvima is jointly developed with Merck and Leqembi with Biogen.",
+      "zh": "Lenvima 与 Merck 共同开发,Leqembi 与 Biogen 共同开发。",
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086746/"
+    },
+    {
+      "k": "other",
+      "en": "The first-line RCC pembrolizumab/belzutifan/lenvatinib triplet failed its dual primary endpoints at interim analysis.",
+      "zh": "一线 RCC pembrolizumab/belzutifan/lenvatinib 三药联合方案在中期分析中未达到双重主要终点。",
+      "src": "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086746/"
+    }
+  ],
+  "sources": [
+    [
+      "Company pipeline PDF, August 5, 2025",
+      "https://www.eisai.com/innovation/research/pipeline/pdf/epipeline.pdf"
+    ],
+    [
+      "November 10, 2026 reference data, company filing mirrored by FinancialFilings",
+      "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086747/"
+    ],
+    [
+      "November 10, 2026 interim financial report, mirrored by FinancialFilings",
+      "https://financialfilings.com/filings/eisai-co-ltd/interim-quarterly-report/2026/76086746/"
+    ],
+    [
+      "Eisai etalanetug update, July 13, 2026",
+      "https://media-us.eisai.com/2026-07-13-Eisai-Presents-Latest-Findings-Showed-Etalanetug-Reduced-Alzheimers-Disease-Tau-Tangle-Specific-Plasma-Biomarker-MTBR-tau243-at-Alzheimers-Association-International-Conference-R-AAIC-R-2026"
+    ]
+  ],
+  "gaps": [
+    "Eisai's main website and IR entry returned 403. The company pipeline PDF that loaded is dated August 5, 2025, older than June 2026; it was superseded for item status by the complete November 10, 2026 pipeline in the company's reference data, accessed through FinancialFilings because the current primary-hosted materials were not reachable.",
+    "Etalanetug's phase 3 denotes a combined Phase II/III Tau NexGen trial, not a separate Phase III-only study. MORAb-202 Phase I/II and E7386 Phase Ib/II are represented as phase 2; subphases are compressed to the allowed schema.",
+    "E2511's precise modality was not verified; modality is null. No dated upcoming milestone was verified for these eight assets; next is null throughout.",
+    "No company-reported totals by phase were verified; counts is null.",
+    "Approved lecanemab, lemborexant, lenvatinib, taletrectinib and tasurgratinib were excluded: the reviewed pending geographic/formulation filings do not establish a major new indication filing. Lecanemab's asymptomatic-AD expansion remains Phase 3, not filed.",
+    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified."
+  ]
+}

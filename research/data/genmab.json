@@ -1,0 +1,180 @@
+{
+  "id": "genmab",
+  "asof": "2026-11",
+  "summary": {
+    "en": "An oncology antibody pipeline combines epcoritamab expansion with pivotal Rina-S and acquired petosemtamab programs. Royalties remain a major funding source.",
+    "zh": "肿瘤抗体管线将 epcoritamab 的适应症拓展与关键性的 Rina-S 项目及收购的 petosemtamab 项目相结合。特许权使用费仍是主要资金来源。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "epcoritamab (first-line DLBCL)",
+      "code": null,
+      "modality": "bispecific",
+      "target": {
+        "en": "CD3 × CD20",
+        "zh": "CD3 × CD20"
+      },
+      "ind": {
+        "en": "First-line diffuse large B-cell lymphoma; also other B-cell malignancies",
+        "zh": "一线弥漫大 B 细胞淋巴瘤;另有其他 B 细胞恶性肿瘤"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    },
+    {
+      "name": "rinatabart sesutecan",
+      "code": "GEN1184",
+      "modality": "ADC",
+      "target": {
+        "en": "Folate receptor alpha",
+        "zh": "叶酸受体 α"
+      },
+      "ind": {
+        "en": "Platinum-resistant ovarian cancer; also endometrial cancer",
+        "zh": "铂耐药卵巢癌;另有子宫内膜癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    },
+    {
+      "name": "petosemtamab",
+      "code": null,
+      "modality": "bispecific",
+      "target": {
+        "en": "EGFR × LGR5",
+        "zh": "EGFR × LGR5"
+      },
+      "ind": {
+        "en": "Head and neck cancer; also colorectal cancer",
+        "zh": "头颈癌;另有结直肠癌"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "acquired",
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    },
+    {
+      "name": "GEN1059",
+      "code": "BNT314",
+      "modality": "bispecific",
+      "target": {
+        "en": "EpCAM × 4-1BB",
+        "zh": "EpCAM × 4-1BB"
+      },
+      "ind": {
+        "en": "Solid tumors; colorectal combination program",
+        "zh": "实体瘤;结直肠癌联合用药项目"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    },
+    {
+      "name": "GEN3018",
+      "code": null,
+      "modality": "bispecific",
+      "target": null,
+      "ind": {
+        "en": "Relapsed/refractory AML or higher-risk MDS",
+        "zh": "复发/难治性 AML 或较高危 MDS"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    },
+    {
+      "name": "GEN1079",
+      "code": null,
+      "modality": "antibody",
+      "target": null,
+      "ind": {
+        "en": "Advanced solid tumors",
+        "zh": "晚期实体瘤"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    },
+    {
+      "name": "GEN1106",
+      "code": null,
+      "modality": "ADC",
+      "target": null,
+      "ind": {
+        "en": "Solid tumors",
+        "zh": "实体瘤"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    },
+    {
+      "name": "GEN1119",
+      "code": null,
+      "modality": "ADC",
+      "target": null,
+      "ind": {
+        "en": "Solid tumors",
+        "zh": "实体瘤"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "October pivotal results for epcoritamab, Rina-S and petosemtamab support regulatory discussions and potential 2027 launches.",
+      "zh": "10 月公布的 epcoritamab、Rina-S 和 petosemtamab 关键性结果支持与监管机构的沟通以及可能的 2027 年上市。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    },
+    {
+      "k": "concentration",
+      "en": "Nine-month royalty revenue was $2.699 billion of $3.238 billion total revenue, led by DARZALEX and Kesimpta.",
+      "zh": "前九个月特许权使用费收入为 $2.699 billion,占总收入 $3.238 billion 的大部分,主要来自 DARZALEX 和 Kesimpta。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    },
+    {
+      "k": "balance",
+      "en": "The Merus acquisition used $5.5 billion of borrowings plus cash.",
+      "zh": "收购 Merus 使用了 $5.5 billion 借款及现金。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline, November 2, 2026",
+      "https://www.genmab.com/antibody-science/pipeline"
+    ],
+    [
+      "Q3 2026 interim report",
+      "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    ]
+  ],
+  "gaps": [
+    "Pipeline webpage did not expose its full chart in readable text; the full Q3 pipeline table was reviewed instead.",
+    "Company phase totals were not verified.",
+    "Precise early-stage phases, targets and origins not established in readable current materials are null; named early-stage assets remain active clinical programs.",
+    "No asset-specific dated next event verified beyond portfolio launch expectations.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

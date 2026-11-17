@@ -1,0 +1,162 @@
+{
+  "id": "stada",
+  "asof": "2026-11",
+  "summary": {
+    "en": "STADA's development portfolio emphasizes generic launch opportunities and partnered biosimilars. ([Annual update](https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025); [biosimilar partnership](https://www.en.sbpgroup.com/news-center/dynamic/25032.html))",
+    "zh": "STADA 的开发产品组合侧重于仿制药上市机会和合作生物类似药。([Annual update](https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025); [biosimilar partnership](https://www.en.sbpgroup.com/news-center/dynamic/25032.html))"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "pembrolizumab biosimilar",
+      "code": "TQB3570",
+      "modality": "antibody",
+      "target": {
+        "en": "PD-1",
+        "zh": "PD-1"
+      },
+      "ind": {
+        "en": "Oncology; candidate-specific lead indication undisclosed",
+        "zh": "肿瘤;各候选药物的首选适应症未披露"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.en.sbpgroup.com/news-center/dynamic/25032.html"
+    },
+    {
+      "name": "semaglutide generic",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Diabetes and weight management",
+        "zh": "糖尿病和体重管理"
+      },
+      "phase": null,
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
+    },
+    {
+      "name": "liraglutide generic",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Diabetes and weight management",
+        "zh": "糖尿病和体重管理"
+      },
+      "phase": null,
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
+    },
+    {
+      "name": "empagliflozin generic",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": "SGLT-2 inhibitor",
+        "zh": "SGLT-2 抑制剂"
+      },
+      "ind": {
+        "en": "Diabetes",
+        "zh": "糖尿病"
+      },
+      "phase": null,
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
+    },
+    {
+      "name": "ruxolitinib generic",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Oncology; specific indication undisclosed",
+        "zh": "肿瘤;具体适应症未披露"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
+    }
+  ],
+  "watch": [
+    {
+      "k": "deal",
+      "en": "STADA signed 110 business development and licensing deals in 2025.",
+      "zh": "STADA 在 2025 年签署了 110 项业务开发和许可交易。",
+      "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
+    },
+    {
+      "k": "policy",
+      "en": "Its GLP-1 launch strategy explicitly targets loss-of-exclusivity opportunities in diabetes and obesity.",
+      "zh": "其 GLP-1 上市策略明确瞄准糖尿病和肥胖领域的独占期结束 (LOE) 机会。",
+      "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
+    },
+    {
+      "k": "concentration",
+      "en": "Specialty exceeded €1 billion revenue in 2025, alongside Consumer Healthcare and Generics.",
+      "zh": "2025 年,专科业务收入超过 €1 billion,此外还有消费者健康和仿制药业务。",
+      "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
+    },
+    {
+      "k": "deal",
+      "en": "CTTQ leads TQB3570 development and supply; STADA holds exclusive commercial rights in specified European/Eurasian markets.",
+      "zh": "CTTQ 主导 TQB3570 的开发和供应;STADA 在指定的欧洲/欧亚市场拥有独家商业权利。",
+      "src": "https://www.en.sbpgroup.com/news-center/dynamic/25032.html"
+    }
+  ],
+  "sources": [
+    [
+      "Specialty portfolio",
+      "https://www.stada.com/products/specialty-pharmaceuticals"
+    ],
+    [
+      "Biosimilars overview",
+      "https://www.stada.com/products/specialty-pharmaceuticals/biosimilars"
+    ],
+    [
+      "Partnerships",
+      "https://www.stada.com/products/partnerships"
+    ],
+    [
+      "FY2025 results, March 18, 2026",
+      "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
+    ],
+    [
+      "CTTQ/STADA partnership, September 28, 2026",
+      "https://www.en.sbpgroup.com/news-center/dynamic/25032.html"
+    ],
+    [
+      "Investor relations",
+      "https://www.stada.com/investor-relations/at-a-glance"
+    ]
+  ],
+  "gaps": [
+    "The latest financial release located was FY2025 results published March 18, 2026, older than June 2026; no H1 or Q3 2026 release was found through the investor/media pages and live search.",
+    "No consolidated asset-by-phase pipeline was found. All five included candidates have undisclosed phases in the sources read; phase is null throughout. These generic/commercial development programs are not classified as clinical Phase 1–3 by inference.",
+    "Candidate-specific lead indication for TQB3570 and ruxolitinib, and mechanisms/modalities not explicitly established for the generic versions, are null or identified as undisclosed in indication text.",
+    "Origins of the four generic candidates were not verified; origin is null. Candidate codes and future dated milestones were not disclosed; code and next are null where applicable.",
+    "Counts is null: launch/product totals are not company counts by clinical phase.",
+    "Already-approved biosimilars and specialty brands are excluded. TQB3570 evidence is the partner's own announcement; STADA's general biosimilars page supplies no candidate phase.",
+    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified."
+  ]
+}

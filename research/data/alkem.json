@@ -1,0 +1,158 @@
+{
+  "id": "alkem",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Alkem remains centered on branded and complex generics, with biosimilar development through Enzene. Enzene discloses strategic and partnered candidates but does not provide asset-level clinical phases on its pipeline page.",
+    "zh": "Alkem 仍以品牌仿制药和复杂仿制药为核心,并通过 Enzene 开发生物类似药。Enzene 披露了战略性候选药物和合作候选药物,但其管线页面未提供单个资产层面的临床阶段。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "dupilumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Atopic dermatitis",
+        "zh": "特应性皮炎"
+      },
+      "phase": null,
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.enzene.com/licensing/product-pipeline/"
+    },
+    {
+      "name": "ocrelizumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Multiple sclerosis",
+        "zh": "多发性硬化"
+      },
+      "phase": null,
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.enzene.com/licensing/product-pipeline/"
+    },
+    {
+      "name": "risankizumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Plaque psoriasis; also psoriatic arthritis",
+        "zh": "斑块状银屑病;另有银屑病关节炎"
+      },
+      "phase": null,
+      "ta": "Immunology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.enzene.com/licensing/product-pipeline/"
+    },
+    {
+      "name": "emicizumab biosimilar",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Hemophilia A",
+        "zh": "A 型血友病"
+      },
+      "phase": null,
+      "ta": "Hematology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.enzene.com/licensing/product-pipeline/"
+    },
+    {
+      "name": "nivolumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Oncology; specific lead indication not disclosed",
+        "zh": "肿瘤;具体首个适应症未披露"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.enzene.com/licensing/product-pipeline/"
+    },
+    {
+      "name": "pembrolizumab biosimilar",
+      "code": null,
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Oncology; specific lead indication not disclosed",
+        "zh": "肿瘤;具体首个适应症未披露"
+      },
+      "phase": null,
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.enzene.com/licensing/product-pipeline/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "deal",
+      "en": "Enzene lists Indian nivolumab and pembrolizumab projects signed with partners under CDMO.",
+      "zh": "Enzene 列出了其与合作伙伴在 CDMO 模式下签约的印度 nivolumab 和 pembrolizumab 项目。",
+      "src": "https://www.enzene.com/licensing/product-pipeline/"
+    },
+    {
+      "k": "concentration",
+      "en": "Quarterly biotech sales fell 35% year on year to approximately INR704 million.",
+      "zh": "季度生物技术销售额同比下降 35%,约为 INR704 million。",
+      "src": "https://nsearchives.nseindia.com/corporate/ALKEM_12112026140001_Reg30PressReleaseandInvestorPresentation12112026.pdf"
+    },
+    {
+      "k": "other",
+      "en": "Denosumab vial presentation received EMA approval and marketing authorization in South Korea.",
+      "zh": "Denosumab 西林瓶剂型获 EMA 批准,并在韩国获得上市许可。",
+      "src": "https://nsearchives.nseindia.com/corporate/ALKEM_12112026140001_Reg30PressReleaseandInvestorPresentation12112026.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Enzene pipeline",
+      "https://www.enzene.com/licensing/product-pipeline/"
+    ],
+    [
+      "Q2 FY27 results and presentation",
+      "https://nsearchives.nseindia.com/corporate/ALKEM_12112026140001_Reg30PressReleaseandInvestorPresentation12112026.pdf"
+    ]
+  ],
+  "gaps": [
+    "All listed biosimilars are disclosed development priorities or partnered projects, not verified clinical-stage trials; phases are null.",
+    "No company phase-count breakdown, candidate codes, asset-level molecular targets, origins or future readout dates verified.",
+    "Pipeline page is undated; priority labels do not establish trial initiation.",
+    "Alkem's innovative-drug clinical candidates were not identifiable by name in reviewed primary materials.",
+    "Already-approved semaglutide and denosumab excluded; device projects excluded.",
+    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete.",
+    "Emicizumab modality subclass not specified in reviewed pipeline text; null."
+  ]
+}

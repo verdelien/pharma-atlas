@@ -1,0 +1,146 @@
+{
+  "id": "unither",
+  "asof": "2026-11",
+  "summary": {
+    "en": "United Therapeutics combines pulmonary medicines and new-indication filings with gene-edited organ transplantation programs. Treprostinil and ralinepag are its principal near-term regulatory opportunities.",
+    "zh": "United Therapeutics 将肺部药物和新适应症申报,与基因编辑器官移植项目相结合。Treprostinil 和 ralinepag 是其近期主要的监管机会。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "treprostinil (idiopathic pulmonary fibrosis)",
+      "code": "Tyvaso",
+      "modality": "small molecule",
+      "target": null,
+      "ind": {
+        "en": "Idiopathic pulmonary fibrosis; also Phase 3 progressive pulmonary fibrosis",
+        "zh": "特发性肺纤维化;另有进行性肺纤维化 III 期"
+      },
+      "phase": "reg",
+      "ta": "Respiratory",
+      "origin": null,
+      "next": {
+        "en": "FDA decision, April 26",
+        "zh": "FDA 决定,4 月 26 日",
+        "when": "2027H1"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+    },
+    {
+      "name": "ralinepag extended-release tablets",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "Prostacyclin IP receptor agonist",
+        "zh": "前列环素 IP 受体激动剂"
+      },
+      "ind": {
+        "en": "Pulmonary arterial hypertension",
+        "zh": "肺动脉高压"
+      },
+      "phase": "reg",
+      "ta": "Cardiovascular",
+      "origin": "licensed",
+      "next": {
+        "en": "FDA decision, June 24",
+        "zh": "FDA 决定,6 月 24 日",
+        "when": "2027H1"
+      },
+      "src": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+    },
+    {
+      "name": "UKidney",
+      "code": null,
+      "modality": "other",
+      "target": null,
+      "ind": {
+        "en": "End-stage renal disease",
+        "zh": "终末期肾病"
+      },
+      "phase": null,
+      "ta": "Other",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+    },
+    {
+      "name": "UThymoKidney",
+      "code": null,
+      "modality": "other",
+      "target": null,
+      "ind": {
+        "en": "End-stage renal disease",
+        "zh": "终末期肾病"
+      },
+      "phase": null,
+      "ta": "Other",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+    },
+    {
+      "name": "UHeart",
+      "code": null,
+      "modality": "other",
+      "target": null,
+      "ind": {
+        "en": "Advanced heart failure",
+        "zh": "晚期心力衰竭"
+      },
+      "phase": null,
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "IPF and ralinepag FDA decisions are expected in April and June 2027; TETON-PPF results in H2 2027.",
+      "zh": "IPF 和 ralinepag 的 FDA 决定预计分别在 2027 年 4 月和 6 月作出;TETON-PPF 结果预计在 2027 年下半年公布。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+    },
+    {
+      "k": "other",
+      "en": "Ralinepag approval requires resolution of deficiencies at API supplier ScinoPharm.",
+      "zh": "Ralinepag 的获批需要解决原料药供应商 ScinoPharm 的缺陷问题。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+    },
+    {
+      "k": "loe",
+      "en": "Settlements permit Orenitram generics from June and December 2027, subject to earlier-entry conditions.",
+      "zh": "和解协议允许 Orenitram 仿制药自 2027 年 6 月和 12 月起上市,但需满足提前进入的条件。",
+      "src": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+    },
+    {
+      "k": "concentration",
+      "en": "Tyvaso generated $503.8 million of $832.5 million Q3 revenue.",
+      "zh": "Tyvaso 贡献了第三季度 $832.5 million 收入中的 $503.8 million。",
+      "src": "https://ir.unither.com/press-releases/2026/11-04-2026-113032987"
+    }
+  ],
+  "sources": [
+    [
+      "Complete pipeline",
+      "https://pipeline.unither.com/"
+    ],
+    [
+      "Q3 2026 Form 10-Q, November 4",
+      "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+    ],
+    [
+      "Q3 2026 results",
+      "https://ir.unither.com/press-releases/2026/11-04-2026-113032987"
+    ]
+  ],
+  "gaps": [
+    "No company phase counts verified.",
+    "Xenografts use modality other; their targets and conventional numeric phases are not applicable or not established.",
+    "UKidney has an ongoing combined Phase 1/2/3, described as phaseless; its phase is null to avoid implying conventional late-stage maturity.",
+    "UThymoKidney and UHeart have IND clearance; current enrollment and numeric stages were not verified.",
+    "Several discovery origins and treprostinil receptor details were not verified.",
+    "Treprostinil delivery variants are consolidated into one asset; proposed new clinical formulations are not counted separately.",
+    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+  ]
+}

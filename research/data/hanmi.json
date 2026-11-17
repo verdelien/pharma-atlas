@@ -1,0 +1,260 @@
+{
+  "id": "hanmi",
+  "asof": "2026-11",
+  "summary": {
+    "en": "Hanmi’s clinical pipeline spans long-acting metabolic and rare-disease biologics and targeted oncology therapies. Most selected investigational assets are Phase 2 or earlier, with major partners participating in development and commercialization.",
+    "zh": "Hanmi 的临床管线涵盖长效代谢和罕见病生物制剂以及靶向肿瘤疗法。所选在研资产大多处于 II 期或更早阶段,主要合作伙伴参与开发和商业化。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "zantrutide",
+      "code": "HM15275",
+      "modality": "peptide",
+      "target": {
+        "en": "GLP-1 / GIP / glucagon receptor agonist",
+        "zh": "GLP-1 / GIP / 胰高血糖素受体激动剂"
+      },
+      "ind": {
+        "en": "Obesity; type 2 diabetes",
+        "zh": "肥胖症;2 型糖尿病"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": "internal",
+      "next": {
+        "en": "Complete obesity Phase 2 study in first half of 2027",
+        "zh": "2027 年上半年完成肥胖症 II 期研究",
+        "when": "2027H1"
+      },
+      "src": "https://www.hanmipharm.com/science/pipeline/focused/hm15275.hm"
+    },
+    {
+      "name": "efinopegdutide",
+      "code": null,
+      "modality": "peptide",
+      "target": {
+        "en": "GLP-1 / glucagon receptor agonist",
+        "zh": "GLP-1 / 胰高血糖素受体激动剂"
+      },
+      "ind": {
+        "en": "MASH",
+        "zh": "MASH"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": null,
+      "next": null,
+      "src": "https://www.hanmipharm.com/file/admin/ir/1770370880251.pdf"
+    },
+    {
+      "name": "efocipegtrutide",
+      "code": "HM15211",
+      "modality": "peptide",
+      "target": {
+        "en": "Glucagon / GIP / GLP-1 receptor agonist",
+        "zh": "胰高血糖素 / GIP / GLP-1 受体激动剂"
+      },
+      "ind": {
+        "en": "MASH with fibrosis",
+        "zh": "伴纤维化的 MASH"
+      },
+      "phase": "2",
+      "ta": "Metabolic",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.hanmipharm.com/science/pipeline/focused/efocipegtrutide.hm"
+    },
+    {
+      "name": "sonefpeglutide",
+      "code": null,
+      "modality": "peptide",
+      "target": {
+        "en": "GLP-2 analogue",
+        "zh": "GLP-2 类似物"
+      },
+      "ind": {
+        "en": "Short bowel syndrome",
+        "zh": "短肠综合征"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.hanmipharm.com/about/investor-relations/press/detail-4324.hm"
+    },
+    {
+      "name": "efpegerglucagon",
+      "code": "HM15136",
+      "modality": "peptide",
+      "target": {
+        "en": "Glucagon receptor agonist",
+        "zh": "胰高血糖素受体激动剂"
+      },
+      "ind": {
+        "en": "Congenital hyperinsulinism",
+        "zh": "先天性高胰岛素血症"
+      },
+      "phase": "2",
+      "ta": "Rare disease",
+      "origin": null,
+      "next": null,
+      "src": "https://www.hanmipharm.com/science/pipeline/focused/hm15136.hm"
+    },
+    {
+      "name": "belvarafenib",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "RAF / MAPK pathway inhibitor",
+        "zh": "RAF / MAPK 通路抑制剂"
+      },
+      "ind": {
+        "en": "NRAS-mutant melanoma, with cobimetinib",
+        "zh": "NRAS 突变黑色素瘤,联用 cobimetinib"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": {
+        "en": "Complete Phase 2 enrolment by 2027; conditional Korean filing targeted for 2028",
+        "zh": "2027 年前完成 II 期入组;目标 2028 年在韩国提交附条件申报",
+        "when": "2027"
+      },
+      "src": "https://www.hanmipharm.com/about/investor-relations/press/detail-4602.hm"
+    },
+    {
+      "name": "HM97662",
+      "code": "HM97662",
+      "modality": "small molecule",
+      "target": {
+        "en": "EZH1 / EZH2 inhibitor",
+        "zh": "EZH1 / EZH2 抑制剂"
+      },
+      "ind": {
+        "en": "Advanced or metastatic solid tumours",
+        "zh": "晚期或转移性实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.hanmipharm.com/science/pipeline/focused/hm97662.hm"
+    },
+    {
+      "name": "BH3120",
+      "code": "BH3120",
+      "modality": "bispecific",
+      "target": {
+        "en": "PD-L1 / 4-1BB",
+        "zh": "PD-L1 / 4-1BB"
+      },
+      "ind": {
+        "en": "Advanced or metastatic solid tumours",
+        "zh": "晚期或转移性实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.hanmipharm.com/science/pipeline/focused/bh3120.hm"
+    },
+    {
+      "name": "HM16390",
+      "code": "HM16390",
+      "modality": "other",
+      "target": {
+        "en": "Long-acting IL-2 analogue",
+        "zh": "长效 IL-2 类似物"
+      },
+      "ind": {
+        "en": "Solid tumours",
+        "zh": "实体瘤"
+      },
+      "phase": "1",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://www.hanmipharm.com/science/pipeline/focused/hm16390.hm"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Zantrutide obesity Phase 2 completion is expected in 2027H1.",
+      "zh": "Zantrutide 肥胖症 II 期研究预计于 2027 年上半年完成。",
+      "src": "https://www.hanmipharm.com/about/investor-relations/press/detail-3702.hm"
+    },
+    {
+      "k": "deal",
+      "en": "Lilly licensed sonefpeglutide worldwide excluding Korea in June 2026; Hanmi continues the ongoing SBS Phase 2 study.",
+      "zh": "Lilly 于 2026 年 6 月获得 sonefpeglutide 除韩国以外的全球授权;Hanmi 继续开展进行中的 SBS II 期研究。",
+      "src": "https://www.hanmipharm.com/about/investor-relations/press/detail-4324.hm"
+    },
+    {
+      "k": "catalyst",
+      "en": "Belvarafenib enrolment is targeted for completion by 2027, with conditional Korean filing in 2028.",
+      "zh": "Belvarafenib 的入组目标为 2027 年前完成,并于 2028 年在韩国提交附条件申报。",
+      "src": "https://www.hanmipharm.com/about/investor-relations/press/detail-4602.hm"
+    }
+  ],
+  "sources": [
+    [
+      "Pipeline overview",
+      "https://www.hanmipharm.com/science/pipeline/innovative-rnd-pipeline.hm"
+    ],
+    [
+      "February 2026 investor materials",
+      "https://www.hanmipharm.com/file/admin/ir/1770370880251.pdf"
+    ],
+    [
+      "Zantrutide / HM15275",
+      "https://www.hanmipharm.com/science/pipeline/focused/hm15275.hm"
+    ],
+    [
+      "HM15275 Phase 2 timeline, February 2, 2026",
+      "https://www.hanmipharm.com/about/investor-relations/press/detail-3702.hm"
+    ],
+    [
+      "Efocipegtrutide",
+      "https://www.hanmipharm.com/science/pipeline/focused/efocipegtrutide.hm"
+    ],
+    [
+      "Efpegerglucagon",
+      "https://www.hanmipharm.com/science/pipeline/focused/hm15136.hm"
+    ],
+    [
+      "Sonefpeglutide / Lilly agreement, June 1, 2026",
+      "https://www.hanmipharm.com/about/investor-relations/press/detail-4324.hm"
+    ],
+    [
+      "Belvarafenib, July 10, 2026",
+      "https://www.hanmipharm.com/about/investor-relations/press/detail-4602.hm"
+    ],
+    [
+      "HM97662",
+      "https://www.hanmipharm.com/science/pipeline/focused/hm97662.hm"
+    ],
+    [
+      "BH3120",
+      "https://www.hanmipharm.com/science/pipeline/focused/bh3120.hm"
+    ],
+    [
+      "HM16390",
+      "https://www.hanmipharm.com/science/pipeline/focused/hm16390.hm"
+    ],
+    [
+      "IR event index",
+      "https://www.hanmipharm.com/about/investor-relations/ir/event/list.hm"
+    ]
+  ],
+  "gaps": [
+    "No published company-wide phase totals were verified; counts is null. Unverified mechanisms, modalities, origins, codes and next milestone dates are null.",
+    "The dynamic pipeline and IR event pages did not expose complete current tables or Q3 attachments. Live programme pages and dated releases were used. February investor materials and HM15275 timeline are older than June 2026; a later efinopegdutide stage update was not verified.",
+    "The BH3120 page header says preclinical but its own 2025 Phase 1 trial poster and 2026 clinical-stage publication contradict that header; phase 1 follows the clinical evidence.",
+    "Efpeglenatide is omitted because the older Phase 3 obesity entry could not be reconciled with current approval status using a recent primary source. A current primary-source confirmation of an ongoing new-indication Phase 3 programme was not obtained. Poziotinib and Oraxol appear in older charts, but current development status was not verified and they are omitted.",
+    "Other than the two specified timelines, asset-specific next milestones were not verified. Origins for efinopegdutide, efpegerglucagon, BH3120 and HM16390 were not established and remain null. Extra codes not explicitly stated in reviewed materials are null.",
+    "Long-acting peptide/Fc constructs are represented as peptide where described as incretin analogues; HM16390 is other because it is an IL-2/Fc construct.",
+    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+  ]
+}

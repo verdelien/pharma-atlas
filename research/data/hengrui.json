@@ -1,0 +1,188 @@
+{
+  "id": "hengrui",
+  "asof": "2026-11",
+  "summary": {
+    "en": "An internally developed pipeline is expanding from oncology into metabolic, cardiovascular and immune diseases, with multiple China filings accepted in 2026. Overseas out-licensing contributes collaboration revenue and global development capacity.",
+    "zh": "以自主研发为基础的管线从肿瘤拓展至代谢、心血管及免疫疾病，2026年已有多项中国上市申请获受理。海外授权贡献合作收入及全球开发能力。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "HRS-7535",
+      "code": "HRS-7535",
+      "modality": "small molecule",
+      "target": {
+        "en": "GLP-1 receptor agonist",
+        "zh": "GLP-1受体激动剂"
+      },
+      "ind": {
+        "en": "Adult long-term weight management; also type 2 diabetes (both filed in China)",
+        "zh": "成人长期体重管理；另包括2型糖尿病（两项均已在中国申报）"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": "internal",
+      "next": {
+        "en": null,
+        "zh": null,
+        "when": null
+      },
+      "src": "https://www.hengrui.com/media/detail-1028.html"
+    },
+    {
+      "name": "ribupatide",
+      "code": "HRS9531",
+      "modality": null,
+      "target": {
+        "en": "GLP-1/GIP receptor agonist",
+        "zh": "GLP-1/GIP双受体激动剂"
+      },
+      "ind": {
+        "en": "Adult type 2 diabetes (China filing)",
+        "zh": "成人2型糖尿病（中国上市申请）"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": "internal",
+      "next": {
+        "en": null,
+        "zh": null,
+        "when": null
+      },
+      "src": "https://www.hengrui.com/en/media/detail-1031.html"
+    },
+    {
+      "name": "SHR-1819",
+      "code": "SHR-1819",
+      "modality": "antibody",
+      "target": {
+        "en": "IL-4Rα antibody blocking IL-4/IL-13 signaling",
+        "zh": "靶向IL-4Rα，阻断IL-4及IL-13信号传导"
+      },
+      "ind": {
+        "en": "Adult moderate-to-severe atopic dermatitis; also Phase 3 prurigo nodularis, adolescent AD and seasonal allergic rhinitis",
+        "zh": "成人中重度特应性皮炎；另开展结节性痒疹、青少年特应性皮炎及季节性过敏性鼻炎III期研究"
+      },
+      "phase": "reg",
+      "ta": "Immunology",
+      "origin": "internal",
+      "next": {
+        "en": null,
+        "zh": null,
+        "when": null
+      },
+      "src": "https://www.hengrui.com/media/detail-1027.html"
+    },
+    {
+      "name": "trastuzumab rezetecan",
+      "code": "SHR-A1811",
+      "modality": "ADC",
+      "target": {
+        "en": "HER2-directed antibody-drug conjugate",
+        "zh": "靶向HER2的抗体偶联药物"
+      },
+      "ind": {
+        "en": "New indication: unresectable/metastatic HER2-low breast cancer after zero or one metastatic chemotherapy line (China filing)",
+        "zh": "新适应症：中国申报用于转移阶段既往未接受或接受过一线化疗的不可切除或转移性HER2低表达乳腺癌"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": "internal",
+      "next": {
+        "en": null,
+        "zh": null,
+        "when": null
+      },
+      "src": "https://www.hengrui.com/media/detail-988.html"
+    },
+    {
+      "name": "HRS/BHB-1893",
+      "code": "HRS-1893",
+      "modality": "small molecule",
+      "target": {
+        "en": "Cardiac myosin inhibitor",
+        "zh": "心肌肌球蛋白抑制剂"
+      },
+      "ind": {
+        "en": "Obstructive hypertrophic cardiomyopathy (China Phase 3); also non-obstructive HCM Phase 2",
+        "zh": "梗阻性肥厚型心肌病（中国III期）；另包括II期非梗阻性肥厚型心肌病"
+      },
+      "phase": "3",
+      "ta": "Cardiovascular",
+      "origin": null,
+      "next": {
+        "en": null,
+        "zh": null,
+        "when": null
+      },
+      "src": "https://www.hengrui.com/en/media/detail-1066.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "China accepted HRS-7535 diabetes and weight-management filings and ribupatide’s diabetes filing in Q3 2026; decision dates were not disclosed.",
+      "zh": "2026年第三季度中国受理 HRS-7535 糖尿病及体重管理申请，以及 ribupatide 糖尿病申请；未披露审评决定日期。",
+      "src": "https://www.hengrui.com/en/media/detail-1060.html"
+    },
+    {
+      "k": "deal",
+      "en": "The HRS-1596 Novo Nordisk license has a $300 million upfront payment and up to $2.6 billion total potential value; closing is expected in Q4 2026.",
+      "zh": "HRS-1596 对 Novo Nordisk 的授权首付款为3亿美元，潜在总金额最高26亿美元，预计2026年第四季度交割。",
+      "src": "https://www.hengrui.com/en/media/detail-1060.html"
+    },
+    {
+      "k": "concentration",
+      "en": "Non-oncology drugs were 28.88% of innovative-drug sales in the first nine months of 2026; oncology remains the larger component.",
+      "zh": "2026年前三季度非肿瘤创新药占创新药收入的28.88%，肿瘤仍占较大比重。",
+      "src": "https://www.hengrui.com/en/media/detail-1060.html"
+    },
+    {
+      "k": "balance",
+      "en": "H1 2026 R&D investment was RMB4.61 billion, or 29.8% of revenue.",
+      "zh": "2026年上半年研发投入46.1亿元，占营业收入29.8%。",
+      "src": "https://www.hengrui.com/en/media/detail-1016.html"
+    }
+  ],
+  "sources": [
+    [
+      "Q3 2026 business and regulatory update",
+      "https://www.hengrui.com/en/media/detail-1060.html"
+    ],
+    [
+      "Company pipeline, July 2026",
+      "https://www.hengrui.com/en/pipeline.html"
+    ],
+    [
+      "HRS-7535 filings, September 4, 2026",
+      "https://www.hengrui.com/media/detail-1028.html"
+    ],
+    [
+      "Ribupatide diabetes filing, September 10, 2026",
+      "https://www.hengrui.com/en/media/detail-1031.html"
+    ],
+    [
+      "SHR-1819 filing, September 4, 2026",
+      "https://www.hengrui.com/media/detail-1027.html"
+    ],
+    [
+      "SHR-A1811 HER2-low breast-cancer filing, July 8, 2026",
+      "https://www.hengrui.com/media/detail-988.html"
+    ],
+    [
+      "HRS/BHB-1893 update, November 7, 2026",
+      "https://www.hengrui.com/en/media/detail-1066.html"
+    ],
+    [
+      "2026 interim results",
+      "https://www.hengrui.com/en/media/detail-1016.html"
+    ]
+  ],
+  "gaps": [
+    "Counts is null: interim figures describe programs advancing to phases (17 Phase III, 22 Phase II, 10 new Phase I assets) and accepted applications, not comparable total pipeline inventory. Progress figures were not substituted for totals.",
+    "No company-stated next milestones or dates were verified for the selected assets; next fields are null.",
+    "Ribupatide precise modality was not explicitly established in the opened sources; modality is null. HRS-1893 discovery provenance was not explicit in the November update; origin is null. Its out-license to Braveheart does not imply in-licensing by Hengrui.",
+    "An English generic name for SHR-1819 was not verified, so the asset is named by code. Stages refer to China; overseas partner development may differ.",
+    "The October 30, 2026 SHR-A1811 new-indication release at https://www.hengrui.com/media/detail-1063.html repeatedly timed out. The included HER2-low breast-cancer filing is supported by the opened July 8 release; subsequent approval status for that indication could not be independently confirmed."
+  ]
+}

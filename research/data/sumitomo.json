@@ -1,0 +1,246 @@
+{
+  "id": "sumitomo",
+  "asof": "2026-11",
+  "summary": {
+    "en": "The pipeline pairs early neuroscience compounds and regenerative therapies with potentially registrational oncology development. Enzomenib is the main near-term innovative filing opportunity.",
+    "zh": "管线将早期神经科学化合物和再生疗法,与可能用于注册的肿瘤开发相结合。Enzomenib 是近期主要的创新药申报机会。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "lurasidone (pediatric schizophrenia)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Pediatric schizophrenia; new dosage/administration",
+        "zh": "儿童精神分裂症;新剂量/给药方式"
+      },
+      "phase": "reg",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline.html"
+    },
+    {
+      "name": "enzomenib",
+      "code": "DSP-5336",
+      "modality": "small molecule",
+      "target": {
+        "en": "Menin-KMT2A interaction",
+        "zh": "Menin-KMT2A 相互作用"
+      },
+      "ind": {
+        "en": "Acute leukemia",
+        "zh": "急性白血病"
+      },
+      "phase": "2",
+      "ta": "Oncology",
+      "origin": "co-developed",
+      "next": {
+        "en": "Planned NDA filing, Q1 FY2027",
+        "zh": "计划 NDA 申报,FY2027 第一季度",
+        "when": "2027Q2"
+      },
+      "src": "https://www.sumitomo-pharma.com/ir/library/presentation/assets/pdf/etranscript20261030.pdf"
+    },
+    {
+      "name": "nuvisertib",
+      "code": "TP-3654",
+      "modality": "small molecule",
+      "target": {
+        "en": "PIM1",
+        "zh": "PIM1"
+      },
+      "ind": {
+        "en": "Myelofibrosis",
+        "zh": "骨髓纤维化"
+      },
+      "phase": "2",
+      "ta": "Hematology",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline.html"
+    },
+    {
+      "name": "raguneprocel (US)",
+      "code": "CT1-DAP001/DSP-1083",
+      "modality": "cell therapy",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Parkinson's disease; US studies",
+        "zh": "帕金森病;美国研究"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline.html"
+    },
+    {
+      "name": "HLCR011",
+      "code": "HLCR011",
+      "modality": "cell therapy",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Retinal pigment epithelium tear",
+        "zh": "视网膜色素上皮撕裂"
+      },
+      "phase": "2",
+      "ta": "Ophthalmology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline.html"
+    },
+    {
+      "name": "DSP-3077",
+      "code": "DSP-3077",
+      "modality": "cell therapy",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Retinitis pigmentosa",
+        "zh": "视网膜色素变性"
+      },
+      "phase": "2",
+      "ta": "Ophthalmology",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline.html"
+    },
+    {
+      "name": "DSP-0187",
+      "code": "DSP-0187",
+      "modality": "small molecule",
+      "target": {
+        "en": "Orexin 2 agonist",
+        "zh": "Orexin 2 激动剂"
+      },
+      "ind": {
+        "en": "Narcolepsy",
+        "zh": "发作性睡病"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline_profile.html"
+    },
+    {
+      "name": "DSP-3456",
+      "code": "DSP-3456",
+      "modality": "small molecule",
+      "target": {
+        "en": "mGluR2/3 negative allosteric modulation",
+        "zh": "mGluR2/3 负向变构调节"
+      },
+      "ind": {
+        "en": "Treatment-resistant depression",
+        "zh": "难治性抑郁症"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": null,
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline_profile.html"
+    },
+    {
+      "name": "DSP-0378",
+      "code": "DSP-0378",
+      "modality": "small molecule",
+      "target": {
+        "en": "GABAA positive allosteric modulation",
+        "zh": "GABAA 正向变构调节"
+      },
+      "ind": {
+        "en": "Progressive myoclonic epilepsy; developmental epileptic encephalopathy",
+        "zh": "进行性肌阵挛癫痫;发育性癫痫性脑病"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "internal",
+      "next": {
+        "en": "Initial proof of concept, Q4 FY2026",
+        "zh": "初步概念验证,FY2026 第四季度",
+        "when": "2027Q1"
+      },
+      "src": "https://www.sumitomo-pharma.com/ir/library/presentation/assets/pdf/etranscript20261030.pdf"
+    },
+    {
+      "name": "DSP-0038",
+      "code": "DSP-0038",
+      "modality": "small molecule",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Alzheimer's psychosis",
+        "zh": "阿尔茨海默病精神病"
+      },
+      "phase": "1",
+      "ta": "Neuroscience",
+      "origin": "co-developed",
+      "next": null,
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline_profile.html"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Enzomenib interim analyses support a planned first-quarter FY2027 NDA filing.",
+      "zh": "Enzomenib 中期分析支持计划于 FY2027 第一季度提交 NDA。",
+      "src": "https://www.sumitomo-pharma.com/ir/library/presentation/assets/pdf/etranscript20261030.pdf"
+    },
+    {
+      "k": "concentration",
+      "en": "Beyond pediatric lurasidone, the disclosed portfolio is predominantly Phase 1/2.",
+      "zh": "除儿童 lurasidone 外,已披露的产品组合以 I/II 期为主。",
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline.html"
+    },
+    {
+      "k": "deal",
+      "en": "Cell programs rely on RACTHERA and academic collaborations.",
+      "zh": "细胞项目依托 RACTHERA 和学术合作。",
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline_profile.html"
+    },
+    {
+      "k": "other",
+      "en": "Raguneprocel's Japanese approval is conditional and time-limited; a post-marketing study is underway.",
+      "zh": "Raguneprocel 在日本的批准为有条件且有时限的批准;上市后研究正在进行。",
+      "src": "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline_profile.html"
+    }
+  ],
+  "sources": [
+    [
+      "October 30 pipeline",
+      "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline.html"
+    ],
+    [
+      "Asset profiles",
+      "https://www.sumitomo-pharma.com/rd/pipeline_new-medicine/pipeline_profile.html"
+    ],
+    [
+      "October half-year results transcript",
+      "https://www.sumitomo-pharma.com/ir/library/presentation/assets/pdf/etranscript20261030.pdf"
+    ]
+  ],
+  "gaps": [
+    "No reported phase counts located. Phase 1/2 is represented as Phase 2.",
+    "Fiscal Q1 FY2027 is calendar Q2 2027; fiscal Q4 FY2026 is calendar Q1 2027. Other asset-specific next dates not verified.",
+    "Nuvisertib is classified in-house by company despite former Tolero provenance. Lurasidone origin and some mechanisms not verified; null.",
+    "US raguneprocel is a regional development program for a product conditionally approved in Japan; retained because regenerative development is a major company focus.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+  ]
+}

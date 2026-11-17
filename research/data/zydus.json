@@ -1,0 +1,149 @@
+{
+  "id": "zydus",
+  "asof": "2026-11",
+  "summary": {
+    "en": "A large generics business is developing a specialty portfolio around liver disease, biosimilars and rare diseases. Saroglitazar's US review is the most immediate disclosed innovative-drug milestone.",
+    "zh": "一家大型仿制药企业正围绕肝病、生物类似药和罕见病打造专科产品组合。Saroglitazar 的美国审评是已披露的最直接的创新药里程碑。"
+  },
+  "counts": null,
+  "items": [
+    {
+      "name": "saroglitazar (PBC)",
+      "code": null,
+      "modality": "small molecule",
+      "target": {
+        "en": "PPAR alpha/gamma agonist",
+        "zh": "PPAR α/γ 激动剂"
+      },
+      "ind": {
+        "en": "Primary biliary cholangitis; MASH Phase 2b completed",
+        "zh": "原发性胆汁性胆管炎;MASH IIb 期已完成"
+      },
+      "phase": "reg",
+      "ta": "Metabolic",
+      "origin": "internal",
+      "next": {
+        "en": "FDA target action date November 27",
+        "zh": "FDA 目标行动日期 11 月 27 日",
+        "when": "2026Q4"
+      },
+      "src": "https://www.prnewswire.com/news-releases/zydus-therapeutics-new-drug-application-nda-for-saroglitazar-to-treat-primary-biliary-cholangitis-pbc-granted-priority-review-by-the-us-fda-302784488.html"
+    },
+    {
+      "name": "pembrolizumab biosimilar",
+      "code": "FYB206",
+      "modality": "antibody",
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Keytruda biosimilar; US BLA accepted",
+        "zh": "Keytruda 生物类似药;美国 BLA 已受理"
+      },
+      "phase": "reg",
+      "ta": "Oncology",
+      "origin": null,
+      "next": null,
+      "src": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf"
+    },
+    {
+      "name": "usnoflast",
+      "code": "ZYIL1",
+      "modality": "small molecule",
+      "target": {
+        "en": "NLRP3 inhibitor",
+        "zh": "NLRP3 抑制剂"
+      },
+      "ind": {
+        "en": "ALS; also ulcerative colitis",
+        "zh": "ALS;另有溃疡性结肠炎"
+      },
+      "phase": "2",
+      "ta": "Neuroscience",
+      "origin": null,
+      "next": null,
+      "src": "https://zyduslife.com/investor/admin/uploads/21/83/Zydus-Lifesciences-announces-completion-of-Phase-II%28a%29-clinical-trial-of-Usnoflast--a-novel-oral-NLRP3-inflammasome-inhibitor-in-patients-with-Amyotrophic-Lateral-Sclerosis-%28ALS%29.pdf"
+    },
+    {
+      "name": "alvelestat",
+      "code": null,
+      "modality": null,
+      "target": {
+        "en": null,
+        "zh": null
+      },
+      "ind": {
+        "en": "Alpha-1 antitrypsin deficiency-associated lung disease",
+        "zh": "α-1 抗胰蛋白酶缺乏症相关肺病"
+      },
+      "phase": null,
+      "ta": "Respiratory",
+      "origin": "licensed",
+      "next": {
+        "en": "Potential Phase 3 start, contingent on option exercise",
+        "zh": "潜在 III 期启动,取决于期权行使",
+        "when": "2027H1"
+      },
+      "src": "https://www.mereobiopharma.com/news/mereo-biopharma-reports-second-quarter-2026-financial-results-and-provides-corporate-highlights/"
+    }
+  ],
+  "watch": [
+    {
+      "k": "catalyst",
+      "en": "Saroglitazar's FDA target action date is November 27, 2026.",
+      "zh": "Saroglitazar 的 FDA 目标行动日期为 2026 年 11 月 27 日。",
+      "src": "https://www.prnewswire.com/news-releases/zydus-therapeutics-new-drug-application-nda-for-saroglitazar-to-treat-primary-biliary-cholangitis-pbc-granted-priority-review-by-the-us-fda-302784488.html"
+    },
+    {
+      "k": "deal",
+      "en": "Alvelestat is an option-and-license arrangement; Mereo retains global development leadership.",
+      "zh": "Alvelestat 为期权加许可安排;Mereo 保留全球开发主导权。",
+      "src": "https://www.mereobiopharma.com/news/mereo-biopharma-reports-second-quarter-2026-financial-results-and-provides-corporate-highlights/"
+    },
+    {
+      "k": "balance",
+      "en": "Q2 R&D was 8.3% of revenue; September net debt/EBITDA was 0.62 times.",
+      "zh": "第二季度研发占收入的 8.3%;9 月净债务/EBITDA 为 0.62 倍。",
+      "src": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf"
+    },
+    {
+      "k": "policy",
+      "en": "SEZ II and Moraiya inspections had one and five observations, respectively.",
+      "zh": "SEZ II 和 Moraiya 检查分别有一项和五项观察项。",
+      "src": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf"
+    }
+  ],
+  "sources": [
+    [
+      "Therapeutics pipeline",
+      "https://zydustx.com/pipeline/"
+    ],
+    [
+      "Q2/H1 FY27 results",
+      "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf"
+    ],
+    [
+      "Saroglitazar priority review",
+      "https://www.prnewswire.com/news-releases/zydus-therapeutics-new-drug-application-nda-for-saroglitazar-to-treat-primary-biliary-cholangitis-pbc-granted-priority-review-by-the-us-fda-302784488.html"
+    ],
+    [
+      "Usnoflast company release",
+      "https://zyduslife.com/investor/admin/uploads/21/83/Zydus-Lifesciences-announces-completion-of-Phase-II%28a%29-clinical-trial-of-Usnoflast--a-novel-oral-NLRP3-inflammasome-inhibitor-in-patients-with-Amyotrophic-Lateral-Sclerosis-%28ALS%29.pdf"
+    ],
+    [
+      "Partner option terms",
+      "https://www.mereobiopharma.com/news/mereo-biopharma-reports-second-quarter-2026-financial-results-and-provides-corporate-highlights/"
+    ],
+    [
+      "Usnoflast current trial context",
+      "https://clinical-trials-search.canada.ca/en/clinical-trial/301586-amyotrophic-lateral-sclerosis-als"
+    ]
+  ],
+  "gaps": [
+    "Saroglitazar priority-review release predates June 2026; November results still anticipate approval. Usnoflast company release is also older than June 2026; June 26 government trial record corroborates Phase 2.",
+    "No company-reported phase counts located. FYB206 origin, alvelestat modality/target and usnoflast origin were not verified.",
+    "Alvelestat planned Phase 3 is not treated as ongoing; current numbered phase is null. Mereo's option terms qualify Zydus's description as a licensing agreement.",
+    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+  ]
+}
