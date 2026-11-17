@@ -1,0 +1,13 @@
+{
+  "id": "biontech",
+  "rows": [
+    {
+      "b": "COVID-19 vaccine (Comirnaty)",
+      "v": 2.255,
+      "v_note": "FY2025 (year ended 31 December 2025) COVID-19 vaccine revenue EUR 1,995.3m recognized by BioNTech, including collaboration revenue and direct sales; not total worldwide Comirnaty sales. Converted at the 2025 annual-average rate USD 1.1300 per EUR (Bundesbank/ECB: https://publikationen.bundesbank.de/caas/v1/media/991180/data/6619b8e9182777187f1050fb32ce26c9).",
+      "v_src": "https://investors.biontech.de/static-files/2f72bb96-98f6-450a-b3e3-eb6a73ab6028",
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）BioNTech确认的COVID-19疫苗收入EUR 1,995.3m，包括合作收入和直接销售；并非Comirnaty全球总销售额。按2025年年度平均汇率USD 1.1300/EUR折算（Bundesbank/ECB：https://publikationen.bundesbank.de/caas/v1/media/991180/data/6619b8e9182777187f1050fb32ce26c9）。"
+    }
+  ],
+  "new_products": []
+}

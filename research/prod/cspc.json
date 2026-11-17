@@ -1,0 +1,13 @@
+{
+  "id": "cspc",
+  "rows": [
+    {
+      "b": "APIs and functional food",
+      "v": 0.754,
+      "v_note": "FY2025 (year ended 31 December 2025) external revenue: bulk products RMB 3,656.972m plus functional food and others RMB 1,765.279m = RMB 5,422.251m. Converted at the Federal Reserve 2025 annual-average rate RMB 7.1875 per USD (https://www.federalreserve.gov/releases/g5a/current/default.htm). This is combined business-unit revenue.",
+      "v_src": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0325/2026032500273.pdf",
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）外部收入：大宗产品RMB 3,656.972m加功能性食品及其他RMB 1,765.279m = RMB 5,422.251m。按美联储2025年年度平均汇率RMB 7.1875/USD折算（https://www.federalreserve.gov/releases/g5a/current/default.htm）。这是各业务单元的合并收入。"
+    }
+  ],
+  "new_products": []
+}

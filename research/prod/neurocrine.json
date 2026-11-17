@@ -1,0 +1,20 @@
+{
+  "id": "neurocrine",
+  "rows": [
+    {
+      "b": "Ingrezza",
+      "v": 2.514,
+      "v_note": "FY2025 net product sales of USD 2,513.7 million, rounded to USD billions.",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000007/R21.htm",
+      "v_note_zh": "FY2025产品净销售额USD 2,513.7 million，四舍五入至十亿美元。"
+    },
+    {
+      "b": "Crenessity",
+      "v": 0.301,
+      "v_note": "FY2025 net product sales of USD 301.2 million, rounded to USD billions.",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000007/R21.htm",
+      "v_note_zh": "FY2025产品净销售额USD 301.2 million，四舍五入至十亿美元。"
+    }
+  ],
+  "new_products": []
+}

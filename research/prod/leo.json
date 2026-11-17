@@ -1,0 +1,27 @@
+{
+  "id": "leo",
+  "rows": [
+    {
+      "b": "Strategic dermatology brands",
+      "v": 0.458,
+      "v_note": "FY2025 portfolio revenue, not a single product: DKK 3,023 million (Annual Report 2025, Note 2.1, p. 99). Converted to USD bn using ECB 2025 annual averages of DKK 7.4634 and USD 1.1300 per EUR, published by the Bank of Finland: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
+      "v_src": "https://leo-pharma.com/wp-content/uploads/sites/8/2026/07/leo-pharma_ar-2025.pdf",
+      "v_note_zh": "FY2025产品组合收入，非单一产品：DKK 3,023 million（2025年年报，附注2.1，第99页）。按Bank of Finland公布的ECB 2025年年度平均汇率DKK 7.4634和USD 1.1300/EUR折算为USD bn：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
+    },
+    {
+      "b": "Established dermatology brands",
+      "v": 1.206,
+      "v_note": "FY2025 portfolio revenue, not a single product: DKK 7,968 million (Annual Report 2025, Note 2.1, p. 99). Converted to USD bn using ECB 2025 annual averages of DKK 7.4634 and USD 1.1300 per EUR, published by the Bank of Finland: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
+      "v_src": "https://leo-pharma.com/wp-content/uploads/sites/8/2026/07/leo-pharma_ar-2025.pdf",
+      "v_note_zh": "FY2025产品组合收入，非单一产品：DKK 7,968 million（2025年年报，附注2.1，第99页）。按Bank of Finland公布的ECB 2025年年度平均汇率DKK 7.4634和USD 1.1300/EUR折算为USD bn：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
+    },
+    {
+      "b": "Critical care",
+      "v": 0.345,
+      "v_note": "FY2025 portfolio revenue, not a single product: DKK 2,280 million (Annual Report 2025, Note 2.1, p. 99). Converted to USD bn using ECB 2025 annual averages of DKK 7.4634 and USD 1.1300 per EUR, published by the Bank of Finland: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
+      "v_src": "https://leo-pharma.com/wp-content/uploads/sites/8/2026/07/leo-pharma_ar-2025.pdf",
+      "v_note_zh": "FY2025产品组合收入，非单一产品：DKK 2,280 million（2025年年报，附注2.1，第99页）。按Bank of Finland公布的ECB 2025年年度平均汇率DKK 7.4634和USD 1.1300/EUR折算为USD bn：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
+    }
+  ],
+  "new_products": []
+}

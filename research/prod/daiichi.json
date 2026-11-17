@@ -1,0 +1,37 @@
+{
+  "id": "daiichi",
+  "rows": [
+    {
+      "b": "Enhertu",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Co-development partner AstraZeneca discloses patent expiries: US 2033 and 2035; EU/China 2033–2035; Japan not supplied in this table. No single global entry year verified.",
+          "src": "https://www.sec.gov/Archives/edgar/data/901832/000110465926019130/azn-20251231x20f.htm",
+          "note_zh": "共同开发合作伙伴AstraZeneca披露专利到期日：美国2033年和2035年；欧盟/中国2033–2035年；日本未在此表中提供。未核实单一的全球上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Datroway",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Co-development partner AstraZeneca lists 2034 patent expiry for US, EU and China; Japan not supplied. A worldwide generic/biosimilar-entry year is not verified.",
+          "src": "https://www.sec.gov/Archives/edgar/data/901832/000110465926019130/azn-20251231x20f.htm",
+          "note_zh": "共同开发合作伙伴AstraZeneca列示美国、欧盟和中国的专利到期日为2034年；日本未提供。全球仿制药/生物类似药上市年份未核实。"
+        }
+      ]
+    },
+    {
+      "b": "Injectafer / Venofer",
+      "v": 0.582,
+      "v_note": "FY2025 ended 31 March 2026. American Regent product revenues reported directly in USD: Injectafer USD 291m plus Venofer USD 291m, sum USD 582m. Company reference data updated July 2026; no currency conversion required.",
+      "v_src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2025/Q4/FY2025Q4_Reference_Data_Corrections_E.pdf",
+      "v_note_zh": "FY2025截至2026年3月31日。American Regent产品收入直接以美元报告：Injectafer USD 291m加Venofer USD 291m，合计USD 582m。公司参考数据更新于2026年7月；无需货币折算。"
+    }
+  ],
+  "new_products": []
+}

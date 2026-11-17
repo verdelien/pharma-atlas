@@ -1,0 +1,30 @@
+{
+  "id": "genmab",
+  "rows": [
+    {
+      "b": "Epkinly / Tepkinly",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "2025 Form 20-F, Intellectual Property: composition-of-matter patents in US, Europe and Japan begin expiring January 2035. US extension requested; some Japanese extensions granted beyond 2035. European SPC applications, if granted, expire September 2038. Additional patents may protect the product; no single worldwide biosimilar-entry date verified.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000014/gmab-20251231_d2.htm",
+          "note_zh": "2025年Form 20-F，知识产权：美国、欧洲和日本的化合物专利自2035年1月起陆续到期。已申请美国延期；部分日本延期已获授予，超过2035年。欧洲SPC申请如获授予，将于2038年9月到期。其他专利可能对该产品提供保护；未核实单一的全球生物类似药上市日期。"
+        }
+      ]
+    },
+    {
+      "b": "Tivdak",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "2025 Form 20-F, Intellectual Property: composition-of-matter patents begin expiring June 2031; US patent term adjustment and extension granted through September 2035; granted European SPCs expire June 2036. Japanese extensions pending. Additional patents may protect the product; no single worldwide biosimilar-entry date verified.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000014/gmab-20251231_d2.htm",
+          "note_zh": "2025年Form 20-F，知识产权：化合物专利自2031年6月起陆续到期；美国专利期限调整和延期已获授予，至2035年9月；已授予的欧洲SPC于2036年6月到期。日本延期待批。其他专利可能对该产品提供保护；未核实单一的全球生物类似药上市日期。"
+        }
+      ]
+    }
+  ],
+  "new_products": []
+}

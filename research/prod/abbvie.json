@@ -1,0 +1,18 @@
+{
+  "id": "abbvie",
+  "rows": [
+    {
+      "b": "Vraylar",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2030-03",
+          "note": "Co-developer Gedeon Richter discloses US loss of exclusivity on 17 March 2030, including the FDA-granted additional six months of pediatric exclusivity (November 2026 investor presentation).",
+          "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/hu/2026/richter_ir_presentation_november_2026.pdf?hash=903C8171D1588A58C683CB2970855C82&rev=36de267f113647aaa39aff34b43fe096",
+          "note_zh": "共同开发方Gedeon Richter披露，美国独占期将于2030年3月17日结束，其中包括FDA授予的额外6个月儿科独占期（2026年11月投资者演示材料）。"
+        }
+      ]
+    }
+  ],
+  "new_products": []
+}

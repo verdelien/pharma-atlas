@@ -1,0 +1,30 @@
+{
+  "id": "takeda",
+  "rows": [
+    {
+      "b": "Takhzyro",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "FY2025 Form 20-F (year ended March 31, 2026), patent/RP table: patent expiry US August 2032, EU November 2033, Japan January 2036; regulatory protection US August 2030, EU November 2030, Japan March 2032. No single worldwide biosimilar-entry date verified.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+          "note_zh": "FY2025 Form 20-F（截至2026年3月31日的年度），专利/监管保护表：专利到期日美国2032年8月，欧盟2033年11月，日本2036年1月；监管保护美国2030年8月，欧盟2030年11月，日本2032年3月。未核实单一的全球生物类似药上市日期。"
+        }
+      ]
+    },
+    {
+      "b": "Adcetris",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "FY2025 Form 20-F (year ended March 31, 2026), patent/RP table: EU patent October 2027; Japanese indication-specific extensions July 2028, with relapsed/refractory Hodgkin lymphoma and ALCL extensions expiring April 2026. Japanese regulatory protection varies by indication, including September 2029 for relapsed/refractory CTCL. Takeda does not commercialize in the US; no single worldwide entry date verified.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+          "note_zh": "FY2025 Form 20-F（截至2026年3月31日的年度），专利/监管保护表：欧盟专利2027年10月；日本针对特定适应症的延期2028年7月，其中复发/难治性霍奇金淋巴瘤和ALCL的延期于2026年4月到期。日本监管保护因适应症而异，包括复发/难治性CTCL的2029年9月。Takeda在美国不进行商业化；未核实单一的全球上市日期。"
+        }
+      ]
+    }
+  ],
+  "new_products": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "novartis",
+  "rows": [
+    {
+      "b": "Entresto",
+      "loe": [
+        {
+          "region": "EU / Japan",
+          "value": null,
+          "note": "EU regulatory data protection expires in 2026; combination patent with SPC expires in 2028, with further EU patents. A common EU/Japan generic-entry year was not verified.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "欧盟监管数据保护于2026年到期；含SPC的组合专利于2028年到期，另有其他欧盟专利。欧盟/日本共同的仿制药上市年份未核实。"
+        }
+      ]
+    },
+    {
+      "b": "Cosentyx",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Principal patent protection: US 2029; EU 2030, including granted SPC/pediatric extensions where applicable. No single global biosimilar-entry year disclosed.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "主要专利保护：美国2029年；欧盟2030年，包括适用情况下已授予的SPC/儿科延期。未披露单一的全球生物类似药上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Kisqali",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Principal patent protection: US 2031; EU 2032, including granted SPC/pediatric extensions where applicable. No single global generic-entry year disclosed.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "主要专利保护：美国2031年；欧盟2032年，包括适用情况下已授予的SPC/儿科延期。未披露单一的全球仿制药上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Kesimpta",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "US principal compound patent expires in 2031. EU compound patent has expired, but the report states no EU biosimilar competition. No global biosimilar-entry year disclosed.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "美国主要化合物专利于2031年到期。欧盟化合物专利已到期，但报告称欧盟没有生物类似药竞争。未披露全球生物类似药上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Tafinlar + Mekinist",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "US: Tafinlar 2030, Mekinist 2027, combination-use patents 2031; EU: each compound 2029, combination-use patents 2030. Other US Mekinist patents expiring 2032 are challenged. No single global entry year disclosed.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "美国：Tafinlar 2030年，Mekinist 2027年，联合用药专利2031年；欧盟：各化合物2029年，联合用药专利2030年。其他于2032年到期的美国Mekinist专利受到挑战。未披露单一的全球上市年份。"
+        }
+      ]
+    }
+  ],
+  "new_products": []
+}

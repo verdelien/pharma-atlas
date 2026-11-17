@@ -1,0 +1,71 @@
+{
+  "id": "cipla",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Foracort",
+      "g": "budesonide/formoterol fumarate",
+      "ind": "Asthma; chronic obstructive pulmonary disease",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Exact company-recognised individual product revenue not verified. Selected from the five key brand franchises highlighted on page 23; no revenue ranking asserted. The annual report says the grouped brand crossed INR 1,000 crore (IQVIA MAT March 2026); this is a secondary-market sales milestone, not an exact company product-revenue figure. Ingredient and indication source: https://www.ciplamed.com/explore/resources/foracort-respules-formoterol-fumarate-dihydrate-plus-budesonide-monograph/",
+      "v_src": "https://www.cipla.com/sites/default/files/Cipla-Annual-Report-FY2025-26.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。公司确认的单个产品收入的确切数字未核实。选自第23页重点推介的五大核心品牌系列；不代表收入排名。年报称该组合品牌已突破INR 1,000 crore（IQVIA MAT 2026年3月）；这是二级市场销售里程碑，并非确切的公司产品收入数字。成分和适应症来源：https://www.ciplamed.com/explore/resources/foracort-respules-formoterol-fumarate-dihydrate-plus-budesonide-monograph/",
+      "ind_zh": "哮喘；慢性阻塞性肺疾病"
+    },
+    {
+      "b": "Duolin",
+      "g": "salbutamol/ipratropium bromide",
+      "ind": "Reversible bronchospasm associated with obstructive airway disease",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Exact company-recognised individual product revenue not verified. Selected from the five key brand franchises highlighted on page 23; no revenue ranking asserted. Ingredient and indication refer to the New Zealand nebuliser formulation; formulations may differ by market. Ingredient and indication source: https://www.medsafe.govt.nz/profs/datasheet/d/duolininhal.pdf",
+      "v_src": "https://www.cipla.com/sites/default/files/Cipla-Annual-Report-FY2025-26.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。公司确认的单个产品收入的确切数字未核实。选自第23页重点推介的五大核心品牌系列；不代表收入排名。成分和适应症指新西兰雾化制剂；各市场的制剂可能不同。成分和适应症来源：https://www.medsafe.govt.nz/profs/datasheet/d/duolininhal.pdf",
+      "ind_zh": "与阻塞性气道疾病相关的可逆性支气管痉挛"
+    },
+    {
+      "b": "Dytor",
+      "g": "torsemide",
+      "ind": "Fluid overload and hypertension",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Exact company-recognised individual product revenue not verified. Selected from the five key brand franchises highlighted on page 23; no revenue ranking asserted. Ingredient and indication are described for Dytor MD in the prior annual report. Ingredient and indication source: https://www.msei.in/SX-Content/Listing/Annual-Reports/2025/CIPLA-2025.pdf",
+      "v_src": "https://www.cipla.com/sites/default/files/Cipla-Annual-Report-FY2025-26.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。公司确认的单个产品收入的确切数字未核实。选自第23页重点推介的五大核心品牌系列；不代表收入排名。成分和适应症见上一年度年报中对Dytor MD的描述。成分和适应症来源：https://www.msei.in/SX-Content/Listing/Annual-Reports/2025/CIPLA-2025.pdf",
+      "ind_zh": "体液超负荷和高血压"
+    },
+    {
+      "b": "Budecort",
+      "g": "budesonide",
+      "ind": "Maintenance treatment of asthma",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Exact company-recognised individual product revenue not verified. Selected from the five key brand franchises highlighted on page 23; no revenue ranking asserted. Ingredient and indication refer to the inhaler. Ingredient and indication source: https://www.ciplamed.com/product-index/budecort-inhaler",
+      "v_src": "https://www.cipla.com/sites/default/files/Cipla-Annual-Report-FY2025-26.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。公司确认的单个产品收入的确切数字未核实。选自第23页重点推介的五大核心品牌系列；不代表收入排名。成分和适应症指吸入器。成分和适应症来源：https://www.ciplamed.com/product-index/budecort-inhaler",
+      "ind_zh": "哮喘的维持治疗"
+    },
+    {
+      "b": "Urimax D",
+      "g": "tamsulosin hydrochloride/dutasteride",
+      "ind": "Benign prostatic hyperplasia",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Exact company-recognised individual product revenue not verified. Selected from the five key brand franchises highlighted on page 23; no revenue ranking asserted. Representative product in the highlighted Urimax franchise. Ingredient and indication source: https://www.ciplamed.com/explore/ourresearch/urimax-d-tamsulosin-hydrochloride-plus-dutasteride-clinical-trial",
+      "v_src": "https://www.cipla.com/sites/default/files/Cipla-Annual-Report-FY2025-26.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。公司确认的单个产品收入的确切数字未核实。选自第23页重点推介的五大核心品牌系列；不代表收入排名。为重点推介的Urimax系列中的代表产品。成分和适应症来源：https://www.ciplamed.com/explore/ourresearch/urimax-d-tamsulosin-hydrochloride-plus-dutasteride-clinical-trial",
+      "ind_zh": "良性前列腺增生"
+    }
+  ]
+}

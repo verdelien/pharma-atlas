@@ -1,0 +1,20 @@
+{
+  "id": "ferring",
+  "rows": [
+    {
+      "b": "Reproductive medicine",
+      "v": 1.359,
+      "v_note": "FY2025 net sales of goods: EUR 1,202,957 thousand; converted using the ECB 2025 annual average of USD 1.1300 per EUR (Bank of Finland: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/).",
+      "v_src": "https://www.ferring.com/wp-content/uploads/sites/16/2026/03/Ferring-Pharmaceuticals-Annual-Report-2025.pdf",
+      "v_note_zh": "FY2025货物销售净额：EUR 1,202,957 thousand；按ECB 2025年年度平均汇率USD 1.1300/EUR折算（Bank of Finland：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/）。"
+    },
+    {
+      "b": "Adstiladrin",
+      "v": 0.195,
+      "v_note": "FY2025 net sales of goods: EUR 172,673 thousand; converted using the ECB 2025 annual average of USD 1.1300 per EUR (Bank of Finland: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/).",
+      "v_src": "https://www.ferring.com/wp-content/uploads/sites/16/2026/03/Ferring-Pharmaceuticals-Annual-Report-2025.pdf",
+      "v_note_zh": "FY2025货物销售净额：EUR 172,673 thousand；按ECB 2025年年度平均汇率USD 1.1300/EUR折算（Bank of Finland：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/）。"
+    }
+  ],
+  "new_products": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "regeneron",
+  "rows": [
+    {
+      "b": "EYLEA ex-US (Bayer collaboration)",
+      "v": 1.422,
+      "v_note": "FY2025 Bayer collaboration revenue, year ended December 31, 2025: USD 1,422.4 million, comprising USD 1,282.7 million share of profits from EYLEA and EYLEA 8 mg outside the US plus USD 139.7 million manufacturing reimbursements. This is revenue recognized by Regeneron, not Bayer product sales.",
+      "v_src": "https://investor.regeneron.com/news-releases/news-release-details/regeneron-reports-fourth-quarter-and-full-year-2025-financial",
+      "v_note_zh": "FY2025 Bayer合作收入，截至2025年12月31日的年度：USD 1,422.4 million，包括美国以外EYLEA和EYLEA 8 mg的利润分成USD 1,282.7 million，加生产报销款USD 139.7 million。这是Regeneron确认的收入，并非Bayer产品销售额。"
+    }
+  ],
+  "new_products": []
+}

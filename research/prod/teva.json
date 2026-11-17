@@ -1,0 +1,41 @@
+{
+  "id": "teva",
+  "rows": [
+    {
+      "b": "Generics and biosimilars",
+      "v": 9.422,
+      "v_note": "Sum of FY2025 generics revenues: US USD 3,657m, Europe USD 4,044m, International Markets USD 1,721m; includes biosimilars and, in Europe/International Markets, OTC. Excludes separately reported Anda distribution and other activities.",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/818686/000119312526034532/R30.htm",
+      "v_note_zh": "FY2025仿制药收入合计：美国USD 3,657m、欧洲USD 4,044m、国际市场USD 1,721m；包括生物类似药，且在欧洲/国际市场包括OTC。不含单独报告的Anda分销及其他业务。"
+    },
+    {
+      "b": "Austedo / Austedo XR",
+      "v": 2.26,
+      "v_note": "FY2025 AUSTEDO franchise revenues: US USD 2,217m plus International Markets USD 43m; sum USD 2,260m.",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/818686/000119312526034532/R30.htm",
+      "v_note_zh": "FY2025 AUSTEDO产品系列收入：美国USD 2,217m加国际市场USD 43m；合计USD 2,260m。"
+    },
+    {
+      "b": "Ajovy",
+      "v": 0.673,
+      "v_note": "FY2025 revenues: US USD 295m, Europe USD 270m and International Markets USD 108m; sum USD 673m.",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/818686/000119312526034532/R30.htm",
+      "v_note_zh": "FY2025收入：美国USD 295m、欧洲USD 270m和国际市场USD 108m；合计USD 673m。"
+    },
+    {
+      "b": "Copaxone",
+      "v": 0.468,
+      "v_note": "FY2025 revenues: US USD 255m, Europe USD 181m and International Markets USD 32m; sum USD 468m.",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/818686/000119312526034532/R30.htm",
+      "v_note_zh": "FY2025收入：美国USD 255m、欧洲USD 181m和国际市场USD 32m；合计USD 468m。"
+    },
+    {
+      "b": "Uzedy",
+      "v": 0.191,
+      "v_note": "FY2025 US product revenues, USD 191m; UZEDY is reported in the US segment only.",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/818686/000119312526034532/R30.htm",
+      "v_note_zh": "FY2025美国产品收入USD 191m；UZEDY仅在美国板块报告。"
+    }
+  ],
+  "new_products": []
+}

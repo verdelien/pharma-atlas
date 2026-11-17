@@ -1,0 +1,39 @@
+{
+  "id": "ono",
+  "rows": [
+    {
+      "b": "Opdivo (Japan)",
+      "loe": [
+        {
+          "region": "All",
+          "value": "2031",
+          "note": "Japan only, matching this Japan-sales row: company March 2026 sustainability presentation identifies 2031 as the Japanese Opdivo patent expiry year. This is the disclosed patent milestone, not a confirmed biosimilar launch.",
+          "src": "https://www.ono-pharma.com/sites/default/files/ja/ir/Ja_Sustainbaility_Day_Presentation_material_20260324.pdf",
+          "note_zh": "仅限日本，与本日本销售额行对应：公司2026年3月可持续发展演示材料指出，2031年为日本Opdivo专利到期年份。这是披露的专利里程碑，并非已确认的生物类似药上市。"
+        }
+      ]
+    },
+    {
+      "b": "Opdivo royalties from BMS",
+      "v": 0.818,
+      "v_note": "FY2025 ended March 31, 2026: Opdivo royalty revenue, reported JPY 122.3bn. Converted using calendar-2025 year-average JPY 149.5686/USD from FRED, not a company fiscal-year rate; source: https://fred.stlouisfed.org/release/tables?eid=23334&rid=186.",
+      "v_src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/presen/20260508_1_en%5B.pdf.pdf",
+      "v_note_zh": "FY2025截至2026年3月31日：Opdivo特许权使用费收入，报告值JPY 122.3bn。按FRED的2025日历年年度平均汇率JPY 149.5686/USD折算，并非公司财年汇率；来源：https://fred.stlouisfed.org/release/tables?eid=23334&rid=186。"
+    },
+    {
+      "b": "Qinlock and Romvimza",
+      "v": 0.312,
+      "v_note": "FY2025 ended March 31, 2026: Qinlock JPY 38.4bn plus Romvimza JPY 8.3bn, overseas net sales, reported JPY 46.7bn. Converted using calendar-2025 year-average JPY 149.5686/USD from FRED, not a company fiscal-year rate; source: https://fred.stlouisfed.org/release/tables?eid=23334&rid=186.",
+      "v_src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/presen/20260508_1_en%5B.pdf.pdf",
+      "v_note_zh": "FY2025截至2026年3月31日：Qinlock JPY 38.4bn加Romvimza JPY 8.3bn，海外净销售额，报告值JPY 46.7bn。按FRED的2025日历年年度平均汇率JPY 149.5686/USD折算，并非公司财年汇率；来源：https://fred.stlouisfed.org/release/tables?eid=23334&rid=186。"
+    },
+    {
+      "b": "Keytruda royalties from Merck",
+      "v": 0.197,
+      "v_note": "FY2025 ended March 31, 2026: Keytruda royalty revenue, reported JPY 29.5bn. Converted using calendar-2025 year-average JPY 149.5686/USD from FRED, not a company fiscal-year rate; source: https://fred.stlouisfed.org/release/tables?eid=23334&rid=186.",
+      "v_src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/presen/20260508_1_en%5B.pdf.pdf",
+      "v_note_zh": "FY2025截至2026年3月31日：Keytruda特许权使用费收入，报告值JPY 29.5bn。按FRED的2025日历年年度平均汇率JPY 149.5686/USD折算，并非公司财年汇率；来源：https://fred.stlouisfed.org/release/tables?eid=23334&rid=186。"
+    }
+  ],
+  "new_products": []
+}

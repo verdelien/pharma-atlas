@@ -1,0 +1,71 @@
+{
+  "id": "zydus",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Lipaglyn",
+      "g": "saroglitazar magnesium",
+      "ind": "Diabetic dyslipidaemia; hypertriglyceridaemia; metabolic fatty liver disease and steatohepatitis",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual FY revenue not verified from accessible primary disclosures; company-highlighted products in the November 2025 investor presentation, without a revenue ranking. Ingredient and indication: https://nsearchives.nseindia.com/corporate/ZYDUSLIFE_03112023142025_PressRelease03112023.pdf",
+      "v_src": "https://zyduslife.com/investor/admin/uploads/15/85/November-2025.pdf",
+      "yr": null,
+      "o": "internal",
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。无法从可获取的一手披露中核实单个产品财年收入；为2025年11月投资者演示材料中公司重点推介的产品，不含收入排名。成分和适应症：https://nsearchives.nseindia.com/corporate/ZYDUSLIFE_03112023142025_PressRelease03112023.pdf",
+      "ind_zh": "糖尿病性血脂异常；高甘油三酯血症；代谢性脂肪肝病和脂肪性肝炎"
+    },
+    {
+      "b": "Bilypsa",
+      "g": "saroglitazar magnesium",
+      "ind": "Metabolic fatty liver disease and steatohepatitis",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual FY revenue not verified from accessible primary disclosures; company-highlighted products in the November 2025 investor presentation, without a revenue ranking. Ingredient and indication: https://nsearchives.nseindia.com/corporate/ZYDUSLIFE_03112023142025_PressRelease03112023.pdf",
+      "v_src": "https://zyduslife.com/investor/admin/uploads/15/85/November-2025.pdf",
+      "yr": null,
+      "o": "internal",
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。无法从可获取的一手披露中核实单个产品财年收入；为2025年11月投资者演示材料中公司重点推介的产品，不含收入排名。成分和适应症：https://nsearchives.nseindia.com/corporate/ZYDUSLIFE_03112023142025_PressRelease03112023.pdf",
+      "ind_zh": "代谢性脂肪肝病和脂肪性肝炎"
+    },
+    {
+      "b": "Oxemia",
+      "g": "desidustat",
+      "ind": "Anaemia in chronic kidney disease, with or without dialysis",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual FY revenue not verified from accessible primary disclosures; company-highlighted products in the November 2025 investor presentation, without a revenue ranking. Ingredient and indication: https://www.zyduslife.com/investor/admin/uploads/14/2/2023-2024_1.pdf",
+      "v_src": "https://zyduslife.com/investor/admin/uploads/15/85/November-2025.pdf",
+      "yr": null,
+      "o": "internal",
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。无法从可获取的一手披露中核实单个产品财年收入；为2025年11月投资者演示材料中公司重点推介的产品，不含收入排名。成分和适应症：https://www.zyduslife.com/investor/admin/uploads/14/2/2023-2024_1.pdf",
+      "ind_zh": "慢性肾脏病贫血，无论是否透析"
+    },
+    {
+      "b": "Ujvira",
+      "g": "trastuzumab emtansine",
+      "ind": "Early and advanced HER2-positive breast cancer",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual FY revenue not verified from accessible primary disclosures; company-highlighted products in the November 2025 investor presentation, without a revenue ranking. Ingredient and indication: https://www.zyduslife.com/public/pdf/pressrelease/Zydus-launches-Ujvira-Trastuzumab-Emtansine-a-breakthrough-in-Breast-Cancer-treatment-24-05-21.pdf",
+      "v_src": "https://zyduslife.com/investor/admin/uploads/15/85/November-2025.pdf",
+      "yr": null,
+      "o": "internal",
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。无法从可获取的一手披露中核实单个产品财年收入；为2025年11月投资者演示材料中公司重点推介的产品，不含收入排名。成分和适应症：https://www.zyduslife.com/public/pdf/pressrelease/Zydus-launches-Ujvira-Trastuzumab-Emtansine-a-breakthrough-in-Breast-Cancer-treatment-24-05-21.pdf",
+      "ind_zh": "早期和晚期HER2阳性乳腺癌"
+    },
+    {
+      "b": "Nulibry",
+      "g": "fosdenopterin",
+      "ind": "Reduction of mortality risk in molybdenum cofactor deficiency type A",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual FY revenue not verified from accessible primary disclosures; company-highlighted products in the November 2025 investor presentation, without a revenue ranking. Ingredient and indication: https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/214018s003lbl.pdf",
+      "v_src": "https://zyduslife.com/investor/admin/uploads/15/85/November-2025.pdf",
+      "yr": null,
+      "o": "acquired",
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。无法从可获取的一手披露中核实单个产品财年收入；为2025年11月投资者演示材料中公司重点推介的产品，不含收入排名。成分和适应症：https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/214018s003lbl.pdf",
+      "ind_zh": "降低A型钼辅因子缺乏症的死亡风险"
+    }
+  ]
+}

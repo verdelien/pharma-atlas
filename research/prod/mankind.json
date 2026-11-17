@@ -1,0 +1,71 @@
+{
+  "id": "mankind",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Moxikind-CV",
+      "g": "amoxicillin + clavulanic acid",
+      "ind": "Respiratory tract infections",
+      "v": null,
+      "v_note": "Company-highlighted medicine; not a verified revenue ranking. Individual recognized company product revenue for FY ended March 31, 2026 remains unverified; reported IQVIA brand sales are not substituted for company revenue. Composition: https://www.mankindpharma.com/products/all-products/; indication/highlight source: https://oldmnk.mankindpharma.in/assets/pdf/investors/PPD.pdf",
+      "v_src": "https://www.mankindpharma.com/products/all-products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的药品；并非经核实的收入排名。截至2026年3月31日的财年，公司确认的单个产品收入未核实；报告的IQVIA品牌销售额不能替代公司收入。成分：https://www.mankindpharma.com/products/all-products/；适应症/重点来源：https://oldmnk.mankindpharma.in/assets/pdf/investors/PPD.pdf",
+      "ind_zh": "呼吸道感染"
+    },
+    {
+      "b": "Amlokind-AT",
+      "g": "amlodipine + atenolol",
+      "ind": "Hypertension; angina pectoris",
+      "v": null,
+      "v_note": "Company-highlighted medicine; not a verified revenue ranking. Individual recognized company product revenue for FY ended March 31, 2026 remains unverified; reported IQVIA brand sales are not substituted for company revenue. Composition: https://www.mankindpharma.com/products/all-products/; indication/highlight source: https://product1.mankindpharma.net/01/08904103324839/10/G65Y075/21/GLUHGBQBGWWTR?17=270831",
+      "v_src": "https://www.mankindpharma.com/products/all-products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的药品；并非经核实的收入排名。截至2026年3月31日的财年，公司确认的单个产品收入未核实；报告的IQVIA品牌销售额不能替代公司收入。成分：https://www.mankindpharma.com/products/all-products/；适应症/重点来源：https://product1.mankindpharma.net/01/08904103324839/10/G65Y075/21/GLUHGBQBGWWTR?17=270831",
+      "ind_zh": "高血压；心绞痛"
+    },
+    {
+      "b": "Dydroboon",
+      "g": "dydrogesterone",
+      "ind": "Female infertility",
+      "v": null,
+      "v_note": "Company-highlighted medicine; not a verified revenue ranking. Individual recognized company product revenue for FY ended March 31, 2026 remains unverified; reported IQVIA brand sales are not substituted for company revenue. Composition: https://www.mankindpharma.com/products/all-products/; indication/highlight source: https://www.mankindpharma.com/wp-content/uploads/2024/12/mankind-ar-2023-24-web-version-1722242973.pdf",
+      "v_src": "https://www.mankindpharma.com/products/all-products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的药品；并非经核实的收入排名。截至2026年3月31日的财年，公司确认的单个产品收入未核实；报告的IQVIA品牌销售额不能替代公司收入。成分：https://www.mankindpharma.com/products/all-products/；适应症/重点来源：https://www.mankindpharma.com/wp-content/uploads/2024/12/mankind-ar-2023-24-web-version-1722242973.pdf",
+      "ind_zh": "女性不孕症"
+    },
+    {
+      "b": "Candiforce",
+      "g": "itraconazole",
+      "ind": "Fungal infections",
+      "v": null,
+      "v_note": "Company-highlighted medicine; not a verified revenue ranking. Individual recognized company product revenue for FY ended March 31, 2026 remains unverified; reported IQVIA brand sales are not substituted for company revenue. Composition: https://www.mankindpharma.com/products/all-products/; indication/highlight source: https://www.mankindpharma.com/wp-content/uploads/2024/12/mankind-ar-2023-24-web-version-1722242973.pdf",
+      "v_src": "https://www.mankindpharma.com/products/all-products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的药品；并非经核实的收入排名。截至2026年3月31日的财年，公司确认的单个产品收入未核实；报告的IQVIA品牌销售额不能替代公司收入。成分：https://www.mankindpharma.com/products/all-products/；适应症/重点来源：https://www.mankindpharma.com/wp-content/uploads/2024/12/mankind-ar-2023-24-web-version-1722242973.pdf",
+      "ind_zh": "真菌感染"
+    },
+    {
+      "b": "Nurokind-Gold",
+      "g": "multivitamins and minerals",
+      "ind": "Vitamin deficiency",
+      "v": null,
+      "v_note": "Company-highlighted medicine; not a verified revenue ranking. Individual recognized company product revenue for FY ended March 31, 2026 remains unverified; reported IQVIA brand sales are not substituted for company revenue. Composition: https://www.mankindpharma.com/products/all-products/; indication/highlight source: https://www.mankindpharma.com/wp-content/uploads/2024/12/mankind-ar-2023-24-web-version-1722242973.pdf",
+      "v_src": "https://www.mankindpharma.com/products/all-products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的药品；并非经核实的收入排名。截至2026年3月31日的财年，公司确认的单个产品收入未核实；报告的IQVIA品牌销售额不能替代公司收入。成分：https://www.mankindpharma.com/products/all-products/；适应症/重点来源：https://www.mankindpharma.com/wp-content/uploads/2024/12/mankind-ar-2023-24-web-version-1722242973.pdf",
+      "ind_zh": "维生素缺乏"
+    }
+  ]
+}

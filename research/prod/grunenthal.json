@@ -1,0 +1,36 @@
+{
+  "id": "grunenthal",
+  "rows": [
+    {
+      "b": "Qutenza",
+      "v": 0.217,
+      "v_note": "FY2025 global operational revenue EUR 192 million (Report 2025/2026, Global Brands table). Converted to USD bn at ECB 2025 annual-average USD 1.1300 per EUR, published by the Bank of Finland: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
+      "v_src": "https://grunenthal-annualreport25.corporate-report.net/epaper/ausgabe.pdf",
+      "v_note_zh": "FY2025全球运营收入EUR 192 million（2025/2026年度报告，全球品牌表）。按Bank of Finland公布的ECB 2025年年度平均汇率USD 1.1300/EUR折算为USD bn：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
+    },
+    {
+      "b": "Movantik",
+      "v": null,
+      "v_note": "FY2025 source reports EUR 120 million operational revenue for Moventig and Movantik combined. Standalone Movantik revenue was not verified, so no numeric revenue value is supplied.",
+      "v_src": "https://grunenthal-annualreport25.corporate-report.net/epaper/ausgabe.pdf",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Report 2025/2026 states US patent protection until at least 2030. This is a US protection floor, not a verified worldwide generic-entry date.",
+          "src": "https://grunenthal-annualreport25.corporate-report.net/epaper/ausgabe.pdf",
+          "note_zh": "2025/2026年度报告称美国专利保护期至少持续至2030年。这是美国的保护下限，并非经核实的全球仿制药上市日期。"
+        }
+      ],
+      "v_note_zh": "FY2025来源报告Moventig和Movantik合计运营收入EUR 120 million。Movantik单独收入未核实，因此不提供数值收入。"
+    },
+    {
+      "b": "Established brands",
+      "v": 1.582,
+      "v_note": "FY2025 established-brands portfolio operational revenue EUR 1.4 billion, as reported at this precision in the CEO letter (Report 2025/2026). Converted to USD bn at ECB 2025 annual-average USD 1.1300 per EUR, published by the Bank of Finland: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
+      "v_src": "https://grunenthal-annualreport25.corporate-report.net/epaper/ausgabe.pdf",
+      "v_note_zh": "FY2025成熟品牌组合运营收入EUR 1.4 billion，按CEO致辞中报告的精度列示（2025/2026年度报告）。按Bank of Finland公布的ECB 2025年年度平均汇率USD 1.1300/EUR折算为USD bn：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
+    }
+  ],
+  "new_products": []
+}

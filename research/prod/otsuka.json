@@ -1,0 +1,34 @@
+{
+  "id": "otsuka",
+  "rows": [
+    {
+      "b": "Rexulti / Rxulti",
+      "v": 2.215,
+      "v_note": "FY2025 ended December 31, 2025: reported JPY 331,338 million; converted to USD bn at company FY2025 rate JPY 149.61/USD (Integrated Report 2026, p.24: https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf).",
+      "v_src": "https://www.otsuka.com/en/ir/stock/pdf/meeting/202512_01.pdf",
+      "v_note_zh": "FY2025截至2025年12月31日：报告值JPY 331,338 million；按公司FY2025汇率JPY 149.61/USD折算为USD bn（2026年综合报告，第24页：https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf）。"
+    },
+    {
+      "b": "Abilify Maintena / Asimtufii",
+      "v": 1.733,
+      "v_note": "FY2025 ended December 31, 2025: reported JPY 259,290 million; converted to USD bn at company FY2025 rate JPY 149.61/USD (Integrated Report 2026, p.24: https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf).",
+      "v_src": "https://www.otsuka.com/en/ir/stock/pdf/meeting/202512_01.pdf",
+      "v_note_zh": "FY2025截至2025年12月31日：报告值JPY 259,290 million；按公司FY2025汇率JPY 149.61/USD折算为USD bn（2026年综合报告，第24页：https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf）。"
+    },
+    {
+      "b": "Jynarque / Samsca / Jinarc",
+      "v": 1.483,
+      "v_note": "FY2025 ended December 31, 2025: reported JPY 221,910 million; converted to USD bn at company FY2025 rate JPY 149.61/USD (Integrated Report 2026, p.24: https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf).",
+      "v_src": "https://www.otsuka.com/en/ir/stock/pdf/meeting/202512_01.pdf",
+      "v_note_zh": "FY2025截至2025年12月31日：报告值JPY 221,910 million；按公司FY2025汇率JPY 149.61/USD折算为USD bn（2026年综合报告，第24页：https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf）。"
+    },
+    {
+      "b": "Lonsurf",
+      "v": 0.73,
+      "v_note": "FY2025 ended December 31, 2025: reported JPY 109,279 million; converted to USD bn at company FY2025 rate JPY 149.61/USD (Integrated Report 2026, p.24: https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf).",
+      "v_src": "https://www.otsuka.com/en/ir/stock/pdf/meeting/202512_01.pdf",
+      "v_note_zh": "FY2025截至2025年12月31日：报告值JPY 109,279 million；按公司FY2025汇率JPY 149.61/USD折算为USD bn（2026年综合报告，第24页：https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf）。"
+    }
+  ],
+  "new_products": []
+}

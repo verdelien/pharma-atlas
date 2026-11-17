@@ -1,0 +1,56 @@
+{
+  "id": "bayer",
+  "rows": [
+    {
+      "b": "Eylea (ex-US)",
+      "loe": [
+        {
+          "region": "EU",
+          "value": "2025",
+          "note": "Active-ingredient patent expiry in Germany, France, Italy and Spain, per 2025 annual-report patent table. Does not establish a uniform launch date or LOE for the 8 mg formulation.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "德国、法国、意大利和西班牙的活性成分专利到期日，依据2025年年报专利表。不能据此确定8 mg制剂的统一上市日期或独占期结束时间。"
+        }
+      ]
+    },
+    {
+      "b": "Nubeqa",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Active-ingredient patent expiries: US 2033; Germany, France, Italy, Spain, UK and Japan 2035; China/Brazil 2030; Canada 2032. No single global generic-entry year disclosed.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "活性成分专利到期日：美国2033年；德国、法国、意大利、西班牙、英国和日本2035年；中国/巴西2030年；加拿大2032年。未披露单一的全球仿制药上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Xarelto",
+      "v": 2.649,
+      "v_note": "FY2025 Bayer-reported sales EUR 2,344 million, converted at company-stated 2025 average USD 1.13 per EUR 1. Exchange-rate source: https://reports.bayer.com/annual-report-2025/en/report-on-economic-position/overview-of-business-performance/economic-environment.html",
+      "v_src": "https://reports.bayer.com/annual-report-2025/en/report-on-economic-position/earnings-asset-and-financial-position/business-development-by-division/pharmaceuticals.html",
+      "v_note_zh": "FY2025 Bayer报告销售额EUR 2,344 million，按公司公布的2025年平均汇率USD 1.13/EUR 1折算。汇率来源：https://reports.bayer.com/annual-report-2025/en/report-on-economic-position/overview-of-business-performance/economic-environment.html"
+    },
+    {
+      "b": "Mirena family",
+      "v": 1.544,
+      "v_note": "FY2025 combined Mirena/Kyleena/Jaydess sales EUR 1,366 million, converted at company-stated 2025 average USD 1.13 per EUR 1. Exchange-rate source: https://reports.bayer.com/annual-report-2025/en/report-on-economic-position/overview-of-business-performance/economic-environment.html",
+      "v_src": "https://reports.bayer.com/annual-report-2025/en/report-on-economic-position/earnings-asset-and-financial-position/business-development-by-division/pharmaceuticals.html",
+      "v_note_zh": "FY2025 Mirena/Kyleena/Jaydess合计销售额EUR 1,366 million，按公司公布的2025年平均汇率USD 1.13/EUR 1折算。汇率来源：https://reports.bayer.com/annual-report-2025/en/report-on-economic-position/overview-of-business-performance/economic-environment.html"
+    },
+    {
+      "b": "Kerendia",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Active-ingredient patent expiry: US, Germany, France, Italy, Spain, UK and Japan 2033; China, Brazil and Canada 2028. No single global generic-entry year disclosed.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "活性成分专利到期日：美国、德国、法国、意大利、西班牙、英国和日本2033年；中国、巴西和加拿大2028年。未披露单一的全球仿制药上市年份。"
+        }
+      ]
+    }
+  ],
+  "new_products": []
+}

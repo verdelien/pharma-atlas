@@ -1,0 +1,29 @@
+{
+  "id": "astellas",
+  "rows": [
+    {
+      "b": "Vyloy",
+      "v": 0.418,
+      "v_note": "FY2025 ended March 31, 2026: reported product sales JPY 63.1bn; converted at company actual FY2025 average rate JPY 151/USD (results presentation, pp.5-6).",
+      "v_src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/4q2025_pre_en.pdf",
+      "v_note_zh": "截至2026年3月31日的FY2025：报告产品销售额JPY 63.1bn；按公司FY2025实际平均汇率JPY 151/USD折算（业绩演示材料，第5-6页）。"
+    },
+    {
+      "b": "Izervay",
+      "v": 0.514,
+      "v_note": "FY2025 ended March 31, 2026: reported product sales JPY 77.6bn; converted at company actual FY2025 average rate JPY 151/USD (results presentation, pp.5-6).",
+      "v_src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/4q2025_pre_en.pdf",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "In the published Q3 FY2024 call, an analyst suggested 2030/2034 patent dates; management declined to provide a specific generic-entry date. The analyst question is not company confirmation of loss of exclusivity.",
+          "src": "https://www.astellas.com/en/system/files/01cad57319/3q2024_script_en.pdf",
+          "note_zh": "在已发布的FY2024第三季度电话会议中，一位分析师提出专利日期可能为2030/2034年；管理层拒绝提供具体的仿制药上市日期。分析师的提问并非公司对独占期结束的确认。"
+        }
+      ],
+      "v_note_zh": "截至2026年3月31日的FY2025：报告产品销售额JPY 77.6bn；按公司FY2025实际平均汇率JPY 151/USD折算（业绩演示材料，第5-6页）。"
+    }
+  ],
+  "new_products": []
+}

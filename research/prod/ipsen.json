@@ -1,0 +1,41 @@
+{
+  "id": "ipsen",
+  "rows": [
+    {
+      "b": "Somatuline",
+      "v": 1.283,
+      "v_note": "FY2025 Ipsen-reported sales EUR 1,135.4 million; converted at company average FY2025 USD 1.13 per EUR 1 (investor presentation, slide 28: https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf).",
+      "v_src": "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf",
+      "v_note_zh": "FY2025 Ipsen报告销售额EUR 1,135.4 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。"
+    },
+    {
+      "b": "Dysport",
+      "v": 0.83,
+      "v_note": "FY2025 Ipsen-reported sales EUR 734.1 million; converted at company average FY2025 USD 1.13 per EUR 1 (investor presentation, slide 28: https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf).",
+      "v_src": "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf",
+      "v_note_zh": "FY2025 Ipsen报告销售额EUR 734.1 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。"
+    },
+    {
+      "b": "Cabometyx (ex-US)",
+      "v": 0.693,
+      "v_note": "FY2025 Ipsen-reported sales EUR 613.2 million; converted at company average FY2025 USD 1.13 per EUR 1 (investor presentation, slide 28: https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf).",
+      "v_src": "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf",
+      "v_note_zh": "FY2025 Ipsen报告销售额EUR 613.2 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。"
+    },
+    {
+      "b": "Iqirvo",
+      "v": 0.208,
+      "v_note": "FY2025 Ipsen-reported sales EUR 184.0 million; converted at company average FY2025 USD 1.13 per EUR 1 (investor presentation, slide 28: https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf).",
+      "v_src": "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf",
+      "v_note_zh": "FY2025 Ipsen报告销售额EUR 184.0 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。"
+    },
+    {
+      "b": "Onivyde",
+      "v": 0.234,
+      "v_note": "FY2025 Ipsen-reported sales EUR 207.4 million; converted at company average FY2025 USD 1.13 per EUR 1 (investor presentation, slide 28: https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf).",
+      "v_src": "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf",
+      "v_note_zh": "FY2025 Ipsen报告销售额EUR 207.4 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。"
+    }
+  ],
+  "new_products": []
+}

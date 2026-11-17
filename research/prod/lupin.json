@@ -1,0 +1,71 @@
+{
+  "id": "lupin",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Xopenex HFA",
+      "g": "levalbuterol tartrate",
+      "ind": "Treatment or prevention of bronchospasm in reversible obstructive airway disease",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual product revenue not disclosed in the business review; selected products highlighted by the company, without a revenue ranking. Ingredient, indication and any stated origin: https://www.lupin.com/media/press-releases/lupin-signs-agreement-to-acquire-two-inhalation-brands-from-sunovion",
+      "v_src": "https://lupin.com/integrated-report-2026/business-review.html",
+      "yr": null,
+      "o": "acquired",
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。业务回顾中未披露单个产品收入；为公司重点推介的部分产品，不含收入排名。成分、适应症及任何注明的来源：https://www.lupin.com/media/press-releases/lupin-signs-agreement-to-acquire-two-inhalation-brands-from-sunovion",
+      "ind_zh": "治疗或预防可逆性阻塞性气道疾病中的支气管痉挛"
+    },
+    {
+      "b": "Luforbec",
+      "g": "beclometasone dipropionate/formoterol fumarate",
+      "ind": "Asthma; chronic obstructive pulmonary disease",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual product revenue not disclosed in the business review; selected products highlighted by the company, without a revenue ranking. Ingredient, indication and any stated origin: https://www.lupin.com/media/press-releases/lupin-launches-luforbec-100-6-c2-b5g-pmdi-first-branded-generic-alternative-to-fostair-100-6-c2-b5g-pmdi-for-treatment-of-asthma-copd-in-the-uk",
+      "v_src": "https://lupin.com/integrated-report-2026/business-review.html",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。业务回顾中未披露单个产品收入；为公司重点推介的部分产品，不含收入排名。成分、适应症及任何注明的来源：https://www.lupin.com/media/press-releases/lupin-launches-luforbec-100-6-c2-b5g-pmdi-first-branded-generic-alternative-to-fostair-100-6-c2-b5g-pmdi-for-treatment-of-asthma-copd-in-the-uk",
+      "ind_zh": "哮喘；慢性阻塞性肺疾病"
+    },
+    {
+      "b": "NaMuscla",
+      "g": "mexiletine",
+      "ind": "Symptomatic myotonia in adults with non-dystrophic myotonic disorders",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual product revenue not disclosed in the business review; selected products highlighted by the company, without a revenue ranking. Ingredient, indication and any stated origin: https://www.lupin.com/media/press-releases/lupin-signs-distribution-agreement-with-medis-for-orphan-drug-namuscla",
+      "v_src": "https://lupin.com/integrated-report-2026/business-review.html",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。业务回顾中未披露单个产品收入；为公司重点推介的部分产品，不含收入排名。成分、适应症及任何注明的来源：https://www.lupin.com/media/press-releases/lupin-signs-distribution-agreement-with-medis-for-orphan-drug-namuscla",
+      "ind_zh": "非营养不良性肌强直疾病成人患者的症状性肌强直"
+    },
+    {
+      "b": "Zaxine",
+      "g": "rifaximin",
+      "ind": "Reduction of recurrence of overt hepatic encephalopathy in adults",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual product revenue not disclosed in the business review; selected products highlighted by the company, without a revenue ranking. Ingredient, indication and any stated origin: https://www.lupin.com/wp-content/uploads/2021/04/Lupin-PR-Lupin-and-Salix-Announce-Exclusive-Distribution-Agreement-for-Canada-120914.pdf",
+      "v_src": "https://lupin.com/integrated-report-2026/business-review.html",
+      "yr": null,
+      "o": "licensed",
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。业务回顾中未披露单个产品收入；为公司重点推介的部分产品，不含收入排名。成分、适应症及任何注明的来源：https://www.lupin.com/wp-content/uploads/2021/04/Lupin-PR-Lupin-and-Salix-Announce-Exclusive-Distribution-Agreement-for-Canada-120914.pdf",
+      "ind_zh": "降低成人显性肝性脑病的复发"
+    },
+    {
+      "b": "Intrarosa",
+      "g": "prasterone",
+      "ind": "Moderate to severe vulvar and vaginal atrophy in postmenopausal women",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual product revenue not disclosed in the business review; selected products highlighted by the company, without a revenue ranking. Ingredient, indication and any stated origin: https://www.ema.europa.eu/en/documents/product-information/intrarosa-epar-product-information_en.pdf",
+      "v_src": "https://lupin.com/integrated-report-2026/business-review.html",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。业务回顾中未披露单个产品收入；为公司重点推介的部分产品，不含收入排名。成分、适应症及任何注明的来源：https://www.ema.europa.eu/en/documents/product-information/intrarosa-epar-product-information_en.pdf",
+      "ind_zh": "绝经后女性中重度外阴和阴道萎缩"
+    }
+  ]
+}

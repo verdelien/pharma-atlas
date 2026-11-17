@@ -1,0 +1,71 @@
+{
+  "id": "kedrion",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Gammaked",
+      "g": "immune globulin (human), 10%",
+      "ind": "Primary humoral immunodeficiency; immune thrombocytopenic purpura; chronic inflammatory demyelinating polyneuropathy",
+      "v": null,
+      "v_note": "Highlighted in FY2025 (year ended December 31, 2025) results, slide 7. Revenue disclosed by product group, not this brand; individual brand revenue remains unverified. Not a revenue ranking. Product details: https://www.gammaked.com/",
+      "v_src": "https://www.kedrion.com/wp-content/uploads/2026/04/Kedrion_FY2025_Investor_Presentation.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "在FY2025（截至2025年12月31日的年度）业绩第7页幻灯片中重点提及。收入按产品组披露，而非按该品牌披露；单个品牌收入仍未核实。不代表收入排名。产品详情：https://www.gammaked.com/",
+      "ind_zh": "原发性体液免疫缺陷；免疫性血小板减少性紫癜；慢性炎性脱髓鞘性多发性神经病"
+    },
+    {
+      "b": "Gammaplex",
+      "g": "immune globulin intravenous (human), 10%",
+      "ind": "Primary humoral immunodeficiency; chronic immune thrombocytopenic purpura",
+      "v": null,
+      "v_note": "Highlighted in FY2025 (year ended December 31, 2025) results, slide 7. Revenue disclosed by product group, not this brand; individual brand revenue remains unverified. Not a revenue ranking. Product details: https://www.gammaplex.com/",
+      "v_src": "https://www.kedrion.com/wp-content/uploads/2026/04/Kedrion_FY2025_Investor_Presentation.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "在FY2025（截至2025年12月31日的年度）业绩第7页幻灯片中重点提及。收入按产品组披露，而非按该品牌披露；单个品牌收入仍未核实。不代表收入排名。产品详情：https://www.gammaplex.com/",
+      "ind_zh": "原发性体液免疫缺陷；慢性免疫性血小板减少性紫癜"
+    },
+    {
+      "b": "Ryplazim",
+      "g": "plasminogen, human-tvmh",
+      "ind": "Plasminogen deficiency type 1",
+      "v": null,
+      "v_note": "Highlighted in FY2025 (year ended December 31, 2025) results, slide 7. Revenue disclosed by product group, not this brand; individual brand revenue remains unverified. Not a revenue ranking. Product details: https://www.ryplazim.com/",
+      "v_src": "https://www.kedrion.com/wp-content/uploads/2026/04/Kedrion_FY2025_Investor_Presentation.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "在FY2025（截至2025年12月31日的年度）业绩第7页幻灯片中重点提及。收入按产品组披露，而非按该品牌披露；单个品牌收入仍未核实。不代表收入排名。产品详情：https://www.ryplazim.com/",
+      "ind_zh": "1型纤溶酶原缺乏症"
+    },
+    {
+      "b": "Coagadex",
+      "g": "coagulation factor X (human)",
+      "ind": "Hereditary factor X deficiency",
+      "v": null,
+      "v_note": "Highlighted in FY2025 (year ended December 31, 2025) results, slide 7. Revenue disclosed by product group, not this brand; individual brand revenue remains unverified. Not a revenue ranking. Product details: https://www.coagadex.com/",
+      "v_src": "https://www.kedrion.com/wp-content/uploads/2026/04/Kedrion_FY2025_Investor_Presentation.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "在FY2025（截至2025年12月31日的年度）业绩第7页幻灯片中重点提及。收入按产品组披露，而非按该品牌披露；单个品牌收入仍未核实。不代表收入排名。产品详情：https://www.coagadex.com/",
+      "ind_zh": "遗传性凝血因子X缺乏症"
+    },
+    {
+      "b": "Kedrab",
+      "g": "rabies immune globulin (human)",
+      "ind": "Rabies post-exposure prophylaxis",
+      "v": null,
+      "v_note": "Highlighted in FY2025 (year ended December 31, 2025) results, slide 7. Revenue disclosed by product group, not this brand; individual brand revenue remains unverified. Not a revenue ranking. Product details: https://www.kedrion.us/therapies/",
+      "v_src": "https://www.kedrion.com/wp-content/uploads/2026/04/Kedrion_FY2025_Investor_Presentation.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "在FY2025（截至2025年12月31日的年度）业绩第7页幻灯片中重点提及。收入按产品组披露，而非按该品牌披露；单个品牌收入仍未核实。不代表收入排名。产品详情：https://www.kedrion.us/therapies/",
+      "ind_zh": "狂犬病暴露后预防"
+    }
+  ]
+}

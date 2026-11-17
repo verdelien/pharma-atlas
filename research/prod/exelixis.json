@@ -1,0 +1,20 @@
+{
+  "id": "exelixis",
+  "rows": [
+    {
+      "b": "Cabometyx / Cometriq (US)",
+      "v": 2.123,
+      "v_note": "FY2025 ended December 31, 2025: CABOMETYX USD 2,113.369 million plus COMETRIQ USD 9.435 million = USD 2,122.804 million net product revenue, rounded to USD bn (2025 Form 10-K, p. 66).",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/939767/000093976726000021/exel-20260102.htm",
+      "v_note_zh": "FY2025截至2025年12月31日：CABOMETYX USD 2,113.369 million加COMETRIQ USD 9.435 million = USD 2,122.804 million产品净收入，四舍五入至USD bn（2025年Form 10-K，第66页）。"
+    },
+    {
+      "b": "Cabozantinib royalties",
+      "v": 0.179,
+      "v_note": "FY2025 ended December 31, 2025: Ipsen royalties USD 165.9 million plus Takeda royalties USD 13.2 million = USD 179.1 million, rounded to USD bn. Gross royalties received, excluding milestones and reimbursements; before Royalty Pharma payments (2025 Form 10-K, p. 67).",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/939767/000093976726000021/exel-20260102.htm",
+      "v_note_zh": "FY2025截至2025年12月31日：Ipsen特许权使用费USD 165.9 million加Takeda特许权使用费USD 13.2 million = USD 179.1 million，四舍五入至USD bn。为收到的特许权使用费总额，不含里程碑付款和报销款；未扣除向Royalty Pharma的付款（2025年Form 10-K，第67页）。"
+    }
+  ],
+  "new_products": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sumitomo",
+  "rows": [
+    {
+      "b": "Orgovyx",
+      "v": 1.029,
+      "v_note": "FY2025 ended March 31, 2026: US product sales of USD 1,029 million, reported directly in USD; USD bn.",
+      "v_src": "https://www.sumitomo-pharma.com/ir/library/financial_results_summary/assets/pdf/ebr20260513_2.pdf",
+      "v_note_zh": "FY2025截至2026年3月31日：美国产品销售额USD 1,029 million，直接以美元报告；USD bn。"
+    },
+    {
+      "b": "Gemtesa",
+      "v": 0.637,
+      "v_note": "FY2025 ended March 31, 2026: US product sales of USD 637 million, reported directly in USD; USD bn.",
+      "v_src": "https://www.sumitomo-pharma.com/ir/library/financial_results_summary/assets/pdf/ebr20260513_2.pdf",
+      "v_note_zh": "FY2025截至2026年3月31日：美国产品销售额USD 637 million，直接以美元报告；USD bn。"
+    },
+    {
+      "b": "Myfembree",
+      "v": 0.096,
+      "v_note": "FY2025 ended March 31, 2026: US product sales of USD 96 million, reported directly in USD; USD bn.",
+      "v_src": "https://www.sumitomo-pharma.com/ir/library/financial_results_summary/assets/pdf/ebr20260513_2.pdf",
+      "v_note_zh": "FY2025截至2026年3月31日：美国产品销售额USD 96 million，直接以美元报告；USD bn。"
+    }
+  ],
+  "new_products": []
+}

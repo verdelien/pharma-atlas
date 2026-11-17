@@ -1,0 +1,30 @@
+{
+  "id": "kyowakirin",
+  "rows": [
+    {
+      "b": "Crysvita",
+      "loe": [
+        {
+          "region": "All",
+          "value": "2032",
+          "note": "FY2025 results briefing states the product exclusivity period ends in this year; regional breakdown and lifecycle extensions are not specified.",
+          "src": "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/01111113/teaserItems1/00/linkList/04/link/transcript_2025_q4_en.pdf",
+          "note_zh": "FY2025业绩简报称该产品的独占期于当年结束；未说明分地区情况和生命周期延长措施。"
+        }
+      ]
+    },
+    {
+      "b": "Poteligeo",
+      "loe": [
+        {
+          "region": "All",
+          "value": "2030",
+          "note": "FY2025 results briefing states the product exclusivity period ends in this year; regional breakdown and lifecycle extensions are not specified.",
+          "src": "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/01111113/teaserItems1/00/linkList/04/link/transcript_2025_q4_en.pdf",
+          "note_zh": "FY2025业绩简报称该产品的独占期于当年结束；未说明分地区情况和生命周期延长措施。"
+        }
+      ]
+    }
+  ],
+  "new_products": []
+}

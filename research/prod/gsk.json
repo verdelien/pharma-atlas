@@ -1,0 +1,54 @@
+{
+  "id": "gsk",
+  "rows": [
+    {
+      "b": "Dovato",
+      "loe": [
+        {
+          "region": "US / EU",
+          "value": "2029",
+          "note": "Company guidance: US Dovato exclusivity through December 2029; European dolutegravir composition-of-matter protection through July 2029. US formulation/other patents extend coverage beyond the US compound patent.",
+          "src": "https://www.gsk.com/media/0qrlbtd4/getting-ahead-of-hiv-together-transcript.pdf",
+          "note_zh": "公司指引：美国Dovato独占期至2029年12月；欧洲dolutegravir化合物专利保护至2029年7月。美国制剂/其他专利的保护期超出美国化合物专利。"
+        }
+      ]
+    },
+    {
+      "b": "Trelegy Ellipta",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "FY2025 patent table: US new-molecular-entity patents 2027, other patents 2027-2031; EU new-molecular-entity patents 2029, other patents 2026-2032. No single worldwide generic-entry date established.",
+          "src": "https://www.gsk.com/media/0t2lqb2w/2025-annual-report-on-form-20-f.pdf",
+          "note_zh": "FY2025专利表：美国新分子实体专利2027年，其他专利2027-2031年；欧盟新分子实体专利2029年，其他专利2026-2032年。未确定单一的全球仿制药上市日期。"
+        }
+      ]
+    },
+    {
+      "b": "Nucala",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "FY2025 patent table lists US patents 2029-2036 and EU patents 2028-2036; no single worldwide biosimilar-entry date established.",
+          "src": "https://www.gsk.com/media/0t2lqb2w/2025-annual-report-on-form-20-f.pdf",
+          "note_zh": "FY2025专利表列示美国专利2029-2036年，欧盟专利2028-2036年；未确定单一的全球生物类似药上市日期。"
+        }
+      ]
+    },
+    {
+      "b": "Benlysta",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "FY2025 patent table: US new-molecular-entity patents expired, other patents 2029-2035; EU new-molecular-entity patents 2026, other patents 2035. No single worldwide biosimilar-entry date established.",
+          "src": "https://www.gsk.com/media/0t2lqb2w/2025-annual-report-on-form-20-f.pdf",
+          "note_zh": "FY2025专利表：美国新分子实体专利已到期，其他专利2029-2035年；欧盟新分子实体专利2026年，其他专利2035年。未确定单一的全球生物类似药上市日期。"
+        }
+      ]
+    }
+  ],
+  "new_products": []
+}

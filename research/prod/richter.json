@@ -1,0 +1,22 @@
+{
+  "id": "richter",
+  "rows": [
+    {
+      "b": "Cariprazine (Vraylar royalty and Reagila)",
+      "v": 0.752,
+      "v_note": "FY2025 (year ended 31 December 2025) cariprazine revenue HUF 264,701m, comprising Vraylar royalties and Reagila revenue; converted using the company-reported FY2025 average HUF 352.20 per USD. Annual report pp. 28 and 46.",
+      "v_src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/annual-general-meeting/en/2026/annual_report_2025_non_official_draft.pdf",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2030-03",
+          "note": "Annual report p. 29: FDA granted six months of additional pediatric market exclusivity, expiring 17 March 2030.",
+          "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/annual-general-meeting/en/2026/annual_report_2025_non_official_draft.pdf",
+          "note_zh": "年报第29页：FDA授予6个月额外儿科市场独占期，于2030年3月17日到期。"
+        }
+      ],
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）cariprazine收入HUF 264,701m，包括Vraylar特许权使用费和Reagila收入；按公司报告的FY2025平均汇率HUF 352.20/USD折算。年报第28和46页。"
+    }
+  ],
+  "new_products": []
+}

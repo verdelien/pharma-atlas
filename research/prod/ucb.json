@@ -1,0 +1,66 @@
+{
+  "id": "ucb",
+  "rows": [
+    {
+      "b": "Bimzelx",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Company indicative LOE: US 2035 without patent-term extension; Europe 2036; Japan 2037. A single global entry year is not disclosed.",
+          "src": "https://www.ucb.com/investors",
+          "note_zh": "公司预估的独占期结束：美国2035年（不含专利期限延长）；欧洲2036年；日本2037年。未披露单一的全球上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Cimzia",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Patent protection ended in US in February 2024 and EU in October 2024; Japan protection expires in 2026. Company reports no biosimilar competition and none expected near term. No single global entry date disclosed.",
+          "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase",
+          "note_zh": "美国专利保护于2024年2月结束，欧盟于2024年10月结束；日本保护于2026年到期。公司报告称无生物类似药竞争，且近期预计也不会有。未披露单一的全球上市日期。"
+        }
+      ]
+    },
+    {
+      "b": "Briviact",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Company H1 2026 results report US LOE occurred in February 2026 and EU LOE expected in August 2026. Japan indicative LOE is 2034 per investor page: https://www.ucb.com/investors. No global entry year disclosed.",
+          "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase",
+          "note_zh": "公司2026年上半年业绩报告称，美国独占期结束发生于2026年2月，欧盟独占期预计于2026年8月结束。据投资者页面，日本预估独占期结束为2034年：https://www.ucb.com/investors。未披露全球上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Fintepla",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Company indicative LOE: Europe and Japan 2032; US 2033. No single global entry year disclosed.",
+          "src": "https://www.ucb.com/investors",
+          "note_zh": "公司预估的独占期结束：欧洲和日本2032年；美国2033年。未披露单一的全球上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Rystiggo",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Company indicative LOE: Japan 2037; Europe 2034; US 2035, all without patent-term extension. No single global entry year disclosed.",
+          "src": "https://www.ucb.com/investors",
+          "note_zh": "公司预估的独占期结束：日本2037年；欧洲2034年；美国2035年，均不含专利期限延长。未披露单一的全球上市年份。"
+        }
+      ]
+    }
+  ],
+  "new_products": []
+}

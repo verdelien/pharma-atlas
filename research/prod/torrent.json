@@ -1,0 +1,71 @@
+{
+  "id": "torrent",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Shelcal 500",
+      "g": "calcium + cholecalciferol (vitamin D3)",
+      "ind": "Calcium and vitamin D supplementation",
+      "v": null,
+      "v_note": "Company-highlighted key brand, not a verified revenue ranking. Individual product revenue for FY ended March 31, 2026 remains unverified; company reporting emphasizes therapeutic areas and brand size bands. FY26 portfolio source: https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf; composition/therapy source: https://www.torrentpharma.com/pi/IN/products/",
+      "v_src": "https://www.torrentpharma.com/pi/IN/products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的核心品牌，并非经核实的收入排名。截至2026年3月31日的财年，单个产品收入未核实；公司报告强调治疗领域和品牌规模区间。FY26产品组合来源：https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf；成分/治疗来源：https://www.torrentpharma.com/pi/IN/products/",
+      "ind_zh": "钙和维生素D补充"
+    },
+    {
+      "b": "Chymoral Forte",
+      "g": "trypsin + chymotrypsin",
+      "ind": "Wound management",
+      "v": null,
+      "v_note": "Company-highlighted key brand, not a verified revenue ranking. Individual product revenue for FY ended March 31, 2026 remains unverified; company reporting emphasizes therapeutic areas and brand size bands. FY26 portfolio source: https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf; composition/therapy source: https://www.torrentpharma.com/pdf/theraputic_areas/Pain_Therapy.pdf",
+      "v_src": "https://www.torrentpharma.com/pi/IN/products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的核心品牌，并非经核实的收入排名。截至2026年3月31日的财年，单个产品收入未核实；公司报告强调治疗领域和品牌规模区间。FY26产品组合来源：https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf；成分/治疗来源：https://www.torrentpharma.com/pdf/theraputic_areas/Pain_Therapy.pdf",
+      "ind_zh": "伤口管理"
+    },
+    {
+      "b": "Nexpro",
+      "g": "esomeprazole",
+      "ind": "Gastroesophageal reflux disease; erosive esophagitis",
+      "v": null,
+      "v_note": "Company-highlighted key brand, not a verified revenue ranking. Individual product revenue for FY ended March 31, 2026 remains unverified; company reporting emphasizes therapeutic areas and brand size bands. FY26 portfolio source: https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf; composition/therapy source: https://www.torrentpharma.com/pi/storage/Upload/PI_ROW/80.pdf",
+      "v_src": "https://www.torrentpharma.com/pi/IN/products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的核心品牌，并非经核实的收入排名。截至2026年3月31日的财年，单个产品收入未核实；公司报告强调治疗领域和品牌规模区间。FY26产品组合来源：https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf；成分/治疗来源：https://www.torrentpharma.com/pi/storage/Upload/PI_ROW/80.pdf",
+      "ind_zh": "胃食管反流病；糜烂性食管炎"
+    },
+    {
+      "b": "Veloz",
+      "g": "rabeprazole",
+      "ind": "Gastroesophageal reflux disease; peptic ulcers",
+      "v": null,
+      "v_note": "Company-highlighted key brand, not a verified revenue ranking. Individual product revenue for FY ended March 31, 2026 remains unverified; company reporting emphasizes therapeutic areas and brand size bands. FY26 portfolio source: https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf; composition/therapy source: https://www.torrentpharma.com/assets/98_76fad32d09.pdf",
+      "v_src": "https://www.torrentpharma.com/pi/IN/products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的核心品牌，并非经核实的收入排名。截至2026年3月31日的财年，单个产品收入未核实；公司报告强调治疗领域和品牌规模区间。FY26产品组合来源：https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf；成分/治疗来源：https://www.torrentpharma.com/assets/98_76fad32d09.pdf",
+      "ind_zh": "胃食管反流病；消化性溃疡"
+    },
+    {
+      "b": "Losar",
+      "g": "losartan",
+      "ind": "Hypertension",
+      "v": null,
+      "v_note": "Company-highlighted key brand, not a verified revenue ranking. Individual product revenue for FY ended March 31, 2026 remains unverified; company reporting emphasizes therapeutic areas and brand size bands. FY26 portfolio source: https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf; composition/therapy source: https://www.torrentpharma.com/pi/storage/Upload/PI_Sheet/Abbreviated_PI/2927.pdf",
+      "v_src": "https://www.torrentpharma.com/pi/IN/products/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的核心品牌，并非经核实的收入排名。截至2026年3月31日的财年，单个产品收入未核实；公司报告强调治疗领域和品牌规模区间。FY26产品组合来源：https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf；成分/治疗来源：https://www.torrentpharma.com/pi/storage/Upload/PI_Sheet/Abbreviated_PI/2927.pdf",
+      "ind_zh": "高血压"
+    }
+  ]
+}

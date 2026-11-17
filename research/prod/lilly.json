@@ -1,0 +1,13 @@
+{
+  "id": "lilly",
+  "rows": [
+    {
+      "b": "Trulicity",
+      "v": 4.276,
+      "v_note": "FY2025 revenue: USD 2,914 million US plus USD 1,362 million outside the US, totaling USD 4,276 million (2025 Form 10-K, Note 2).",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm",
+      "v_note_zh": "FY2025收入：美国USD 2,914 million加美国以外USD 1,362 million，合计USD 4,276 million（2025年Form 10-K，附注2）。"
+    }
+  ],
+  "new_products": []
+}

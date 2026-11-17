@@ -1,0 +1,71 @@
+{
+  "id": "octapharma",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Octagam",
+      "g": "immune globulin intravenous (human)",
+      "ind": "Primary humoral immunodeficiency (5%); adult immune thrombocytopenia and dermatomyositis (10%)",
+      "v": null,
+      "v_note": "FY2025 (year ended December 31, 2025): individual product revenue not disclosed in the annual report reviewed. Company-highlighted portfolio selection; no revenue ranking asserted. Product identity and indications: https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/octagam",
+      "v_src": "https://www.octapharma.com/api/download/x/43b698dc9e/octapharma_ar2025_english.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）：在已审阅的年报中未披露单个产品收入。公司重点推介的产品组合选择；不含收入排名。产品身份和适应症：https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/octagam",
+      "ind_zh": "原发性体液免疫缺陷（5%）；成人免疫性血小板减少症和皮肌炎（10%）"
+    },
+    {
+      "b": "Panzyga",
+      "g": "immune globulin intravenous (human)-ifas",
+      "ind": "Primary humoral immunodeficiency; adult immune thrombocytopenia; adult chronic inflammatory demyelinating polyneuropathy",
+      "v": null,
+      "v_note": "FY2025 (year ended December 31, 2025): individual product revenue not disclosed in the annual report reviewed. Company-highlighted portfolio selection; no revenue ranking asserted. Product identity and indications: https://www.octapharmausa.com/api/download/x/3e9621e276/panzygapi.pdf",
+      "v_src": "https://www.octapharma.com/api/download/x/43b698dc9e/octapharma_ar2025_english.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）：在已审阅的年报中未披露单个产品收入。公司重点推介的产品组合选择；不含收入排名。产品身份和适应症：https://www.octapharmausa.com/api/download/x/3e9621e276/panzygapi.pdf",
+      "ind_zh": "原发性体液免疫缺陷；成人免疫性血小板减少症；成人慢性炎性脱髓鞘性多发性神经病"
+    },
+    {
+      "b": "Wilate",
+      "g": "von Willebrand factor/coagulation factor VIII complex (human)",
+      "ind": "von Willebrand disease; haemophilia A",
+      "v": null,
+      "v_note": "FY2025 (year ended December 31, 2025): individual product revenue not disclosed in the annual report reviewed. Company-highlighted portfolio selection; no revenue ranking asserted. Product identity and indications: https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/wilate",
+      "v_src": "https://www.octapharma.com/api/download/x/43b698dc9e/octapharma_ar2025_english.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）：在已审阅的年报中未披露单个产品收入。公司重点推介的产品组合选择；不含收入排名。产品身份和适应症：https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/wilate",
+      "ind_zh": "von Willebrand病；A型血友病"
+    },
+    {
+      "b": "Nuwiq",
+      "g": "antihemophilic factor (recombinant)",
+      "ind": "Haemophilia A",
+      "v": null,
+      "v_note": "FY2025 (year ended December 31, 2025): individual product revenue not disclosed in the annual report reviewed. Company-highlighted portfolio selection; no revenue ranking asserted. Product identity and indications: https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/nuwiq",
+      "v_src": "https://www.octapharma.com/api/download/x/43b698dc9e/octapharma_ar2025_english.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）：在已审阅的年报中未披露单个产品收入。公司重点推介的产品组合选择；不含收入排名。产品身份和适应症：https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/nuwiq",
+      "ind_zh": "A型血友病"
+    },
+    {
+      "b": "Cutaquig",
+      "g": "immune globulin subcutaneous (human)-hipp",
+      "ind": "Primary humoral immunodeficiency",
+      "v": null,
+      "v_note": "FY2025 (year ended December 31, 2025): individual product revenue not disclosed in the annual report reviewed. Company-highlighted portfolio selection; no revenue ranking asserted. Product identity and indications: https://www.fda.gov/vaccines-blood-biologics/cutaquig",
+      "v_src": "https://www.octapharma.com/api/download/x/43b698dc9e/octapharma_ar2025_english.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）：在已审阅的年报中未披露单个产品收入。公司重点推介的产品组合选择；不含收入排名。产品身份和适应症：https://www.fda.gov/vaccines-blood-biologics/cutaquig",
+      "ind_zh": "原发性体液免疫缺陷"
+    }
+  ]
+}

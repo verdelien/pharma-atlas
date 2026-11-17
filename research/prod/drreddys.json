@@ -1,0 +1,71 @@
+{
+  "id": "drreddys",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Omez",
+      "g": "omeprazole",
+      "ind": "Acid-related gastrointestinal disorders",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY2026): individual product revenue not verified in reviewed disclosures. Company-highlighted product; no revenue ranking asserted. This source supports the ingredient and indication. Omez is also named among leading Russian brands in the FY2026 Form 20-F: https://www.sec.gov/Archives/edgar/data/1135951/000157587226000381/rdy0899_20f.htm",
+      "v_src": "https://www.drreddys.co.za/our-products",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY2026）：在已审阅的披露中，单个产品收入未核实。公司重点推介的产品；不代表收入排名。该来源支持成分和适应症信息。FY2026 Form 20-F还将Omez列为俄罗斯主要品牌之一：https://www.sec.gov/Archives/edgar/data/1135951/000157587226000381/rdy0899_20f.htm",
+      "ind_zh": "酸相关胃肠道疾病"
+    },
+    {
+      "b": "Nicotinell",
+      "g": "nicotine",
+      "ind": "Smoking cessation and nicotine withdrawal",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY2026): individual product revenue not verified in reviewed disclosures. Company-highlighted product; no revenue ranking asserted. This source supports the ingredient and indication. Highlighted NRT portfolio: https://www.drreddys.com/consumer-health",
+      "v_src": "https://www.medicines.org.uk/emc/product/6253/smpc",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY2026）：在已审阅的披露中，单个产品收入未核实。公司重点推介的产品；不代表收入排名。该来源支持成分和适应症信息。重点推介的NRT产品组合：https://www.drreddys.com/consumer-health",
+      "ind_zh": "戒烟和尼古丁戒断"
+    },
+    {
+      "b": "Zytorvi",
+      "g": "toripalimab",
+      "ind": "Nasopharyngeal carcinoma",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY2026): individual product revenue not verified in reviewed disclosures. Company-highlighted product; no revenue ranking asserted. This source supports the ingredient and indication.",
+      "v_src": "https://www.drreddysbiologics.com/products/Zytorvi_R",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY2026）：在已审阅的披露中，单个产品收入未核实。公司重点推介的产品；不代表收入排名。该来源支持成分和适应症信息。",
+      "ind_zh": "鼻咽癌"
+    },
+    {
+      "b": "BixiBat",
+      "g": "elobixibat",
+      "ind": "Chronic constipation",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY2026): individual product revenue not verified in reviewed disclosures. Company-highlighted product; no revenue ranking asserted. This source supports the ingredient and indication.",
+      "v_src": "https://www.drreddys.com/cms/cms/sites/default/files/2024-10/Bixibat-%20PR-%20Final%20-%2028th%20Oct%202024.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY2026）：在已审阅的披露中，单个产品收入未核实。公司重点推介的产品；不代表收入排名。该来源支持成分和适应症信息。",
+      "ind_zh": "慢性便秘"
+    },
+    {
+      "b": "VONO",
+      "g": "vonoprazan",
+      "ind": "Reflux oesophagitis and other acid peptic disorders",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY2026): individual product revenue not verified in reviewed disclosures. Company-highlighted product; no revenue ranking asserted. This source supports the ingredient and indication.",
+      "v_src": "https://www.drreddys.com/cms/cms/sites/default/files/2024-07/Dr.%20Reddy%27s%20and%20Takeda.pdf",
+      "yr": null,
+      "o": "licensed",
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY2026）：在已审阅的披露中，单个产品收入未核实。公司重点推介的产品；不代表收入排名。该来源支持成分和适应症信息。",
+      "ind_zh": "反流性食管炎和其他酸性消化性疾病"
+    }
+  ]
+}

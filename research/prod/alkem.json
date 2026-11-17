@@ -1,0 +1,71 @@
+{
+  "id": "alkem",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "PAN",
+      "g": "pantoprazole",
+      "ind": "Gastroesophageal reflux disease; gastric and duodenal ulcers",
+      "v": null,
+      "v_note": "Company-highlighted branded product. FY ended March 31, 2026 recognized company revenue for this product remains unverified; IQVIA brand sales are not treated as recognized company revenue. Product/composition and therapy source: https://www.alkemlabs.com/pdf/adverse/PAN.pdf",
+      "v_src": "https://www.alkemlabs.com/our-offerings/rx-products",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的品牌产品。截至2026年3月31日的财年，该产品的公司确认收入尚未核实；IQVIA品牌销售额不视为公司确认收入。产品/成分及治疗领域来源：https://www.alkemlabs.com/pdf/adverse/PAN.pdf",
+      "ind_zh": "胃食管反流病；胃溃疡和十二指肠溃疡"
+    },
+    {
+      "b": "CLAVAM",
+      "g": "amoxicillin + clavulanic acid",
+      "ind": "Bacterial infections",
+      "v": null,
+      "v_note": "Company-highlighted branded product. FY ended March 31, 2026 recognized company revenue for this product remains unverified; IQVIA brand sales are not treated as recognized company revenue. Product/composition and therapy source: https://www.alkemlabs.com/our-offerings/rx-products",
+      "v_src": "https://www.alkemlabs.com/our-offerings/rx-products",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的品牌产品。截至2026年3月31日的财年，该产品的公司确认收入尚未核实；IQVIA品牌销售额不视为公司确认收入。产品/成分及治疗领域来源：https://www.alkemlabs.com/our-offerings/rx-products",
+      "ind_zh": "细菌感染"
+    },
+    {
+      "b": "PAN-D",
+      "g": "pantoprazole + domperidone",
+      "ind": "Gastroesophageal reflux disease",
+      "v": null,
+      "v_note": "Company-highlighted branded product. FY ended March 31, 2026 recognized company revenue for this product remains unverified; IQVIA brand sales are not treated as recognized company revenue. Product/composition and therapy source: https://www.alkemlabs.com/pdf/adverse/PAN%20D.pdf",
+      "v_src": "https://www.alkemlabs.com/our-offerings/rx-products",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的品牌产品。截至2026年3月31日的财年，该产品的公司确认收入尚未核实；IQVIA品牌销售额不视为公司确认收入。产品/成分及治疗领域来源：https://www.alkemlabs.com/pdf/adverse/PAN%20D.pdf",
+      "ind_zh": "胃食管反流病"
+    },
+    {
+      "b": "A TO Z NS",
+      "g": "multivitamins and multiminerals",
+      "ind": "Vitamin and mineral supplementation",
+      "v": null,
+      "v_note": "Company-highlighted branded product. FY ended March 31, 2026 recognized company revenue for this product remains unverified; IQVIA brand sales are not treated as recognized company revenue. Product/composition and therapy source: https://www.alkemlabs.com/our-offerings/rx-products",
+      "v_src": "https://www.alkemlabs.com/our-offerings/rx-products",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的品牌产品。截至2026年3月31日的财年，该产品的公司确认收入尚未核实；IQVIA品牌销售额不视为公司确认收入。产品/成分及治疗领域来源：https://www.alkemlabs.com/our-offerings/rx-products",
+      "ind_zh": "维生素和矿物质补充"
+    },
+    {
+      "b": "TAXIM-O",
+      "g": "cefixime",
+      "ind": "Bacterial infections",
+      "v": null,
+      "v_note": "Company-highlighted branded product. FY ended March 31, 2026 recognized company revenue for this product remains unverified; IQVIA brand sales are not treated as recognized company revenue. Product/composition and therapy source: https://www.alkemlabs.com/our-offerings/rx-products",
+      "v_src": "https://www.alkemlabs.com/our-offerings/rx-products",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的品牌产品。截至2026年3月31日的财年，该产品的公司确认收入尚未核实；IQVIA品牌销售额不视为公司确认收入。产品/成分及治疗领域来源：https://www.alkemlabs.com/our-offerings/rx-products",
+      "ind_zh": "细菌感染"
+    }
+  ]
+}

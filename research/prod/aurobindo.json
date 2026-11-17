@@ -1,0 +1,58 @@
+{
+  "id": "aurobindo",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Dazublys",
+      "g": "trastuzumab",
+      "ind": "HER2-positive breast cancer; HER2-positive metastatic gastric cancer",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual product sales not disclosed in the FY26 results presentation. Selected from company-highlighted commercial biosimilars; no company-wide revenue ranking asserted. Ingredient and indication: https://www.ema.europa.eu/en/documents/product-information/dazublys-epar-product-information_en.pdf",
+      "v_src": "https://www.aurobindo.com/api/uploads/resultsannouncement/APL_EarningsPresentation_Q4FY26.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。FY26业绩演示材料中未披露单个产品销售额。选自公司重点推介的已上市生物类似药；不代表公司整体收入排名。成分和适应症：https://www.ema.europa.eu/en/documents/product-information/dazublys-epar-product-information_en.pdf",
+      "ind_zh": "HER2阳性乳腺癌；HER2阳性转移性胃癌"
+    },
+    {
+      "b": "Zefylti",
+      "g": "filgrastim",
+      "ind": "Neutropenia, including chemotherapy-associated neutropenia; mobilisation of blood stem cells",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual product sales not disclosed in the FY26 results presentation. Selected from company-highlighted commercial biosimilars; no company-wide revenue ranking asserted. Ingredient and indication: https://www.ema.europa.eu/en/medicines/human/EPAR/zefylti",
+      "v_src": "https://www.aurobindo.com/api/uploads/resultsannouncement/APL_EarningsPresentation_Q4FY26.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。FY26业绩演示材料中未披露单个产品销售额。选自公司重点推介的已上市生物类似药；不代表公司整体收入排名。成分和适应症：https://www.ema.europa.eu/en/medicines/human/EPAR/zefylti",
+      "ind_zh": "中性粒细胞减少症，包括化疗相关中性粒细胞减少症；血液干细胞动员"
+    },
+    {
+      "b": "Dyrupeg",
+      "g": "pegfilgrastim",
+      "ind": "Reduction of chemotherapy-associated neutropenia and febrile neutropenia",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual product sales not disclosed in the FY26 results presentation. Selected from company-highlighted commercial biosimilars; no company-wide revenue ranking asserted. Ingredient and indication: https://www.ema.europa.eu/en/medicines/human/EPAR/dyrupeg",
+      "v_src": "https://www.aurobindo.com/api/uploads/resultsannouncement/APL_EarningsPresentation_Q4FY26.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。FY26业绩演示材料中未披露单个产品销售额。选自公司重点推介的已上市生物类似药；不代表公司整体收入排名。成分和适应症：https://www.ema.europa.eu/en/medicines/human/EPAR/dyrupeg",
+      "ind_zh": "降低化疗相关中性粒细胞减少症和发热性中性粒细胞减少症的发生"
+    },
+    {
+      "b": "Bevqolva",
+      "g": "bevacizumab",
+      "ind": "Metastatic colorectal and breast cancers; advanced non-squamous non-small-cell lung cancer; advanced renal cell cancer",
+      "v": null,
+      "v_note": "Year ended March 31, 2026 (brief FY2025 basis; company FY26). Individual product sales not disclosed in the FY26 results presentation. Selected from company-highlighted commercial biosimilars; no company-wide revenue ranking asserted. Ingredient and indication: https://www.medicines.org.uk/emc/product/101615/smpc",
+      "v_src": "https://www.aurobindo.com/api/uploads/resultsannouncement/APL_EarningsPresentation_Q4FY26.pdf",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "截至2026年3月31日的年度（简称FY2025口径；公司FY26）。FY26业绩演示材料中未披露单个产品销售额。选自公司重点推介的已上市生物类似药；不代表公司整体收入排名。成分和适应症：https://www.medicines.org.uk/emc/product/101615/smpc",
+      "ind_zh": "转移性结直肠癌和乳腺癌；晚期非鳞状非小细胞肺癌；晚期肾细胞癌"
+    }
+  ]
+}

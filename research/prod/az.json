@@ -1,0 +1,77 @@
+{
+  "id": "az",
+  "rows": [
+    {
+      "b": "Farxiga / Forxiga",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2026",
+          "note": "Principal patent expiry including granted extensions; additional patents run through 2041. Patent table as at 10 February 2026; generic entry may occur earlier following challenges.",
+          "src": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Patent_Expiries_of_Key_Marketed_Products_2025.pdf",
+          "note_zh": "主要专利到期日（含已授予的延期）；其他专利持续至2041年。专利表截至2026年2月10日；受挑战影响，仿制药可能更早上市。"
+        },
+        {
+          "region": "EU",
+          "value": "2028",
+          "note": "Principal patent expiry; other listed patents expire in 2027, 2028 and 2041. National outcomes differ; this is not a uniform EU launch date.",
+          "src": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Patent_Expiries_of_Key_Marketed_Products_2025.pdf",
+          "note_zh": "主要专利到期日；其他列明专利将于2027年、2028年和2041年到期。各国结果不同；这并非统一的欧盟上市日期。"
+        }
+      ]
+    },
+    {
+      "b": "Tagrisso",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Patent table lists 2032 and 2035 in US, China and EU; 2034 and 2035 in Japan. A single global generic-entry year is not disclosed.",
+          "src": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Patent_Expiries_of_Key_Marketed_Products_2025.pdf",
+          "note_zh": "专利表列示美国、中国和欧盟为2032年和2035年；日本为2034年和2035年。未披露单一的全球仿制药上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Imfinzi",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Company patent table: US 2031; China and EU 2030; Japan 2033. No single global biosimilar-entry year disclosed.",
+          "src": "https://www.sec.gov/Archives/edgar/data/901832/000110465926019130/azn-20251231x20f.htm",
+          "note_zh": "公司专利表：美国2031年；中国和欧盟2030年；日本2033年。未披露单一的全球生物类似药上市年份。"
+        }
+      ]
+    },
+    {
+      "b": "Ultomiris",
+      "v": 4.718,
+      "v_note": "FY2025 product sales, USD 4,718 million; includes Voydeya as disclosed in the patent-table footnote.",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/901832/000110465926019130/azn-20251231xex15d1.htm",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Patents: US 2035 and 2038–2041; China 2035 and 2038; EU 2035 and 2038–2040; Japan 2038 and 2038–2039. No single global biosimilar-entry year disclosed.",
+          "src": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Patent_Expiries_of_Key_Marketed_Products_2025.pdf",
+          "note_zh": "专利：美国2035年和2038–2041年；中国2035年和2038年；欧盟2035年和2038–2040年；日本2038年和2038–2039年。未披露单一的全球生物类似药上市年份。"
+        }
+      ],
+      "v_note_zh": "FY2025产品销售额USD 4,718 million；包含Voydeya，如专利表脚注所披露。"
+    },
+    {
+      "b": "Calquence",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Patent expiries differ: US 2026–2032 and 2032–2036; China 2032 and 2036; EU 2032–2035 and 2035–2036; Japan 2037 and 2036. No global generic-entry year disclosed.",
+          "src": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Patent_Expiries_of_Key_Marketed_Products_2025.pdf",
+          "note_zh": "专利到期日各异：美国2026–2032年和2032–2036年；中国2032年和2036年；欧盟2032–2035年和2035–2036年；日本2037年和2036年。未披露全球仿制药上市年份。"
+        }
+      ]
+    }
+  ],
+  "new_products": []
+}

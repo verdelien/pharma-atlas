@@ -1,0 +1,71 @@
+{
+  "id": "biocon",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Ogivri",
+      "g": "trastuzumab",
+      "ind": "HER2-positive breast cancer and metastatic gastric cancer",
+      "v": null,
+      "v_note": "Company-highlighted commercial biosimilar; not a revenue ranking. Individual product revenue for the year ended March 31, 2026 was not verified in the reviewed FY26 results (https://www.biocon.com/biocon-q4fy26-revenue/). Product and indication source: https://www.bioconbiologics.com/th-th/",
+      "v_src": "https://www.bioconbiologics.com/th-th/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的已上市生物类似药；不代表收入排名。在已审阅的FY26业绩（https://www.biocon.com/biocon-q4fy26-revenue/）中，截至2026年3月31日的年度单个产品收入未核实。产品和适应症来源：https://www.bioconbiologics.com/th-th/",
+      "ind_zh": "HER2阳性乳腺癌和转移性胃癌"
+    },
+    {
+      "b": "Abevmy",
+      "g": "bevacizumab",
+      "ind": "Colorectal, lung and kidney cancers",
+      "v": null,
+      "v_note": "Company-highlighted commercial biosimilar; not a revenue ranking. Individual product revenue for the year ended March 31, 2026 was not verified in the reviewed FY26 results (https://www.biocon.com/biocon-q4fy26-revenue/). Product and indication source: https://www.bioconbiologics.com/th-th/",
+      "v_src": "https://www.bioconbiologics.com/th-th/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的已上市生物类似药；不代表收入排名。在已审阅的FY26业绩（https://www.biocon.com/biocon-q4fy26-revenue/）中，截至2026年3月31日的年度单个产品收入未核实。产品和适应症来源：https://www.bioconbiologics.com/th-th/",
+      "ind_zh": "结直肠癌、肺癌和肾癌"
+    },
+    {
+      "b": "Fulphila",
+      "g": "pegfilgrastim",
+      "ind": "Reduction of infection risk in patients receiving chemotherapy",
+      "v": null,
+      "v_note": "Company-highlighted commercial biosimilar; not a revenue ranking. Individual product revenue for the year ended March 31, 2026 was not verified in the reviewed FY26 results (https://www.biocon.com/biocon-q4fy26-revenue/). Product and indication source: https://www.bioconbiologics.com/th-th/",
+      "v_src": "https://www.bioconbiologics.com/th-th/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的已上市生物类似药；不代表收入排名。在已审阅的FY26业绩（https://www.biocon.com/biocon-q4fy26-revenue/）中，截至2026年3月31日的年度单个产品收入未核实。产品和适应症来源：https://www.bioconbiologics.com/th-th/",
+      "ind_zh": "降低接受化疗患者的感染风险"
+    },
+    {
+      "b": "Semglee",
+      "g": "insulin glargine",
+      "ind": "Diabetes mellitus",
+      "v": null,
+      "v_note": "Company-highlighted commercial biosimilar; not a revenue ranking. Individual product revenue for the year ended March 31, 2026 was not verified in the reviewed FY26 results (https://www.biocon.com/biocon-q4fy26-revenue/). Product and indication source: https://www.bioconbiologics.com/th-th/",
+      "v_src": "https://www.bioconbiologics.com/th-th/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的已上市生物类似药；不代表收入排名。在已审阅的FY26业绩（https://www.biocon.com/biocon-q4fy26-revenue/）中，截至2026年3月31日的年度单个产品收入未核实。产品和适应症来源：https://www.bioconbiologics.com/th-th/",
+      "ind_zh": "糖尿病"
+    },
+    {
+      "b": "Hulio",
+      "g": "adalimumab",
+      "ind": "Autoimmune diseases, including rheumatoid arthritis and psoriasis",
+      "v": null,
+      "v_note": "Company-highlighted commercial biosimilar; not a revenue ranking. Individual product revenue for the year ended March 31, 2026 was not verified in the reviewed FY26 results (https://www.biocon.com/biocon-q4fy26-revenue/). Product and indication source: https://www.bioconbiologics.com/th-th/",
+      "v_src": "https://www.bioconbiologics.com/th-th/",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "公司重点推介的已上市生物类似药；不代表收入排名。在已审阅的FY26业绩（https://www.biocon.com/biocon-q4fy26-revenue/）中，截至2026年3月31日的年度单个产品收入未核实。产品和适应症来源：https://www.bioconbiologics.com/th-th/",
+      "ind_zh": "自身免疫性疾病，包括类风湿关节炎和银屑病"
+    }
+  ]
+}

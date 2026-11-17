@@ -1,0 +1,27 @@
+{
+  "id": "roche",
+  "rows": [
+    {
+      "b": "Hemlibra",
+      "v": 5.728,
+      "v_note": "FY2025 Roche-reported product sales, CHF 4,754 million; converted at company average FY2025 rate of CHF 0.83 per USD 1 (results presentation, slide 175: https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf).",
+      "v_src": "https://www.roche.com/media/releases/med-cor-2026-01-29",
+      "v_note_zh": "FY2025 Roche报告产品销售额CHF 4,754 million；按公司FY2025平均汇率CHF 0.83/USD 1折算（业绩演示材料，第175页幻灯片：https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf）。"
+    },
+    {
+      "b": "Xolair",
+      "v": 3.705,
+      "v_note": "FY2025 Roche-reported product sales, CHF 3,075 million; converted at company average FY2025 rate of CHF 0.83 per USD 1 (results presentation, slide 175: https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf). Roche-reported US sales only; excludes sales reported by Novartis outside the US.",
+      "v_src": "https://www.roche.com/media/releases/med-cor-2026-01-29",
+      "v_note_zh": "FY2025 Roche报告产品销售额CHF 3,075 million；按公司FY2025平均汇率CHF 0.83/USD 1折算（业绩演示材料，第175页幻灯片：https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf）。仅为Roche报告的美国销售额；不含Novartis报告的美国以外销售额。"
+    },
+    {
+      "b": "Phesgo",
+      "v": 2.941,
+      "v_note": "FY2025 Roche-reported product sales, CHF 2,441 million; converted at company average FY2025 rate of CHF 0.83 per USD 1 (results presentation, slide 175: https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf).",
+      "v_src": "https://www.roche.com/media/releases/med-cor-2026-01-29",
+      "v_note_zh": "FY2025 Roche报告产品销售额CHF 2,441 million；按公司FY2025平均汇率CHF 0.83/USD 1折算（业绩演示材料，第175页幻灯片：https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf）。"
+    }
+  ],
+  "new_products": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "tanabe",
+  "rows": [],
+  "new_products": [
+    {
+      "b": "Radicava / Radicut",
+      "g": "edaravone",
+      "ind": "Amyotrophic lateral sclerosis",
+      "v": null,
+      "v_note": "FY2025 (year ended March 31, 2026). Company profile reports consolidated revenue only; individual FY2025 product revenue not verified. Company-highlighted marketed products; no revenue ranking asserted. Ingredient, indication and any stated origin: https://www.tanabe-pharma.com/en/news/rel_251222/main/0/link/e_rel_251222.pdf Rights in major markets transferred to Shionogi on April 1, 2026, after the reporting period: https://www.tanabe-pharma.com/en/news/rel_260402/main/0/link/e_rel_260402.pdf",
+      "v_src": "https://www.tanabe-pharma.com/en/company/outline.html",
+      "yr": null,
+      "o": "internal",
+      "loe": [],
+      "v_note_zh": "FY2025（截至2026年3月31日的年度）。公司简介仅报告合并收入；单个产品FY2025收入未核实。公司重点推介的已上市产品；不含收入排名。成分、适应症及任何注明的来源：https://www.tanabe-pharma.com/en/news/rel_251222/main/0/link/e_rel_251222.pdf 主要市场的权利已于2026年4月1日（报告期之后）转让给Shionogi：https://www.tanabe-pharma.com/en/news/rel_260402/main/0/link/e_rel_260402.pdf",
+      "ind_zh": "肌萎缩侧索硬化"
+    },
+    {
+      "b": "Simponi",
+      "g": "golimumab",
+      "ind": "Rheumatoid arthritis; ulcerative colitis",
+      "v": null,
+      "v_note": "FY2025 (year ended March 31, 2026). Company profile reports consolidated revenue only; individual FY2025 product revenue not verified. Company-highlighted marketed products; no revenue ranking asserted. Ingredient, indication and any stated origin: https://www.tanabe-pharma.com/en/news/storage/20170330103059/pdf/e_MTPC170330.pdf Tanabe describes Japanese co-promotion with Janssen. No ownership category inferred from co-promotion.",
+      "v_src": "https://www.tanabe-pharma.com/en/company/outline.html",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "FY2025（截至2026年3月31日的年度）。公司简介仅报告合并收入；单个产品FY2025收入未核实。公司重点推介的已上市产品；不含收入排名。成分、适应症及任何注明的来源：https://www.tanabe-pharma.com/en/news/storage/20170330103059/pdf/e_MTPC170330.pdf Tanabe称在日本与Janssen共同推广。未根据共同推广推断所有权类别。",
+      "ind_zh": "类风湿关节炎；溃疡性结肠炎"
+    },
+    {
+      "b": "Uplizna",
+      "g": "inebilizumab",
+      "ind": "Prevention of relapses in neuromyelitis optica spectrum disorder",
+      "v": null,
+      "v_note": "FY2025 (year ended March 31, 2026). Company profile reports consolidated revenue only; individual FY2025 product revenue not verified. Company-highlighted marketed products; no revenue ranking asserted. Ingredient, indication and any stated origin: https://www.tanabe-pharma.com/en/news/storage/20210601103057/pdf/e_MTPC210601.pdf Indication stated here is the original Japanese indication. Company also highlights additional Japanese indications in its 2025-26 news index: https://www.tanabe-pharma.com/en/news.html",
+      "v_src": "https://www.tanabe-pharma.com/en/company/outline.html",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "FY2025（截至2026年3月31日的年度）。公司简介仅报告合并收入；单个产品FY2025收入未核实。公司重点推介的已上市产品；不含收入排名。成分、适应症及任何注明的来源：https://www.tanabe-pharma.com/en/news/storage/20210601103057/pdf/e_MTPC210601.pdf 此处所述适应症为日本最初的适应症。公司还在其2025-26年新闻索引中重点提及其他日本适应症：https://www.tanabe-pharma.com/en/news.html",
+      "ind_zh": "预防视神经脊髓炎谱系障碍复发"
+    },
+    {
+      "b": "Tenelia",
+      "g": "teneligliptin hydrobromide hydrate",
+      "ind": "Type 2 diabetes mellitus",
+      "v": null,
+      "v_note": "FY2025 (year ended March 31, 2026). Company profile reports consolidated revenue only; individual FY2025 product revenue not verified. Company-highlighted marketed products; no revenue ranking asserted. Ingredient, indication and any stated origin: https://www.tanabe-pharma.com/en/news/storage/20210618103025/pdf/e_MTPC210618.pdf",
+      "v_src": "https://www.tanabe-pharma.com/en/company/outline.html",
+      "yr": null,
+      "o": null,
+      "loe": [],
+      "v_note_zh": "FY2025（截至2026年3月31日的年度）。公司简介仅报告合并收入；单个产品FY2025收入未核实。公司重点推介的已上市产品；不含收入排名。成分、适应症及任何注明的来源：https://www.tanabe-pharma.com/en/news/storage/20210618103025/pdf/e_MTPC210618.pdf",
+      "ind_zh": "2型糖尿病"
+    },
+    {
+      "b": "Canaglu",
+      "g": "canagliflozin",
+      "ind": "Type 2 diabetes mellitus",
+      "v": null,
+      "v_note": "FY2025 (year ended March 31, 2026). Company profile reports consolidated revenue only; individual FY2025 product revenue not verified. Company-highlighted marketed products; no revenue ranking asserted. Ingredient, indication and any stated origin: https://www.tanabe-pharma.com/en/news/news20250509103067/main/0/link/e_MTPC250509.pdf",
+      "v_src": "https://www.tanabe-pharma.com/en/company/outline.html",
+      "yr": null,
+      "o": "internal",
+      "loe": [],
+      "v_note_zh": "FY2025（截至2026年3月31日的年度）。公司简介仅报告合并收入；单个产品FY2025收入未核实。公司重点推介的已上市产品；不含收入排名。成分、适应症及任何注明的来源：https://www.tanabe-pharma.com/en/news/news20250509103067/main/0/link/e_MTPC250509.pdf",
+      "ind_zh": "2型糖尿病"
+    }
+  ]
+}
