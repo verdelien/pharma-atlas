@@ -1,0 +1,1474 @@
+{
+ "rows": {
+  "jnj": [
+   {
+    "b": "Darzalex / Darzalex Faspro",
+    "g": "daratumumab",
+    "v": 14.351,
+    "loe": [
+     [
+      "US",
+      "2029",
+      "Compound (CoM) patent; the Purple Book lists no other patents (J&J 2026 US patent table)"
+     ],
+     [
+      "EU",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:EU"
+    ]
+   },
+   {
+    "b": "Tremfya",
+    "g": "guselkumab",
+    "v": 5.155,
+    "loe": [
+     [
+      "US",
+      "2031",
+      "Compound patent; biologic, the Purple Book lists no patents (J&J 2026 US patent table)"
+     ],
+     [
+      "EU",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:EU"
+    ]
+   },
+   {
+    "b": "Invega Sustenna / Trinza family",
+    "g": "paliperidone palmitate",
+    "v": 3.81,
+    "loe": [
+     [
+      "US",
+      "Compound patent has expired",
+      "Sustenna patent 2031-01, Trinza 2036-04, Hafyera 2041-05 (J&J 2026 US patent table)"
+     ],
+     [
+      "EU",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:EU"
+    ]
+   },
+   {
+    "b": "Erleada",
+    "g": "apalutamide",
+    "v": 3.574,
+    "loe": [
+     [
+      "US",
+      "2030-09",
+      "Compound patent 8445507; several other patents run to 2040 (J&J 2026 US patent table)"
+     ],
+     [
+      "EU",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:EU"
+    ]
+   }
+  ],
+  "az": [
+   {
+    "b": "Tagrisso",
+    "g": "osimertinib",
+    "v": 7.254,
+    "loe": [
+     [
+      "All",
+      "2030s (estimate)",
+      "To be verified"
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Imfinzi",
+    "g": "durvalumab",
+    "v": 6.063,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Ultomiris",
+    "g": "ravulizumab",
+    "v": 4.718,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Calquence",
+    "g": "acalabrutinib",
+    "v": 3.518,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "roche": [
+   {
+    "b": "Ocrevus",
+    "g": "ocrelizumab",
+    "v": 8.436,
+    "loe": [
+     [
+      "US / EU",
+      "About 2029",
+      "Compound patent, to be verified"
+     ]
+    ],
+    "need": [
+     "loe:US / EU"
+    ]
+   },
+   {
+    "b": "Vabysmo",
+    "g": "faricimab",
+    "v": 4.936,
+    "loe": [
+     [
+      "All",
+      "2030s (estimate)",
+      "To be verified"
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Hemlibra",
+    "g": "emicizumab",
+    "v": 5.728,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Phesgo",
+    "g": "pertuzumab + trastuzumab (subcutaneous)",
+    "v": 2.941,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "novartis": [
+   {
+    "b": "Entresto",
+    "g": "sacubitril / valsartan",
+    "v": 7.748,
+    "loe": [
+     [
+      "US",
+      "2025",
+      "Generics launched in Q3 2025"
+     ],
+     [
+      "EU / Japan",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:EU / Japan"
+    ]
+   },
+   {
+    "b": "Cosentyx",
+    "g": "secukinumab",
+    "v": 6.668,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Kisqali",
+    "g": "ribociclib",
+    "v": 4.783,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Kesimpta",
+    "g": "ofatumumab",
+    "v": 4.426,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Tafinlar + Mekinist",
+    "g": "dabrafenib + trametinib",
+    "v": 2.215,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "sanofi": [
+   {
+    "b": "Beyfortus",
+    "g": "nirsevimab",
+    "v": 2.01,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "gsk": [
+   {
+    "b": "Trelegy Ellipta",
+    "g": "fluticasone furoate / umeclidinium / vilanterol",
+    "v": 3.934,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Nucala",
+    "g": "mepolizumab",
+    "v": 2.646,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Benlysta",
+    "g": "belimumab",
+    "v": 2.336,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "daiichi": [
+   {
+    "b": "Enhertu",
+    "g": "trastuzumab deruxtecan",
+    "v": 4.632,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Lixiana / Savaysa",
+    "g": "edoxaban",
+    "v": 0.94,
+    "loe": [
+     [
+      "EU / Japan",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:EU / Japan"
+    ]
+   },
+   {
+    "b": "Tarlige",
+    "g": "mirogabalin",
+    "v": 0.434,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Datroway",
+    "g": "datopotamab deruxtecan",
+    "v": 0.316,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Injectafer / Venofer",
+    "g": "ferric carboxymaltose / iron sucrose",
+    "v": 0.582,
+    "loe": [
+     [
+      "US",
+      "To be verified",
+      "Venofer already faces generic competition"
+     ]
+    ],
+    "need": [
+     "loe:US"
+    ]
+   }
+  ],
+  "bi": [
+   {
+    "b": "Ofev",
+    "g": "nintedanib",
+    "v": 4.317,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Trajenta / Jentadueto",
+    "g": "linagliptin (± metformin)",
+    "v": 1.658,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Spiriva",
+    "g": "tiotropium",
+    "v": 1.093,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "takeda": [
+   {
+    "b": "Takhzyro",
+    "g": "lanadelumab",
+    "v": 1.521,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Adcetris",
+    "g": "brentuximab vedotin",
+    "v": 0.952,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "bayer": [
+   {
+    "b": "Nubeqa",
+    "g": "darolutamide",
+    "v": 2.709,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Kerendia",
+    "g": "finerenone",
+    "v": 0.936,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "astellas": [
+   {
+    "b": "Padcev",
+    "g": "enfortumab vedotin",
+    "v": 1.475,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Vyloy",
+    "g": "zolbetuximab",
+    "v": 0.418,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Izervay",
+    "g": "avacincaptad pegol",
+    "v": 0.514,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "ucb": [
+   {
+    "b": "Bimzelx",
+    "g": "bimekizumab",
+    "v": 2.514,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Cimzia",
+    "g": "certolizumab pegol",
+    "v": 2.205,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Briviact",
+    "g": "brivaracetam",
+    "v": 0.856,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Fintepla",
+    "g": "fenfluramine",
+    "v": 0.482,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Rystiggo",
+    "g": "rozanolixizumab",
+    "v": 0.375,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "otsuka": [
+   {
+    "b": "Rexulti / Rxulti",
+    "g": "brexpiprazole",
+    "v": 2.215,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Lonsurf",
+    "g": "trifluridine / tipiracil",
+    "v": 0.73,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "merckkgaa": [
+   {
+    "b": "Mavenclad",
+    "g": "cladribine tablets",
+    "v": 1.348,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "csl": [
+   {
+    "b": "Kcentra and peri-operative bleeding",
+    "g": "prothrombin complex concentrate",
+    "v": 0.913,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "genmab": [
+   {
+    "b": "Epkinly / Tepkinly",
+    "g": "epcoritamab",
+    "v": 0.379,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Tivdak",
+    "g": "tisotumab vedotin",
+    "v": 0.164,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "eisai": [
+   {
+    "b": "Leqembi",
+    "g": "lecanemab",
+    "v": 0.587,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "ono": [
+   {
+    "b": "Qinlock and Romvimza",
+    "g": "ripretinib; vimseltinib",
+    "v": 0.312,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "shionogi": [
+   {
+    "b": "Overseas subsidiaries and exports",
+    "g": "incl. Fetroja / Fetcroja (cefiderocol)",
+    "v": 0.433,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "lundbeck": [
+   {
+    "b": "Rexulti",
+    "g": "brexpiprazole",
+    "v": 0.938,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Brintellix / Trintellix",
+    "g": "vortioxetine",
+    "v": 0.688,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Vyepti",
+    "g": "eptinezumab",
+    "v": 0.676,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "celltrion": [
+   {
+    "b": "Newer portfolio",
+    "g": "Remsima SC / Zymfentra, Yuflyma, Vegzelma, Steqeyma, Omlyclo, Stoboclo / Osenvelt and others",
+    "v": null,
+    "loe": [
+     [
+      "All",
+      "—",
+      "Biosimilars and incrementally modified new drugs"
+     ]
+    ],
+    "need": [
+     "v"
+    ]
+   },
+   {
+    "b": "Legacy portfolio",
+    "g": "Remsima, Truxima, Herzuma",
+    "v": null,
+    "loe": [
+     [
+      "All",
+      "—",
+      "biosimilars"
+     ]
+    ],
+    "need": [
+     "v"
+    ]
+   }
+  ],
+  "kelun": [
+   {
+    "b": "sac-TMT (China)",
+    "g": "sacituzumab tirumotecan",
+    "v": 0.07,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "orion": [
+   {
+    "b": "Nubeqa (royalties and product sales to Bayer)",
+    "g": "darolutamide",
+    "v": 0.689,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "sumitomo": [
+   {
+    "b": "Orgovyx",
+    "g": "relugolix",
+    "v": 1.029,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Gemtesa",
+    "g": "vibegron",
+    "v": 0.637,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Myfembree",
+    "g": "relugolix / estradiol / norethindrone",
+    "v": 0.096,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "recordati": [
+   {
+    "b": "Isturisa",
+    "g": "osilodrostat",
+    "v": 0.297,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Enjaymo",
+    "g": "sutimlimab",
+    "v": 0.165,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Signifor / Signifor LAR",
+    "g": "pasireotide",
+    "v": 0.148,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "ipsen": [
+   {
+    "b": "Cabometyx (ex-US)",
+    "g": "cabozantinib",
+    "v": 0.693,
+    "loe": [
+     [
+      "EU",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:EU"
+    ]
+   },
+   {
+    "b": "Iqirvo",
+    "g": "elafibranor",
+    "v": 0.208,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Onivyde",
+    "g": "irinotecan liposome",
+    "v": 0.234,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "jazz": [
+   {
+    "b": "Rylaze / Enrylaze",
+    "g": "asparaginase erwinia chrysanthemi (recombinant)",
+    "v": 0.403,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Zepzelca",
+    "g": "lurbinectedin",
+    "v": 0.307,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "servier": [
+   {
+    "b": "Oncology",
+    "g": "Voranigo, Tibsovo, Onivyde (ex-US), Lonsurf (ex-Japan) and others",
+    "v": 2.494,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "sobi": [
+   {
+    "b": "Doptelet",
+    "g": "avatrombopag",
+    "v": 0.536,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Altuvoct",
+    "g": "efanesoctocog alfa",
+    "v": 0.293,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Gamifant",
+    "g": "emapalumab",
+    "v": 0.276,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "chiesi": [
+   {
+    "b": "Rare diseases",
+    "g": "Lamzede, Filsuvez, Elfabrio and others",
+    "v": 1.023,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "almirall": [
+   {
+    "b": "Ilumetri",
+    "g": "tildrakizumab",
+    "v": 0.265,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Ebglyss",
+    "g": "lebrikizumab",
+    "v": 0.125,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Wynzora",
+    "g": "calcipotriene / betamethasone cream",
+    "v": 0.038,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Klisyri",
+    "g": "tirbanibulin",
+    "v": 0.037,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "leo": [
+   {
+    "b": "Strategic dermatology brands",
+    "g": "Adtralza / Adbry (tralokinumab), Anzupgo (delgocitinib), Spevigo (spesolimab)",
+    "v": 0.458,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "menarini": [
+   {
+    "b": "Oncology",
+    "g": "Orserdu (elacestrant), Elzonris (tagraxofusp) and others",
+    "v": 0.711,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "grunenthal": [
+   {
+    "b": "Qutenza",
+    "g": "capsaicin 8% patch",
+    "v": 0.217,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Movantik",
+    "g": "naloxegol",
+    "v": null,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "v",
+     "loe:All"
+    ]
+   }
+  ],
+  "eurofarma": [
+   {
+    "b": "Semaglutide (Extensior / Poviztra)",
+    "g": "semaglutide",
+    "v": null,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "v",
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Genfar generics (Latin America outside Brazil)",
+    "g": "about 350 generic products across 12 therapeutic classes",
+    "v": null,
+    "loe": [
+     [
+      "All",
+      "—",
+      "Generics portfolio"
+     ]
+    ],
+    "need": [
+     "v"
+    ]
+   }
+  ],
+  "intas": [
+   {
+    "b": "Udenyca",
+    "g": "pegfilgrastim-cbqv",
+    "v": null,
+    "loe": [
+     [
+      "All",
+      "—",
+      "Biosimilars"
+     ]
+    ],
+    "need": [
+     "v"
+    ]
+   },
+   {
+    "b": "Generics and biosimilars (Accord Healthcare)",
+    "g": "portfolio sold in Europe, US and other markets",
+    "v": null,
+    "loe": [
+     [
+      "All",
+      "—",
+      "Generics and biosimilars"
+     ]
+    ],
+    "need": [
+     "v"
+    ]
+   }
+  ],
+  "nipponshinyaku": [
+   {
+    "b": "Viltepso",
+    "g": "viltolarsen",
+    "v": 0.141,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Uptravi",
+    "g": "selexipag",
+    "v": 0.117,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   },
+   {
+    "b": "Erleada",
+    "g": "apalutamide",
+    "v": 0.04,
+    "loe": [
+     [
+      "Japan",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:Japan"
+    ]
+   },
+   {
+    "b": "Vyxeos",
+    "g": "daunorubicin and cytarabine liposome",
+    "v": 0.038,
+    "loe": [
+     [
+      "Japan",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:Japan"
+    ]
+   }
+  ],
+  "biontech": [
+   {
+    "b": "COVID-19 vaccine (Comirnaty)",
+    "g": "BNT162b2",
+    "v": 2.255,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ],
+  "sun": [
+   {
+    "b": "Ilumya",
+    "g": "tildrakizumab",
+    "v": 0.796,
+    "loe": [
+     [
+      "All",
+      "To be verified",
+      ""
+     ]
+    ],
+    "need": [
+     "loe:All"
+    ]
+   }
+  ]
+ }
+}

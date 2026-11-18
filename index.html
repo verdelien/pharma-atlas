@@ -43,7 +43,7 @@ button,input{font:inherit;color:inherit}
 .tab:hover{color:var(--ink);background:var(--surface-2)}
 .tab[aria-selected="true"]{color:var(--ink)}
 .tab[aria-selected="true"]::after{content:"";position:absolute;left:12px;right:12px;bottom:-11px;height:2px;background:var(--ink);border-radius:2px}
-.bar-right{margin-left:auto;display:flex;gap:10px;align-items:center}
+.bar-right{margin-left:auto;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .searchbox{position:relative}
 .search{width:280px;padding:7px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface-2)}
 .search::placeholder{color:var(--muted)}
@@ -309,7 +309,7 @@ dialog#howto .x{float:right}
         <input id="q" class="search" type="search" placeholder="Search company, drug or therapeutic area" aria-label="Search companies, drugs and therapeutic areas" autocomplete="off" aria-controls="results">
         <div id="results" class="results" hidden role="listbox"></div>
       </div>
-      <button id="howto-btn" class="ghost" type="button">How to read</button><a class="ghost" id="lang" href="zh.html" hreflang="zh">中文</a><button id="theme" class="ghost" type="button">Dark</button>
+      <button id="rand-btn" class="ghost" type="button" title="Open a random company to start exploring">Random company</button><button id="howto-btn" class="ghost" type="button">How to read</button><a class="ghost" id="lang" href="zh.html" hreflang="zh">中文</a><button id="theme" class="ghost" type="button">Dark</button>
     </div>
   </header>
 
@@ -2676,6 +2676,7 @@ function show(view){tabs.forEach(t=>t.setAttribute("aria-selected",String(t.data
   ["graph","table","compare","primer","method","schema"].forEach(v=>{document.getElementById("view-"+v).hidden=(v!==view);});
   if(view==="graph")resize();}
 tabs.forEach(t=>t.addEventListener("click",()=>show(t.dataset.view)));
+{let lastRand=null;const rb=document.getElementById("rand-btn");if(rb)rb.addEventListener("click",()=>{const l=D.filter(d=>d.r>0&&d.id!==lastRand);const x=l[Math.floor(Math.random()*l.length)].id;lastRand=x;show("graph");ensureVisible(x);openNode(x);});};
 
 /* ---------- state ---------- */
 let histMem=new Map(),histSnap=null;
