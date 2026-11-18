@@ -21,7 +21,7 @@
       },
       "phase": "reg",
       "ta": "Cardiovascular",
-      "origin": null,
+      "origin": "internal",
       "next": {
         "en": "Non-diabetic CKD regulatory decisions",
         "zh": "非糖尿病慢性肾病适应症审评决定",
@@ -43,7 +43,7 @@
       },
       "phase": "reg",
       "ta": "Women's health",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "FDA priority-review decision for the new indication",
         "zh": "FDA 对新适应症的优先审评决定",
@@ -67,8 +67,8 @@
       "ta": "Neuroscience",
       "origin": null,
       "next": {
-        "en": "exPDite-2 estimated primary completion",
-        "zh": "exPDite-2 预计主要终点完成",
+        "en": "Primary completion of exPDite-2 (ClinicalTrials.gov estimate)",
+        "zh": "exPDite-2主要完成(ClinicalTrials.gov预估)",
         "when": "2028Q4"
       },
       "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-2026-10-26-final-9d7c7619c9664e35b58ff0dcc2535d7e?v=cc82dafa"
@@ -96,8 +96,8 @@
       "code": "AB-1005",
       "modality": "gene therapy",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "GDNF gene delivery",
+        "zh": "GDNF基因递送"
       },
       "ind": {
         "en": "Parkinson's disease; also multiple system atrophy",
@@ -107,8 +107,8 @@
       "ta": "Neuroscience",
       "origin": null,
       "next": {
-        "en": "REGENERATE-PD estimated primary completion",
-        "zh": "REGENERATE-PD 预计主要终点完成",
+        "en": "Primary completion of REGENERATE-PD (ClinicalTrials.gov estimate)",
+        "zh": "REGENERATE-PD主要完成(ClinicalTrials.gov预估)",
         "when": "2028Q3"
       },
       "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-2026-10-26-final-9d7c7619c9664e35b58ff0dcc2535d7e?v=cc82dafa"
@@ -118,8 +118,8 @@
       "code": "AB-1002",
       "modality": "gene therapy",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Protein phosphatase 1 inhibition via inhibitor-1 expression",
+        "zh": "通过表达抑制因子-1抑制蛋白磷酸酶1"
       },
       "ind": {
         "en": "Congestive heart failure",
@@ -129,8 +129,8 @@
       "ta": "Cardiovascular",
       "origin": null,
       "next": {
-        "en": "GenePHIT estimated primary completion",
-        "zh": "GenePHIT 预计主要终点完成",
+        "en": "Primary completion of GenePHIT (ClinicalTrials.gov estimate)",
+        "zh": "GenePHIT主要完成(ClinicalTrials.gov预估)",
         "when": "2026Q4"
       },
       "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-2026-10-26-final-9d7c7619c9664e35b58ff0dcc2535d7e?v=cc82dafa"
@@ -149,7 +149,7 @@
       },
       "phase": "2",
       "ta": "Cardiovascular",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-onepager-2026-10-26-final-a2201d6a7c8b4c0c8afbad53bbb5e8b5?v=f5d767d2"
     },
@@ -167,14 +167,14 @@
       },
       "phase": "2",
       "ta": "Cardiovascular",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-onepager-2026-10-26-final-a2201d6a7c8b4c0c8afbad53bbb5e8b5?v=f5d767d2"
     },
     {
       "name": "SEMA 3a inhibitor",
       "code": "BAY 3401016",
-      "modality": "other",
+      "modality": "antibody",
       "target": {
         "en": "Semaphorin 3A inhibition",
         "zh": "抑制 Semaphorin 3A"
@@ -185,10 +185,10 @@
       },
       "phase": "2",
       "ta": "Rare disease",
-      "origin": null,
+      "origin": "co-developed",
       "next": {
-        "en": "ASSESS estimated primary completion",
-        "zh": "ASSESS 预计主要终点完成",
+        "en": "Primary completion of ASSESS (ClinicalTrials.gov estimate)",
+        "zh": "ASSESS主要完成(ClinicalTrials.gov预估)",
         "when": "2027Q4"
       },
       "src": "https://bag-p-001.sitecorecontenthub.cloud/api/public/content/bayer-ph-pipeline-2026-10-26-final-9d7c7619c9664e35b58ff0dcc2535d7e?v=cc82dafa"
@@ -288,17 +288,34 @@
     [
       "BlueRock/bemdaneprocel mechanism and ownership, September 2024",
       "https://www.bayer.com/en-us/united-states/news-and-stories/2024/cell-therapy-bemdaneprocel"
+    ],
+    [
+      "December 2022 pipeline: compound origins only",
+      "https://www.bayer.com/sites/default/files/PH_RD_Pipeline_2022%2012.pdf"
+    ],
+    [
+      "KaNDy acquisition announcement, August 11, 2020",
+      "https://www.bayer.com/media/en-us/bayer-to-acquire-uk-based-biotech-kandy-therapeutics-ltd/"
+    ],
+    [
+      "AskBio AB-1005/AB-1002 mechanisms, December 9, 2025",
+      "https://www.bayer.com/media/en-us/askbios-ab-1005-and-ab-1002-receive-pioneering-regenerative-medical-product-designation-in-japan/"
+    ],
+    [
+      "German pipeline: BAY 3401016 antibody and Bayer/Evotec research collaboration",
+      "https://www.bayer.com/de-de/portfolio/pharma/pharma-innovationen/pipeline-ueberblick"
     ]
   ],
   "gaps": [
     "Counts is null: the website rendered zero placeholders, not reliable reported phase totals. Entries were not manually counted.",
-    "Origins were not verified for finerenone, elinzanetant, bemdaneprocel, AB-1005, AB-1002, inclocibart, nurandociguat and BAY 3401016; these are null. Bayer ownership of a subsidiary alone was not treated as proof of an asset's discovery origin.",
-    "AB-1005/AB-1002 transgenes were not verified in the opened current pipeline documents; target.en and target.zh are null. No separate development codes for finerenone/elinzanetant were verified.",
-    "The overview describes BAY 3401016 only as protein therapy, so modality is other. The PET diagnostic tracer AT-01 is also other, rather than therapeutic radioligand.",
-    "Dates taken from the full pipeline are estimated primary completion, not promised data-release dates. Several Phase 2 trials are marked completed; a next disclosure or progression date was not verified, so next is null for inclocibart, nurandociguat, edonentan and AT-01.",
     "Specific decision dates were not stated in the opened finerenone and elinzanetant filing materials; next.when is null.",
     "Asundexian's November U.S. approval and sevabertinib's recent approvals supersede the October submission snapshot; approved uses and regional-only submissions were excluded. Finerenone and elinzanetant are retained only for filed major new indications.",
     "The January 2026 Attralus and September 2024 BlueRock sources predate 2026-06 and support provenance/mechanism only; development phases come from October 2026 materials.",
-    "The overview contains an inconsistent GIRK4 development code compared with the detailed package; that asset is not selected."
+    "The overview contains an inconsistent GIRK4 development code compared with the detailed package; that asset is not selected.",
+    "Origins remain null for bemdaneprocel, AB-1005 and AB-1002; subsidiary ownership alone is not assigned an asset origin. Finerenone, inclocibart and nurandociguat origins come from the December 2022 compound-origin table; elinzanetant came through KaNDy. These provenance sources and the December 2025 gene-therapy mechanism release predate 2026-06.",
+    "The German company pipeline identifies BAY 3401016 as a monoclonal antibody from Bayer/Evotec research collaboration; modality is antibody and origin co-developed. AT-01 remains other because it is a PET diagnostic tracer.",
+    "The October pipeline package reproduces ClinicalTrials.gov estimated primary-completion dates; these are labeled estimates, not data-release guidance. Completed SIRIUS and ALPINE-1 trials are not future milestones. No future date was verified for inclocibart, nurandociguat, edonentan or AT-01.",
+    "No separate development codes for finerenone/elinzanetant were added in this fill pass.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved."
   ]
 }

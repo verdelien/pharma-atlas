@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Dr. Reddy’s disclosed development portfolio emphasizes biosimilars alongside a smaller novel-biologics effort. COYA 302 provides an ALS program alongside oncology and autoimmune biosimilar development.",
-    "zh": "Dr. Reddy’s 披露的开发组合以生物类似药为重点,同时有规模较小的创新生物药项目。COYA 302 提供了一个 ALS 项目,与肿瘤和自身免疫生物类似药开发并行。"
+    "zh": "Dr. Reddy's披露的研发组合以生物类似药为重点,同时有规模较小的新型生物药项目。COYA 302提供ALS项目,同时开展肿瘤和自身免疫生物类似药开发。"
   },
   "counts": null,
   "items": [
@@ -11,13 +11,10 @@
       "name": "Daratumumab biosimilar",
       "code": null,
       "modality": "antibody",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
-        "en": null,
-        "zh": null
+        "en": "Oncology; specific lead indication not disclosed on the company pipeline",
+        "zh": "肿瘤;公司管线中未披露具体主打适应症"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -31,18 +28,18 @@
       "modality": "other",
       "target": {
         "en": "Low-dose IL-2 plus CTLA-4 Ig; regulatory T-cell modulation",
-        "zh": "低剂量 IL-2 联合 CTLA-4 Ig;调节性 T 细胞调节"
+        "zh": "低剂量IL-2联合CTLA-4 Ig;调节性T细胞调控"
       },
       "ind": {
         "en": "Amyotrophic lateral sclerosis",
-        "zh": "肌萎缩侧索硬化症"
+        "zh": "肌萎缩侧索硬化"
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "licensed",
       "next": {
         "en": "ALSTARS topline results; early Q2 2027",
-        "zh": "ALSTARS 顶线结果;2027 年第二季度初",
+        "zh": "ALSTARS topline结果;2027年第二季度初",
         "when": "2027Q2"
       },
       "src": "https://ir.coyatherapeutics.com/news/news-details/2026/Coya-Therapeutics-Announces-Enrollment-of-100th-Participant-in-Phase-23-ALSTARS-Trial-of-COYA-302-for-the-Treatment-of-ALS/default.aspx"
@@ -51,10 +48,7 @@
       "name": "Pembrolizumab biosimilar",
       "code": null,
       "modality": "antibody",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Solid tumors",
         "zh": "实体瘤"
@@ -69,10 +63,7 @@
       "name": "DRL-BIO-012",
       "code": null,
       "modality": "antibody",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Autoimmune disease; inflammatory bowel disease",
         "zh": "自身免疫性疾病;炎症性肠病"
@@ -88,31 +79,31 @@
     {
       "k": "catalyst",
       "en": "COYA 302 ALSTARS topline data are anticipated in early Q2 2027.",
-      "zh": "COYA 302 ALSTARS 顶线数据预计在 2027 年第二季度初公布。",
+      "zh": "COYA 302 ALSTARS topline数据预计于2027年第二季度初公布。",
       "src": "https://ir.coyatherapeutics.com/news/news-details/2026/Coya-Therapeutics-Announces-Enrollment-of-100th-Participant-in-Phase-23-ALSTARS-Trial-of-COYA-302-for-the-Treatment-of-ALS/default.aspx"
     },
     {
       "k": "other",
       "en": "The company obtained Indian IV abatacept approval in the September 2026 quarter; its US BLA was accepted in February.",
-      "zh": "公司在 2026 年 9 月季度获得印度静脉注射 abatacept 批准;其美国 BLA 已于 2 月获受理。",
+      "zh": "公司于2026年9月当季获得印度静脉注射abatacept批准;其美国BLA已于2月获受理。",
       "src": "https://nsearchives.nseindia.com/corporate/DRREDDY_23102026184026_SE_Intimation_Outcome_23102026_Signed.pdf"
     },
     {
       "k": "deal",
       "en": "The biosimilar pipeline explicitly marks daratumumab as in-licensed and pembrolizumab as co-developed.",
-      "zh": "生物类似药管线明确标注 daratumumab 为授权引进,pembrolizumab 为联合开发。",
+      "zh": "生物类似药管线明确标注daratumumab为授权引进、pembrolizumab为联合开发。",
       "src": "https://www.drreddysbiologics.com/pipeline"
     },
     {
       "k": "concentration",
       "en": "The September quarter update reports generic semaglutide approvals in ten countries, including Canada and India.",
-      "zh": "9 月季度更新报告称,semaglutide 仿制药已在十个国家获批,包括加拿大和印度。",
+      "zh": "9月季度更新报告称,仿制药semaglutide已在十个国家获批,包括加拿大和印度。",
       "src": "https://nsearchives.nseindia.com/corporate/DRREDDY_23102026184026_SE_Intimation_Outcome_23102026_Signed.pdf"
     },
     {
       "k": "loe",
       "en": "Lower North American lenalidomide revenue drove much of the September-quarter sales decline; global generics accounted for 90% of group revenue.",
-      "zh": "北美 lenalidomide 收入下降是 9 月季度销售额下滑的主要原因;全球仿制药占集团收入的 90%。",
+      "zh": "北美lenalidomide收入下降是9月季度销售额下滑的主因;全球仿制药占集团收入的90%。",
       "src": "https://nsearchives.nseindia.com/corporate/DRREDDY_23102026184026_SE_Intimation_Outcome_23102026_Signed.pdf"
     }
   ],
@@ -140,15 +131,18 @@
     [
       "Coya company release on Dr. Reddy’s partnership, December 9, 2025",
       "https://www.businesswire.com/news/home/20251209366236/en/Coya-Therapeutics-Announces-Patients-Have-Been-Dosed-in-the-ALSTARS-Trial-of-COYA-302-for-the-Treatment-of-ALS"
+    ],
+    [
+      "COYA 302 development and exclusive commercialization license, December 2023",
+      "https://www.drreddys.com/cms/cms/sites/default/files/2023-12/Coya%20Therapeutics%20and%20Dr.%20Reddy%E2%80%99s%20Laboratories%20enter%20into%20an%20Exclusive%20Collaboration%20for%20Development%20and%20Commercialization%20of%20COYA%20302.pdf"
     ]
   ],
   "gaps": [
     "No phase-by-phase company totals were verified; counts is null. Pipeline webpages are undated and the US page explicitly warns that it is not continuously updated.",
     "The global page still lists abatacept in Phase 3, while the February company release documents US FDA review and the October release documents Indian approval. It is excluded as an already approved asset without a verified filed new indication. Denosumab regulatory status was not sufficiently reconciled for inclusion.",
-    "COYA 302 is labeled Phase 2/3 in the September partner update and represented as phase 3 (combined-stage upper phase); older releases called it Phase 2. The partner relationship is verified, but the precise origin classification was not established from the opened releases and is null.",
     "Daratumumab and pembrolizumab molecular targets, DRL-BIO-012 target and origin, exact daratumumab lead cancer indication, and additional asset codes were not stated in the reviewed pipeline and are null or explicitly described as unspecified.",
     "The US webpage gives broad launch horizons rather than dated trial milestones; these were not converted into catalyst dates. No next milestone dates were verified for the three biosimilars.",
     "The February abatacept and December 2025 Coya partnership sources predate 2026-06; newer September/October sources support current context.",
-    "Required curl HEAD checks were attempted for every cited URL. All failed with DNS resolution errors (curl exit 6; HTTP 000) in this environment. Sources were opened through the web browsing tool, but independent curl status verification could not be completed."
+    "COYA 302 is Phase 2/3, mapped to 3; Coya conducts clinical development and granted Dr. Reddy an exclusive commercial license. The December 2023 origin source predates June 2026; September 2026 guidance still anticipates ALSTARS results in early Q2 2027."
   ]
 }

@@ -3,63 +3,63 @@
   "asof": "2026-11",
   "summary": {
     "en": "Generics and biosimilars drive development, with 40 biosimilar assets reported in Q3. Regulatory streamlining makes conventional Phase 1–3 labels incomplete for several major biosimilar programs.",
-    "zh": "仿制药和生物类似药驱动开发,第三季度报告有 40 个生物类似药资产。监管流程简化使得传统的 I–III 期标签对若干主要生物类似药项目并不完整。"
+    "zh": "仿制药和生物类似药驱动研发，第三季度报告有40项生物类似药资产。监管简化使多个主要生物类似药项目的常规I-III期标签不够完整。"
   },
   "counts": null,
   "items": [
     {
       "name": "pertuzumab biosimilar",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "HER2",
+        "zh": "HER2"
       },
       "ind": {
         "en": "HER2-positive early/metastatic breast cancer",
-        "zh": "HER2 阳性早期/转移性乳腺癌"
+        "zh": "HER2阳性早期/转移性乳腺癌"
       },
       "phase": "reg",
       "ta": "Oncology",
       "origin": "licensed",
       "next": null,
-      "src": "https://www.sandoz.com/sandoz-signs-global-license-agreement-commercialize-breast-cancer-biosimilar-pertuzumab/"
+      "src": "https://earningsreport.io/app/event/CH/SDZ/2026-q3-275db18e17d8/presentation"
     },
     {
       "name": "pembrolizumab IV biosimilar",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "PD-1",
+        "zh": "PD-1"
       },
       "ind": {
-        "en": null,
-        "zh": null
+        "en": "Oncology; lead indication undisclosed",
+        "zh": "肿瘤；首个适应症未披露"
       },
       "phase": null,
       "ta": "Oncology",
       "origin": "internal",
       "next": null,
-      "src": "https://ar.sandoz.com/Sandoz_2025_FY_IR_slides.pdf"
+      "src": "https://earningsreport.io/app/event/CH/SDZ/2026-q3-275db18e17d8/presentation"
     },
     {
       "name": "nivolumab IV biosimilar",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "PD-1",
+        "zh": "PD-1"
       },
       "ind": {
-        "en": null,
-        "zh": null
+        "en": "Oncology; lead indication undisclosed",
+        "zh": "肿瘤；首个适应症未披露"
       },
       "phase": null,
       "ta": "Oncology",
       "origin": "internal",
       "next": null,
-      "src": "https://ar.sandoz.com/Sandoz_2025_FY_IR_slides.pdf"
+      "src": "https://earningsreport.io/app/event/CH/SDZ/2026-q3-275db18e17d8/presentation"
     },
     {
       "name": "ipilimumab biosimilar",
@@ -71,7 +71,7 @@
       },
       "ind": {
         "en": "Unresectable hepatocellular carcinoma; other solid tumors",
-        "zh": "不可切除肝细胞癌;其他实体瘤"
+        "zh": "不可切除肝细胞癌；其他实体瘤"
       },
       "phase": null,
       "ta": "Oncology",
@@ -82,63 +82,63 @@
     {
       "name": "atezolizumab biosimilar",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "PD-L1",
+        "zh": "PD-L1"
       },
       "ind": {
-        "en": null,
-        "zh": null
+        "en": "Oncology; lead indication undisclosed",
+        "zh": "肿瘤；首个适应症未披露"
       },
       "phase": null,
       "ta": "Oncology",
       "origin": "internal",
       "next": null,
-      "src": "https://ar.sandoz.com/Sandoz_2025_FY_IR_slides.pdf"
+      "src": "https://earningsreport.io/app/event/CH/SDZ/2026-q3-275db18e17d8/presentation"
     },
     {
       "name": "ocrelizumab IV biosimilar",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "CD20",
+        "zh": "CD20"
       },
       "ind": {
-        "en": null,
-        "zh": null
+        "en": "Multiple sclerosis; lead population undisclosed",
+        "zh": "多发性硬化；首个适应人群未披露"
       },
       "phase": null,
       "ta": "Neuroscience",
       "origin": "internal",
       "next": null,
-      "src": "https://ar.sandoz.com/Sandoz_2025_FY_IR_slides.pdf"
+      "src": "https://earningsreport.io/app/event/CH/SDZ/2026-q3-275db18e17d8/presentation"
     }
   ],
   "watch": [
     {
       "k": "concentration",
       "en": "Biosimilars represented 34% of Q3 sales and grew 17% at constant currencies; generics were stable.",
-      "zh": "生物类似药占第三季度销售额的 34%,按固定汇率计增长 17%;仿制药保持稳定。",
+      "zh": "生物类似药占第三季度销售额的34%，按固定汇率计算增长17%；仿制药保持稳定。",
       "src": "https://www.sandoz.com/sandoz-reports-strong-biosimilar-sales-momentum-narrowed-full-year-net-sales-range-and-upgrade/"
     },
     {
       "k": "policy",
       "en": "Sandoz is streamlining biosimilar clinical programs; older Phase 3 labels can misrepresent current development.",
-      "zh": "Sandoz 正在精简生物类似药临床项目;较早的 III 期标签可能会误示当前的开发状况。",
+      "zh": "Sandoz正在精简生物类似药临床项目；较早的III期标签可能无法准确反映当前开发情况。",
       "src": "https://ar.sandoz.com/Sandoz_2025_FY_IR_slides.pdf"
     },
     {
       "k": "deal",
       "en": "Henlius and mAbxience collaborations expanded the pipeline in 2026.",
-      "zh": "Henlius 和 mAbxience 的合作在 2026 年扩充了管线。",
+      "zh": "2026年与Henlius和mAbxience的合作扩大了管线。",
       "src": "https://earningsreport.io/app/event/CH/SDZ/2026-q3-275db18e17d8/presentation"
     },
     {
       "k": "other",
       "en": "Near-term biosimilar supply constraints and German market conditions affected Q3 performance.",
-      "zh": "近期生物类似药供应受限和德国市场状况影响了第三季度业绩。",
+      "zh": "近期生物类似药供应受限及德国市场状况影响了第三季度业绩。",
       "src": "https://www.sandoz.com/sandoz-reports-strong-biosimilar-sales-momentum-narrowed-full-year-net-sales-range-and-upgrade/"
     }
   ],
@@ -170,18 +170,31 @@
     [
       "Henlius HLX13 trial initiation, May 16, 2025",
       "https://www.henlius.com/en/newsd/0/25131.html"
+    ],
+    [
+      "Pembrolizumab antibody and PD-1 mechanism, partner release September 2026",
+      "https://www.en.sbpgroup.com/news-center/dynamic/25032.html"
+    ],
+    [
+      "Nivolumab reference molecule mechanism, BMS prescribing information",
+      "https://www.bms.com/content/dam/packageinserts/pi/pi_opdivo.pdf"
+    ],
+    [
+      "Atezolizumab antibody and PD-L1 mechanism, Roche release October 2026",
+      "https://assets.roche.com/f/176343/f7a3be7385/01-mediainvestor-release-fda-approval-for-tecentriq-tecentriq-hybreza-english.pdf"
+    ],
+    [
+      "Ocrelizumab antibody and CD20 mechanism, Roche October 2026 pipeline",
+      "https://assets.roche.com/f/176343/x/c1ca231e2d/pharmaq326.pdf"
     ]
   ],
   "gaps": [
-    "The company Q3 results and investor pages opened without readable body/links. Local curl could not resolve hosts, preventing download fallback. The full Q3 presentation was read on EarningsReport as a mirror; no independent analysis from that site was used.",
-    "Every asset also appears in the opened primary FY2025 presentation. This February 2026 source is older than 2026-06; the Q3 presentation mirror confirms continued clinical development and pertuzumab EU submission.",
     "Numeric phases for the five clinical biosimilars were not verified after trial streamlining; phase is null under the missing-field rule rather than inventing a Phase 3 status. No next milestones or dates were verified; next is null.",
-    "For pembrolizumab, nivolumab, atezolizumab and ocrelizumab, the primary slides identify therapeutic areas but do not verify exact lead indications, mechanisms or modalities; those fields are null. Pertuzumab modality/target remain unverified and null. Pertuzumab indication and licensed origin come from the opened company license release; ipilimumab licensed origin likewise comes from its company release.",
     "Counts is null because regulatory-review/yet-to-launch, clinical, technical and early-development buckets do not constitute company-published Phase 1/2/3 counts. The 40-asset headline includes partner programs/options beyond the disclosed development buckets.",
     "Already approved biosimilars awaiting launch, including geographic filings of the same indication, are excluded. Reference medicine brand names are not represented as Sandoz-owned marketed brands.",
     "The November/April 2025 licensing releases are older than 2026-06 and are used only for provenance/indication, not current phase or milestone timing.",
-    "Required curl HEAD checks were attempted, but local DNS resolution failed (curl exit 6, HTTP 000); HTTP status could not be independently confirmed locally. Sources were opened with the web browser tool.",
     "HLX13 code, antibody modality, CTLA-4 target and lead HCC indication are verified in the partner’s May 2025 release, older than 2026-06. It describes an integrated Phase 1/3 trial; a current numeric phase after regulatory streamlining was not re-established, so phase remains null.",
-    "Pertuzumab’s item URL is the primary company license release; its reg classification is supported by the EU-submission row in the opened Q3 company presentation mirror. The original Q3 PDF could not be retrieved from the company’s dynamic financial-materials page."
+    "The Q3 2026 company presentation is cited through a transcript mirror. It lists pertuzumab under EU regulatory submission and the other five selected biosimilars in clinical development, without numeric phases. The February 2026 presentation is older than June 2026.",
+    "Exact lead indications remain undisclosed for the four in-house biosimilars. Their targets and modalities describe the named reference molecules using primary manufacturer materials; these sources do not establish Sandoz trial phases or approved labels. Pertuzumab mechanism uses the November 2025 licence release, older than June 2026."
   ]
 }

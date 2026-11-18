@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "The pipeline spans respiratory inflammation, oncology, HIV and vaccines. Selected new assets are mostly late-stage, with acquisitions and partnerships prominent in oncology and immunology.",
-    "zh": "管线覆盖呼吸炎症、肿瘤、HIV 及疫苗。所选新资产多数处于后期阶段，收购与合作在肿瘤及免疫布局中占有重要位置。"
+    "zh": "管线涵盖呼吸炎症、肿瘤、HIV和疫苗。入选的新资产多为后期,肿瘤和免疫领域的收购与合作尤为突出。"
   },
   "counts": null,
   "items": [
@@ -13,18 +13,18 @@
       "modality": "small molecule",
       "target": {
         "en": "ALK-selective tyrosine kinase inhibition",
-        "zh": "选择性抑制 ALK 酪氨酸激酶"
+        "zh": "ALK选择性酪氨酸激酶抑制"
       },
       "ind": {
         "en": "Previously TKI-treated ALK-positive NSCLC; also first-line development",
-        "zh": "经 TKI 治疗的 ALK 阳性非小细胞肺癌；另开发一线治疗"
+        "zh": "既往接受过TKI治疗的ALK阳性NSCLC;另有一线开发"
       },
       "phase": "reg",
       "ta": "Oncology",
       "origin": "acquired",
       "next": {
         "en": "FDA target decision: November 27, 2026",
-        "zh": "FDA 目标审评日期：2026年11月27日",
+        "zh": "FDA目标决定日期:2026年11月27日",
         "when": "2026Q4"
       },
       "src": "https://www.gsk.com/en-gb/media/press-releases/jideytro-zidesamtinib-approved-in-the-us-for-previously-treated-ros1-positive-non-small-cell-lung-cancer/"
@@ -35,11 +35,11 @@
       "modality": "other",
       "target": {
         "en": "FGF21 analogue",
-        "zh": "FGF21 类似物"
+        "zh": "FGF21类似物"
       },
       "ind": {
         "en": "MASH with F2–F3 fibrosis or compensated cirrhosis",
-        "zh": "伴 F2至F3 纤维化或代偿期肝硬化的代谢功能障碍相关脂肪性肝炎"
+        "zh": "伴F2-F3期纤维化或代偿期肝硬化的MASH"
       },
       "phase": "3",
       "ta": "Metabolic",
@@ -53,18 +53,18 @@
       "modality": "ADC",
       "target": {
         "en": "B7-H3-targeted ADC",
-        "zh": "靶向 B7-H3 的 ADC"
+        "zh": "B7-H3靶向ADC"
       },
       "ind": {
         "en": "Extensive-stage small-cell lung cancer; also prostate cancer",
-        "zh": "广泛期小细胞肺癌；另开发前列腺癌"
+        "zh": "广泛期小细胞肺癌;另有前列腺癌"
       },
       "phase": "3",
       "ta": "Oncology",
       "origin": "licensed",
       "next": {
         "en": "EMBOLD SCLC-301 phase 3 data",
-        "zh": "EMBOLD SCLC-301 III 期数据读出",
+        "zh": "EMBOLD SCLC-301 III期数据",
         "when": "2027H2"
       },
       "src": "https://www.gsk.com/media/k3aasdat/q3-2026-pipeline-assets-and-clinical-trials-report-pdf.pdf"
@@ -75,21 +75,21 @@
       "modality": "small molecule",
       "target": {
         "en": "KIT inhibition",
-        "zh": "抑制 KIT"
+        "zh": "KIT抑制"
       },
       "ind": {
         "en": "Gastrointestinal stromal tumours, first and second line",
-        "zh": "一线及二线胃肠道间质瘤"
+        "zh": "胃肠道间质瘤,一线和二线"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "Phase 3 GIST data",
-        "zh": "胃肠道间质瘤 III 期数据读出",
+        "zh": "III期GIST数据",
         "when": "2027H2"
       },
-      "src": "https://www.gsk.com/en-gb/innovation/pipeline"
+      "src": "https://www.gsk.com/media/k3aasdat/q3-2026-pipeline-assets-and-clinical-trials-report-pdf.pdf"
     },
     {
       "name": "mocertatug rezetecan",
@@ -97,15 +97,15 @@
       "modality": "ADC",
       "target": {
         "en": "B7-H4-targeted ADC",
-        "zh": "靶向 B7-H4 的 ADC"
+        "zh": "B7-H4靶向ADC"
       },
       "ind": {
         "en": "Ovarian cancer; also endometrial cancer",
-        "zh": "卵巢癌；另开发子宫内膜癌"
+        "zh": "卵巢癌;另有子宫内膜癌"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.gsk.com/media/k3aasdat/q3-2026-pipeline-assets-and-clinical-trials-report-pdf.pdf"
     },
@@ -115,17 +115,17 @@
       "modality": "antibody",
       "target": {
         "en": "Ultra-long-acting TSLP blockade",
-        "zh": "超长效阻断 TSLP"
+        "zh": "超长效TSLP阻断"
       },
       "ind": {
         "en": "Asthma; also nasal polyps and COPD",
-        "zh": "哮喘；另开发鼻息肉及慢性阻塞性肺疾病"
+        "zh": "哮喘;另有鼻息肉和COPD"
       },
       "phase": "3",
       "ta": "Respiratory",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
-      "src": "https://www.gsk.com/en-gb/innovation/pipeline/?compound=GSK5784283"
+      "src": "https://www.gsk.com/media/k3aasdat/q3-2026-pipeline-assets-and-clinical-trials-report-pdf.pdf"
     },
     {
       "name": "mRNA seasonal influenza vaccine",
@@ -133,7 +133,7 @@
       "modality": "vaccine",
       "target": {
         "en": "Haemagglutinin and neuraminidase influenza antigens",
-        "zh": "流感血凝素及神经氨酸酶抗原"
+        "zh": "血凝素和神经氨酸酶流感抗原"
       },
       "ind": {
         "en": "Seasonal influenza",
@@ -141,7 +141,7 @@
       },
       "phase": "3",
       "ta": "Vaccines",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.gsk.com/media/k3aasdat/q3-2026-pipeline-assets-and-clinical-trials-report-pdf.pdf"
     },
@@ -151,7 +151,7 @@
       "modality": "antibody",
       "target": {
         "en": "IgE blockade",
-        "zh": "阻断 IgE"
+        "zh": "IgE阻断"
       },
       "ind": {
         "en": "Food allergy",
@@ -161,32 +161,32 @@
       "ta": "Immunology",
       "origin": "acquired",
       "next": null,
-      "src": "https://www.gsk.com/en-gb/innovation/pipeline"
+      "src": "https://www.gsk.com/media/k3aasdat/q3-2026-pipeline-assets-and-clinical-trials-report-pdf.pdf"
     }
   ],
   "watch": [
     {
       "k": "catalyst",
       "en": "Neladalkib's FDA action date is November 27, 2026.",
-      "zh": "Neladalkib 的 FDA 目标审评日期为2026年11月27日。",
+      "zh": "Neladalkib的FDA行动日期为2026年11月27日。",
       "src": "https://www.gsk.com/en-gb/media/press-releases/jideytro-zidesamtinib-approved-in-the-us-for-previously-treated-ros1-positive-non-small-cell-lung-cancer/"
     },
     {
       "k": "deal",
       "en": "The Nuvalent acquisition cost $10.8bn in equity value including transaction fees.",
-      "zh": "收购 Nuvalent 的股权对价为108亿美元，包含交易费用。",
+      "zh": "收购Nuvalent的股权价值(含交易费用)为108亿美元。",
       "src": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009181/a6993a.htm"
     },
     {
       "k": "balance",
       "en": "Higher finance costs partly reflect the Nuvalent acquisition.",
-      "zh": "融资成本上升部分反映了 Nuvalent 收购的影响。",
+      "zh": "较高的融资成本部分反映了收购Nuvalent的影响。",
       "src": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009181/a6993a.htm"
     },
     {
       "k": "concentration",
       "en": "Q3 HIV sales were £2.1bn, a substantial part of the £3.9bn specialty-medicines business.",
-      "zh": "第三季度 HIV 销售额为21亿英镑，是39亿英镑专科药业务的重要组成部分。",
+      "zh": "第三季度HIV销售额为21亿英镑,占39亿英镑特药业务的很大一部分。",
       "src": "https://www.sec.gov/Archives/edgar/data/1131399/000165495426009181/a6993a.htm"
     }
   ],
@@ -230,14 +230,28 @@
     [
       "US rectal cancer approval, October 19, 2026",
       "https://us.gsk.com/en-us/media/press-releases/jemperli-dostarlimab-gxly-approved-in-us-as-first-and-only-immunotherapy-for-adults-with-msi-hdmmr-locally-advanced-rectal-cancer/"
+    ],
+    [
+      "IDRx acquisition completed, February 24, 2025",
+      "https://www.gsk.com/en-gb/media/press-releases/gsk-completes-acquisition-of-idrx-inc/"
+    ],
+    [
+      "Aiolos acquisition completed, February 15, 2024",
+      "https://www.gsk.com/en-gb/media/press-releases/gsk-completes-acquisition-of-aiolos-bio/"
+    ],
+    [
+      "Hansoh HS-20089 licensing agreement, October 20, 2023",
+      "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-exclusive-license-agreement-with-hansoh-for-hs-20089/"
+    ],
+    [
+      "CureVac licensing agreement, July 3, 2024",
+      "https://www.gsk.com/en-gb/media/press-releases/gsk-and-curevac-to-restructure-collaboration-into-new-licensing-agreement/"
     ]
   ],
   "gaps": [
-    "The company publishes 28 phase I, 13 phase II and 21 combined phase III/registration assets; it does not provide a verified separate p3/reg numerical split in the reviewed material. counts is null rather than deriving a split by counting rows.",
-    "The HTML table is dynamic; indexed primary-table text and the full Q3 pipeline PDF were used to review all phases.",
-    "Origins are null for velzatinib, mocertatug rezetecan, felcorekibart and the mRNA flu vaccine: the pipeline's alliance marker does not distinguish licensing from co-development or acquisition.",
-    "Next is null for efimosfermin, mocertatug rezetecan, felcorekibart, mRNA flu vaccine and ozureprubart because no sufficiently specific forward milestone/date was verified in the reviewed primary material.",
-    "The live table still labels some recently approved assets as registration. Bepirovirsen, zidesamtinib and the US dostarlimab rectal-cancer extension were excluded after checking company approval releases.",
-    "Efimosfermin is mapped to 'other' because the allowed modality list has no FGF21 protein analogue category. No pre-2026-06 source is used for current stage or timing."
+    "The October 28, 2026 appendix reports 28 Phase I, 13 Phase II and 21 combined Phase III/registration assets; a separate Phase III/registration total split is not disclosed, so counts is null.",
+    "No specific next milestone was verified for efimosfermin, mocertatug rezetecan, felcorekibart, the mRNA flu vaccine or ozureprubart.",
+    "The IDRx, Aiolos, Hansoh and CureVac provenance releases predate June 2026; current stages use the October 2026 appendix and November liver update.",
+    "Recently approved bepirovirsen, zidesamtinib and the US dostarlimab rectal-cancer extension remain excluded. Efimosfermin is represented as other because it is an FGF21 protein analogue."
   ]
 }

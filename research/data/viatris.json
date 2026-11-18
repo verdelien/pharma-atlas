@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Viatris remains driven by established brands and generics, with a smaller innovative portfolio led by selatogrel and cenerimod. Formulation development, partnerships and acquisitions are central to its expansion.",
-    "zh": "Viatris 的基本盘仍是成熟品牌药与仿制药，创新组合规模较小，以 selatogrel 和 cenerimod 为重点，依靠制剂开发、合作及收购拓展业务。"
+    "zh": "Viatris仍以成熟品牌药和仿制药为主,创新产品组合较小,以selatogrel和cenerimod为首。制剂开发、合作和收购是其扩张的核心。"
   },
   "counts": null,
   "items": [
@@ -11,21 +11,18 @@
       "name": "Fast-acting meloxicam",
       "code": "MR-107A-02",
       "modality": "small molecule",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Moderate-to-severe acute pain (U.S.)",
-        "zh": "中重度急性疼痛（美国）"
+        "zh": "中重度急性疼痛(美国)"
       },
       "phase": "reg",
       "ta": "Other",
       "origin": null,
       "next": {
-        "en": "FDA decision",
-        "zh": "FDA 审评决定",
-        "when": "2026H2"
+        "en": "FDA target action date December 27, 2026",
+        "zh": "FDA目标行动日期2026年12月27日",
+        "when": "2026Q4"
       },
       "src": "https://ir.viatris.com/static-files/c3d9702b-a84e-47fb-8c01-6a4ad4cafe90"
     },
@@ -35,7 +32,7 @@
       "modality": "small molecule",
       "target": {
         "en": "P2Y12 inhibitor",
-        "zh": "P2Y12 抑制剂"
+        "zh": "P2Y12抑制剂"
       },
       "ind": {
         "en": "Acute myocardial infarction",
@@ -46,7 +43,7 @@
       "origin": "co-developed",
       "next": {
         "en": "Phase 3 results targeted",
-        "zh": "计划公布 III 期结果",
+        "zh": "目标公布III期结果",
         "when": "2027H1"
       },
       "src": "https://ir.viatris.com/static-files/c3d9702b-a84e-47fb-8c01-6a4ad4cafe90"
@@ -57,18 +54,18 @@
       "modality": "small molecule",
       "target": {
         "en": "S1P1 receptor modulator",
-        "zh": "S1P1 受体调节剂"
+        "zh": "S1P1受体调节剂"
       },
       "ind": {
         "en": "Systemic lupus erythematosus; also lupus nephritis",
-        "zh": "系统性红斑狼疮；另开发狼疮性肾炎"
+        "zh": "系统性红斑狼疮;另有狼疮性肾炎"
       },
       "phase": "3",
       "ta": "Immunology",
       "origin": "co-developed",
       "next": {
         "en": "OPUS-1/2 Phase 3 results targeted",
-        "zh": "计划公布 OPUS-1/2 III 期结果",
+        "zh": "目标公布OPUS-1/2 III期结果",
         "when": "2027H1"
       },
       "src": "https://ir.viatris.com/static-files/c3d9702b-a84e-47fb-8c01-6a4ad4cafe90"
@@ -77,20 +74,17 @@
       "name": "Norelgestromin weekly patch",
       "code": "MR-130A-01",
       "modality": "small molecule",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Contraception (U.S.)",
-        "zh": "避孕（美国）"
+        "zh": "避孕(美国)"
       },
       "phase": "3",
       "ta": "Women's health",
       "origin": null,
       "next": {
         "en": "Phase 3 results targeted",
-        "zh": "计划公布 III 期结果",
+        "zh": "目标公布III期结果",
         "when": "2027H1"
       },
       "src": "https://ir.viatris.com/static-files/c3d9702b-a84e-47fb-8c01-6a4ad4cafe90"
@@ -100,25 +94,25 @@
     {
       "k": "catalyst",
       "en": "Selatogrel and cenerimod SLE results are both targeted for H1 2027.",
-      "zh": "Selatogrel 及 cenerimod 的狼疮研究均计划于 2027 年上半年读出。",
+      "zh": "Selatogrel和cenerimod的SLE结果均目标于2027年上半年公布。",
       "src": "https://ir.viatris.com/static-files/c3d9702b-a84e-47fb-8c01-6a4ad4cafe90"
     },
     {
       "k": "deal",
       "en": "The $1.65 billion Pacira equity acquisition was announced with closing expected by end-November; completion was not established here.",
-      "zh": "已宣布以 16.5 亿美元股权对价收购 Pacira，预计 11 月底前交割；本次未确认已完成交割。",
+      "zh": "已宣布以16.5亿美元收购Pacira股权,预计11月底前交割;此处未确认是否已完成。",
       "src": "https://newsroom.viatris.com/2026-11-05-Viatris-Reports-Third-Quarter-2026-Financial-Results"
     },
     {
       "k": "other",
       "en": "Nashik manufacturing was voluntarily suspended in October; management expects production to resume in Q1 2027.",
-      "zh": "Nashik 工厂于 10 月主动暂停生产，公司预计于 2027 年一季度恢复。",
+      "zh": "Nashik工厂于10月自愿停产;管理层预计2027年第一季度恢复生产。",
       "src": "https://newsroom.viatris.com/2026-11-05-Viatris-Reports-Third-Quarter-2026-Financial-Results"
     },
     {
       "k": "concentration",
       "en": "New-product revenue was about $115 million in Q3 against total revenue of $3.75 billion.",
-      "zh": "三季度新产品收入约 1.15 亿美元，同期总收入为 37.5 亿美元。",
+      "zh": "第三季度新产品收入约为1.15亿美元,总收入为37.5亿美元。",
       "src": "https://newsroom.viatris.com/2026-11-05-Viatris-Reports-Third-Quarter-2026-Financial-Results"
     }
   ],
@@ -146,7 +140,7 @@
   ],
   "gaps": [
     "Counts is null because no complete company-reported count by clinical phase was verified.",
-    "Origin was not verified for fast-acting meloxicam and MR-130A-01. Molecular targets were not verified for these formulations and are bilingual objects with null values. Separate development codes for selatogrel/cenerimod were not verified.",
+    "Origin was not verified for fast-acting meloxicam and MR-130A-01. Molecular targets were not verified for these formulations and are null. Separate development codes for selatogrel/cenerimod were not verified.",
     "The August pipeline landing page is superseded by Q3 results for approvals and milestones. Wakix, Gwyn Lo and Ryzumvi presbyopia are approved and excluded. Regional filings for already approved indications and formulation-only extensions of approved products were not treated as novel pipeline assets.",
     "MR-130A-01 is listed separately from approved Gwyn Lo in the November presentation; its full composition and receptor pharmacology were not established, so no equivalence or detailed mechanism is asserted.",
     "The 2024 Idorsia collaboration source and May 2026 meloxicam release predate 2026-06; current stages/timing use the November presentation.",

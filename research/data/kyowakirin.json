@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Kyowa Kirin combines rare-disease gene therapy and antibodies with licensed oncology and skeletal-disease programs. The most advanced work includes Japan registration and pivotal global or Japanese trials.",
-    "zh": "Kyowa Kirin 将罕见病基因疗法和抗体与授权引进的肿瘤和骨骼疾病项目相结合。最前沿的工作包括日本注册以及全球或日本的关键性试验。"
+    "zh": "Kyowa Kirin将罕见病基因疗法和抗体与授权引进的肿瘤和骨骼疾病项目相结合。最先进的工作包括日本注册以及全球或日本的关键试验。"
   },
   "counts": null,
   "items": [
@@ -32,7 +32,7 @@
       },
       "ind": {
         "en": "Newly diagnosed AML combinations",
-        "zh": "初治 AML 联合疗法"
+        "zh": "新诊断AML联合治疗"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -50,7 +50,7 @@
       },
       "ind": {
         "en": "Achondroplasia in Japan; hypochondroplasia Phase 3 in preparation",
-        "zh": "日本软骨发育不全;软骨发育低下 III 期筹备中"
+        "zh": "日本软骨发育不全；软骨发育低下症III期准备中"
       },
       "phase": "3",
       "ta": "Rare disease",
@@ -62,10 +62,13 @@
       "name": "OTL-203",
       "code": "OTL-203",
       "modality": "gene therapy",
-      "target": null,
+      "target": {
+        "en": "IDUA gene addition",
+        "zh": "IDUA基因添加"
+      },
       "ind": {
         "en": "Hurler syndrome",
-        "zh": "Hurler 综合征"
+        "zh": "Hurler综合征"
       },
       "phase": "3",
       "ta": "Rare disease",
@@ -79,11 +82,11 @@
       "modality": "small molecule",
       "target": {
         "en": "VEGF receptor",
-        "zh": "VEGF 受体"
+        "zh": "VEGF受体"
       },
       "ind": {
         "en": "Neovascular age-related macular degeneration; also diabetic macular edema",
-        "zh": "新生血管性年龄相关性黄斑变性;另有糖尿病黄斑水肿"
+        "zh": "新生血管性年龄相关性黄斑变性；另有糖尿病黄斑水肿"
       },
       "phase": "2",
       "ta": "Ophthalmology",
@@ -95,10 +98,13 @@
       "name": "OTL-201",
       "code": "OTL-201",
       "modality": "gene therapy",
-      "target": null,
+      "target": {
+        "en": "SGSH gene addition",
+        "zh": "SGSH基因添加"
+      },
       "ind": {
         "en": "Sanfilippo syndrome type A",
-        "zh": "A 型 Sanfilippo 综合征"
+        "zh": "A型Sanfilippo综合征"
       },
       "phase": "2",
       "ta": "Rare disease",
@@ -134,7 +140,7 @@
       },
       "ind": {
         "en": "AML and other hematologic malignancies",
-        "zh": "AML 及其他血液系统恶性肿瘤"
+        "zh": "AML及其他血液系统恶性肿瘤"
       },
       "phase": "1",
       "ta": "Oncology",
@@ -147,19 +153,19 @@
     {
       "k": "catalyst",
       "en": "OTL-200 is filed in Japan; OTL-203's pivotal Hurler study and Japanese infigratinib Phase 3 are ongoing.",
-      "zh": "OTL-200 已在日本申报;OTL-203 的关键性 Hurler 研究和日本 infigratinib III 期正在进行。",
+      "zh": "OTL-200已在日本申报；OTL-203的关键性Hurler研究和日本infigratinib III期试验正在进行。",
       "src": "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/0118/teaserItems1/00/linkList/0/link/summary_2026_q3_en.pdf"
     },
     {
       "k": "deal",
       "en": "Ziftomenib originates from Kura Oncology and infigratinib from QED Therapeutics.",
-      "zh": "Ziftomenib 来自 Kura Oncology,infigratinib 来自 QED Therapeutics。",
+      "zh": "Ziftomenib源自Kura Oncology，infigratinib源自QED Therapeutics。",
       "src": "https://www.kyowakirin.com/what_we_do/pipeline/index.html"
     },
     {
       "k": "balance",
       "en": "Nine-month R&D expenditure was JPY67.7 billion.",
-      "zh": "前九个月研发支出为 JPY67.7 billion。",
+      "zh": "前九个月研发支出为677亿日元。",
       "src": "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/0118/teaserItems1/00/linkList/0/link/summary_2026_q3_en.pdf"
     }
   ],
@@ -175,14 +181,17 @@
     [
       "Q3 2026 pipeline appendix",
       "https://ir.kyowakirin.com/en/library/earnings/earnings0/main/0118/teaserItems1/00/linkList/00/link/appendix_2026_q3_en.pdf"
+    ],
+    [
+      "Orchard: gene-therapy mechanisms",
+      "https://www.orchard-tx.com/approach/pipeline/"
     ]
   ],
   "gaps": [
     "No published complete phase totals verified.",
-    "Gene-therapy molecular targets are not specified in the reviewed pipeline and are null.",
-    "Origin follows the company's In-House or Licensed classification; this does not establish original discovery before acquired subsidiaries joined the group.",
-    "No dated asset-level upcoming events verified.",
-    "OTL-201 is shown as Phase 2 on the pipeline and described as Phase I/II-equivalent in results.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "OTL-200's molecular target and dated upcoming asset-level milestones were not established in the reviewed current pipeline; null.",
+    "Origin follows the company's In-House or Licensed classification, rather than original discovery before subsidiaries joined the group.",
+    "OTL-201 is shown as Phase 2 on the company pipeline and described as Phase I/II-equivalent in results.",
+    "Orchard's mechanism descriptions are undated and retain older proof-of-concept language; September/November 2026 Kyowa Kirin sources determine phases."
   ]
 }

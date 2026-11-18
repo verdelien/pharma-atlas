@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Servier's foundation-governed R&D focuses on rare cancers and neurology, combining partnerships with acquisitions. Darovasertib and the acquired ADC portfolio are prominent after sevasemten development was discontinued.",
-    "zh": "Servier 由基金会管理的研发聚焦于罕见癌症和神经科学,并将合作与收购相结合。在 sevasemten 开发终止后,darovasertib 和收购的 ADC 产品组合更为突出。"
+    "zh": "Servier由基金会治理的研发聚焦罕见癌症和神经科学，将合作与收购相结合。在sevasemten开发终止后，darovasertib和收购的ADC组合尤为突出。"
   },
   "counts": null,
   "items": [
@@ -17,7 +17,7 @@
       },
       "ind": {
         "en": "Uveal melanoma: adjuvant; also metastatic and neoadjuvant development",
-        "zh": "葡萄膜黑色素瘤:辅助治疗;另有转移性和新辅助治疗开发"
+        "zh": "葡萄膜黑色素瘤：辅助治疗；另有转移性和新辅助治疗开发"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -35,7 +35,7 @@
       },
       "ind": {
         "en": "Aggressive adenoid cystic carcinoma; also other solid tumors",
-        "zh": "侵袭性腺样囊性癌;另有其他实体瘤"
+        "zh": "侵袭性腺样囊性癌；另有其他实体瘤"
       },
       "phase": "2",
       "ta": "Oncology",
@@ -63,7 +63,7 @@
     },
     {
       "name": "S243249",
-      "code": "S243249",
+      "code": "S243249 / BN104",
       "modality": "small molecule",
       "target": {
         "en": "Menin",
@@ -77,7 +77,7 @@
       "ta": "Oncology",
       "origin": null,
       "next": null,
-      "src": "https://servier.com/en/research-innovation/our-development-pipeline/"
+      "src": "https://oncology-pipeline.serviermedical.us/early-stage-oncology.html"
     },
     {
       "name": "S230815",
@@ -85,11 +85,11 @@
       "modality": "other",
       "target": {
         "en": "KCNT1 antisense",
-        "zh": "KCNT1 反义核酸"
+        "zh": "KCNT1反义"
       },
       "ind": {
         "en": "KCNT1-related developmental and epileptic encephalopathy",
-        "zh": "KCNT1 相关发育性和癫痫性脑病"
+        "zh": "KCNT1相关发育性和癫痫性脑病"
       },
       "phase": "1",
       "ta": "Neuroscience",
@@ -102,25 +102,25 @@
     {
       "k": "catalyst",
       "en": "The pivotal Phase 2 EMBLEM-1 cohort for Emi-Le began dosing in October 2026.",
-      "zh": "Emi-Le 的关键性 II 期 EMBLEM-1 队列于 2026 年 10 月开始给药。",
+      "zh": "Emi-Le的关键性II期EMBLEM-1队列于2026年10月开始给药。",
       "src": "https://servier.mediaroom.com/2026-10-19-Servier-Announces-First-Patients-Dosed-in-Pivotal-Phase-2-EMBLEM-1-Cohort-Evaluating-Emiltatug-Ledadotin-Emi-Le-in-Adenoid-Cystic-Carcinoma"
     },
     {
       "k": "other",
       "en": "Sevasemten missed GRAND CANYON's primary and secondary endpoints; Servier discontinued BMD and DMD studies.",
-      "zh": "Sevasemten 未达到 GRAND CANYON 的主要和次要终点;Servier 终止了 BMD 和 DMD 研究。",
+      "zh": "Sevasemten未达到GRAND CANYON的主要和次要终点；Servier终止了BMD和DMD研究。",
       "src": "https://servier.com/en/newsroom/topline-pivotal-results-sevasemten-becker/"
     },
     {
       "k": "deal",
       "en": "The Day One acquisition added tovorafenib, Emi-Le and DAY301 for approximately USD 2.5 billion equity value.",
-      "zh": "Day One 收购新增了 tovorafenib、Emi-Le 和 DAY301,股权价值约 USD 2.5 billion。",
+      "zh": "收购Day One新增tovorafenib、Emi-Le和DAY301，股权价值约25亿美元。",
       "src": "https://servier.com/en/newsroom/servier-completes-the-acquisition-of-day-one-biopharmaceuticals/"
     },
     {
       "k": "concentration",
       "en": "Oncology generated 32.2% of 2024/25 revenue, driven by U.S. Voranigo growth.",
-      "zh": "肿瘤业务占 2024/25 年收入的 32.2%,主要得益于美国 Voranigo 的增长。",
+      "zh": "肿瘤贡献了2024/25年度收入的32.2%，由美国Voranigo增长驱动。",
       "src": "https://servier.com/en/newsroom/solid-performance-forecasts/"
     }
   ],
@@ -164,6 +164,10 @@
     [
       "S230815 Japanese regulator trial record",
       "https://rctportal.mhlw.go.jp/en/detail?trial_id=jRCT2051260035"
+    ],
+    [
+      "Early-stage oncology: S243249 / BN104 Phase 1/2",
+      "https://oncology-pipeline.serviermedical.us/early-stage-oncology.html"
     ]
   ],
   "gaps": [
@@ -174,7 +178,6 @@
     "Darovasertib is co-developed with IDEAYA; Servier holds regulatory/commercial rights outside the U.S. A rolling U.S. NDA submission had started, but no completed Servier-territory filing was verified.",
     "The April 23 Day One acquisition source predates June 2026; it establishes acquired provenance for Emi-Le and DAY301.",
     "Next milestone dates were not verified for selected assets; next is null. Unverified codes are null.",
-    "The October pipeline still lists sevasemten; the November 13 discontinuation update supersedes it. Approved ivosidenib, vorasidenib and tovorafenib without a verified major new filed indication are excluded.",
-    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+    "The October pipeline still lists sevasemten; the November 13 discontinuation update supersedes it. Approved ivosidenib, vorasidenib and tovorafenib without a verified major new filed indication are excluded."
   ]
 }

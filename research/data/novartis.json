@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "A broad late-stage portfolio spans immune diseases, neuromuscular disorders, oncology and cardiovascular disease. Acquisitions and licensing contribute several important assets.",
-    "zh": "管线覆盖免疫疾病、神经肌肉疾病、肿瘤及心血管领域，后期项目较多；多项重点资产来自收购或许可引进。"
+    "zh": "广泛的后期产品组合涵盖免疫疾病、神经肌肉疾病、肿瘤和心血管疾病。收购和授权引进贡献了若干重要资产。"
   },
   "counts": null,
   "items": [
@@ -13,18 +13,18 @@
       "modality": "antibody",
       "target": {
         "en": "BAFF receptor; B-cell depletion",
-        "zh": "BAFF 受体；清除 B 细胞"
+        "zh": "BAFF受体；B细胞清除"
       },
       "ind": {
         "en": "Sjögren's disease; also lupus and immune thrombocytopenia",
-        "zh": "干燥综合征；另开发狼疮及免疫性血小板减少症"
+        "zh": "干燥综合征；另有狼疮和免疫性血小板减少症"
       },
       "phase": "reg",
       "ta": "Immunology",
       "origin": null,
       "next": {
         "en": "Regulatory review of Sjögren's applications",
-        "zh": "干燥综合征上市申请审评",
+        "zh": "干燥综合征申请的监管审评",
         "when": null
       },
       "src": "https://www.novartis.com/research-development/novartis-pipeline?page=4"
@@ -35,7 +35,7 @@
       "modality": "small molecule",
       "target": {
         "en": "BET inhibitor",
-        "zh": "BET 抑制剂"
+        "zh": "BET抑制剂"
       },
       "ind": {
         "en": "Myelofibrosis",
@@ -46,7 +46,7 @@
       "origin": "acquired",
       "next": {
         "en": "EU regulatory review",
-        "zh": "欧盟上市申请审评",
+        "zh": "欧盟监管审评",
         "when": null
       },
       "src": "https://www.novartis.com/sites/novartis_com/files/q3-2026-interim-financial-report-en.pdf"
@@ -57,18 +57,18 @@
       "modality": "other",
       "target": {
         "en": "Dystrophin exon 44 skipping",
-        "zh": "促进 dystrophin 基因第44外显子跳跃"
+        "zh": "Dystrophin 外显子44跳跃"
       },
       "ind": {
         "en": "Duchenne muscular dystrophy amenable to exon 44 skipping",
-        "zh": "适合第44外显子跳跃治疗的杜氏肌营养不良症"
+        "zh": "适合外显子44跳跃的杜氏肌营养不良"
       },
       "phase": "reg",
       "ta": "Rare disease",
       "origin": "acquired",
       "next": {
         "en": "FDA priority review",
-        "zh": "FDA 优先审评",
+        "zh": "FDA优先审评",
         "when": null
       },
       "src": "https://www.novartis.com/us-en/news/media-releases/novartis-provides-update-delpacibart-etedesiran-del-desiran-phase-iii-harbor-study-treatment-myotonic-dystrophy-type-1-dm1?trk=article-ssr-frontend-pulse_little-text-block"
@@ -83,14 +83,14 @@
       },
       "ind": {
         "en": "Uncomplicated malaria",
-        "zh": "非重症疟疾"
+        "zh": "无并发症疟疾"
       },
       "phase": "reg",
       "ta": "Infectious disease",
-      "origin": null,
+      "origin": "co-developed",
       "next": {
         "en": "FDA priority review",
-        "zh": "FDA 优先审评",
+        "zh": "FDA优先审评",
         "when": null
       },
       "src": "https://www.novartis.com/sites/novartis_com/files/q3-2026-interim-financial-report-en.pdf"
@@ -101,18 +101,18 @@
       "modality": "siRNA",
       "target": {
         "en": "DUX4 mRNA knockdown",
-        "zh": "降低 DUX4 mRNA"
+        "zh": "DUX4 mRNA敲低"
       },
       "ind": {
         "en": "Facioscapulohumeral muscular dystrophy",
-        "zh": "面肩肱型肌营养不良症"
+        "zh": "面肩肱型肌营养不良"
       },
       "phase": "3",
       "ta": "Rare disease",
       "origin": "acquired",
       "next": {
         "en": "FDA meeting on biomarker data",
-        "zh": "就生物标志物数据与 FDA 会谈",
+        "zh": "与FDA就生物标志物数据举行会议",
         "when": "2026Q4"
       },
       "src": "https://www.novartis.com/sites/novartis_com/files/q3-2026-interim-financial-report-en.pdf"
@@ -123,18 +123,18 @@
       "modality": "antibody",
       "target": {
         "en": "APRIL inhibition",
-        "zh": "抑制 APRIL"
+        "zh": "APRIL抑制"
       },
       "ind": {
         "en": "IgA nephropathy",
-        "zh": "IgA 肾病"
+        "zh": "IgA肾病"
       },
       "phase": "3",
       "ta": "Immunology",
       "origin": "acquired",
       "next": {
         "en": "First planned submission",
-        "zh": "计划首次申报上市",
+        "zh": "首次计划申报",
         "when": "2027"
       },
       "src": "https://www.novartis.com/research-development/novartis-pipeline?page=1"
@@ -145,18 +145,18 @@
       "modality": "antibody",
       "target": {
         "en": "Factor XI/XIa inhibition",
-        "zh": "抑制凝血因子 XI/XIa"
+        "zh": "因子XI/XIa抑制"
       },
       "ind": {
         "en": "Stroke prevention in atrial fibrillation",
-        "zh": "预防房颤相关卒中"
+        "zh": "心房颤动卒中预防"
       },
       "phase": "3",
       "ta": "Cardiovascular",
       "origin": "internal",
       "next": {
         "en": "First planned submission",
-        "zh": "计划首次申报上市",
+        "zh": "首次计划申报",
         "when": "2028"
       },
       "src": "https://www.novartis.com/research-development/novartis-pipeline?page=3"
@@ -167,7 +167,7 @@
       "modality": "small molecule",
       "target": {
         "en": "Huntingtin splicing modulation",
-        "zh": "调节 huntingtin RNA 剪接"
+        "zh": "亨廷顿蛋白剪接调节"
       },
       "ind": {
         "en": "Huntington's disease",
@@ -178,7 +178,7 @@
       "origin": "licensed",
       "next": {
         "en": "FDA meeting on Phase 2 data and potential accelerated pathway",
-        "zh": "就 II 期数据及潜在加速批准路径与 FDA 会谈",
+        "zh": "与FDA就II期数据及潜在加速路径举行会议",
         "when": "2027Q1"
       },
       "src": "https://www.sec.gov/Archives/edgar/data/1070081/000110465926120223/tmb-20260930x10q.htm"
@@ -188,31 +188,31 @@
     {
       "k": "catalyst",
       "en": "Four selected assets are already in regulatory review.",
-      "zh": "所选项目中有四项已进入上市审评阶段。",
+      "zh": "四项入选资产已处于监管审评阶段。",
       "src": "https://www.novartis.com/sites/novartis_com/files/q3-2026-interim-financial-report-en.pdf"
     },
     {
       "k": "other",
       "en": "HARBOR missed its primary endpoint; the del-desiran development path is being reassessed.",
-      "zh": "HARBOR 未达到主要终点，del-desiran 后续开发路径正在评估。",
+      "zh": "HARBOR未达到主要终点；del-desiran的开发路径正在重新评估。",
       "src": "https://www.novartis.com/us-en/news/media-releases/novartis-provides-update-delpacibart-etedesiran-del-desiran-phase-iii-harbor-study-treatment-myotonic-dystrophy-type-1-dm1?trk=article-ssr-frontend-pulse_little-text-block"
     },
     {
       "k": "other",
       "en": "The cardiovascular HORIZON trial missed its primary endpoint.",
-      "zh": "心血管领域 HORIZON 试验未达到主要终点。",
+      "zh": "心血管HORIZON试验未达到主要终点。",
       "src": "https://www.novartis.com/sites/novartis_com/files/q3-2026-interim-financial-report-en.pdf"
     },
     {
       "k": "deal",
       "en": "Avidity-originated muscle therapies make acquisition execution a pipeline issue.",
-      "zh": "来自 Avidity 的肌肉疾病疗法，使收购整合与后续执行成为管线观察重点。",
+      "zh": "源自Avidity的肌肉疗法使收购整合执行成为管线议题。",
       "src": "https://www.novartis.com/us-en/news/media-releases/novartis-provides-update-delpacibart-etedesiran-del-desiran-phase-iii-harbor-study-treatment-myotonic-dystrophy-type-1-dm1?trk=article-ssr-frontend-pulse_little-text-block"
     },
     {
       "k": "loe",
       "en": "Q3 growth brands offset generic erosion.",
-      "zh": "第三季度重点品牌增长抵消了仿制药竞争带来的侵蚀。",
+      "zh": "第三季度增长品牌抵消了仿制药侵蚀。",
       "src": "https://www.novartis.com/news/media-releases/novartis-delivered-sales-growth-and-core-margin-expansion-q3-raised-fy-core-operating-income-guidance"
     }
   ],
@@ -270,21 +270,22 @@
       "https://www.novartis.com/news/media-releases/novartis-bolsters-late-stage-cardiovascular-pipeline-agreement-acquire-anthos-therapeutics-usd-925-million-upfront"
     ],
     [
-      "Anthos acquisition completed, Q1 2025 release",
-      "https://prod1.novartis.com/sites/novartis_com/files/q1-2025-media-release-en.pdf"
-    ],
-    [
       "Votoplam mechanism, April 28, 2026 filing",
       "https://www.sec.gov/Archives/edgar/data/1070081/000107008126000006/tmb-20260428xex99d1.htm"
+    ],
+    [
+      "Ganaplacide joint research and development with MMV, November 2022",
+      "https://www.novartis.com/news/media-releases/novartis-and-medicines-malaria-venture-announce-decision-move-phase-3-study-novel-ganaplacidelumefantrine-sdf-combination-adults-and-children-malaria"
     ]
   ],
   "gaps": [
     "No complete company-reported phase-count breakdown was verified; counts is null, not a count of selected items.",
-    "Origin was not established precisely for ianalumab or ganaplacide/lumefantrine; origin is null.",
+    "Ianalumab discovery origin was not established precisely; origin remains null.",
     "Review decision dates were not verified for the four registration assets; next.when is null.",
     "del-zota is an antibody–oligonucleotide conjugate, represented by the allowed modality 'other'; del-brax uses antibody-conjugated siRNA.",
     "Historical sources older than 2026-06 are used only for provenance: MorphoSys (2024) and Chinook (2023), not current stage or catalyst timing. Anthos (2025) supports abelacimab provenance/mechanism; the April 2026 PTC release supports votoplam mechanism.",
     "Approved remibrutinib and other marketed assets with only unfiled extensions are excluded under the brief. HARBOR and HORIZON setbacks remain in watch rather than being presented as upcoming successful catalysts.",
-    "Abelacimab originated at Novartis, was licensed to Anthos, and returned through the Anthos acquisition. origin is 'internal' for discovery provenance; this does not imply uninterrupted internal ownership."
+    "Abelacimab originated at Novartis, was licensed to Anthos, and returned through the Anthos acquisition. origin is 'internal' for discovery provenance; this does not imply uninterrupted internal ownership.",
+    "The November 2022 ganaplacide/MMV release establishes joint research and development only; current registration status comes from Q3 2026."
   ]
 }

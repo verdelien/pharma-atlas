@@ -6,7 +6,30 @@
       "v": 2.255,
       "v_note": "FY2025 (year ended 31 December 2025) COVID-19 vaccine revenue EUR 1,995.3m recognized by BioNTech, including collaboration revenue and direct sales; not total worldwide Comirnaty sales. Converted at the 2025 annual-average rate USD 1.1300 per EUR (Bundesbank/ECB: https://publikationen.bundesbank.de/caas/v1/media/991180/data/6619b8e9182777187f1050fb32ce26c9).",
       "v_src": "https://investors.biontech.de/static-files/2f72bb96-98f6-450a-b3e3-eb6a73ab6028",
-      "v_note_zh": "FY2025（截至2025年12月31日的年度）BioNTech确认的COVID-19疫苗收入EUR 1,995.3m，包括合作收入和直接销售；并非Comirnaty全球总销售额。按2025年年度平均汇率USD 1.1300/EUR折算（Bundesbank/ECB：https://publikationen.bundesbank.de/caas/v1/media/991180/data/6619b8e9182777187f1050fb32ce26c9）。"
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）BioNTech确认的COVID-19疫苗收入EUR 1,995.3m，包括合作收入和直接销售；并非Comirnaty全球总销售额。按2025年年度平均汇率USD 1.1300/EUR折算（Bundesbank/ECB：https://publikationen.bundesbank.de/caas/v1/media/991180/data/6619b8e9182777187f1050fb32ce26c9）。",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2041",
+          "note": "Pfizer 2025 Form 10-K basic product patent table for Comirnaty, commercialized with BioNTech; the trademark covers marketed variants. Basic product patent expiry, not a confirmed biosimilar launch.",
+          "src": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+          "note_zh": "Pfizer 2025年10-K中Comirnaty(与BioNTech共同商业化)的基础产品专利表;该商标涵盖已上市变体。为基础产品专利到期,并非已确认的生物类似药上市。"
+        },
+        {
+          "region": "Japan",
+          "value": "2041",
+          "note": "Pfizer 2025 Form 10-K basic product patent table for Comirnaty, commercialized with BioNTech; the trademark covers marketed variants. Basic product patent expiry, not a confirmed biosimilar launch.",
+          "src": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+          "note_zh": "Pfizer 2025年10-K中Comirnaty(与BioNTech共同商业化)的基础产品专利表;该商标涵盖已上市变体。为基础产品专利到期,并非已确认的生物类似药上市。"
+        },
+        {
+          "region": "EU",
+          "value": null,
+          "note": "Pfizer 2025 Form 10-K lists a pending basic-product patent application in major Europe rather than an expiration year. No granted European basic-product patent expiry or biosimilar-entry date verified.",
+          "src": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+          "note_zh": "Pfizer 2025年10-K列出的是主要欧洲市场待决的基础产品专利申请,而非到期年份。未核实已授予的欧洲基础产品专利到期日或生物类似药进入日期。"
+        }
+      ]
     }
   ],
   "new_products": []

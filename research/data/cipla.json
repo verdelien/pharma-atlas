@@ -19,11 +19,11 @@
         "en": "HER2-expressing cancers, including HER2-low advanced breast cancer",
         "zh": "HER2 表达癌症,包括 HER2 低表达晚期乳腺癌"
       },
-      "phase": null,
+      "phase": "3",
       "ta": "Oncology",
       "origin": "licensed",
       "next": null,
-      "src": "https://www.cipla.com/press-releases-statements/cipla-and-sbp-group-sign-exclusive-licensing-agreement-potential-best"
+      "src": "https://www.en.sbpgroup.com/news-center/dynamic/25029.html"
     },
     {
       "name": "pembrolizumab biosimilar",
@@ -34,11 +34,11 @@
         "en": "Cancer; specific licensed indications not disclosed",
         "zh": "癌症;具体授权适应症未披露"
       },
-      "phase": null,
+      "phase": "3",
       "ta": "Oncology",
       "origin": "licensed",
       "next": null,
-      "src": "https://www.cipla.com/press-releases-statements/cipla-announces-exclusive-partnership-qilu-pharmaceutical-licensing-and-supply-of-biosimilar-to-keytruda"
+      "src": "https://euclinicaltrials.eu/ctis-public/view/2024-519883-42-00"
     }
   ],
   "watch": [
@@ -79,15 +79,30 @@
     [
       "QL2107 licensing, September 3",
       "https://www.cipla.com/press-releases-statements/cipla-announces-exclusive-partnership-qilu-pharmaceutical-licensing-and-supply-of-biosimilar-to-keytruda"
+    ],
+    [
+      "SBP TQB2102 licensing and global Phase 3 development, August 31, 2026",
+      "https://www.en.sbpgroup.com/news-center/dynamic/25029.html"
+    ],
+    [
+      "EMA CTIS QL2107-102: Phase 3 PK biosimilarity trial (indexed registry)",
+      "https://euclinicaltrials.eu/ctis-public/view/2024-519883-42-00"
+    ],
+    [
+      "SBP TQB2102 China marketing application accepted, September 16, 2026",
+      "https://www.en.sbpgroup.com/news-center/dynamic/25035.html"
+    ],
+    [
+      "Cipla-issued QL2107 licensing release via PRNewswire, September 3, 2026",
+      "https://www.prnewswire.com/news-releases/cipla-announces-exclusive-partnership-with-qilu-pharmaceutical-for-the-licensing-and-supply-of-biosimilar-to-keytruda-pembrolizumab-in-the-us-302869221.html"
     ]
   ],
   "gaps": [
     "No full named innovative pipeline page was located; the complete current investor presentation was reviewed.",
     "Only two individually named unapproved assets could be verified from reachable current company materials.",
-    "Exact phases and dated next milestones were not disclosed in the opened licensing releases; these fields are null.",
-    "QL2107 receptor target and specific development indications were not established in the opened company release.",
     "The Q2 transcript and press-release PDFs returned fetch errors, and the annual report timed out; the current Q2 presentation loaded successfully.",
     "Regulatory totals refer to generic filings and are not company counts by clinical phase.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "Both assets have Phase 3 programs in partner/global development. TQB2102 is filed in China, which is outside Cipla’s licensed territories; its phase here stays 3 rather than implying a Cipla-territory filing. QL2107-102 is a Phase 3 pharmacokinetic biosimilarity trial, not proof of a U.S. application.",
+    "No Cipla-territory next milestone/date was verified for either asset. QL2107 receptor-level target and specific licensed indications remain unverified; target is null. CTIS direct rendering was empty; indexed EMA registry text establishes phase."
   ]
 }

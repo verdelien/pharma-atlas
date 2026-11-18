@@ -7,6 +7,18 @@
       "v_note": "FY2025 ended June 30, 2025: USD 1,688 million, calculated as egg-based vaccines 116 + cell-culture vaccines 474 + adjuvanted egg-based vaccines 901 + pre-pandemic sales 197 (all USD million). Excludes pandemic reservation fees, other/in-license revenue and other income; USD bn.",
       "v_src": "https://investors.csl.com/annualreport/2025/102/",
       "v_note_zh": "截至2025年6月30日的FY2025：USD 1,688 million，计算方式为鸡胚疫苗116 + 细胞培养疫苗474 + 佐剂鸡胚疫苗901 + 大流行前期销售197（均为USD million）。不包括大流行预留费、其他/授权引进收入及其他收益；USD bn。"
+    },
+    {
+      "b": "Kcentra and peri-operative bleeding",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "No single regional LOE date verified for this aggregate row. CSL 2025 Annual Report Note 3 reports Peri-Operative Bleeding as a revenue category, not standalone Kcentra sales; a Kcentra-only patent or orphan-exclusivity date cannot be assigned to the whole category.",
+          "src": "https://investors.csl.com/annualreport/2025/102/",
+          "note_zh": "未核实该汇总行存在单一的区域独占期结束日期。CSL 2025年年报附注3将围手术期出血列为收入类别,而非Kcentra单独销售额;仅针对Kcentra的专利或孤儿药独占期日期不能适用于整个类别。"
+        }
+      ]
     }
   ],
   "new_products": []

@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Torrent describes R&D focused on complex generics, drug delivery and differentiated formulations, with work in metabolic disease, CNS and oncology. Its latest reviewed annual report does not identify an asset-level clinical pipeline suitable for this brief.",
-    "zh": "Torrent 称其研发聚焦于复杂仿制药、药物递送和差异化制剂,涉及代谢疾病、CNS 和肿瘤领域。其最新审阅的年报未列出适合本简报的资产层面临床管线。"
+    "zh": "Torrent称其研发聚焦复杂仿制药、药物递送和差异化制剂,涉及代谢疾病、中枢神经系统和肿瘤领域。其最新审阅的年报未披露适用于本简报的资产级临床管线。"
   },
   "counts": null,
   "items": [],
@@ -11,19 +11,19 @@
     {
       "k": "other",
       "en": "The FY2025–26 annual report discloses 115 development projects and R&D spending of Rs650 crore; these are not counts by clinical phase.",
-      "zh": "FY2025–26 年报披露了 115 个开发项目和 Rs650 crore 的研发支出;这些并非按临床阶段统计的数量。",
+      "zh": "2025–26财年年报披露了115个开发项目和6.5亿卢比(650 crore)的研发支出;这些并非按临床阶段划分的数量。",
       "src": "https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf"
     },
     {
       "k": "other",
       "en": "R&D investment includes GLP-1 formulations, oncology, immunology and neurology.",
-      "zh": "研发投入包括 GLP-1 制剂、肿瘤、免疫和神经领域。",
+      "zh": "研发投入包括GLP-1制剂、肿瘤、免疫学和神经病学。",
       "src": "https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf"
     },
     {
       "k": "other",
       "en": "The FY2025–26 report records Indian approvals for brexpiprazole tablets and oral semaglutide; these already approved products are excluded from pipeline items.",
-      "zh": "FY2025–26 年报记录了 brexpiprazole 片剂和口服 semaglutide 在印度获批;这些已获批产品不计入管线项目。",
+      "zh": "2025–26财年报告记录了布瑞哌唑片剂和口服司美格鲁肽在印度获批;这些已获批产品不计入管线项目。",
       "src": "https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf"
     }
   ],
@@ -47,14 +47,17 @@
     [
       "Portfolio",
       "https://www.torrentpharma.com/r-and-d/portfolio/"
+    ],
+    [
+      "Q2 FY27 results release, October 23, 2026",
+      "https://www.torrentpharma.com/docs/Press_Release_ceca3763b1.pdf"
     ]
   ],
   "gaps": [
     "Company-wide counts by phase were not verified; counts is null. Unverified codes, mechanisms, modalities, origins and milestone dates are null rather than inferred.",
     "No currently investigational named asset with a verified phase was found in the reviewed FY2025–26 report. Items is empty instead of assigning phases to generic projects or already approved formulations.",
-    "The latest Q2 FY27 results index loaded, but its press release timed out and the earnings transcript was inaccessible; curl fallback failed due to DNS. The annual report is the latest substantive accessible company source used here.",
     "Historical TRC150094 records were located, but current development status and a future milestone were not verified, so the asset was omitted rather than recycling an old Phase 3 status.",
     "The complete research-area and portfolio webpages were also reviewed; they describe therapeutic interests and formulation categories without a named current clinical-phase table.",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "The October 23, 2026 quarterly release and current research pages do not identify a named investigational asset with a current clinical phase or a dated development milestone."
   ]
 }

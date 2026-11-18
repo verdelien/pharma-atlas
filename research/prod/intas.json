@@ -1,5 +1,20 @@
 {
   "id": "intas",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Udenyca",
+      "v": null,
+      "v_note": "FY2025 (year ending March 2026) Intas-owned Udenyca revenue not verified. Coherus transaction disclosure gives sales-linked earnout thresholds for different periods; these are not actual annual product revenue.",
+      "v_src": "https://www.sec.gov/Archives/edgar/data/1512762/000110465925111484/chrs-20251113xex99d1.htm",
+      "v_note_zh": "未核实2025财年(截至2026年3月的年度)Intas拥有的Udenyca收入。Coherus交易披露给出了不同期间与销售挂钩的盈利对价门槛;这些并非实际年度产品收入。"
+    },
+    {
+      "b": "Generics and biosimilars (Accord Healthcare)",
+      "v": null,
+      "v_note": "FY2025 (year ending March 2026) revenue for the full Accord Healthcare generics/biosimilars portfolio across Europe, US and other markets was not verified. The company business-operations page describes the international business without a comparable portfolio revenue figure.",
+      "v_src": "https://www.intaspharma.com/business-operations/",
+      "v_note_zh": "未核实2025财年(截至2026年3月的年度)Accord Healthcare覆盖欧洲、美国及其他市场的完整仿制药/生物类似药组合收入。公司业务运营页面介绍了国际业务,但未提供可比的组合收入数字。"
+    }
+  ],
   "new_products": []
 }

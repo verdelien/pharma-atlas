@@ -22,6 +22,24 @@
           "note": "FY2025 patent table: US new-molecular-entity patents 2027, other patents 2027-2031; EU new-molecular-entity patents 2029, other patents 2026-2032. No single worldwide generic-entry date established.",
           "src": "https://www.gsk.com/media/0t2lqb2w/2025-annual-report-on-form-20-f.pdf",
           "note_zh": "FY2025专利表：美国新分子实体专利2027年，其他专利2027-2031年；欧盟新分子实体专利2029年，其他专利2026-2032年。未确定单一的全球仿制药上市日期。"
+        },
+        {
+          "region": "US",
+          "value": "2027",
+          "note": "Latest new-molecular-entity patent expiry including granted extensions; other patents 2027-2031. No announced generic entry.",
+          "src": "https://www.gsk.com/media/3rxjw5di/investor-information-2025.pdf",
+          "note_zh": "最新新分子实体专利到期日(含已授予的延期);其他专利为2027-2031年。无已公布的仿制药进入。"
+        },
+        {
+          "region": "EU",
+          "value": "2029",
+          "note": "Latest new-molecular-entity patent expiry including granted extensions; other patents 2026-2032. No announced generic entry.",
+          "src": "https://www.gsk.com/media/3rxjw5di/investor-information-2025.pdf",
+          "note_zh": "最新新分子实体专利到期日(含已授予的延期);其他专利为2026-2032年。无已公布的仿制药进入。"
+        },
+        {
+          "region": "Japan",
+          "value": null
         }
       ]
     },
@@ -34,6 +52,24 @@
           "note": "FY2025 patent table lists US patents 2029-2036 and EU patents 2028-2036; no single worldwide biosimilar-entry date established.",
           "src": "https://www.gsk.com/media/0t2lqb2w/2025-annual-report-on-form-20-f.pdf",
           "note_zh": "FY2025专利表列示美国专利2029-2036年，欧盟专利2028-2036年；未确定单一的全球生物类似药上市日期。"
+        },
+        {
+          "region": "US",
+          "value": "2036",
+          "note": "Latest endpoint of company patent range 2029-2036, including granted extensions; not a biosimilar-launch date.",
+          "src": "https://www.gsk.com/media/3rxjw5di/investor-information-2025.pdf",
+          "note_zh": "公司专利范围2029-2036年的最晚终点(含已授予的延期);并非生物类似药上市日期。"
+        },
+        {
+          "region": "EU",
+          "value": "2036",
+          "note": "Latest endpoint of company patent range 2028-2036, including granted extensions; not a biosimilar-launch date.",
+          "src": "https://www.gsk.com/media/3rxjw5di/investor-information-2025.pdf",
+          "note_zh": "公司专利范围2028-2036年的最晚终点(含已授予的延期);并非生物类似药上市日期。"
+        },
+        {
+          "region": "Japan",
+          "value": null
         }
       ]
     },
@@ -46,6 +82,24 @@
           "note": "FY2025 patent table: US new-molecular-entity patents expired, other patents 2029-2035; EU new-molecular-entity patents 2026, other patents 2035. No single worldwide biosimilar-entry date established.",
           "src": "https://www.gsk.com/media/0t2lqb2w/2025-annual-report-on-form-20-f.pdf",
           "note_zh": "FY2025专利表：美国新分子实体专利已到期，其他专利2029-2035年；欧盟新分子实体专利2026年，其他专利2035年。未确定单一的全球生物类似药上市日期。"
+        },
+        {
+          "region": "US",
+          "value": "2035",
+          "note": "Latest other-patent expiry (2029-2035); new-molecular-entity patents expired. Not an announced biosimilar-launch date.",
+          "src": "https://www.gsk.com/media/3rxjw5di/investor-information-2025.pdf",
+          "note_zh": "最晚其他专利到期日(2029-2035年);新分子实体专利已到期。并非已公布的生物类似药上市日期。"
+        },
+        {
+          "region": "EU",
+          "value": "2026",
+          "note": "New-molecular-entity patent expiry including granted extensions; other patents 2035. No announced biosimilar entry.",
+          "src": "https://www.gsk.com/media/3rxjw5di/investor-information-2025.pdf",
+          "note_zh": "新分子实体专利到期日(含已授予的延期);其他专利为2035年。无已公布的生物类似药进入。"
+        },
+        {
+          "region": "Japan",
+          "value": null
         }
       ]
     }

@@ -5,11 +5,32 @@
       "b": "Takhzyro",
       "loe": [
         {
-          "region": "All",
-          "value": null,
-          "note": "FY2025 Form 20-F (year ended March 31, 2026), patent/RP table: patent expiry US August 2032, EU November 2033, Japan January 2036; regulatory protection US August 2030, EU November 2030, Japan March 2032. No single worldwide biosimilar-entry date verified.",
+          "region": "US",
+          "value": "2032-08",
+          "note": "FY2025 20-F (March 2026 year-end): patent expiry; regulatory protection August 2030. Not an announced biosimilar launch.",
           "src": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
-          "note_zh": "FY2025 Form 20-F（截至2026年3月31日的年度），专利/监管保护表：专利到期日美国2032年8月，欧盟2033年11月，日本2036年1月；监管保护美国2030年8月，欧盟2030年11月，日本2032年3月。未核实单一的全球生物类似药上市日期。"
+          "note_zh": "2025财年20-F(截至2026年3月):专利到期;监管保护至2030年8月。并非已公布的生物类似药上市。"
+        },
+        {
+          "region": "EU",
+          "value": "2033-11",
+          "note": "FY2025 20-F (March 2026 year-end): patent expiry; regulatory protection November 2030. Not an announced biosimilar launch.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+          "note_zh": "2025财年20-F(截至2026年3月):专利到期;监管保护至2030年11月。并非已公布的生物类似药上市。"
+        },
+        {
+          "region": "Japan",
+          "value": "2036-01",
+          "note": "FY2025 20-F (March 2026 year-end): patent expiry; regulatory protection March 2032. Not an announced biosimilar launch.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+          "note_zh": "2025财年20-F(截至2026年3月):专利到期;监管保护至2032年3月。并非已公布的生物类似药上市。"
+        },
+        {
+          "region": "China",
+          "value": null,
+          "note": "China-specific patent/exclusivity end and generic/biosimilar entry year were not verified from the sources inspected.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+          "note_zh": "未能从所查阅的来源核实中国特定的专利/独占期结束日期及仿制药/生物类似药进入年份。"
         }
       ]
     },
@@ -17,11 +38,32 @@
       "b": "Adcetris",
       "loe": [
         {
-          "region": "All",
-          "value": null,
-          "note": "FY2025 Form 20-F (year ended March 31, 2026), patent/RP table: EU patent October 2027; Japanese indication-specific extensions July 2028, with relapsed/refractory Hodgkin lymphoma and ALCL extensions expiring April 2026. Japanese regulatory protection varies by indication, including September 2029 for relapsed/refractory CTCL. Takeda does not commercialize in the US; no single worldwide entry date verified.",
+          "region": "US",
+          "value": "2026",
+          "note": "Commercial partner Pfizer 2025 10-K: basic product patent expiry. Pfizer commercializes US/Canada; this is not biosimilar-launch guidance.",
+          "src": "https://s206.q4cdn.com/795948973/files/doc_financials/2025/q4/2025-Form-10-K.pdf",
+          "note_zh": "商业合作方Pfizer 2025年10-K:基础产品专利到期。Pfizer负责美国/加拿大商业化;这并非生物类似药上市指引。"
+        },
+        {
+          "region": "EU",
+          "value": "2027-10",
+          "note": "FY2025 20-F: patent expiry October 2027; not an announced biosimilar launch.",
           "src": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
-          "note_zh": "FY2025 Form 20-F（截至2026年3月31日的年度），专利/监管保护表：欧盟专利2027年10月；日本针对特定适应症的延期2028年7月，其中复发/难治性霍奇金淋巴瘤和ALCL的延期于2026年4月到期。日本监管保护因适应症而异，包括复发/难治性CTCL的2029年9月。Takeda在美国不进行商业化；未核实单一的全球上市日期。"
+          "note_zh": "2025财年20-F:专利于2027年10月到期;并非已公布的生物类似药上市。"
+        },
+        {
+          "region": "Japan",
+          "value": "2028-07",
+          "note": "FY2025 20-F: indication-specific patent extensions July 2028; relapsed/refractory HL and ALCL extensions April 2026. CTCL regulatory protection September 2029; pediatric frontline HL May 2028. Not a uniform entry date.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1395064/000139506426000177/tak-20260331.htm",
+          "note_zh": "2025财年20-F:特定适应症专利延期至2028年7月;复发/难治性HL和ALCL延期至2026年4月。CTCL监管保护2029年9月;儿童一线HL 2028年5月。并非统一的进入日期。"
+        },
+        {
+          "region": "China",
+          "value": null,
+          "note": "China-specific patent/exclusivity end and generic/biosimilar entry year were not verified from the sources inspected.",
+          "src": "https://s206.q4cdn.com/795948973/files/doc_financials/2025/q4/2025-Form-10-K.pdf",
+          "note_zh": "未能从所查阅的来源核实中国特定的专利/独占期结束日期及仿制药/生物类似药进入年份。"
         }
       ]
     }

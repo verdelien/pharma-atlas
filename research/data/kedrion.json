@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Kedrion's disclosed development focuses on plasma-derived products and rare diseases, including immunoglobulin expansions and plasminogen eye drops. Public asset-level information is limited.",
-    "zh": "Kedrion 披露的开发聚焦血浆来源产品和罕见病,包括免疫球蛋白适应症拓展和纤溶酶原滴眼液。公开的单个资产层面信息有限。"
+    "zh": "Kedrion披露的研发聚焦血浆源产品和罕见病,包括免疫球蛋白适应症拓展和纤溶酶原滴眼液。公开的资产层面信息有限。"
   },
   "counts": null,
   "items": [
@@ -11,10 +11,7 @@
       "name": "IVIg 10% (pediatric and immune-disease expansions)",
       "code": "KIg10 / QIVIGY",
       "modality": "antibody",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Pediatric primary immunodeficiency; also stiff person syndrome",
         "zh": "儿童原发性免疫缺陷;另有僵人综合征"
@@ -35,11 +32,11 @@
       },
       "ind": {
         "en": "Ligneous conjunctivitis in type 1 plasminogen deficiency",
-        "zh": "1 型纤溶酶原缺乏症中的木样结膜炎"
+        "zh": "1型纤溶酶原缺乏症的木样结膜炎"
       },
       "phase": null,
       "ta": "Ophthalmology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://www.kedrion.com/research-development/"
     },
@@ -49,15 +46,15 @@
       "modality": "other",
       "target": {
         "en": "Factor V replacement",
-        "zh": "因子 V 替代"
+        "zh": "因子V替代"
       },
       "ind": {
         "en": "Congenital Factor V deficiency",
-        "zh": "先天性因子 V 缺乏症"
+        "zh": "先天性因子V缺乏症"
       },
       "phase": null,
       "ta": "Hematology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://www.kedrion.com/ema-grants-orphan-drug-designation-to-kedrions-factor-v-program/"
     }
@@ -66,19 +63,19 @@
     {
       "k": "other",
       "en": "QIVIGY received FDA orphan designation for stiff person syndrome in September 2026; a clinical study is underway.",
-      "zh": "QIVIGY 于 2026 年 9 月获 FDA 授予僵人综合征孤儿药资格;一项临床研究正在进行。",
+      "zh": "QIVIGY于2026年9月获FDA僵人综合征孤儿药资格认定;临床研究正在进行。",
       "src": "https://www.kedrion.com/fda-grants-orphan-drug-designation-for-stiff-person-syndrome-program/"
     },
     {
       "k": "other",
       "en": "Factor V received EMA orphan designation; that does not establish approval or a clinical phase.",
-      "zh": "因子 V 获 EMA 孤儿药资格;这并不代表已获批或已进入某一临床阶段。",
+      "zh": "因子V获EMA孤儿药资格认定;这并不表明已获批或处于某一临床阶段。",
       "src": "https://www.kedrion.com/ema-grants-orphan-drug-designation-to-kedrions-factor-v-program/"
     },
     {
       "k": "concentration",
       "en": "R&D includes extremely rare diseases and improvements to plasma-derived products and manufacturing.",
-      "zh": "研发包括极罕见疾病,以及对血浆来源产品和生产工艺的改进。",
+      "zh": "研发包括极罕见疾病以及对血浆源产品和生产工艺的改进。",
       "src": "https://www.kedrion.com/research-development/"
     }
   ],
@@ -102,15 +99,17 @@
     [
       "Investor relations",
       "https://www.kedrion.com/investor-relations/"
+    ],
+    [
+      "2024 sustainability report, published July 2025: internal plasminogen and Factor V development",
+      "https://www.kedrion.com/wp-content/uploads/2025/07/SUSTAINABILITY_REPORT_24.pdf"
     ]
   ],
   "gaps": [
-    "No dated 2026 quarterly or half-year financial report could be retrieved from investor pages.",
-    "No published phase counts verified; only three distinct disclosed development assets included.",
-    "Factor V and plasminogen eye-drop current phases not stated in the company pages; phase is null.",
-    "IVIg lead entry uses verified pediatric Phase 3; SPS phase not independently established from an accessible primary record.",
-    "Origin and specific molecular targets not explicitly established are null; no dated future catalysts verified.",
-    "Pediatric registry update and Factor V release are May 2026, older than June 2026; R&D page is undated.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "No published numerical phase totals or dated 2026 quarterly/half-year financial report were verified; only three disclosed development assets are included.",
+    "Current clinical phases for Factor V and plasminogen eye drops were not verified. The 2024 sustainability report describes Factor V as preclinical; no later clinical transition was established.",
+    "IVIg uses the pediatric Phase 3 programme; the SPS clinical phase was not established. IVIg discovery provenance and a specific molecular target remain unverified.",
+    "No dated future milestones were verified for the selected programmes.",
+    "The pediatric registry update and Factor V release date from May 2026, before June 2026; the R&D page is undated. Internal provenance uses the 2024 sustainability report published in July 2025."
   ]
 }

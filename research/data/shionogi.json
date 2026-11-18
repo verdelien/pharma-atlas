@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Infectious disease remains central, alongside a broad portfolio of dermatology, neurological and other specialty programs. Several late-stage projects involve external originators.",
-    "zh": "感染性疾病仍是核心,同时拥有皮肤科、神经系统及其他专科项目的广泛组合。若干后期项目涉及外部原研方。"
+    "zh": "感染性疾病仍是核心，同时拥有广泛的皮肤科、神经科及其他专科项目。若干后期项目涉及外部原研方。"
   },
   "counts": null,
   "items": [
@@ -17,7 +17,7 @@
       },
       "ind": {
         "en": "Pediatric gram-negative infection; US/EU submissions",
-        "zh": "儿童革兰氏阴性菌感染;美国/欧盟申报"
+        "zh": "儿童革兰氏阴性菌感染；美国/欧盟申报"
       },
       "phase": "reg",
       "ta": "Infectious disease",
@@ -31,11 +31,11 @@
       "modality": "small molecule",
       "target": {
         "en": "3CL protease",
-        "zh": "3CL 蛋白酶"
+        "zh": "3CL蛋白酶"
       },
       "ind": {
         "en": "COVID-19 treatment; EU submission, pediatric Phase 3",
-        "zh": "COVID-19 治疗;欧盟申报,儿童 III 期"
+        "zh": "COVID-19治疗；欧盟申报，儿童III期"
       },
       "phase": "reg",
       "ta": "Infectious disease",
@@ -53,7 +53,7 @@
       },
       "ind": {
         "en": "Atopic dermatitis; Japan submission",
-        "zh": "特应性皮炎;日本申报"
+        "zh": "特应性皮炎；日本申报"
       },
       "phase": "reg",
       "ta": "Immunology",
@@ -75,7 +75,7 @@
       },
       "phase": "3",
       "ta": "Infectious disease",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.shionogi.com/content/dam/shionogi/global/innovation/pipeline/pdf/fy2026/E_2026.2Q_%E9%96%8B%E7%99%BA%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3.pdf"
     },
@@ -85,7 +85,7 @@
       "modality": "small molecule",
       "target": {
         "en": "3CL protease",
-        "zh": "3CL 蛋白酶"
+        "zh": "3CL蛋白酶"
       },
       "ind": {
         "en": "COVID-19",
@@ -103,15 +103,15 @@
       "modality": "small molecule",
       "target": {
         "en": "PDE4D negative allosteric modulator",
-        "zh": "PDE4D 负向变构调节剂"
+        "zh": "PDE4D负向变构调节剂"
       },
       "ind": {
         "en": "Fragile X syndrome (Phase II/III); Jordan syndrome and Alzheimer disease (Phase II)",
-        "zh": "脆性 X 综合征(II/III 期);Jordan 综合征和阿尔茨海默病(II 期)"
+        "zh": "脆性X综合征（II/III期）；Jordan综合征和阿尔茨海默病（II期）"
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
       "src": "https://www.shionogi.com/content/dam/shionogi/global/innovation/pipeline/pdf/fy2026/E_2026.2Q_%E9%96%8B%E7%99%BA%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3.pdf"
     },
@@ -119,10 +119,7 @@
       "name": "S-588410",
       "code": "S-588410",
       "modality": "vaccine",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Esophageal cancer",
         "zh": "食管癌"
@@ -136,7 +133,7 @@
     {
       "name": "SR-0379",
       "code": "SR-0379",
-      "modality": "other",
+      "modality": "peptide",
       "target": {
         "en": "Granulation formation",
         "zh": "肉芽形成"
@@ -147,7 +144,7 @@
       },
       "phase": "3",
       "ta": "Other",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.shionogi.com/content/dam/shionogi/global/innovation/pipeline/pdf/fy2026/E_2026.2Q_%E9%96%8B%E7%99%BA%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3.pdf"
     },
@@ -165,7 +162,7 @@
       },
       "phase": "3",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.shionogi.com/content/dam/shionogi/global/innovation/pipeline/pdf/fy2026/E_2026.2Q_%E9%96%8B%E7%99%BA%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3.pdf"
     },
@@ -175,11 +172,11 @@
       "modality": "small molecule",
       "target": {
         "en": "RNA polymerase",
-        "zh": "RNA 聚合酶"
+        "zh": "RNA聚合酶"
       },
       "ind": {
         "en": "RSV infection",
-        "zh": "RSV 感染"
+        "zh": "RSV感染"
       },
       "phase": "2",
       "ta": "Infectious disease",
@@ -192,19 +189,19 @@
     {
       "k": "concentration",
       "en": "HIV royalties and ViiV profit contributions remain key earnings drivers.",
-      "zh": "HIV 特许权使用费和 ViiV 利润贡献仍是主要盈利驱动因素。",
+      "zh": "HIV特许权使用费和ViiV利润贡献仍是主要盈利驱动力。",
       "src": "https://www.shionogi.com/global/en/investors/latest-ir-information.html"
     },
     {
       "k": "deal",
       "en": "The IntraBio acquisition adds AQNEURSA and intangible-asset amortization.",
-      "zh": "IntraBio 收购带来了 AQNEURSA 和无形资产摊销。",
+      "zh": "收购IntraBio新增AQNEURSA及无形资产摊销。",
       "src": "https://www.shionogi.com/global/en/investors/latest-ir-information.html"
     },
     {
       "k": "other",
       "en": "Management is prioritizing R&D investments following portfolio expansion.",
-      "zh": "在产品组合扩大后,管理层正优先安排研发投入。",
+      "zh": "管理层在产品组合扩张后优先考虑研发投入。",
       "src": "https://www.shionogi.com/global/en/investors/latest-ir-information.html"
     }
   ],
@@ -220,14 +217,28 @@
     [
       "FY2026 half-year results",
       "https://www.shionogi.com/global/en/investors/latest-ir-information.html"
+    ],
+    [
+      "Olorofim F2G licence, August 2022 presentation",
+      "https://www.shionogi.com/content/dam/shionogi/global/investors/ir-library/presentation/2022/e20220801_pp.pdf"
+    ],
+    [
+      "2025 securities report: zatolmilast acquired with Tetra",
+      "https://www.shionogi.com/content/dam/shionogi/global/investors/ir-library/annual-securities-report/Annual%20Securities%20Report%20160th.pdf"
+    ],
+    [
+      "Tapinarof infant trial and licence history, May 19, 2026",
+      "https://www.torii.co.jp/en/release/2026/20260519_E1.pdf"
+    ],
+    [
+      "SR-0379 peptide and global licence, October 29, 2015",
+      "https://www.shionogi.com/content/dam/shionogi/global/news/pdf/2015/e_151029_1.pdf"
     ]
   ],
   "gaps": [
     "No published phase counts or dated next milestones verified. Phase II/III represented as Phase 3.",
-    "External originator names in the pipeline do not alone establish licensed versus acquired status; those origins are null. SR-0379 modality unspecified, represented as other.",
     "Selection emphasizes drug programs; digital medical-device programs excluded.",
     "All ten selected phases were rechecked against the working October 29, 2026 PDF. The three filing statuses, six Phase III/II–III entries and Phase II S-337395 were confirmed. The PDF contains no dated future milestones for these entries; next remains null. Tapinarof paediatric approval is separate from the retained infant Phase III programme.",
-    "The old PDF URL omitted the Japanese character for the p in pipeline. The replacement is copied from the live pipeline-page link, and the PDF loaded successfully in the browser.",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "S-588410 origin and molecular antigen targets remain unverified. Olorofim, zatolmilast, SR-0379 and tapinarof provenance uses historical sources older than June 2026; current phases use the October 29 pipeline. No dated next milestones were established."
   ]
 }

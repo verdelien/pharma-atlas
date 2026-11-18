@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Neuropsychiatry leads the late-stage pipeline, with two pivotal programs and several muscarinic follow-ons. Earlier peptides extend research into endocrine and metabolic disease.",
-    "zh": "神经精神领域引领后期管线,有两个关键性项目和若干毒蕈碱后续项目。早期多肽项目将研究延伸至内分泌和代谢疾病。"
+    "zh": "神经精神疾病引领后期管线，拥有两个关键性项目和多个毒蕈碱后续项目。早期肽类药物将研究延伸至内分泌和代谢疾病。"
   },
   "counts": null,
   "items": [
@@ -13,29 +13,29 @@
       "modality": "small molecule",
       "target": {
         "en": "M4 agonist",
-        "zh": "M4 激动剂"
+        "zh": "M4激动剂"
       },
       "ind": {
         "en": "Schizophrenia; bipolar mania Phase 2",
-        "zh": "精神分裂症;双相躁狂 II 期"
+        "zh": "精神分裂症；双相躁狂II期"
       },
       "phase": "3",
       "ta": "Neuroscience",
       "origin": "licensed",
       "next": {
         "en": "Phase 3 readouts",
-        "zh": "III 期读出",
+        "zh": "III期数据读出",
         "when": "2027"
       },
       "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000053/q3-2026xearningsrelease.htm"
     },
     {
       "name": "osavampator",
-      "code": null,
+      "code": "NBI-1065845",
       "modality": "small molecule",
       "target": {
         "en": "AMPA positive allosteric modulator",
-        "zh": "AMPA 正向变构调节剂"
+        "zh": "AMPA正向变构调节剂"
       },
       "ind": {
         "en": "Major depressive disorder",
@@ -43,10 +43,10 @@
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "licensed",
       "next": {
         "en": "Phase 3 readouts",
-        "zh": "III 期读出",
+        "zh": "III期数据读出",
         "when": "2027"
       },
       "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000053/q3-2026xearningsrelease.htm"
@@ -57,7 +57,7 @@
       "modality": "small molecule",
       "target": {
         "en": "M1/M4 agonist",
-        "zh": "M1/M4 激动剂"
+        "zh": "M1/M4激动剂"
       },
       "ind": {
         "en": "Schizophrenia",
@@ -75,7 +75,7 @@
       "modality": "small molecule",
       "target": {
         "en": "VMAT2 inhibitor",
-        "zh": "VMAT2 抑制剂"
+        "zh": "VMAT2抑制剂"
       },
       "ind": {
         "en": "Tardive dyskinesia",
@@ -93,7 +93,7 @@
       "modality": "small molecule",
       "target": {
         "en": "M1-preferring agonist",
-        "zh": "M1 偏好型激动剂"
+        "zh": "M1偏好型激动剂"
       },
       "ind": {
         "en": "Alzheimer's cognitive impairment",
@@ -111,7 +111,7 @@
       "modality": "small molecule",
       "target": {
         "en": "M1/M4 agonist",
-        "zh": "M1/M4 激动剂"
+        "zh": "M1/M4激动剂"
       },
       "ind": {
         "en": "Alzheimer's psychosis",
@@ -129,7 +129,7 @@
       "modality": "peptide",
       "target": {
         "en": "CRF1 antagonist",
-        "zh": "CRF1 拮抗剂"
+        "zh": "CRF1拮抗剂"
       },
       "ind": {
         "en": "Classic congenital adrenal hyperplasia",
@@ -147,7 +147,7 @@
       "modality": "peptide",
       "target": {
         "en": "CRF2 agonist",
-        "zh": "CRF2 激动剂"
+        "zh": "CRF2激动剂"
       },
       "ind": {
         "en": "Obesity",
@@ -173,17 +173,17 @@
       },
       "phase": "1",
       "ta": "Metabolic",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000054/nbix-20260930.htm"
     },
     {
       "name": "NBI-355",
-      "code": "NBI-355",
+      "code": "NBI-921355",
       "modality": "small molecule",
       "target": {
         "en": "Nav1.2/1.6 inhibitor",
-        "zh": "Nav1.2/1.6 抑制剂"
+        "zh": "Nav1.2/1.6抑制剂"
       },
       "ind": {
         "en": "Epilepsy",
@@ -191,7 +191,7 @@
       },
       "phase": "1",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
     }
@@ -200,19 +200,19 @@
     {
       "k": "catalyst",
       "en": "Two Phase 3 readouts are expected in 2027.",
-      "zh": "预计 2027 年将有两项 III 期读出。",
+      "zh": "预计2027年有两项III期数据读出。",
       "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000053/q3-2026xearningsrelease.htm"
     },
     {
       "k": "concentration",
       "en": "INGREZZA generated $801 million of Q3 total revenue of $1.123 billion.",
-      "zh": "INGREZZA 在第三季度 $1.123 billion 的总收入中贡献了 $801 million。",
+      "zh": "INGREZZA在11.23亿美元的第三季度总收入中贡献8.01亿美元。",
       "src": "https://www.sec.gov/Archives/edgar/data/914475/000091447526000053/q3-2026xearningsrelease.htm"
     },
     {
       "k": "deal",
       "en": "Muscarinic candidates are licensed from Nxera; selected Japanese rights remain with partners.",
-      "zh": "毒蕈碱候选药物从 Nxera 获得许可;部分日本权益仍由合作伙伴持有。",
+      "zh": "毒蕈碱候选药物授权自Nxera；部分日本权益仍由合作伙伴持有。",
       "src": "https://assets.neurocrine.com/asset/a9f841e9-6ace-4563-9287-20e0d7694c3c/NeurocrinePipelineChart_110326.pdf"
     }
   ],
@@ -235,9 +235,9 @@
     ]
   ],
   "gaps": [
-    "No company-reported phase totals found. Full codes not stated for abbreviated candidates are kept in company shorthand.",
-    "Origins for candidates without an explicit licensing marker were not verified. Osavampator partner-retained Japan rights alone do not establish origin; null.",
-    "Sources are complementary: quarterly release supplies Phase 3 timing; chart supplies mechanisms and licensing markers. No precise next dates for early assets.",
-    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+    "No company-reported phase totals found; unverified full codes remain in company shorthand.",
+    "Origins of NBI-890, NBIP-1435 and NBIP-2118 were not established; null. Osavampator is licensed from Takeda; NBI-355 is covered by the Xenon collaboration.",
+    "The November chart identifies NBIP-1968 as a proprietary GIP/GLP-1-preferring triple agonist with lighter glucagon activity.",
+    "No stated next milestones verified for early assets; Phase 3 readouts remain guided to 2027 without a quarter."
   ]
 }

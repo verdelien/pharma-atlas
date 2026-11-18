@@ -6,7 +6,16 @@
       "v": 0.458,
       "v_note": "FY2025 portfolio revenue, not a single product: DKK 3,023 million (Annual Report 2025, Note 2.1, p. 99). Converted to USD bn using ECB 2025 annual averages of DKK 7.4634 and USD 1.1300 per EUR, published by the Bank of Finland: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
       "v_src": "https://leo-pharma.com/wp-content/uploads/sites/8/2026/07/leo-pharma_ar-2025.pdf",
-      "v_note_zh": "FY2025产品组合收入，非单一产品：DKK 3,023 million（2025年年报，附注2.1，第99页）。按Bank of Finland公布的ECB 2025年年度平均汇率DKK 7.4634和USD 1.1300/EUR折算为USD bn：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
+      "v_note_zh": "FY2025产品组合收入，非单一产品：DKK 3,023 million（2025年年报，附注2.1，第99页）。按Bank of Finland公布的ECB 2025年年度平均汇率DKK 7.4634和USD 1.1300/EUR折算为USD bn：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "No single regional LOE date verified for this portfolio. LEO 2025 Annual Report identifies three strategic brands, Adtralza/Adbry, Anzupgo and Spevigo, and reports revenue by portfolio (Note 2.1). Their individual patents or regulatory exclusivities cannot establish a common date for this row.",
+          "src": "https://leo-pharma.com/wp-content/uploads/sites/8/2026/07/leo-pharma_ar-2025.pdf",
+          "note_zh": "未核实该组合存在单一的区域独占期结束日期。LEO 2025年年报确认三个战略品牌Adtralza/Adbry、Anzupgo和Spevigo,并按组合报告收入(附注2.1)。它们各自的专利或监管独占期不能确定该行的共同日期。"
+        }
+      ]
     },
     {
       "b": "Established dermatology brands",

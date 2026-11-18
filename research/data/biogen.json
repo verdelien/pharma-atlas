@@ -21,7 +21,7 @@
       },
       "phase": "3",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "internal",
       "next": {
         "en": "TOPAZ-1/2 results in first half of December 2026; CLE results H1 2027",
         "zh": "TOPAZ-1/2 结果将在 2026 年 12 月上半月公布;CLE 结果在 H1 2027",
@@ -146,7 +146,11 @@
       "phase": "2",
       "ta": "Neuroscience",
       "origin": null,
-      "next": null,
+      "next": {
+        "en": "Evaluate next development steps after Phase 2 proof of concept",
+        "zh": "II期概念验证后评估下一步开发计划",
+        "when": null
+      },
       "src": "https://www.biogen.com/science-and-innovation/pipeline.html"
     },
     {
@@ -206,6 +210,10 @@
     [
       "Q3 2026 SEC filing",
       "https://biogen.gcs-web.com/node/31091/html"
+    ],
+    [
+      "Biogen lupus update, September 2025: in-house litifilimab discovery",
+      "https://investors.biogen.com/news-releases/news-release-details/biogen-highlights-multiple-assets-and-indications-lupus"
     ]
   ],
   "gaps": [
@@ -213,8 +221,8 @@
     "The pipeline component failed to render on direct open; the web search extraction exposed the complete company asset descriptions. Current stages were cross-checked against quarterly disclosures where available.",
     "Antisense oligonucleotides salanersen, zorevunersen and diranersen map to other, not siRNA. Dapirolizumab is a PEG-conjugated antibody Fab fragment, represented as antibody.",
     "Diranersen remains Phase 2 with planned Phase 3 advancement; a planned confirmatory trial is not classified as already initiated.",
-    "Origin remains null for litifilimab and BIIB091. Additional development codes were not verified and are null. Undated next milestones for dapirolizumab, salanersen, BIIB091 and BIIB145 are null.",
     "Approved therapies, including lecanemab, tofersen and omaveloxolone, are excluded absent a verified filed major new indication. Multiple felzartamab/litifilimab indications are consolidated into one asset each.",
-    "Required curl HEAD checks were attempted, but local DNS resolution failed (curl exit 6, HTTP 000); HTTP status could not be independently confirmed locally. Sources were opened with the web browser tool."
+    "BIIB091 origin remains unverified. Q3 2026 Form 10-Q says next steps are being explored after Phase 2 proof of concept; no date or Phase 3 commitment is assigned. No forward milestone verified for dapirolizumab, salanersen or BIIB145. The September 2025 litifilimab discovery release predates 2026-06 and supports origin only.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved."
   ]
 }

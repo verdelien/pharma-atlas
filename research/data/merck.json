@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "A broad late-stage pipeline combines oncology ADCs and a personalized cancer vaccine with immunology, HIV prevention and ophthalmology. Acquisitions and collaborations supply many of the selected assets.",
-    "zh": "后期管线横跨肿瘤 ADC、个体化肿瘤疫苗、免疫、HIV 预防和眼科；所选重点资产中，多项来自收购或合作。"
+    "zh": "广泛的后期管线涵盖肿瘤ADC和个体化癌症疫苗，以及免疫、HIV预防和眼科领域。许多入选资产来自收购和合作。"
   },
   "counts": null,
   "items": [
@@ -13,18 +13,18 @@
       "modality": "ADC",
       "target": {
         "en": "TROP2",
-        "zh": "TROP2 靶点"
+        "zh": "TROP2"
       },
       "ind": {
         "en": "Previously treated endometrial cancer (US filing)",
-        "zh": "既往接受治疗的子宫内膜癌（美国申报）"
+        "zh": "既往治疗过的子宫内膜癌（美国申报）"
       },
       "phase": "reg",
       "ta": "Oncology",
       "origin": "licensed",
       "next": {
         "en": "FDA action date: June 15, 2027",
-        "zh": "FDA 目标审评日期：2027年6月15日",
+        "zh": "FDA行动日期：2027年6月15日",
         "when": "2027Q2"
       },
       "src": "https://www.merck.com/news/sacituzumab-tirumotecan-sac-tmt-reduced-the-risk-of-death-by-32-and-the-risk-of-disease-progression-or-death-by-41-compared-to-chemotherapy-in-certain-patients-with-advanced-or-recurrent-endometrial/?trk=article-ssr-frontend-pulse_little-text-block"
@@ -35,11 +35,11 @@
       "modality": "antibody",
       "target": {
         "en": "TL1A",
-        "zh": "肿瘤坏死因子样配体 TL1A"
+        "zh": "TL1A"
       },
       "ind": {
         "en": "Ulcerative colitis; also Crohn’s disease",
-        "zh": "溃疡性结肠炎；亦开发克罗恩病"
+        "zh": "溃疡性结肠炎;另有克罗恩病"
       },
       "phase": "3",
       "ta": "Immunology",
@@ -53,11 +53,11 @@
       "modality": "ADC",
       "target": {
         "en": "B7-H3",
-        "zh": "B7-H3 靶点"
+        "zh": "B7-H3"
       },
       "ind": {
         "en": "Small-cell lung cancer; also prostate and esophageal cancer",
-        "zh": "小细胞肺癌；亦开发前列腺癌和食管癌"
+        "zh": "小细胞肺癌；另有前列腺癌和食管癌"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -71,11 +71,11 @@
       "modality": "ADC",
       "target": {
         "en": "HER3",
-        "zh": "HER3 靶点"
+        "zh": "HER3"
       },
       "ind": {
         "en": "Breast cancer; other solid tumors in Phase 2",
-        "zh": "乳腺癌；其他实体瘤处于 II 期"
+        "zh": "乳腺癌；其他实体瘤处于II期"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -89,7 +89,7 @@
       "modality": "small molecule",
       "target": {
         "en": "CYP11A1 inhibitor",
-        "zh": "CYP11A1 抑制剂"
+        "zh": "CYP11A1抑制剂"
       },
       "ind": {
         "en": "Prostate cancer",
@@ -111,7 +111,7 @@
       },
       "ind": {
         "en": "Adjuvant melanoma; also NSCLC",
-        "zh": "黑色素瘤辅助治疗；亦开发非小细胞肺癌"
+        "zh": "辅助治疗黑色素瘤；另有NSCLC"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -129,12 +129,16 @@
       },
       "ind": {
         "en": "HIV-1 pre-exposure prophylaxis",
-        "zh": "HIV-1 暴露前预防"
+        "zh": "HIV-1暴露前预防"
       },
       "phase": "3",
       "ta": "Infectious disease",
       "origin": null,
-      "next": null,
+      "next": {
+        "en": "Two Phase 3 HIV PrEP study readouts",
+        "zh": "两项III期HIV PrEP研究数据读出",
+        "when": "2027"
+      },
       "src": "https://www.merck.com/research/product-pipeline/"
     },
     {
@@ -143,7 +147,7 @@
       "modality": "other",
       "target": {
         "en": "Wnt pathway agonist, trispecific antibody",
-        "zh": "激活 Wnt 通路的三特异性抗体"
+        "zh": "Wnt通路激动剂，三特异性抗体"
       },
       "ind": {
         "en": "Diabetic macular edema",
@@ -160,25 +164,25 @@
     {
       "k": "concentration",
       "en": "Keytruda/Keytruda Qlex generated $8.6bn of $18.1bn Q3 sales, making diversification a central pipeline issue.",
-      "zh": "Keytruda/Keytruda Qlex 在 Q3 总销售额181亿美元中贡献86亿美元，管线能否推动业务多元化值得关注。",
+      "zh": "Keytruda/Keytruda Qlex在181亿美元的第三季度销售额中贡献86亿美元，使多元化成为管线的核心问题。",
       "src": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline/"
     },
     {
       "k": "catalyst",
       "en": "Sac-TMT is under US priority review with a June 15, 2027 target date; Merck is discussing a possible earlier decision.",
-      "zh": "Sac-TMT 已进入美国优先审评，目标日期为2027年6月15日；Merck 正讨论能否提前作出决定。",
+      "zh": "Sac-TMT正在接受美国优先审评，目标日期为2027年6月15日；默沙东正在讨论可能提前作出决定。",
       "src": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline/"
     },
     {
       "k": "other",
       "en": "The ifinatamab deruxtecan US BLA was voluntarily withdrawn; the November pipeline still lists Phase 3 development.",
-      "zh": "Ifinatamab deruxtecan 的美国 BLA 已主动撤回，但11月管线仍列有 III 期开发项目。",
+      "zh": "ifinatamab deruxtecan的美国BLA已主动撤回；11月的管线仍列有III期开发。",
       "src": "https://www.merck.com/news/merck-co-inc-rahway-n-j-usa-announces-third-quarter-2026-financial-results-highlights-multiple-milestones-advancing-broad-diverse-pipeline/"
     },
     {
       "k": "deal",
       "en": "Tulisokibart and remigromig came through Prometheus and EyeBio; several oncology ADCs are partnered with Daiichi Sankyo.",
-      "zh": "Tulisokibart 和 remigromig 分别来自 Prometheus 与 EyeBio 收购，多项肿瘤 ADC 与第一三共合作开发。",
+      "zh": "Tulisokibart和remigromig分别来自Prometheus和EyeBio；多个肿瘤ADC与第一三共合作。",
       "src": "https://www.merck.com/research/product-pipeline/"
     }
   ],
@@ -194,11 +198,15 @@
     [
       "Sac-TMT TroFuse-005 and filing release",
       "https://www.merck.com/news/sacituzumab-tirumotecan-sac-tmt-reduced-the-risk-of-death-by-32-and-the-risk-of-disease-progression-or-death-by-41-compared-to-chemotherapy-in-certain-patients-with-advanced-or-recurrent-endometrial/?trk=article-ssr-frontend-pulse_little-text-block"
+    ],
+    [
+      "August 2026 prepared remarks: alimatravir readout guidance",
+      "https://web.archive.org/web/20260907123044/https://www.merck.com/wp-content/uploads/sites/124/2026/08/2Q26-Merck-Prepared-Remarks.pdf"
     ]
   ],
   "gaps": [
     "No complete company-published phase-count series was verified; counts is null and no counts were derived from the selected items.",
-    "Alimatravir origin was not explicitly verified; origin is null. Undated subsequent milestones for the seven Phase 3 assets were not inferred; next is null.",
+    "Alimatravir discovery origin remains unverified; null. No next milestone established for the other Phase 3 assets. Alimatravir's 2027 readout guidance is from August 2026.",
     "Remigromig is described as Phase 2/3; phase 3 follows its placement in the November company pipeline PDF. Its trispecific antibody modality maps to other because the permitted modality list has no trispecific value.",
     "Ifinatamab deruxtecan is Phase 3 rather than reg after voluntary BLA withdrawal. Patritumab deruxtecan uses breast cancer as its current Phase 3 indication, not an obsolete lung-cancer filing.",
     "Sac-TMT license origin is described in the opened TroFuse-005 release; dates are target dates, not guaranteed approvals."

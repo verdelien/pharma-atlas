@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Hansoh combines a substantial oncology pipeline with metabolic and immune-disease programs. Several home-grown candidates have reached Chinese regulatory review, and ADC partnerships extend its international reach.",
-    "zh": "Hansoh 将规模可观的肿瘤管线与代谢和免疫疾病项目相结合。多个自主研发的候选药物已进入中国监管审评,ADC 合作拓展了其国际布局。"
+    "zh": "翰森将规模可观的肿瘤管线与代谢和免疫疾病项目相结合。多个自研候选药物已进入中国监管审评,ADC合作拓展了其国际布局。"
   },
   "counts": null,
   "items": [
@@ -35,7 +35,7 @@
       },
       "ind": {
         "en": "MET-amplified EGFR-mutant NSCLC after EGFR-TKI",
-        "zh": "EGFR-TKI 治疗后 MET 扩增的 EGFR 突变 NSCLC"
+        "zh": "EGFR-TKI治疗后MET扩增的EGFR突变NSCLC"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -53,7 +53,7 @@
       },
       "ind": {
         "en": "RET fusion-positive NSCLC",
-        "zh": "RET 融合阳性 NSCLC"
+        "zh": "RET融合阳性NSCLC"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -67,7 +67,7 @@
       "modality": "peptide",
       "target": {
         "en": "GLP-1/GIP receptors",
-        "zh": "GLP-1/GIP 受体"
+        "zh": "GLP-1/GIP受体"
       },
       "ind": {
         "en": "Obesity or overweight",
@@ -84,8 +84,8 @@
       "code": "SHR6508",
       "modality": null,
       "target": {
-        "en": "Calcium-sensing receptor",
-        "zh": "钙敏感受体"
+        "en": "Calcium-sensing receptor positive allosteric modulator",
+        "zh": "钙敏感受体正向变构调节剂"
       },
       "ind": {
         "en": "Secondary hyperparathyroidism in dialysis",
@@ -125,7 +125,7 @@
       },
       "ind": {
         "en": "EGFR-mutant NSCLC",
-        "zh": "EGFR 突变 NSCLC"
+        "zh": "EGFR突变NSCLC"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -138,8 +138,8 @@
       "code": "HS-10506",
       "modality": null,
       "target": {
-        "en": "Orexin-2 receptor",
-        "zh": "Orexin-2 受体"
+        "en": "Selective orexin-2 receptor antagonist",
+        "zh": "选择性orexin-2受体拮抗剂"
       },
       "ind": {
         "en": "Insomnia",
@@ -156,8 +156,8 @@
       "code": "HS-10374",
       "modality": "small molecule",
       "target": {
-        "en": "TYK2",
-        "zh": "TYK2"
+        "en": "Selective allosteric TYK2 inhibitor",
+        "zh": "选择性变构TYK2抑制剂"
       },
       "ind": {
         "en": "Plaque psoriasis",
@@ -175,7 +175,7 @@
       "modality": "small molecule",
       "target": {
         "en": "Complement factor B",
-        "zh": "补体因子 B"
+        "zh": "补体因子B"
       },
       "ind": {
         "en": "Complement-mediated diseases",
@@ -192,19 +192,19 @@
     {
       "k": "catalyst",
       "en": "HS-20093, olatorepatide and other candidates have applications under NMPA review.",
-      "zh": "HS-20093、olatorepatide 及其他候选药物的申请正在接受 NMPA 审评。",
+      "zh": "HS-20093、olatorepatide及其他候选药物的申请正在NMPA审评中。",
       "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300685.pdf"
     },
     {
       "k": "deal",
       "en": "GSK licenses international rights to HS-20089; Biotheus and Hengrui supply licensed programs.",
-      "zh": "GSK 获得 HS-20089 的国际权益授权;Biotheus 和 Hengrui 提供授权项目。",
+      "zh": "GSK获得HS-20089的国际权利;Biotheus和恒瑞提供授权项目。",
       "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300685.pdf"
     },
     {
       "k": "balance",
       "en": "First-half 2026 R&D costs were RMB1.74 billion.",
-      "zh": "2026 年上半年研发费用为 RMB1.74 billion。",
+      "zh": "2026年上半年研发费用为17.4亿元人民币。",
       "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0923/2026092300685.pdf"
     }
   ],
@@ -219,11 +219,8 @@
     ]
   ],
   "gaps": [
-    "Phase counts not verified; counts is null.",
-    "No dated future regulatory decisions or readouts verified.",
-    "Stages reflect the September 2026 interim report; later regulatory changes could not be verified.",
-    "HS-10506 modality not explicitly established in reviewed text.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete.",
-    "HS-10568 chemical modality not explicitly established in reviewed text; null."
+    "Company-wide phase counts and dated future regulatory decisions or readouts were not verified.",
+    "Stages reflect the September 2026 interim report; no subsequent stage change was verified.",
+    "Modalities for HS-10506 and HS-10568 are not explicitly stated in the reviewed company material and remain null."
   ]
 }

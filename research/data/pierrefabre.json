@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Pierre Fabre’s investigational pipeline is concentrated in early precision oncology, complemented by fetal protein replacement. Acquisitions and purchased development rights supply several of its clinical assets.",
-    "zh": "Pierre Fabre 的在研管线集中于早期精准肿瘤,并辅以胎儿蛋白替代疗法。收购和购买的开发权益提供了其若干临床资产。"
+    "zh": "Pierre Fabre的在研管线集中于早期精准肿瘤，并辅以胎儿蛋白替代。收购和购入的开发权利提供了其若干临床资产。"
   },
   "counts": {
     "p1": 4,
@@ -19,15 +19,15 @@
       "modality": "other",
       "target": {
         "en": "Ectodysplasin A1 replacement",
-        "zh": "外胚层发育不良蛋白 A1 (Ectodysplasin A1) 替代"
+        "zh": "外胚间充质蛋白A1替代"
       },
       "ind": {
         "en": "X-linked hypohidrotic ectodermal dysplasia",
-        "zh": "X 连锁少汗性外胚层发育不良"
+        "zh": "X连锁少汗性外胚层发育不良"
       },
       "phase": "2",
       "ta": "Rare disease",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://www.pierrefabrepharmaceuticals.com/partnerships-and-pipeline"
     },
@@ -41,7 +41,7 @@
       },
       "ind": {
         "en": "NRAS-mutant melanoma",
-        "zh": "NRAS 突变黑色素瘤"
+        "zh": "NRAS突变黑色素瘤"
       },
       "phase": "1",
       "ta": "Oncology",
@@ -55,11 +55,11 @@
       "modality": "antibody",
       "target": {
         "en": "c-MET degradation",
-        "zh": "c-MET 降解"
+        "zh": "c-MET降解"
       },
       "ind": {
         "en": "MET-altered non-small-cell lung cancer",
-        "zh": "MET 改变的非小细胞肺癌"
+        "zh": "MET改变的非小细胞肺癌"
       },
       "phase": "1",
       "ta": "Oncology",
@@ -73,11 +73,11 @@
       "modality": "small molecule",
       "target": {
         "en": "EGFR exon 20 insertion",
-        "zh": "EGFR 20 号外显子插入"
+        "zh": "EGFR外显子20插入"
       },
       "ind": {
         "en": "EGFR exon 20 insertion-mutant NSCLC",
-        "zh": "EGFR 20 号外显子插入突变 NSCLC"
+        "zh": "EGFR外显子20插入突变NSCLC"
       },
       "phase": "1",
       "ta": "Oncology",
@@ -95,7 +95,7 @@
       },
       "ind": {
         "en": "EGFR exon 19/21 plus C797S-mutant NSCLC",
-        "zh": "EGFR 19/21 号外显子加 C797S 突变 NSCLC"
+        "zh": "EGFR外显子19/21伴C797S突变NSCLC"
       },
       "phase": "1",
       "ta": "Oncology",
@@ -108,25 +108,25 @@
     {
       "k": "catalyst",
       "en": "Tabelecleucel’s resubmitted US BLA has a March 31, 2027 action date; its regulatory history merits attention.",
-      "zh": "Tabelecleucel 重新提交的美国 BLA 行动日期为 2027 年 3 月 31 日;其监管历程值得关注。",
+      "zh": "Tabelecleucel重新提交的美国BLA行动日期为2027年3月31日；其监管历史值得关注。",
       "src": "https://www.pierrefabrepharmaceuticals.com/sites/default/files/press/20261014_PR_Final_BLA_Acceptance_Announcement.pdf"
     },
     {
       "k": "concentration",
       "en": "In 2025, 89% of pharmaceutical R&D investment went to precision oncology.",
-      "zh": "2025 年,药品研发投入的 89% 用于精准肿瘤。",
+      "zh": "2025年，89%的药物研发投资用于精准肿瘤。",
       "src": "https://www.pierre-fabre.com/en/news/2025-results-growth-investments-innovation"
     },
     {
       "k": "deal",
       "en": "The company purchased worldwide PFL-721 and PFL-241 rights from Antares in 2025.",
-      "zh": "2025 年,公司从 Antares 购得 PFL-721 和 PFL-241 的全球权益。",
+      "zh": "公司于2025年从Antares购入PFL-721和PFL-241的全球权利。",
       "src": "https://www.pierre-fabre.com/fr/article/renforcer-rd-acquisition-mondiale-droits-inhibiteurs"
     },
     {
       "k": "other",
       "en": "Pharmaceuticals generated 44% of 2025 revenue; dermo-cosmetics and personal care generated 55%.",
-      "zh": "药品占 2025 年收入的 44%;皮肤美容和个人护理占 55%。",
+      "zh": "药品贡献了2025年收入的44%；皮肤美容和个人护理贡献了55%。",
       "src": "https://www.pierre-fabre.com/en/news/2025-results-growth-investments-innovation"
     }
   ],
@@ -154,6 +154,10 @@
     [
       "Tabelecleucel FDA resubmission acceptance, October 14, 2026",
       "https://www.pierrefabrepharmaceuticals.com/sites/default/files/press/20261014_PR_Final_BLA_Acceptance_Announcement.pdf"
+    ],
+    [
+      "ER004 co-development agreement with EspeRare, 2024 annual report",
+      "https://esperare.org/sites/default/files/content/Documents/annual_report_2024_final_f_compressed.pdf"
     ]
   ],
   "gaps": [
@@ -161,8 +165,8 @@
     "Tabelecleucel is excluded from items because it is already approved outside the US and the reviewed US filing concerns the same indication, rather than a major new indication. Its ongoing US review is retained in watch.",
     "The April corporate R&D page says four clinical agents, while the March results release says five clinical molecules and the US page describes six products including registration; scope and dates differ and were not reconciled into new totals.",
     "The US pipeline is undated. The latest group results located were published March 19, 2026, before 2026-06. The April R&D snapshot, June 2025 asset-rights release and September 2023 acquisition release also predate 2026-06; old transaction sources establish origin only.",
-    "ER004 origin and additional asset codes were not verified and are null. Dated upcoming milestones for the five selected assets were not verified; next is null.",
+    "Additional development codes and dated upcoming milestones for the five selected assets remain unverified.",
     "PFL-002 is described in a Phase I/II study announcement but as Phase I on the pipeline; phase 1 follows the pipeline. Purchased worldwide rights for PFL-721/PFL-241 are classified as acquired, rather than inferred internal discovery.",
-    "Required curl HEAD checks were attempted for every cited URL. All failed with DNS resolution errors (curl exit 6; HTTP 000) in this environment. Sources were opened through the web browsing tool, but independent curl status verification could not be completed."
+    "The EspeRare 2024 annual report predates June 2026 and establishes ER004 co-development; its historical trial dates are not new milestone guidance."
   ]
 }

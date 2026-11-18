@@ -27,19 +27,16 @@
     },
     {
       "name": "Oral insulin",
-      "code": null,
-      "modality": null,
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "code": "ELGN-2112",
+      "modality": "peptide",
+      "target": null,
       "ind": {
         "en": "Intestinal malabsorption in preterm infants",
         "zh": "早产儿肠道吸收不良"
       },
       "phase": "3",
       "ta": "Other",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
     },
@@ -81,11 +78,11 @@
     },
     {
       "name": "IGF-1 biologic",
-      "code": null,
+      "code": "OHB-607",
       "modality": "other",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "IGF-1 replacement with IGFBP-3",
+        "zh": "IGF-1联合IGFBP-3替代"
       },
       "ind": {
         "en": "Prevention of bronchopulmonary dysplasia",
@@ -93,7 +90,7 @@
       },
       "phase": "2",
       "ta": "Respiratory",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.chiesi.com/en/our-solutions/our-pipeline.html"
     },
@@ -158,15 +155,23 @@
     [
       "UCB 2021 report: zampilimab license",
       "https://www.ucb.com/sites/default/files/2022-02/FY2021_UCB-BPR_EN.pdf"
+    ],
+    [
+      "Elgan/Chiesi first Phase 3 infants dosed, June 5, 2025 (indexed company release; direct access 403)",
+      "https://www.chiesiusa.com/elgan-pharma-and-chiesi-group-announce-first-participating-infants-dosed-in-phase-3-study-of-elgn-2112-for-treatment-of-intestinal-malabsorption-in-preterm-infants/"
+    ],
+    [
+      "Oak Hill Bio: OHB-607 license/development agreement, January 9, 2024",
+      "https://oakhill-dev.squarespace.com/news-archive/chiesi-group-and-oak-hill-bio-announce-license-and-development-agreement"
     ]
   ],
   "gaps": [
     "The undated company pipeline page uses DDP1i; the Haisco release identifies the corresponding DPP1 inhibitor as HSK31858. Phase 3 follows the current pipeline, not the older license release.",
     "No phase-by-phase company counts or dated upcoming asset milestones were verified; counts and next are null.",
     "The latest financial release located was April 23, 2026, covering FY2025, before 2026-06; newer interim group results were not located. The Haisco 2023 and UCB 2021 sources support provenance only, not current phases.",
-    "Origins for oral insulin, neutrophil elastase inhibitor, IGF-1 biologic and DDR inhibitor were not established: a partnership name alone was not treated as proof of licensing or co-development.",
-    "Exact asset codes for the unnamed inhibitor/biologic programs, additional codes, insulin and IGF-1 receptor-level targets, and unspecified modalities are null. DDR subtype was not disclosed. IGF-1 Phase 2b is represented as phase 2.",
     "Approved products, unfiled expansion studies and reformulations are excluded. The unnamed primary-hyperoxaluria Phase 1/2 program was not assigned an invented asset name.",
-    "Required curl HEAD checks were attempted for every cited URL. All failed with DNS resolution errors (curl exit 6; HTTP 000) in this environment. Sources were opened through the web browsing tool, but independent curl status verification could not be completed."
+    "Origins remain unverified for the unnamed neutrophil elastase and DDR inhibitors; their modalities/codes remain null. Oral insulin is co-developed with Elgan per explicit company-release language. OHB-607 is licensed under the Oak Hill agreement.",
+    "The June 2025 Elgan release and January 2024 Oak Hill release predate 2026-06; they establish provenance and identity only, with current phases rechecked on the company pipeline. Insulin receptor-level target is not verified. OHB-607 is recombinant IGF-1 with IGFBP-3; modality stays other. DDR subtype remains unspecified.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved."
   ]
 }

@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Santen's ophthalmology pipeline combines licensed compounds with formulation and regional development. Late-stage projects span glaucoma, myopia, retinal disease and ptosis.",
-    "zh": "Santen 的眼科管线将获许可化合物与剂型和区域开发相结合。后期项目涵盖青光眼、近视、视网膜疾病和上睑下垂。"
+    "zh": "Santen的眼科管线将授权引进化合物与制剂及区域性开发相结合。后期项目涵盖青光眼、近视、视网膜疾病和上睑下垂。"
   },
   "counts": null,
   "items": [
@@ -31,11 +31,11 @@
       "modality": "small molecule",
       "target": {
         "en": "Alpha adrenergic receptors",
-        "zh": "α 肾上腺素能受体"
+        "zh": "α肾上腺素受体"
       },
       "ind": {
         "en": "Ptosis; also Phase 3 in Europe and China",
-        "zh": "上睑下垂;另有欧洲和中国 III 期"
+        "zh": "上睑下垂；另有欧洲和中国III期"
       },
       "phase": "reg",
       "ta": "Ophthalmology",
@@ -49,7 +49,7 @@
       "modality": "small molecule",
       "target": {
         "en": "Prostaglandin F2alpha receptor",
-        "zh": "前列腺素 F2α 受体"
+        "zh": "前列腺素F2α受体"
       },
       "ind": {
         "en": "Glaucoma and ocular hypertension",
@@ -66,8 +66,8 @@
       "code": "STN1008903 / DE-089C",
       "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "P2Y2 receptor agonist",
+        "zh": "P2Y2受体激动剂"
       },
       "ind": {
         "en": "Dry eye",
@@ -85,11 +85,11 @@
       "modality": "small molecule",
       "target": {
         "en": "Histamine H1 receptor",
-        "zh": "组胺 H1 受体"
+        "zh": "组胺H1受体"
       },
       "ind": {
         "en": "Allergic conjunctivitis; filed eye drops and Phase 3 eyelid cream",
-        "zh": "过敏性结膜炎;滴眼液已申报,眼睑乳膏 III 期"
+        "zh": "过敏性结膜炎；滴眼液已申报，眼睑乳膏处于III期"
       },
       "phase": "reg",
       "ta": "Ophthalmology",
@@ -103,7 +103,7 @@
       "modality": "small molecule",
       "target": {
         "en": "EP2 receptor",
-        "zh": "EP2 受体"
+        "zh": "EP2受体"
       },
       "ind": {
         "en": "Glaucoma and ocular hypertension",
@@ -121,7 +121,7 @@
       "modality": "small molecule",
       "target": {
         "en": "ROCK / NET and prostaglandin pathway",
-        "zh": "ROCK / NET 和前列腺素通路"
+        "zh": "ROCK / NET和前列腺素通路"
       },
       "ind": {
         "en": "Glaucoma and ocular hypertension",
@@ -139,16 +139,20 @@
       "modality": "other",
       "target": {
         "en": "VEGF-A and FGF-2",
-        "zh": "VEGF-A 和 FGF-2"
+        "zh": "VEGF-A和FGF-2"
       },
       "ind": {
         "en": "Wet AMD; also diabetic macular edema",
-        "zh": "湿性 AMD;另有糖尿病性黄斑水肿"
+        "zh": "湿性AMD；另有糖尿病黄斑水肿"
       },
       "phase": "3",
       "ta": "Ophthalmology",
       "origin": "licensed",
-      "next": null,
+      "next": {
+        "en": "Additional trials for diabetic macular edema to meet China approval requirements",
+        "zh": "为满足中国批准要求，开展糖尿病黄斑水肿的额外试验",
+        "when": null
+      },
       "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
     },
     {
@@ -157,11 +161,11 @@
       "modality": "small molecule",
       "target": {
         "en": "Beta-2 adrenergic receptor",
-        "zh": "β2 肾上腺素能受体"
+        "zh": "β2肾上腺素受体"
       },
       "ind": {
         "en": "Dry eye; also allergic conjunctivitis",
-        "zh": "干眼症;另有过敏性结膜炎"
+        "zh": "干眼症；另有过敏性结膜炎"
       },
       "phase": "2",
       "ta": "Ophthalmology",
@@ -175,7 +179,7 @@
       "modality": "small molecule",
       "target": {
         "en": "Multiple kinases",
-        "zh": "多激酶"
+        "zh": "多种激酶"
       },
       "ind": {
         "en": "Pterygium",
@@ -192,19 +196,19 @@
     {
       "k": "other",
       "en": "RemeGen withdrew the diabetic macular edema filing in June 2026 and plans additional trials.",
-      "zh": "RemeGen 于 2026 年 6 月撤回了糖尿病性黄斑水肿的申报,并计划开展更多试验。",
+      "zh": "RemeGen于2026年6月撤回糖尿病黄斑水肿申报，并计划开展额外试验。",
       "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
     },
     {
       "k": "catalyst",
       "en": "Omidenepag met its China Phase 3 endpoint; the presentation plans filing in FY2027.",
-      "zh": "Omidenepag 达到了中国 III 期终点;演示材料计划于 FY2027 申报。",
+      "zh": "Omidenepag达到中国III期终点；演示材料计划于2027财年申报。",
       "src": "https://www.santen.com/content/dam/santen/global/pdf/en/ir/document/202703/mtg2027_2q.pdf"
     },
     {
       "k": "deal",
       "en": "Alcon, Boehringer Ingelheim, RemeGen and other partners supply key programs.",
-      "zh": "Alcon、Boehringer Ingelheim、RemeGen 等合作伙伴提供了关键项目。",
+      "zh": "Alcon、Boehringer Ingelheim、RemeGen及其他合作伙伴提供关键项目。",
       "src": "https://www.santen.com/content/dam/santen/global/pdf/en/business/pipeline.pdf"
     }
   ],
@@ -216,14 +220,17 @@
     [
       "Q2 FY2026 results presentation",
       "https://www.santen.com/content/dam/santen/global/pdf/en/ir/document/202703/mtg2027_2q.pdf"
+    ],
+    [
+      "Diquafosol target, historical company R&D presentation November 2005",
+      "https://www.santen.com/content/dam/santen/global/pdf/en/ir/document/200603/mtg2006_2q_03.pdf"
     ]
   ],
   "gaps": [
     "No published phase counts verified.",
     "Regional filings and formulation developments are explicitly identified; approvals elsewhere do not imply approval in the listed region.",
     "One entry per active ingredient; epinastine and olodaterol formulations combined.",
-    "Diquafosol molecular target not stated in reviewed text; null.",
-    "Company fiscal-year milestones cannot be mapped precisely to calendar halves; no guessed calendar dates supplied.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "No dated future milestone was verified for the selected programmes. Eflimrufusp alfa’s diabetic-macular-edema filing was withdrawn in June 2026; additional trials are planned, while the wet-AMD Phase 3 programme remains included.",
+    "Diquafosol’s P2Y2 target is verified in a historical November 2005 company presentation, older than June 2026; the long-acting regional filing status uses the October 2026 pipeline."
   ]
 }

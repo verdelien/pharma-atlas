@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "LEO's dermatology development combines indication expansion with acquired and licensed programs. Dersimelagon is under US review, while delgocitinib is in pivotal development for lichen sclerosus.",
-    "zh": "LEO 的皮肤科开发将适应症拓展与收购及授权引进的项目相结合。Dersimelagon 正在接受美国审评,delgocitinib 则处于硬化性苔藓的关键性开发阶段。"
+    "zh": "LEO的皮肤科研发将适应症拓展与收购及授权引进项目相结合。Dersimelagon正在接受美国审评，delgocitinib正处于硬化性苔藓的关键性开发阶段。"
   },
   "counts": null,
   "items": [
@@ -17,14 +17,14 @@
       },
       "ind": {
         "en": "Erythropoietic protoporphyria; also X-linked protoporphyria",
-        "zh": "红细胞生成性原卟啉病;另有 X 连锁原卟啉病"
+        "zh": "红细胞生成性原卟啉症；另有X连锁原卟啉症"
       },
       "phase": "reg",
       "ta": "Rare disease",
       "origin": "acquired",
       "next": {
         "en": "FDA PDUFA action expected by end-February 2027",
-        "zh": "FDA PDUFA 行动预计在 2027 年 2 月底前",
+        "zh": "预计FDA PDUFA行动于2027年2月底前作出",
         "when": "2027Q1"
       },
       "src": "https://leo-pharma.com/media-center/news/leo-pharma-announces-fda-acceptance-of-dersimelagon-nda-with-priority-review-and-closes-acquisition-from-tanabe-pharma/"
@@ -43,46 +43,46 @@
       },
       "phase": "3",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://leo-pharma.com/media-center/leo-pharma-delivers-10-revenue-growth-at-cer-and-strengthens-late-stage-pipeline/"
     },
     {
-      "name": "topical STAT6 program",
+      "name": "spesolimab (pyoderma gangrenosum)",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
-        "en": "STAT6",
-        "zh": "STAT6"
+        "en": "IL-36 receptor blockade",
+        "zh": "IL-36受体阻断"
       },
       "ind": {
-        "en": "Dermatology; specific lead indication not disclosed",
-        "zh": "皮肤科;具体首选适应症未披露"
+        "en": "Pyoderma gangrenosum",
+        "zh": "坏疽性脓皮病"
       },
-      "phase": null,
+      "phase": "3",
       "ta": "Immunology",
       "origin": "licensed",
       "next": null,
-      "src": "https://leo-pharma.com/our-pipeline/"
+      "src": "https://leo-pharma.com/wp-content/uploads/sites/8/2026/10/leo-pharma_ar-2025_.pdf"
     }
   ],
   "watch": [
     {
       "k": "catalyst",
       "en": "Dersimelagon has FDA Priority Review with action expected by end-February 2027.",
-      "zh": "Dersimelagon 已获 FDA 优先审评,预计 2027 年 2 月底前作出审评决定。",
+      "zh": "Dersimelagon获FDA优先审评，预计于2027年2月底前作出行动。",
       "src": "https://leo-pharma.com/media-center/news/leo-pharma-announces-fda-acceptance-of-dersimelagon-nda-with-priority-review-and-closes-acquisition-from-tanabe-pharma/"
     },
     {
       "k": "deal",
       "en": "Dersimelagon global rights cost up to $435 million in upfront and near-term milestones, plus downstream payments and royalties.",
-      "zh": "Dersimelagon 全球权益的成本最高为 4.35 亿美元(含首付款和近期里程碑付款),另有后续付款和特许权使用费。",
+      "zh": "Dersimelagon全球权益的首付款及近期里程碑付款最高达4.35亿美元，另加后续付款和特许权使用费。",
       "src": "https://leo-pharma.com/media-center/news/leo-pharma-announces-fda-acceptance-of-dersimelagon-nda-with-priority-review-and-closes-acquisition-from-tanabe-pharma/"
     },
     {
       "k": "balance",
       "en": "Net interest-bearing debt reached DKK10.44 billion in September 2026 after the acquisition payment.",
-      "zh": "收购款支付后,2026 年 9 月净计息债务达到 104.4 亿丹麦克朗(DKK10.44 billion)。",
+      "zh": "收购付款后，2026年9月净有息债务达104.4亿丹麦克朗。",
       "src": "https://leo-pharma.com/media-center/news/leo-pharma-delivers-11-revenue-growth-at-cer-and-achieves-strategic-milestones/"
     }
   ],
@@ -102,14 +102,21 @@
     [
       "H1 2026 results",
       "https://leo-pharma.com/media-center/leo-pharma-delivers-10-revenue-growth-at-cer-and-strengthens-late-stage-pipeline/"
+    ],
+    [
+      "Delgocitinib discovery and license, July 2025",
+      "https://www.jt.com/media/news/2025/0724_E01.html"
+    ],
+    [
+      "2025 annual report: clinical pipeline and STAT6 preclinical status",
+      "https://leo-pharma.com/wp-content/uploads/sites/8/2026/10/leo-pharma_ar-2025_.pdf"
     ]
   ],
   "gaps": [
-    "Pipeline chart is image-only and could not be visually retrieved with available browser access; only programs independently verified in readable company text are included.",
     "No company phase counts verified.",
-    "Topical STAT6 program has no specific candidate name, phase, modality or indication disclosed in reviewed text; these are null or described at program level.",
-    "Delgocitinib origin not verified in reviewed sources.",
-    "Replay is explicitly preclinical and excluded; older completed LEO 138559 trials do not establish an active 2026 program.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "Topical STAT6 removed because the annual report classifies it as preclinical; it is not a clinical-stage asset.",
+    "Replay remains preclinical; no continuing clinical program was verified for LEO 138559.",
+    "No dated next milestone verified for delgocitinib in lichen sclerosus or spesolimab in pyoderma gangrenosum.",
+    "The 2025 annual report and July 2025 JT license release predate June 2026. They support spesolimab's Phase 3 program, STAT6's preclinical classification and historical delgocitinib origin; later 2026 status for spesolimab was not independently established."
   ]
 }

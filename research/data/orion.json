@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Oncology dominates Orion's clinical pipeline; partners run its pivotal prostate-cancer and cardiovascular studies. Earlier research is expanding into immuno-oncology biologics.",
-    "zh": "肿瘤领域主导 Orion 的临床管线;合作伙伴开展其关键性前列腺癌和心血管研究。早期研究正在扩展至免疫肿瘤生物药。"
+    "zh": "肿瘤在Orion的临床管线中占主导；合作伙伴负责开展其关键性前列腺癌和心血管研究。早期研究正拓展至免疫肿瘤生物药。"
   },
   "counts": null,
   "items": [
@@ -12,12 +12,12 @@
       "code": null,
       "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Androgen receptor inhibition",
+        "zh": "雄激素受体抑制"
       },
       "ind": {
         "en": "High-risk biochemically recurrent prostate cancer; also localized disease",
-        "zh": "高危生化复发性前列腺癌;另有局限性疾病"
+        "zh": "高危生化复发前列腺癌；另有局限性疾病"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -30,12 +30,12 @@
       "code": "ODM-208 / MK-5684",
       "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "CYP11A1 inhibition",
+        "zh": "CYP11A1抑制"
       },
       "ind": {
         "en": "Metastatic castration-resistant prostate cancer; also breast, endometrial and ovarian cancers",
-        "zh": "转移性去势抵抗性前列腺癌;另有乳腺癌、子宫内膜癌和卵巢癌"
+        "zh": "转移性去势抵抗性前列腺癌；另有乳腺癌、子宫内膜癌和卵巢癌"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -48,8 +48,8 @@
       "code": "TNX-103",
       "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Troponin C calcium sensitization",
+        "zh": "肌钙蛋白C钙增敏"
       },
       "ind": {
         "en": "Pulmonary hypertension with heart failure with preserved ejection fraction",
@@ -67,11 +67,11 @@
       "modality": "small molecule",
       "target": {
         "en": "TEAD inhibition",
-        "zh": "TEAD 抑制"
+        "zh": "TEAD抑制"
       },
       "ind": {
         "en": "Mesothelioma; also EHE and other solid tumours",
-        "zh": "间皮瘤;另有 EHE 和其他实体瘤"
+        "zh": "间皮瘤；另有EHE和其他实体瘤"
       },
       "phase": "2",
       "ta": "Oncology",
@@ -85,7 +85,7 @@
       "modality": "bispecific",
       "target": {
         "en": "PVRIG and PD-L1",
-        "zh": "PVRIG 和 PD-L1"
+        "zh": "PVRIG和PD-L1"
       },
       "ind": {
         "en": "Advanced solid tumours",
@@ -102,19 +102,19 @@
     {
       "k": "concentration",
       "en": "Nubeqa growth and royalties remain major earnings drivers.",
-      "zh": "Nubeqa 的增长和特许权使用费仍是主要盈利驱动因素。",
+      "zh": "Nubeqa的增长和特许权使用费仍是主要盈利驱动力。",
       "src": "https://www.orionpharma.com/newsroom/all-news/releases/stock-releases/2026/orion-group-interim-report-januaryseptember-2026-strong-financial-performance-and-positive-developments-in-the-rd-pipeline-/"
     },
     {
       "k": "deal",
       "en": "Bayer, MSD and Tenax conduct key late-stage trials.",
-      "zh": "Bayer、MSD 和 Tenax 开展关键性后期试验。",
+      "zh": "Bayer、MSD和Tenax开展关键后期试验。",
       "src": "https://www.orionpharma.com/science/pipeline/"
     },
     {
       "k": "other",
       "en": "ODM-216 is Orion's first biologic to enter clinical development.",
-      "zh": "ODM-216 是 Orion 首个进入临床开发的生物药。",
+      "zh": "ODM-216是Orion首个进入临床开发的生物药。",
       "src": "https://www.orionpharma.com/newsroom/all-news/releases/stock-releases/2026/orion-group-interim-report-januaryseptember-2026-strong-financial-performance-and-positive-developments-in-the-rd-pipeline-/"
     }
   ],
@@ -130,12 +130,24 @@
     [
       "Q3 2026 presentation",
       "https://www.orionpharma.com/4aac8d/globalassets/investors/reports-and-presentations/2026/orion-q3-2026-presentation.pdf"
+    ],
+    [
+      "Darolutamide mechanism, Bayer partner pipeline",
+      "https://oncology.bayer.com/compounds/androgen-receptor-inhibitor"
+    ],
+    [
+      "Opevesostat CYP11A1 mechanism and partner rights, 2025 annual report",
+      "https://www.orionpharma.com/492ebb/globalassets/investors/hallinnointi/yhtiokokous/yhtiokokous-2026/orion-financial-statement-documents-2025.pdf"
+    ],
+    [
+      "Levosimendan troponin C mechanism, 2015 CMD",
+      "https://www.orionpharma.com/globalassets/investors/reports-and-presentations/cmd/2006-2017/orion-cmd2015.pdf"
     ]
   ],
   "gaps": [
-    "No company-reported phase counts verified; counts is null.",
-    "Targets or origins not explicitly established in reviewed sources are null.",
-    "No dated future catalysts verified. Phase 1/2 ODM-216 is represented as Phase 1, consistent with Q3 results.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "No company-reported phase totals were verified; counts is null.",
+    "No dated future company readout or filing milestone was verified for the selected assets.",
+    "ODM-216 is a combined Phase 1/2 study, represented as Phase 1 consistent with Q3 reporting.",
+    "Mechanism sources before June 2026 are historical: the 2025 annual report for opevesostat and 2015 CMD for levosimendan. Current stages come from the clinical pipeline and Q3 2026 presentation."
   ]
 }

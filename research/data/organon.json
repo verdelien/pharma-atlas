@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Organon's accessible disclosures emphasize marketed women's-health products and partner-supplied biosimilars, with a thin verified investigational pipeline after program closures. Sun Pharma's agreed acquisition remains a key corporate event.",
-    "zh": "Organon 可获取的披露内容侧重于已上市的女性健康产品和合作伙伴供应的生物类似药,在项目终止后,经核实的在研管线较为单薄。Sun Pharma 已达成的收购仍是关键的公司事件。"
+    "zh": "Organon可获取的披露内容侧重于已上市的女性健康产品和合作伙伴供应的生物类似药，项目终止后经核实的在研管线较为单薄。Sun Pharma已达成的收购仍是关键公司事件。"
   },
   "counts": null,
   "items": [],
@@ -11,25 +11,25 @@
     {
       "k": "deal",
       "en": "Sun Pharma agreed to acquire Organon for USD 14 per share in cash; the September filing still describes the transaction as pending.",
-      "zh": "Sun Pharma 同意以每股 USD 14 现金收购 Organon;9 月的申报文件仍将该交易描述为待完成。",
+      "zh": "Sun Pharma同意以每股14美元现金收购Organon；9月的申报文件仍将该交易描述为待完成。",
       "src": "https://www.sec.gov/Archives/edgar/data/1821825/000182182526000004/ogn-20260930.htm"
     },
     {
       "k": "other",
       "en": "Organon discontinued OG-6219 and OG-7191 clinical programs in 2025.",
-      "zh": "Organon 于 2025 年终止了 OG-6219 和 OG-7191 临床项目。",
+      "zh": "Organon于2025年终止了OG-6219和OG-7191临床项目。",
       "src": "https://www.sec.gov/Archives/edgar/data/1821825/000182182526000004/ogn-20260930.htm"
     },
     {
       "k": "deal",
       "en": "A July 2026 Samsung Bioepis agreement added an unnamed Australian biosimilar; Samsung retains development and manufacturing responsibility.",
-      "zh": "2026 年 7 月与 Samsung Bioepis 达成的协议新增了一款未具名的澳大利亚生物类似药;Samsung 保留开发和生产责任。",
+      "zh": "2026年7月与Samsung Bioepis达成的协议新增了一款未具名的澳大利亚生物类似药；Samsung保留开发和生产责任。",
       "src": "https://www.organon.com/australia/news/organon-and-samsung-bioepis-broaden-biosimilar-access-in-australia-through-expanded-commercialisation-agreement/"
     },
     {
       "k": "concentration",
       "en": "Nexplanon, fertility products and biosimilar commercialization drive the disclosed operating portfolio.",
-      "zh": "Nexplanon、生育产品和生物类似药商业化构成已披露的在营产品组合。",
+      "zh": "Nexplanon、生育产品和生物类似药商业化构成已披露的运营产品组合。",
       "src": "https://www.sec.gov/Archives/edgar/data/1821825/000182182526000004/ogn-20260930.htm"
     }
   ],
@@ -52,13 +52,11 @@
     ]
   ],
   "gaps": [
-    "No named, active, unapproved asset meeting the brief's inclusion rule was verified from the current filing and company pages; items is empty, not an assertion that no development exists.",
-    "No company-published phase counts were verified; counts is null.",
-    "The July Australian agreement does not disclose the biosimilar's identity, indication, current phase or filing status. These are unverified; no invented named item or inferred phase is supplied.",
-    "Poherdy/HLX11 and Bildyos/Bilprevda/HLX14 are approved, and Miudella was already FDA-approved; commercial launches and regional rights are not treated as novel pipeline assets.",
-    "The annual filing, published before June 2026, is used only as historical approval context, cross-checked where possible against the September filing.",
-    "An exact acquisition completion date was not verified; the transaction is described as agreed/pending, not completed.",
-    "No standalone current phase-by-phase pipeline table was located; business-development pages and the latest quarterly filing were used.",
-    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+    "No named active unapproved asset meeting the brief's inclusion criteria was verified; items remains empty.",
+    "No company-wide phase totals or current phase-by-phase pipeline table were verified; counts is null.",
+    "The July 2026 Australian biosimilar agreement does not identify the asset, indication, development phase or filing date.",
+    "Poherdy/HLX11, Bildyos/Bilprevda/HLX14 and Miudella are approved and are excluded from the selected pipeline.",
+    "The 2025 annual filing predates June 2026 and supplies historical approval context; the September 2026 filing supplies current company context.",
+    "The acquisition completion date remains unverified."
   ]
 }

@@ -11,7 +11,10 @@
       "name": "vosoritide (hypochondroplasia)",
       "code": "VOXZOGO",
       "modality": "peptide",
-      "target": null,
+      "target": {
+        "en": "Natriuretic peptide receptor B agonism",
+        "zh": "利钠肽受体B激动"
+      },
       "ind": {
         "en": "Hypochondroplasia",
         "zh": "软骨发育低下"
@@ -96,7 +99,10 @@
       "name": "BMN 450",
       "code": "HM15421 / GC1134A",
       "modality": "other",
-      "target": null,
+      "target": {
+        "en": "Alpha-galactosidase A enzyme replacement",
+        "zh": "α-半乳糖苷酶A酶替代"
+      },
       "ind": {
         "en": "Fabry disease",
         "zh": "法布里病"
@@ -111,7 +117,10 @@
       "name": "BMN 440",
       "code": "ALE1",
       "modality": "small molecule",
-      "target": null,
+      "target": {
+        "en": "ENPP1 inhibition",
+        "zh": "ENPP1抑制"
+      },
       "ind": {
         "en": "Hypophosphatasia",
         "zh": "低磷酸酯酶症"
@@ -163,15 +172,19 @@
     [
       "Q3 2026 presentation",
       "https://s203.q4cdn.com/846063244/files/content_files/BMRN-Q3-26-Earnings-Presentation-FINAL.pdf"
+    ],
+    [
+      "Company-hosted ESPE 2023 vosoritide mechanism presentation",
+      "https://medical.biomarin.com/en-us/wp-content/uploads/sites/2/2023/09/ESPE-2023-vosoritide-208-study1.pdf?v=1.1"
     ]
   ],
   "gaps": [
     "Interactive pipeline rows were not exposed on the corporate webpage; results and medical trial listings supply verified clinical programs.",
     "No complete phase totals verified.",
-    "Phase 1/2 assets are mapped to phase 2 and Phase 2/3 BMN 333 to phase 3; this does not imply each trial has entered its later component.",
     "BMN 351 is an antisense oligonucleotide, mapped to permitted modality other; BMN 450 is an enzyme replacement biologic, also other.",
-    "Some targets and origins are unverified and null.",
     "BMN 430 is preclinical and excluded.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "Origins remain unverified for vosoritide, BMN 333 and BMN 351; next remains null for BMN 450. The company-hosted September 2023 vosoritide mechanism presentation predates 2026-06 and supports target only.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved.",
+    "Phase 1/2 assets are represented as phase 2. BMN 333 is phase 3 as labeled on BioMarin’s medical pipeline; the study is Phase 2/3 and the November presentation expects Phase 2 dose-response data in 2027. This label does not establish that the trial’s Phase 3 component has begun."
   ]
 }

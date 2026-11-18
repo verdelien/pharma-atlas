@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Immunology, rare diseases and vaccines anchor the pipeline, with selected neurology programmes. Recent portfolio pruning and an expanded Regeneron alliance make pipeline renewal central.",
-    "zh": "管线以免疫、罕见病和疫苗为核心，并保留部分神经领域项目。近期项目调整及扩大与 Regeneron 的合作，使管线更新成为重点。"
+    "zh": "免疫、罕见病和疫苗是管线的支柱，并有部分神经科项目。近期产品组合精简和扩大的Regeneron联盟使管线更新成为核心。"
   },
   "counts": {
     "p1": 13,
@@ -23,14 +23,14 @@
       },
       "ind": {
         "en": "Gaucher disease type 3",
-        "zh": "3型戈谢病"
+        "zh": "3型Gaucher病"
       },
       "phase": "reg",
       "ta": "Rare disease",
       "origin": null,
       "next": {
         "en": "EU/Japan regulatory decisions",
-        "zh": "欧盟及日本审评决定",
+        "zh": "欧盟/日本监管决定",
         "when": "2027"
       },
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/2026_10_30_Sanofi_Q3_2026_Results.pdf"
@@ -41,18 +41,18 @@
       "modality": "antibody",
       "target": {
         "en": "CD40 ligand blockade",
-        "zh": "阻断 CD40 配体"
+        "zh": "CD40配体阻断"
       },
       "ind": {
         "en": "Relapsing and non-relapsing secondary progressive multiple sclerosis",
-        "zh": "复发型及非复发性继发进展型多发性硬化症"
+        "zh": "复发型和非复发型继发进展型多发性硬化"
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "licensed",
       "next": {
         "en": "Phase 3 multiple sclerosis readouts",
-        "zh": "多发性硬化症 III 期数据读出",
+        "zh": "III期多发性硬化数据读出",
         "when": "2028"
       },
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/SAN-EP-Transcript_2026-10-30.pdf"
@@ -63,18 +63,18 @@
       "modality": "antibody",
       "target": {
         "en": "Complement C1s inhibition",
-        "zh": "抑制补体 C1s"
+        "zh": "补体C1s抑制"
       },
       "ind": {
         "en": "IVIg-treated chronic inflammatory demyelinating polyneuropathy",
-        "zh": "接受静脉注射免疫球蛋白治疗的慢性炎性脱髓鞘性多发性神经根神经病"
+        "zh": "接受IVIg治疗的慢性炎症性脱髓鞘性多发性神经病"
       },
       "phase": "3",
       "ta": "Neuroscience",
       "origin": null,
       "next": {
         "en": "Phase 3 CIDP data and US/EU submission",
-        "zh": "CIDP III 期数据及美欧上市申报",
+        "zh": "III期CIDP数据及美国/欧盟申报",
         "when": "2027"
       },
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/2026_10_30_Sanofi_Q3_2026_Results.pdf"
@@ -85,18 +85,18 @@
       "modality": "antibody",
       "target": {
         "en": "TL1A blockade",
-        "zh": "阻断 TL1A"
+        "zh": "TL1A阻断"
       },
       "ind": {
         "en": "Ulcerative colitis; also Crohn's disease",
-        "zh": "溃疡性结肠炎；另开发克罗恩病"
+        "zh": "溃疡性结肠炎；另有克罗恩病"
       },
       "phase": "3",
       "ta": "Immunology",
       "origin": "co-developed",
       "next": {
         "en": "Phase 3 ulcerative colitis readout",
-        "zh": "溃疡性结肠炎 III 期数据读出",
+        "zh": "III期溃疡性结肠炎数据读出",
         "when": "2028"
       },
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/SAN-EP-Transcript_2026-10-30.pdf"
@@ -107,18 +107,18 @@
       "modality": "bispecific",
       "target": {
         "en": "IL-13 and TSLP blockade",
-        "zh": "同时阻断 IL-13 和 TSLP"
+        "zh": "IL-13和TSLP阻断"
       },
       "ind": {
         "en": "COPD; also high-risk asthma and nasal polyps",
-        "zh": "慢性阻塞性肺疾病；另开发高风险哮喘及鼻息肉"
+        "zh": "COPD；另有高风险哮喘和鼻息肉"
       },
       "phase": "3",
       "ta": "Respiratory",
       "origin": null,
       "next": {
         "en": "Phase 2 high-risk asthma data",
-        "zh": "高风险哮喘 II 期数据读出",
+        "zh": "II期高风险哮喘数据",
         "when": "2027"
       },
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/2026_10_30_Sanofi_Q3_2026_Results.pdf"
@@ -129,15 +129,15 @@
       "modality": "small molecule",
       "target": {
         "en": "KIT D816V inhibition",
-        "zh": "抑制 KIT D816V"
+        "zh": "KIT D816V抑制"
       },
       "ind": {
         "en": "Indolent/smouldering systemic mastocytosis",
-        "zh": "惰性或冒烟型系统性肥大细胞增多症"
+        "zh": "惰性/冒烟型系统性肥大细胞增多症"
       },
       "phase": "3",
       "ta": "Rare disease",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/2026_10_30_Sanofi_Q3_2026_Results.pdf"
     },
@@ -151,36 +151,36 @@
       },
       "ind": {
         "en": "Pneumococcal disease in children",
-        "zh": "儿童肺炎球菌性疾病"
+        "zh": "儿童肺炎球菌疾病"
       },
       "phase": "3",
       "ta": "Vaccines",
       "origin": "co-developed",
       "next": {
         "en": "Phase 3 readout",
-        "zh": "III 期数据读出",
+        "zh": "III期读出",
         "when": "2027"
       },
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/2026_10_30_Sanofi_Q3_2026_Results.pdf"
     },
     {
       "name": "efdoralprin alfa",
-      "code": "SAR447537",
+      "code": "SAR447537 / INBRX-101",
       "modality": "other",
       "target": {
         "en": "Alpha-1 antitrypsin fusion protein",
-        "zh": "α1-抗胰蛋白酶融合蛋白"
+        "zh": "α-1抗胰蛋白酶融合蛋白"
       },
       "ind": {
         "en": "Alpha-1 antitrypsin deficiency emphysema",
-        "zh": "α1-抗胰蛋白酶缺乏相关肺气肿"
+        "zh": "α-1抗胰蛋白酶缺乏症肺气肿"
       },
       "phase": "2",
       "ta": "Rare disease",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "US regulatory submission",
-        "zh": "美国上市申报",
+        "zh": "美国监管申报",
         "when": "2027"
       },
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/2026_10_30_Sanofi_Q3_2026_Results.pdf"
@@ -191,18 +191,18 @@
       "modality": "bispecific",
       "target": {
         "en": "TNF-alpha and OX40L blockade",
-        "zh": "同时阻断 TNF-α 和 OX40L"
+        "zh": "TNF-α和OX40L阻断"
       },
       "ind": {
         "en": "Hidradenitis suppurativa; also inflammatory bowel disease",
-        "zh": "化脓性汗腺炎；另开发炎症性肠病"
+        "zh": "化脓性汗腺炎；另有炎症性肠病"
       },
       "phase": "2",
       "ta": "Immunology",
       "origin": null,
       "next": {
         "en": "Phase 2 hidradenitis suppurativa data",
-        "zh": "化脓性汗腺炎 II 期数据读出",
+        "zh": "II期化脓性汗腺炎数据",
         "when": "2027"
       },
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/2026_10_30_Sanofi_Q3_2026_Results.pdf"
@@ -212,25 +212,25 @@
     {
       "k": "concentration",
       "en": "Q3 Dupixent sales were €5.7bn; management explicitly prioritises the post-Dupixent trajectory.",
-      "zh": "Dupixent 第三季度销售额达57亿欧元，管理层明确将其后续接棒布局列为重点。",
+      "zh": "第三季度Dupixent销售额为57亿欧元；管理层明确将后Dupixent时代的发展轨迹列为优先事项。",
       "src": "https://www.sec.gov/Archives/edgar/data/1121404/000112140426000009/pressreleaseq32026english.htm"
     },
     {
       "k": "loe",
       "en": "Management identifies protecting earnings through Dupixent loss of exclusivity as a priority.",
-      "zh": "管理层将应对 Dupixent 独占期结束、保障盈利列为重点。",
+      "zh": "管理层将通过Dupixent独占期结束保护盈利列为优先事项。",
       "src": "https://www.sec.gov/Archives/edgar/data/1121404/000112140426000009/pressreleaseq32026english.htm"
     },
     {
       "k": "deal",
       "en": "The expanded Regeneron alliance has $1bn upfront and up to $7bn additional milestones.",
-      "zh": "扩大后的 Regeneron 合作包含10亿美元首付款及最高70亿美元后续里程碑付款。",
+      "zh": "扩大后的Regeneron联盟包含10亿美元首付款及最高70亿美元额外里程碑付款。",
       "src": "https://www.sec.gov/Archives/edgar/data/1121404/000112140426000009/pressreleaseq32026english.htm"
     },
     {
       "k": "other",
       "en": "Amlitelimab filings are not being pursued and itepekimab development was discontinued.",
-      "zh": "公司不再推进 amlitelimab 上市申报，并已终止 itepekimab 开发。",
+      "zh": "不再推进amlitelimab的申报，itepekimab的开发已终止。",
       "src": "https://www.sanofi.com/assets/dotcom/content-app/events/quaterly-results/2026/2026-q3-2026-results/SAN-EP-Transcript_2026-10-30.pdf"
     }
   ],
@@ -254,14 +254,24 @@
     [
       "Q3 2026 results page",
       "https://www.sanofi.com/en/investors/financial-results-and-events/financial-results/q3-2026-results"
+    ],
+    [
+      "2024 Form 20-F: frexalimab exclusive ImmuNext licence",
+      "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/2024-01-01-form-20-f-2024-en.pdf"
+    ],
+    [
+      "Blueprint acquisition completion, July 18, 2025",
+      "https://www.sanofi.com/en/media-room/press-releases/2025/2025-07-18-05-00-00-3117709"
+    ],
+    [
+      "Inhibrx acquisition completion, May 30, 2024",
+      "https://www.sanofi.com/en/media-room/press-releases/2024/2024-05-30-13-01-38-2890833"
     ]
   ],
   "gaps": [
-    "The HTML phase graphic exposes every phase label in extracted text; actual stages were checked against the full Q3 PDF appendix instead.",
-    "Origins are null for venglustat, frexalimab, riliprubart, lunsekimig, elenestinib, efdoralprin alfa and brivekimig: precise internal/licensed/acquired status was not established in the reviewed materials. A collaboration label alone does not establish licence provenance.",
     "Unverified development codes are null. Elenestinib has no verified next milestone or date in the reviewed sources, so next is null.",
     "Frexalimab and duvakitug 2028 timing and programme discontinuations are stated in the company-hosted call transcript; the results website cautions that its transcript may contain errors.",
     "Lunsekimig's selected stage is Phase 3 COPD; its dated next milestone refers to a separate Phase 2 high-risk asthma programme. COPD readouts were indicated for 2029 in the transcript.",
-    "Efdoralprin alfa is a fusion protein, mapped to the allowed modality 'other'. No older-than-2026-06 source is used."
+    "Origins remain unverified for venglustat, riliprubart, lunsekimig and brivekimig. Historical licensing/acquisition sources predate June 2026; current phases and milestones use Q3 2026 materials. Efdoralprin alfa is a fusion protein, mapped to other."
   ]
 }

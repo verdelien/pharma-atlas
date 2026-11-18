@@ -11,17 +11,20 @@
       "name": "cemdisiran",
       "code": null,
       "modality": "siRNA",
-      "target": null,
+      "target": {
+        "en": "Complement C5",
+        "zh": "补体C5"
+      },
       "ind": {
         "en": "Generalized myasthenia gravis; also PNH and geographic atrophy",
-        "zh": "全身型重症肌无力;另有 PNH 和地图样萎缩"
+        "zh": "全身型重症肌无力;另有PNH和地图样萎缩"
       },
       "phase": "reg",
       "ta": "Neuroscience",
       "origin": null,
       "next": {
-        "en": "FDA decision",
-        "zh": "FDA 决定",
+        "en": "FDA decision on generalized myasthenia gravis NDA; target action date November 2026",
+        "zh": "FDA对全身型重症肌无力新药申请的决定;目标行动日期为2026年11月",
         "when": "2026Q4"
       },
       "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
@@ -36,19 +39,26 @@
       },
       "ind": {
         "en": "ATTR cardiomyopathy; also hereditary ATTR polyneuropathy",
-        "zh": "ATTR 心肌病;另有遗传性 ATTR 多发性神经病"
+        "zh": "ATTR心肌病;另有遗传性ATTR多发性神经病"
       },
       "phase": "3",
       "ta": "Cardiovascular",
       "origin": null,
-      "next": null,
+      "next": {
+        "en": "Potential ATTR-CM launch by 2030, subject to positive data and regulatory approval",
+        "zh": "若数据积极并获监管批准,ATTR-CM有望于2030年前上市",
+        "when": "2030"
+      },
       "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
     },
     {
       "name": "zilebesiran",
       "code": null,
       "modality": "siRNA",
-      "target": null,
+      "target": {
+        "en": "Hepatic angiotensinogen (AGT)",
+        "zh": "肝脏血管紧张素原(AGT)"
+      },
       "ind": {
         "en": "Hypertension",
         "zh": "高血压"
@@ -93,9 +103,9 @@
       "ta": "Hematology",
       "origin": null,
       "next": {
-        "en": "Phase 2 HHT results at full-year earnings",
-        "zh": "II 期 HHT 结果将在全年业绩发布时公布",
-        "when": "2027Q1"
+        "en": "Phase 1 healthy-volunteer data at ASH in December; Phase 2 HHT results at full-year earnings in February 2027",
+        "zh": "12月ASH大会公布I期健康志愿者数据;2027年2月全年业绩公布时披露II期HHT结果",
+        "when": "2026Q4"
       },
       "src": "https://investors.alnylam.com/press-release?id=db6ecd67-f517-425f-ab01-177f9e4aab44"
     },
@@ -194,13 +204,26 @@
     [
       "Q3 2026 presentation",
       "https://investors.alnylam.com/sites/default/files/pdfs/alnylam-q3-2026-earnings-presentation.pdf"
+    ],
+    [
+      "Q3 2026 Form 10-Q: C5 and AGT mechanisms and development status",
+      "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/alny-20260930.htm"
+    ],
+    [
+      "Q2 2026 presentation: completed ALN-4324 Phase 2 initiation",
+      "https://investors.alnylam.com/sites/default/files/pdfs/alnylam-q2-2026-earnings-presentation.pdf"
+    ],
+    [
+      "October 2026 downloadable pipeline",
+      "https://www.alnylam.com/sites/default/files/pdfs/alnylam-pipeline-2026-portrait-product.pdf"
     ]
   ],
   "gaps": [
     "No explicit totals by phase verified.",
     "Origins are null where discovery provenance was not explicit; out-licensing alone was not treated as an origin.",
-    "Some targets and development codes remain unverified.",
+    "Cemdisiran C5 and zilebesiran AGT targets are explicit in the Q3 filing. Remaining undisclosed development codes and discovery origins remain null; no compound-specific readout dates were verified for zilebesiran, mivelsiran or ALN-4324.",
     "Current FDA approval status after the stated November action date was not established; cemdisiran remains represented as under review in the latest opened results.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "Nucresiran guidance is a conditional launch by 2030, not a 2030 trial readout. ALN-6400 next records the nearer December 2026 Phase 1 presentation separately from February 2027 Phase 2 data.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

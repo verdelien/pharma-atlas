@@ -6,7 +6,27 @@
       "v": 5.728,
       "v_note": "FY2025 Roche-reported product sales, CHF 4,754 million; converted at company average FY2025 rate of CHF 0.83 per USD 1 (results presentation, slide 175: https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf).",
       "v_src": "https://www.roche.com/media/releases/med-cor-2026-01-29",
-      "v_note_zh": "FY2025 Roche报告产品销售额CHF 4,754 million；按公司FY2025平均汇率CHF 0.83/USD 1折算（业绩演示材料，第175页幻灯片：https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf）。"
+      "v_note_zh": "FY2025 Roche报告产品销售额CHF 4,754 million；按公司FY2025平均汇率CHF 0.83/USD 1折算（业绩演示材料，第175页幻灯片：https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf）。",
+      "loe": [
+        {
+          "region": "Japan",
+          "value": "2032-06",
+          "note": "Re-examination ends 2032-06-19 for acquired haemophilia A, versus 2028-03-22 for congenital haemophilia A. Manufacturer interview form; ten-year periods confirmed by PMDA: https://www.pmda.go.jp/RMP/www/450045/630fbbaa-221a-435e-8d77-2743a8572d82/450045_6343451A1025_011RMP.pdf . Not patent expiry or biosimilar launch.",
+          "src": "https://pins.japic.or.jp/pdf/medical_interview/IF00009763.pdf",
+          "note_zh": "获得性A型血友病再审查期于2032-06-19结束,先天性A型血友病为2028-03-22。厂商访谈表;十年期已由PMDA确认:https://www.pmda.go.jp/RMP/www/450045/630fbbaa-221a-435e-8d77-2743a8572d82/450045_6343451A1025_011RMP.pdf 。并非专利到期或生物类似药上市。"
+        },
+        {
+          "region": "US",
+          "value": null,
+          "note": "FDA Purple Book reference-product-exclusivity expiry field is blank; no entry year verified.",
+          "src": "https://purplebooksearch.fda.gov/index.cfm?event=advancedsearch",
+          "note_zh": "FDA紫皮书中参照产品独占期到期字段为空;未核实进入年份。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        }
+      ]
     },
     {
       "b": "Xolair",
@@ -20,7 +40,66 @@
       "v": 2.941,
       "v_note": "FY2025 Roche-reported product sales, CHF 2,441 million; converted at company average FY2025 rate of CHF 0.83 per USD 1 (results presentation, slide 175: https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf).",
       "v_src": "https://www.roche.com/media/releases/med-cor-2026-01-29",
-      "v_note_zh": "FY2025 Roche报告产品销售额CHF 2,441 million；按公司FY2025平均汇率CHF 0.83/USD 1折算（业绩演示材料，第175页幻灯片：https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf）。"
+      "v_note_zh": "FY2025 Roche报告产品销售额CHF 2,441 million；按公司FY2025平均汇率CHF 0.83/USD 1折算（业绩演示材料，第175页幻灯片：https://assets.roche.com/f/176343/x/dea78e334b/irp260129.pdf）。",
+      "loe": [
+        {
+          "region": "Japan",
+          "value": "2029-09",
+          "note": "PMDA: six-year re-examination from 2023-09-25; calculated end 2029-09-24. Not a patent-expiry or announced biosimilar launch.",
+          "src": "https://www.pmda.go.jp/RMP/www/450045/75d71ec9-5794-4a32-8cd7-c69b8220e84e/450045_4291501A1028_001RMP.pdf",
+          "note_zh": "PMDA:六年再审查期自2023-09-25起;推算截止2029-09-24。并非专利到期或已公布的生物类似药上市。"
+        },
+        {
+          "region": "US",
+          "value": null,
+          "note": "FDA Purple Book reference-product-exclusivity expiry field is blank; no entry year verified.",
+          "src": "https://purplebooksearch.fda.gov/index.cfm?event=advancedsearch",
+          "note_zh": "FDA紫皮书中参照产品独占期到期字段为空;未核实进入年份。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        }
+      ]
+    },
+    {
+      "b": "Vabysmo",
+      "loe": [
+        {
+          "region": "Japan",
+          "value": "2035-05",
+          "note": "Re-examination ends 2035-05-18 for angioid streaks; AMD/DME/RVO periods end 2030-03-27. Manufacturer interview form; new ten-year indication confirmed by PMDA: https://www.pmda.go.jp/drugs/2025/P20250521002/450045000_30400AMX00188_A100_1.pdf . Not patent expiry or biosimilar launch.",
+          "src": "https://www.gifu-upharm.jp/di/mdoc/iform/2g/i3620592505.pdf",
+          "note_zh": "血管样条纹再审查期于2035-05-18结束;AMD/DME/RVO期间于2030-03-27结束。厂商访谈表;新增十年适应症已由PMDA确认:https://www.pmda.go.jp/drugs/2025/P20250521002/450045000_30400AMX00188_A100_1.pdf 。并非专利到期或生物类似药上市。"
+        },
+        {
+          "region": "US",
+          "value": null,
+          "note": "FDA Purple Book reference-product-exclusivity expiry field is blank; no entry year verified.",
+          "src": "https://purplebooksearch.fda.gov/index.cfm?event=advancedsearch",
+          "note_zh": "FDA紫皮书中参照产品独占期到期字段为空;未核实进入年份。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        }
+      ]
+    },
+    {
+      "b": "Ocrevus",
+      "loe": [
+        {
+          "region": "US",
+          "value": null,
+          "note": "FDA Purple Book reference-product-exclusivity expiry field is blank; no entry year verified.",
+          "src": "https://purplebooksearch.fda.gov/index.cfm?event=advancedsearch",
+          "note_zh": "FDA紫皮书中参照产品独占期到期字段为空;未核实进入年份。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        }
+      ]
     }
   ],
   "new_products": []

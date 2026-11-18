@@ -6,23 +6,32 @@
       "v": 0.217,
       "v_note": "FY2025 global operational revenue EUR 192 million (Report 2025/2026, Global Brands table). Converted to USD bn at ECB 2025 annual-average USD 1.1300 per EUR, published by the Bank of Finland: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
       "v_src": "https://grunenthal-annualreport25.corporate-report.net/epaper/ausgabe.pdf",
-      "v_note_zh": "FY2025全球运营收入EUR 192 million（2025/2026年度报告，全球品牌表）。按Bank of Finland公布的ECB 2025年年度平均汇率USD 1.1300/EUR折算为USD bn：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
+      "v_note_zh": "FY2025全球运营收入EUR 192 million（2025/2026年度报告，全球品牌表）。按Bank of Finland公布的ECB 2025年年度平均汇率USD 1.1300/EUR折算为USD bn：https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2030-03",
+          "note": "Orange Book NDA 022395: product patent US 8,821,920 expires 2030-03-26; US 9,226,903 expires 2028-12-15. No generic launch date verified.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书NDA 022395:产品专利US 8,821,920于2030-03-26到期;US 9,226,903于2028-12-15到期。未核实仿制药上市日期。"
+        }
+      ]
     },
     {
       "b": "Movantik",
-      "v": null,
-      "v_note": "FY2025 source reports EUR 120 million operational revenue for Moventig and Movantik combined. Standalone Movantik revenue was not verified, so no numeric revenue value is supplied.",
+      "v": 0.122,
+      "v_note": "FY2025 standalone Movantik revenue EUR 108 million, explicitly reported in Report 2025/2026, growth-brands discussion (separate from combined Moventig/Movantik table). Converted at ECB calendar-2025 annual average USD 1.1300/EUR; no company average rate identified. FX source: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
       "v_src": "https://grunenthal-annualreport25.corporate-report.net/epaper/ausgabe.pdf",
       "loe": [
         {
-          "region": "All",
-          "value": null,
-          "note": "Report 2025/2026 states US patent protection until at least 2030. This is a US protection floor, not a verified worldwide generic-entry date.",
+          "region": "US",
+          "value": "2030",
+          "note": "Report 2025/2026: US patent protection until at least 2030. Protection floor only; exact patent expiry and generic-entry date not disclosed.",
           "src": "https://grunenthal-annualreport25.corporate-report.net/epaper/ausgabe.pdf",
-          "note_zh": "2025/2026年度报告称美国专利保护期至少持续至2030年。这是美国的保护下限，并非经核实的全球仿制药上市日期。"
+          "note_zh": "2025/2026年报告:美国专利保护至少持续到2030年。仅为保护下限;未披露确切的专利到期日和仿制药进入日期。"
         }
       ],
-      "v_note_zh": "FY2025来源报告Moventig和Movantik合计运营收入EUR 120 million。Movantik单独收入未核实，因此不提供数值收入。"
+      "v_note_zh": "2025财年Movantik单独收入为1.08亿欧元,明确列于2025/2026年报告的增长品牌讨论部分(与合并的Moventig/Movantik表格分开)。按ECB 2025日历年年均汇率1.1300美元/欧元换算;未找到公司平均汇率。汇率来源:https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
     },
     {
       "b": "Established brands",

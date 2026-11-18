@@ -8,11 +8,32 @@
       "v_src": "https://www.sobi.com/sites/sobi/files/pr/202602046224-1.pdf",
       "loe": [
         {
-          "region": "All",
-          "value": null,
-          "note": "February 2026 company prospectus: US compound patent expires 2027; Japan compound patent and European primary compound SPCs expire 2028; Canada/Israel patents expire 2027. A single global generic-entry year is not disclosed.",
+          "region": "US",
+          "value": "2027",
+          "note": "February 2026 company prospectus: Composition-of-matter patent expires 2027. Patent expiry only; no generic launch date established.",
           "src": "https://www.sobi.com/sites/sobi/files/2026-02/Swedish-Orphan-Biovitrum-AB-(publ)-Base-prospectus-for-Medium-Term-Note-Programme-February-2026.pdf",
-          "note_zh": "2026年2月公司招股说明书：美国化合物专利2027年到期；日本化合物专利和欧洲主要化合物SPC于2028年到期；加拿大/以色列专利2027年到期。未披露单一的全球仿制药上市年份。"
+          "note_zh": "2026年2月公司招股书:物质组成专利于2027年到期。仅为专利到期;未确定仿制药上市日期。"
+        },
+        {
+          "region": "EU",
+          "value": "2028",
+          "note": "February 2026 company prospectus: Primary composition-of-matter SPCs expire 2028. Patent expiry only; no generic launch date established.",
+          "src": "https://www.sobi.com/sites/sobi/files/2026-02/Swedish-Orphan-Biovitrum-AB-(publ)-Base-prospectus-for-Medium-Term-Note-Programme-February-2026.pdf",
+          "note_zh": "2026年2月公司招股书:主要物质组成SPC于2028年到期。仅为专利到期;未确定仿制药上市日期。"
+        },
+        {
+          "region": "Japan",
+          "value": "2028",
+          "note": "February 2026 company prospectus: Composition-of-matter patent expires 2028. Patent expiry only; no generic launch date established.",
+          "src": "https://www.sobi.com/sites/sobi/files/2026-02/Swedish-Orphan-Biovitrum-AB-(publ)-Base-prospectus-for-Medium-Term-Note-Programme-February-2026.pdf",
+          "note_zh": "2026年2月公司招股书:物质组成专利于2028年到期。仅为专利到期;未确定仿制药上市日期。"
+        },
+        {
+          "region": "China",
+          "value": null,
+          "note": "China-specific patent/exclusivity end and generic/biosimilar entry year were not verified from the sources inspected.",
+          "src": "https://www.sobi.com/sites/sobi/files/2026-02/Swedish-Orphan-Biovitrum-AB-(publ)-Base-prospectus-for-Medium-Term-Note-Programme-February-2026.pdf",
+          "note_zh": "未能从所查阅的来源核实中国特定的专利/独占期结束日期及仿制药/生物类似药进入年份。"
         }
       ],
       "v_note_zh": "FY2025报告产品收入SEK 5,265 million；按Riksbank 2025日历年年度平均汇率SEK 9.8191/USD 1折算；在已查阅的业绩报告中未发现公司平均汇率。汇率来源：https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/valutakurser-till-deklarationen/"
@@ -22,7 +43,30 @@
       "v": 0.293,
       "v_note": "FY2025 reported product revenue, SEK 2,873 million; converted using Riksbank calendar-2025 annual average SEK 9.8191 per USD 1; no company average rate identified in the inspected results report. FX source: https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/valutakurser-till-deklarationen/",
       "v_src": "https://www.sobi.com/sites/sobi/files/pr/202602046224-1.pdf",
-      "v_note_zh": "FY2025报告产品收入SEK 2,873 million；按Riksbank 2025日历年年度平均汇率SEK 9.8191/USD 1折算；在已查阅的业绩报告中未发现公司平均汇率。汇率来源：https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/valutakurser-till-deklarationen/"
+      "v_note_zh": "FY2025报告产品收入SEK 2,873 million；按Riksbank 2025日历年年度平均汇率SEK 9.8191/USD 1折算；在已查阅的业绩报告中未发现公司平均汇率。汇率来源：https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/valutakurser-till-deklarationen/",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2037-02",
+          "note": "Partner Sanofi 2025 20-F (ALTUVIIIO): compound patent with PTA; PTE pending. Regulatory exclusivity February 2035. Not biosimilar-entry guidance.",
+          "src": "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/2025-01-01-form-20-f-2025-en.pdf",
+          "note_zh": "合作方Sanofi 2025年20-F(ALTUVIIIO):化合物专利含PTA;PTE待决。监管独占期2035年2月。并非生物类似药进入指引。"
+        },
+        {
+          "region": "EU",
+          "value": "2035-01",
+          "note": "Partner Sanofi 2025 20-F: compound patent; SPC grants in process. Regulatory exclusivity June 2034. Not biosimilar-entry guidance.",
+          "src": "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/2025-01-01-form-20-f-2025-en.pdf",
+          "note_zh": "合作方Sanofi 2025年20-F:化合物专利;SPC授予流程进行中。监管独占期2034年6月。并非生物类似药进入指引。"
+        },
+        {
+          "region": "Japan",
+          "value": "2037-03",
+          "note": "Partner Sanofi 2025 20-F: compound patent including PTE. Regulatory exclusivity September 2031. Later patents pending through March 2043; not biosimilar-entry guidance.",
+          "src": "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/2025-01-01-form-20-f-2025-en.pdf",
+          "note_zh": "合作方Sanofi 2025年20-F:化合物专利含PTE。监管独占期2031年9月。后续专利待决至2043年3月;并非生物类似药进入指引。"
+        }
+      ]
     },
     {
       "b": "Beyfortus royalty",
@@ -36,7 +80,23 @@
       "v": 0.276,
       "v_note": "FY2025 reported product revenue, SEK 2,710 million; converted using Riksbank calendar-2025 annual average SEK 9.8191 per USD 1; no company average rate identified in the inspected results report. FX source: https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/valutakurser-till-deklarationen/",
       "v_src": "https://www.sobi.com/sites/sobi/files/pr/202602046224-1.pdf",
-      "v_note_zh": "FY2025报告产品收入SEK 2,710 million；按Riksbank 2025日历年年度平均汇率SEK 9.8191/USD 1折算；在已查阅的业绩报告中未发现公司平均汇率。汇率来源：https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/valutakurser-till-deklarationen/"
+      "v_note_zh": "FY2025报告产品收入SEK 2,710 million；按Riksbank 2025日历年年度平均汇率SEK 9.8191/USD 1折算；在已查阅的业绩报告中未发现公司平均汇率。汇率来源：https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/valutakurser-till-deklarationen/",
+      "loe": [
+        {
+          "region": "Japan",
+          "value": "2038-09",
+          "note": "PMDA-hosted October 2026 RMP: approval 2026-09-16; re-examination period 12 years, implying September 2038 (calculated), for MAS associated with sJIA/adult-onset Still disease. Not patent expiry or biosimilar-launch guidance.",
+          "src": "https://www.pmda.go.jp/RMP/www/371336/7a7bd523-63b2-4d03-99f2-59f22b357c4a/371336_39994G0A1022_002RMP.pdf",
+          "note_zh": "PMDA托管的2026年10月RMP:批准日期2026-09-16;再审查期12年,推算为2038年9月,适用于与sJIA/成人Still病相关的MAS。并非专利到期或生物类似药上市指引。"
+        },
+        {
+          "region": "China",
+          "value": null,
+          "note": "China-specific patent/exclusivity end and generic/biosimilar entry year were not verified from the sources inspected.",
+          "src": "https://www.pmda.go.jp/RMP/www/371336/7a7bd523-63b2-4d03-99f2-59f22b357c4a/371336_39994G0A1022_002RMP.pdf",
+          "note_zh": "未能从所查阅的来源核实中国特定的专利/独占期结束日期及仿制药/生物类似药进入年份。"
+        }
+      ]
     },
     {
       "b": "Kineret",

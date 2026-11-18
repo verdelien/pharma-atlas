@@ -1,5 +1,20 @@
 {
   "id": "celltrion",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Newer portfolio",
+      "v": 1.457,
+      "v_note": "FY2025 company earnings presentation, Sales Mix by Product appendix, reproduced in filing archive: Young Products, KRW 2,071 billion (rounded by company). Converted using ECB calendar-2025 annual averages KRW 1,605.67/EUR and USD 1.1300/EUR, cross-rate KRW 1,420.947/USD; no company average rate found in presentation. FX source: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
+      "v_src": "https://financialfilings.com/filings/celltrion-inc/earnings-release/2026/58998838/",
+      "v_note_zh": "2025财年公司业绩演示文稿,附录“按产品划分的销售构成”,转载于备案档案:Young Products,20,710亿韩元(公司已四舍五入)。按ECB 2025日历年年均汇率1,605.67韩元/欧元和1.1300美元/欧元换算,交叉汇率为1,420.947韩元/美元;演示文稿中未找到公司平均汇率。汇率来源:https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
+    },
+    {
+      "b": "Legacy portfolio",
+      "v": 1.262,
+      "v_note": "FY2025 company earnings presentation, Sales Mix by Product appendix, reproduced in filing archive: Advanced Products (Remsima IV, Truxima and Herzuma), KRW 1,793 billion (rounded by company). Converted using ECB calendar-2025 annual averages KRW 1,605.67/EUR and USD 1.1300/EUR, cross-rate KRW 1,420.947/USD; no company average rate found in presentation. FX source: https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/",
+      "v_src": "https://financialfilings.com/filings/celltrion-inc/earnings-release/2026/58998838/",
+      "v_note_zh": "2025财年公司业绩演示文稿,附录“按产品划分的销售构成”,转载于备案档案:Advanced Products(Remsima IV、Truxima和Herzuma),17,930亿韩元(公司已四舍五入)。按ECB 2025日历年年均汇率1,605.67韩元/欧元和1.1300美元/欧元换算,交叉汇率为1,420.947韩元/美元;演示文稿中未找到公司平均汇率。汇率来源:https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/exchange-rates/average-annual-exchange-rates-for-the-year-2025/"
+    }
+  ],
   "new_products": []
 }

@@ -11,10 +11,7 @@
       "name": "generic semaglutide (regional registrations)",
       "code": null,
       "modality": null,
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Diabetes; regional registration expansion beyond Canada",
         "zh": "糖尿病;在加拿大以外地区扩大注册"
@@ -28,22 +25,22 @@
     {
       "name": "alimatravir",
       "code": "MK-8527",
-      "modality": null,
+      "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "HIV-1 reverse transcriptase translocation inhibition",
+        "zh": "HIV-1逆转录酶易位抑制"
       },
       "ind": {
         "en": "Once-monthly oral HIV-1 prevention",
-        "zh": "每月一次口服 HIV-1 预防"
+        "zh": "每月一次口服HIV-1预防"
       },
       "phase": "3",
       "ta": "Infectious disease",
       "origin": "licensed",
       "next": {
-        "en": "Phase 3 results, followed by submissions if favorable",
-        "zh": "III 期结果;若结果良好,随后提交申报",
-        "when": null
+        "en": "Phase 3 HIV-prevention trial readouts; regional submissions follow if favorable",
+        "zh": "III期HIV预防试验读出;若结果有利,随后进行各地区申报",
+        "when": "2027"
       },
       "src": "https://www.aspenpharma.com/aspen-pharmacare-expands-access-ambitions-for-hiv-prevention-across-africa-through-new-agreement-with-msd/"
     }
@@ -90,13 +87,21 @@
     [
       "Viramal women's-health license",
       "https://www.aspenpharma.com/aspen-concludes-an-exclusive-womens-health-portfolio-licensing-agreement-with-viramal/"
+    ],
+    [
+      "MSD/ Merck alimatravir mechanism and licensed access, July 2026",
+      "https://www.merck.com/news/merck-announces-initial-access-plans-for-alimatravir-an-investigational-once-monthly-oral-hiv-pre-exposure-prophylaxis-in-phase-3-development/"
+    ],
+    [
+      "Merck August 2026 remarks: Phase 3 readouts anticipated in 2027",
+      "https://web.archive.org/web/20260907123044/https://www.merck.com/wp-content/uploads/sites/124/2026/08/2Q26-Merck-Prepared-Remarks.pdf"
     ]
   ],
   "gaps": [
     "No comprehensive asset-by-phase pipeline page found. FY2026 report/presentation landing pages returned 403; reachable company financial-results release used. Only two distinct development assets retained.",
     "Semaglutide registration evidence is September 2026; exact November status in each market was not verified, so no country-specific pending claim is made. Canadian approval is excluded from phase assessment.",
-    "No published phase totals or dated next milestones located. Asset modalities, molecular targets and semaglutide origin were not verified; null.",
+    "No published phase totals located. Semaglutide modality, target, origin and next milestone remain unverified and null. Alimatravir target and modality follow MSD/ Merck descriptions; 2027 readouts follow its August 2026 guidance.",
     "Viramal license announcement predates June 2026 and does not name assets/stages; excluded from items.",
-    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

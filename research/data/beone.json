@@ -21,7 +21,7 @@
       },
       "phase": "reg",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": {
         "en": "Japan first-line MCL submission",
         "zh": "日本一线 MCL 申报",
@@ -43,7 +43,7 @@
       },
       "phase": "reg",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": {
         "en": "China regulatory action",
         "zh": "中国监管行动",
@@ -65,7 +65,7 @@
       },
       "phase": "reg",
       "ta": "Oncology",
-      "origin": "co-developed",
+      "origin": "licensed",
       "next": {
         "en": "China regulatory action",
         "zh": "中国监管行动",
@@ -87,7 +87,7 @@
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": {
         "en": "Potential submission based on Phase 2 in mid-2027",
         "zh": "可能于 2027 年中基于 II 期数据提交申报",
@@ -109,7 +109,7 @@
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf"
     },
@@ -127,7 +127,7 @@
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": "co-developed",
+      "origin": "licensed",
       "next": null,
       "src": "https://beonemedicines.com/wp-content/uploads/2026/11/BeOne-pipeline-4Nov26-Final-.pdf"
     },
@@ -228,16 +228,19 @@
     [
       "Company Q3 takeaways",
       "https://beonemedicines.com/stories/five-key-takeaways-third-quarter-2026-results/"
+    ],
+    [
+      "2023 annual report: internally developed commercial products and in-licensed assets (provenance only)",
+      "https://ir.beonemedicines.com/media/document/9c1089f6-ab15-4854-9a09-0fb1c3cfb998/assets/Beigene_AR-2023.pdf?disposition=inline"
     ]
   ],
   "gaps": [
     "Counts is null: company totals by numerical phase were not verified; the pipeline chart was not manually counted.",
-    "Origins were not verified for zanubrutinib, tislelizumab, tacabrutideg, BGB-43395, BGB-B2033, BGB-58067 or BG-C477.",
-    "The pipeline identifies DualityBio collaboration for BG-C9074 and Zymeworks/Jazz collaboration for zanidatamab; co-developed records this collaboration, not unrestricted worldwide commercial ownership.",
     "BGB-B2033 remains phase 2 here: the chart lists Phase 3 but flags the study as potentially not yet enrolling, and Q3 results still forecast its initiation in Q4.",
     "Sonrotoclax/BEQALZI is excluded: it is already marketed in MCL and the pending EU MCL application is a geographic filing, not a verified major new indication.",
     "Zanidatamab's next milestone and tacabrutideg's phase 3 are corroborated by the Q3 release and November pipeline, respectively. Tacabrutideg timing is mid-2027; when uses 2027 because no exact quarter or half-year was disclosed.",
     "Readout dates for BGB-43395, BG-C9074 and BGB-58067 were not disclosed in the sources read; next is null. Development codes not explicitly verified are null.",
-    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified."
+    "Origins remain unverified for BGB-B2033, BGB-58067 and BG-C477. The 2023 annual report explicitly calls BRUKINSA/tislelizumab internally developed and lists BGB-16673/BGB-43395 among internally discovered candidates and lists zanidatamab and BG-C9074 as in-licensed; it predates 2026-06 and supports provenance only.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved."
   ]
 }

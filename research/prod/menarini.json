@@ -1,5 +1,18 @@
 {
   "id": "menarini",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Oncology",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "No single regional LOE date verified for the Oncology portfolio. Menarini Stemline product information confirms separate Orserdu (elacestrant) and Elzonris (tagraxofusp-erzs) products. A patent or exclusivity milestone for either product cannot be assigned to the entire oncology revenue row.",
+          "src": "https://medical.menarinistemline.com/Product/ProductInformation",
+          "note_zh": "未核实肿瘤组合存在单一的区域独占期结束日期。Menarini Stemline产品信息确认Orserdu(elacestrant)和Elzonris(tagraxofusp-erzs)为不同产品。任一产品的专利或独占期里程碑不能适用于整个肿瘤收入行。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

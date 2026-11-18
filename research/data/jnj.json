@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "The selected pipeline is weighted toward next-generation hematology and prostate-cancer immunotherapies, with additional immunology, depression and thrombosis programs. Collaborations are important across these platforms.",
-    "zh": "所选管线重点为新一代血液肿瘤及前列腺癌免疫疗法，同时布局免疫、抑郁症和血栓预防；多个平台依托外部合作。"
+    "zh": "入选管线偏重新一代血液学和前列腺癌免疫疗法,另有免疫、抑郁症和血栓项目。合作对这些平台均十分重要。"
   },
   "counts": {
     "p1": 24,
@@ -19,15 +19,15 @@
       "modality": "bispecific",
       "target": {
         "en": "GPRC5D × CD3",
-        "zh": "GPRC5D × CD3 靶点"
+        "zh": "GPRC5D × CD3"
       },
       "ind": {
         "en": "Earlier-line relapsed/refractory multiple myeloma combinations (MonumenTAL-3/6 filings)",
-        "zh": "更早线复发或难治性多发性骨髓瘤联合治疗（MonumenTAL-3/6 申报）"
+        "zh": "更早线复发/难治性多发性骨髓瘤联合疗法(MonumenTAL-3/6申报)"
       },
       "phase": "reg",
       "ta": "Hematology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://s203.q4cdn.com/636242992/files/doc_financials/2026/q3/JNJ-Pipeline-3Q26.pdf"
     },
@@ -37,18 +37,18 @@
       "modality": "other",
       "target": {
         "en": "BCMA × GPRC5D × CD3 trispecific",
-        "zh": "BCMA × GPRC5D × CD3 三特异性抗体"
+        "zh": "BCMA × GPRC5D × CD3三特异性"
       },
       "ind": {
         "en": "Relapsed/refractory multiple myeloma",
-        "zh": "复发或难治性多发性骨髓瘤"
+        "zh": "复发/难治性多发性骨髓瘤"
       },
       "phase": "3",
       "ta": "Hematology",
       "origin": null,
       "next": {
         "en": "ASH presentation of combination data, December 12–15",
-        "zh": "于12月12日至15日 ASH 年会披露联合治疗数据",
+        "zh": "12月12-15日ASH大会公布联合用药数据",
         "when": "2026Q4"
       },
       "src": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-continued-hematology-leadership-and-next-generation-innovation-at-ash-2026"
@@ -59,18 +59,18 @@
       "modality": "small molecule",
       "target": {
         "en": "Menin–KMT2A interaction inhibitor",
-        "zh": "Menin–KMT2A 相互作用抑制剂"
+        "zh": "Menin-KMT2A相互作用抑制剂"
       },
       "ind": {
         "en": "KMT2A-rearranged or NPM1-mutated acute myeloid leukemia",
-        "zh": "KMT2A 重排或 NPM1 突变急性髓系白血病"
+        "zh": "KMT2A重排或NPM1突变急性髓系白血病"
       },
       "phase": "3",
       "ta": "Hematology",
       "origin": null,
       "next": {
         "en": "ASH presentation of Phase 2 relapsed/refractory AML data",
-        "zh": "于 ASH 年会披露复发或难治性 AML 的 II 期数据",
+        "zh": "ASH大会公布复发/难治性AML II期数据",
         "when": "2026Q4"
       },
       "src": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-continued-hematology-leadership-and-next-generation-innovation-at-ash-2026"
@@ -81,7 +81,7 @@
       "modality": "bispecific",
       "target": {
         "en": "KLK2 × CD3",
-        "zh": "KLK2 × CD3 靶点"
+        "zh": "KLK2 × CD3"
       },
       "ind": {
         "en": "Metastatic castration-resistant prostate cancer",
@@ -99,15 +99,15 @@
       "modality": "small molecule",
       "target": {
         "en": "Selective orexin-2 receptor antagonist",
-        "zh": "选择性食欲素2受体拮抗剂"
+        "zh": "选择性orexin-2受体拮抗剂"
       },
       "ind": {
         "en": "Adjunctive treatment of major depressive disorder with insomnia symptoms",
-        "zh": "伴失眠症状的重性抑郁障碍辅助治疗"
+        "zh": "伴失眠症状的重度抑郁症辅助治疗"
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://s203.q4cdn.com/636242992/files/doc_financials/2026/q3/JNJ-Pipeline-3Q26.pdf"
     },
@@ -117,11 +117,11 @@
       "modality": "small molecule",
       "target": {
         "en": "Factor XIa inhibitor",
-        "zh": "凝血因子 XIa 抑制剂"
+        "zh": "因子XIa抑制剂"
       },
       "ind": {
         "en": "Atrial fibrillation; also secondary stroke prevention",
-        "zh": "房颤；亦开发卒中二级预防"
+        "zh": "心房颤动;另有二级卒中预防"
       },
       "phase": "3",
       "ta": "Cardiovascular",
@@ -135,11 +135,11 @@
       "modality": "antibody",
       "target": {
         "en": "IL-23 and TNF-α co-antibody therapy",
-        "zh": "同时靶向 IL-23 与 TNF-α 的双抗体固定组合"
+        "zh": "IL-23和TNF-α联合抗体疗法"
       },
       "ind": {
         "en": "Ulcerative colitis; also Crohn’s disease",
-        "zh": "溃疡性结肠炎；亦开发克罗恩病"
+        "zh": "溃疡性结肠炎;另有克罗恩病"
       },
       "phase": "3",
       "ta": "Immunology",
@@ -153,7 +153,7 @@
       "modality": "vaccine",
       "target": {
         "en": "Pathological phosphorylated tau active immunotherapy",
-        "zh": "针对病理性磷酸化 tau 的主动免疫疗法"
+        "zh": "病理性磷酸化tau主动免疫疗法"
       },
       "ind": {
         "en": "Preclinical Alzheimer’s disease",
@@ -170,25 +170,25 @@
     {
       "k": "catalyst",
       "en": "ASH 2026 runs December 12–15; planned disclosures include ramantamig combinations and bleximenib Phase 2 AML data.",
-      "zh": "2026年 ASH 年会于12月12日至15日举行，计划披露 ramantamig 联合治疗及 bleximenib 的 II 期 AML 数据。",
+      "zh": "ASH 2026于12月12-15日举行;计划披露的内容包括ramantamig联合用药和bleximenib II期AML数据。",
       "src": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-continued-hematology-leadership-and-next-generation-innovation-at-ash-2026"
     },
     {
       "k": "other",
       "en": "Rybrevant Faspro gained US head-and-neck cancer approval on November 5, superseding its October pipeline filing status.",
-      "zh": "Rybrevant Faspro 于11月5日在美国获批头颈癌适应症，取代了10月管线表中的申报状态。",
+      "zh": "Rybrevant Faspro于11月5日获美国头颈癌批准,取代其10月管线申报状态。",
       "src": "https://www.investor.jnj.com/investor-news/news-details/2026/Johnson--Johnson-announces-U-S--FDA-Approval-of-RYBREVANT-FASPRO-amivantamab-and-hyaluronidase-lpuj-as-First-and-Only-Dual-Targeted-Therapy-for-Advanced-Head-and-Neck-Cancer/default.aspx"
     },
     {
       "k": "deal",
       "en": "Milvexian is partnered with Bristol Myers Squibb and tau immunotherapy with AC Immune; development economics depend on individual agreements.",
-      "zh": "Milvexian 与百时美施贵宝合作，tau 免疫疗法与 AC Immune 合作，项目经济权益取决于各自协议。",
+      "zh": "Milvexian与Bristol Myers Squibb合作,tau免疫疗法与AC Immune合作;开发经济性取决于各项协议。",
       "src": "https://s203.q4cdn.com/636242992/files/doc_financials/2026/q3/JNJ-Pipeline-3Q26.pdf"
     },
     {
       "k": "balance",
       "en": "Q3 reported EPS was $0.09 versus $2.59 adjusted, reflecting a proposed talc resolution charge and business-development transactions.",
-      "zh": "Q3 报告每股收益为0.09美元，调整后为2.59美元，差异涉及拟议滑石粉诉讼解决费用和业务拓展交易。",
+      "zh": "第三季度报告EPS为0.09美元,调整后为2.59美元,反映了拟议的滑石粉和解费用及业务发展交易。",
       "src": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reports-q3-2026-results-raises-2026-guidance"
     }
   ],
@@ -236,15 +236,24 @@
     [
       "AC Immune enrollment pause, February 2026",
       "https://www.sec.gov/Archives/edgar/data/1651625/000095010326002195/dp241689_6k.htm"
+    ],
+    [
+      "Minerva March 2026 filing: seltorexant co-development",
+      "https://www.sec.gov/Archives/edgar/data/1598646/000119312526101196/d71904ds3.htm"
+    ],
+    [
+      "Genmab H1 2025 filing: talquetamab discovered and developed by J&J",
+      "https://ir.genmab.com/node/48211/html"
     ]
   ],
   "gaps": [
-    "The dynamic investor pages exposed little table content, so the complete company-hosted October pipeline PDF was used. Its counts remain explicitly dated October 13 and can include programs subsequently approved.",
-    "Talquetamab is included only for its filed earlier-line combinations, not its existing later-line approval. November 10 still describes only its original approved label. No exact future regulatory action date was verified; next is null.",
-    "Origins of talquetamab, ramantamig, bleximenib, pasritamig, seltorexant and JNJ-4804 were not explicitly established; origin is null. Platform partnerships alone were not treated as proof of molecule origin.",
-    "Unverified development codes are null. Seltorexant mechanism is verified in the May 2024 company release, which predates 2026-06; its current stage uses October 2026.",
-    "No dated next milestone was verified for pasritamig, seltorexant, milvexian, JNJ-4804 or JNJ-2056; next is null.",
-    "The May 2026 JNJ-4804 mechanism release and March 2026 AC Immune filing predate 2026-06; stages are from October/November 2026. JNJ-2056 enrollment had been paused in February 2026; a restart was not verified, despite continued October pipeline listing.",
-    "Ramantamig is trispecific and maps to other in the restricted modality vocabulary; JNJ-4804 is a co-formulated pair of antibodies, not a single bispecific molecule."
+    "Counts are the company’s October 13, 2026 programme snapshot, not unique molecule totals, and may include programmes subsequently approved.",
+    "No future regulatory action date was verified for talquetamab’s earlier-line combination filings.",
+    "Origins remain unverified for ramantamig, bleximenib, pasritamig and JNJ-4804.",
+    "No dated next milestone was verified for pasritamig, seltorexant, milvexian, JNJ-4804 or JNJ-2056; additional unverified codes remain null.",
+    "Seltorexant mechanism uses a May 2024 release and its historical co-development uses a March 2026 partner filing. JNJ-4804 mechanism and AC Immune provenance also use pre-June 2026 sources; stages use October/November 2026.",
+    "JNJ-2056 enrollment was paused in February 2026; a restart was not verified despite continued October pipeline listing.",
+    "Ramantamig is represented as other for its trispecific format; JNJ-4804 is a co-formulated antibody pair.",
+    "Talquetamab discovery provenance uses Genmab’s H1 2025 filing, before June 2026; its current filing status uses the October 2026 J&J pipeline."
   ]
 }

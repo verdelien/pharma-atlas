@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "A large generics business is developing a specialty portfolio around liver disease, biosimilars and rare diseases. Saroglitazar's US review is the most immediate disclosed innovative-drug milestone.",
-    "zh": "一家大型仿制药企业正围绕肝病、生物类似药和罕见病打造专科产品组合。Saroglitazar 的美国审评是已披露的最直接的创新药里程碑。"
+    "zh": "一家大型仿制药企业正围绕肝病、生物类似药和罕见病构建专科产品组合。Saroglitazar的美国审评是已披露的最近期创新药里程碑。"
   },
   "counts": null,
   "items": [
@@ -13,18 +13,18 @@
       "modality": "small molecule",
       "target": {
         "en": "PPAR alpha/gamma agonist",
-        "zh": "PPAR α/γ 激动剂"
+        "zh": "PPARα/γ激动剂"
       },
       "ind": {
         "en": "Primary biliary cholangitis; MASH Phase 2b completed",
-        "zh": "原发性胆汁性胆管炎;MASH IIb 期已完成"
+        "zh": "原发性胆汁性胆管炎;MASH IIb期已完成"
       },
       "phase": "reg",
       "ta": "Metabolic",
       "origin": "internal",
       "next": {
         "en": "FDA target action date November 27",
-        "zh": "FDA 目标行动日期 11 月 27 日",
+        "zh": "FDA目标行动日期11月27日",
         "when": "2026Q4"
       },
       "src": "https://www.prnewswire.com/news-releases/zydus-therapeutics-new-drug-application-nda-for-saroglitazar-to-treat-primary-biliary-cholangitis-pbc-granted-priority-review-by-the-us-fda-302784488.html"
@@ -34,16 +34,16 @@
       "code": "FYB206",
       "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "PD-1 blockade",
+        "zh": "PD-1阻断"
       },
       "ind": {
         "en": "Keytruda biosimilar; US BLA accepted",
-        "zh": "Keytruda 生物类似药;美国 BLA 已受理"
+        "zh": "Keytruda生物类似药;美国BLA已受理"
       },
       "phase": "reg",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf"
     },
@@ -53,7 +53,7 @@
       "modality": "small molecule",
       "target": {
         "en": "NLRP3 inhibitor",
-        "zh": "NLRP3 抑制剂"
+        "zh": "NLRP3抑制剂"
       },
       "ind": {
         "en": "ALS; also ulcerative colitis",
@@ -61,56 +61,56 @@
       },
       "phase": "2",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "internal",
       "next": null,
-      "src": "https://zyduslife.com/investor/admin/uploads/21/83/Zydus-Lifesciences-announces-completion-of-Phase-II%28a%29-clinical-trial-of-Usnoflast--a-novel-oral-NLRP3-inflammasome-inhibitor-in-patients-with-Amyotrophic-Lateral-Sclerosis-%28ALS%29.pdf"
+      "src": "https://clinical-trials-search.canada.ca/en/clinical-trial/301586-amyotrophic-lateral-sclerosis-als"
     },
     {
       "name": "alvelestat",
-      "code": null,
-      "modality": null,
+      "code": "MPH966",
+      "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Neutrophil elastase inhibitor",
+        "zh": "中性粒细胞弹性蛋白酶抑制剂"
       },
       "ind": {
         "en": "Alpha-1 antitrypsin deficiency-associated lung disease",
-        "zh": "α-1 抗胰蛋白酶缺乏症相关肺病"
+        "zh": "α1-抗胰蛋白酶缺乏症相关肺病"
       },
-      "phase": null,
+      "phase": "2",
       "ta": "Respiratory",
       "origin": "licensed",
       "next": {
         "en": "Potential Phase 3 start, contingent on option exercise",
-        "zh": "潜在 III 期启动,取决于期权行使",
+        "zh": "潜在III期启动,取决于选择权行使",
         "when": "2027H1"
       },
-      "src": "https://www.mereobiopharma.com/news/mereo-biopharma-reports-second-quarter-2026-financial-results-and-provides-corporate-highlights/"
+      "src": "https://www.mereobiopharma.com/our-pipeline/alvelestat-mph966/"
     }
   ],
   "watch": [
     {
       "k": "catalyst",
       "en": "Saroglitazar's FDA target action date is November 27, 2026.",
-      "zh": "Saroglitazar 的 FDA 目标行动日期为 2026 年 11 月 27 日。",
+      "zh": "Saroglitazar的FDA目标行动日期为2026年11月27日。",
       "src": "https://www.prnewswire.com/news-releases/zydus-therapeutics-new-drug-application-nda-for-saroglitazar-to-treat-primary-biliary-cholangitis-pbc-granted-priority-review-by-the-us-fda-302784488.html"
     },
     {
       "k": "deal",
       "en": "Alvelestat is an option-and-license arrangement; Mereo retains global development leadership.",
-      "zh": "Alvelestat 为期权加许可安排;Mereo 保留全球开发主导权。",
+      "zh": "Alvelestat为选择权与许可安排;Mereo保留全球开发主导权。",
       "src": "https://www.mereobiopharma.com/news/mereo-biopharma-reports-second-quarter-2026-financial-results-and-provides-corporate-highlights/"
     },
     {
       "k": "balance",
       "en": "Q2 R&D was 8.3% of revenue; September net debt/EBITDA was 0.62 times.",
-      "zh": "第二季度研发占收入的 8.3%;9 月净债务/EBITDA 为 0.62 倍。",
+      "zh": "第二季度研发费用占收入的8.3%;9月净债务/EBITDA为0.62倍。",
       "src": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf"
     },
     {
       "k": "policy",
       "en": "SEZ II and Moraiya inspections had one and five observations, respectively.",
-      "zh": "SEZ II 和 Moraiya 检查分别有一项和五项观察项。",
+      "zh": "SEZ II和Moraiya检查分别有1项和5项观察项。",
       "src": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026123914_PressRelease.pdf"
     }
   ],
@@ -138,12 +138,32 @@
     [
       "Usnoflast current trial context",
       "https://clinical-trials-search.canada.ca/en/clinical-trial/301586-amyotrophic-lateral-sclerosis-als"
+    ],
+    [
+      "FYB206 exclusive license, December 9, 2025",
+      "https://www.formycon.com/en/blog/press-release/formycon-and-zydus-partner-for-exclusive-licensing-and-supply-agreement-of-fyb206-a-biosimilar-to-keytruda-pembrolizumab-in-the-u-s-and-canada/"
+    ],
+    [
+      "FYB206 mechanism and development",
+      "https://www.formycon.com/en/biosimilars/fyb206-pembrolizumab-biosimilar-candidate/"
+    ],
+    [
+      "Usnoflast discovery at Zydus, April 1, 2024",
+      "https://zyduslife.com/investor/admin/uploads/21/83/Zydus-Lifesciences-receives-approval-for-the-name--Usnoflast--as-recommended-name-for-ZYIL1-from-the-WHO-International--Non-proprietary-Names-%28INN%29.pdf"
+    ],
+    [
+      "Alvelestat modality and option agreement, August 11, 2026",
+      "https://media.mereobiopharma.com/news/option-and-license-agreement/"
+    ],
+    [
+      "Alvelestat Phase 2 studies and Phase 3 preparation",
+      "https://www.mereobiopharma.com/our-pipeline/alvelestat-mph966/"
     ]
   ],
   "gaps": [
     "Saroglitazar priority-review release predates June 2026; November results still anticipate approval. Usnoflast company release is also older than June 2026; June 26 government trial record corroborates Phase 2.",
-    "No company-reported phase counts located. FYB206 origin, alvelestat modality/target and usnoflast origin were not verified.",
-    "Alvelestat planned Phase 3 is not treated as ongoing; current numbered phase is null. Mereo's option terms qualify Zydus's description as a licensing agreement.",
-    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+    "No company-reported phase counts or dated FYB206/usnoflast next milestones were verified.",
+    "Alvelestat phase 2 denotes its completed clinical stage; Phase 3 remains planned, contingent on Sentynl exercising its license option. Licensed origin describes the option-and-license arrangement, not confirmation that the option has been exercised.",
+    "The December 2025 FYB206 license and April 2024 usnoflast discovery releases predate June 2026 and establish historical provenance only."
   ]
 }

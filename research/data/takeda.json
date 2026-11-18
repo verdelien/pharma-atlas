@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Takeda combines immunology, neuroscience and oncology programs with plasma-derived therapies. Licensing and co-development contribute several major late-stage assets.",
-    "zh": "Takeda 的研发覆盖免疫、神经科学、肿瘤及血浆蛋白治疗，多个后期重点项目来自许可引进或联合开发。"
+    "zh": "武田将免疫、神经科学和肿瘤项目与血浆来源疗法相结合。许可和联合开发贡献了多个主要的后期资产。"
   },
   "counts": null,
   "items": [
@@ -13,11 +13,11 @@
       "modality": "small molecule",
       "target": {
         "en": "TYK2 inhibitor",
-        "zh": "TYK2 抑制剂"
+        "zh": "TYK2抑制剂"
       },
       "ind": {
         "en": "Plaque psoriasis (U.S./EU filing); also psoriatic arthritis",
-        "zh": "斑块状银屑病（美国及欧盟申报）；另开发银屑病关节炎"
+        "zh": "斑块状银屑病(美国/欧盟申报);另有银屑病关节炎"
       },
       "phase": "reg",
       "ta": "Immunology",
@@ -31,11 +31,11 @@
       "modality": "other",
       "target": {
         "en": "Immunoglobulin replacement plus hyaluronidase",
-        "zh": "免疫球蛋白替代治疗联合透明质酸酶"
+        "zh": "免疫球蛋白替代加透明质酸酶"
       },
       "ind": {
         "en": "Primary immunodeficiencies (U.S. filing); also CIDP",
-        "zh": "原发性免疫缺陷病（美国申报）；另开发慢性炎性脱髓鞘性多发性神经根神经病"
+        "zh": "原发性免疫缺陷(美国申报);另有CIDP"
       },
       "phase": "reg",
       "ta": "Immunology",
@@ -49,11 +49,11 @@
       "modality": "siRNA",
       "target": {
         "en": "Reduces mutant alpha-1 antitrypsin production",
-        "zh": "降低突变型 α1 抗胰蛋白酶的生成"
+        "zh": "减少突变型α1-抗胰蛋白酶的产生"
       },
       "ind": {
         "en": "Alpha-1 antitrypsin deficiency liver disease",
-        "zh": "α1 抗胰蛋白酶缺乏相关肝病"
+        "zh": "α1-抗胰蛋白酶缺乏症肝病"
       },
       "phase": "3",
       "ta": "Rare disease",
@@ -71,7 +71,7 @@
       },
       "ind": {
         "en": "Immune thrombocytopenia; also IgA nephropathy",
-        "zh": "免疫性血小板减少症；另开发 IgA 肾病"
+        "zh": "免疫性血小板减少症;另有IgA肾病"
       },
       "phase": "3",
       "ta": "Hematology",
@@ -85,11 +85,11 @@
       "modality": "other",
       "target": {
         "en": "Activin A/B ligand trap",
-        "zh": "Activin A/B 配体捕获蛋白"
+        "zh": "Activin A/B配体陷阱"
       },
       "ind": {
         "en": "Anemia in myelodysplastic syndromes; also myelofibrosis",
-        "zh": "骨髓增生异常综合征相关贫血；另开发骨髓纤维化相关贫血"
+        "zh": "骨髓增生异常综合征贫血;另有骨髓纤维化"
       },
       "phase": "3",
       "ta": "Hematology",
@@ -103,16 +103,20 @@
       "modality": "bispecific",
       "target": {
         "en": "PD-1 / IL-2 alpha-biased fusion protein",
-        "zh": "PD-1 / IL-2 α 偏向性融合蛋白"
+        "zh": "PD-1/IL-2 α偏向融合蛋白"
       },
       "ind": {
         "en": "Second-line squamous NSCLC; also other solid tumors",
-        "zh": "二线鳞状非小细胞肺癌；另开发其他实体瘤"
+        "zh": "二线鳞状NSCLC;另有其他实体瘤"
       },
       "phase": "3",
       "ta": "Oncology",
       "origin": "co-developed",
-      "next": null,
+      "next": {
+        "en": "Expand global Phase 3 study with a non-squamous NSCLC sub-trial",
+        "zh": "扩大全球III期研究,增加非鳞状NSCLC子试验",
+        "when": null
+      },
       "src": "https://assets-dam.takeda.com/image/upload/v1793241392/Global/Investor/Financial-Results/FY2026/Q2/qr2026_q2_Pipeline_table_en.pdf"
     },
     {
@@ -132,7 +136,7 @@
       "origin": "licensed",
       "next": {
         "en": "Japan filing targeted in Takeda FY2027",
-        "zh": "计划于 Takeda 2027 财年在日本申报",
+        "zh": "日本申报目标为武田2027财年",
         "when": null
       },
       "src": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-reports-second-quarter-fy2026-results/"
@@ -143,11 +147,11 @@
       "modality": "small molecule",
       "target": {
         "en": "Orexin-2 receptor agonist",
-        "zh": "食欲素 2 型受体激动剂"
+        "zh": "Orexin-2受体激动剂"
       },
       "ind": {
         "en": "Idiopathic hypersomnia; also narcolepsy types 1 and 2",
-        "zh": "特发性嗜睡症；另开发 1 型及 2 型发作性睡病"
+        "zh": "特发性嗜睡症;另有1型和2型发作性睡病"
       },
       "phase": "2",
       "ta": "Neuroscience",
@@ -160,25 +164,25 @@
     {
       "k": "catalyst",
       "en": "Zasocitinib is under FDA priority review and EU review.",
-      "zh": "Zasocitinib 正接受 FDA 优先审评及欧盟审评。",
+      "zh": "Zasocitinib正在接受FDA优先审评和欧盟审评。",
       "src": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-reports-second-quarter-fy2026-results/"
     },
     {
       "k": "deal",
       "en": "Elritercept and the two Innovent oncology programs carry external licensing or collaboration economics.",
-      "zh": "Elritercept 及两个 Innovent 肿瘤项目涉及外部许可或合作分成。",
+      "zh": "Elritercept和两个信达肿瘤项目带有外部许可或合作的经济条款。",
       "src": "https://assets-dam.takeda.com/image/upload/v1793241392/Global/Investor/Financial-Results/FY2026/Q2/qr2026_q2_Pipeline_table_en.pdf"
     },
     {
       "k": "concentration",
       "en": "Oveporexton and rusfertide obtained U.S. approvals in August 2026; launch execution now matters.",
-      "zh": "Oveporexton 与 rusfertide 于 2026 年 8 月在美国获批，后续需关注商业化执行。",
+      "zh": "Oveporexton和rusfertide于2026年8月获得美国批准;上市执行现已成为关键。",
       "src": "https://assets-dam.takeda.com/image/upload/v1793241392/Global/Investor/Financial-Results/FY2026/Q2/qr2026_q2_Pipeline_table_en.pdf"
     },
     {
       "k": "balance",
       "en": "FY2026 guidance still anticipates a low-single-digit core revenue decline at constant exchange rates.",
-      "zh": "2026 财年指引仍预计按固定汇率计算的核心收入出现低个位数下降。",
+      "zh": "2026财年指引仍预计按固定汇率计算核心收入出现低个位数下降。",
       "src": "https://www.takeda.com/newsroom/newsreleases/2026/takeda-reports-second-quarter-fy2026-results/"
     }
   ],
@@ -207,7 +211,7 @@
   "gaps": [
     "No complete company-reported phase-count series was verified; counts is null rather than a manual tally.",
     "Origin was not verified for TAK-881, mezagitamab and TAK-360; these origins are null. TAK-360 has no separate verified generic name or alternative code.",
-    "Next milestones/dates were not reliably verified for most selected assets; next is null. Arcotatug's Japan filing is explicitly FY2027 (April 2027–March 2028), so next.when is null to avoid mislabeling it as calendar 2027.",
+    "Dated next milestones were not verified for most selected assets. TAK-928 has an announced Phase 3 study expansion without a stated date. Arcotatug's Japan filing is explicitly FY2027 (April 2027–March 2028), so next.when is null to avoid mislabeling it as calendar 2027.",
     "Already approved uses, regional-only filings of approved indications (including rusfertide in the EU), and unexercised option assets were excluded. TAK-881 is a new investigational formulation; vedolizumab's filed pediatric expansion was not selected within the eight-asset shortlist.",
     "The FY2025 SEC filing predates 2026-06 and is used only for the historical Nimbus/zasocitinib acquisition, not current development status.",
     "Protein replacement and ligand-trap modalities are mapped to other because the allowed vocabulary has no recombinant/plasma protein category."

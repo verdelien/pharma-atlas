@@ -171,9 +171,9 @@
       "ta": "Immunology",
       "origin": "licensed",
       "next": {
-        "en": "Japan submission projected for 2029 or beyond",
-        "zh": "预计 2029 年或之后在日本申报",
-        "when": null
+        "en": "Japan submission projected",
+        "zh": "预计在日本提交申报",
+        "when": "2029 and beyond"
       },
       "src": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/pipeline/files/260930ePipeline.pdf"
     },
@@ -245,9 +245,8 @@
     "Japan development/filing status is distinguished from overseas approvals. Satralizumab thyroid eye disease is excluded because U.S. approval was disclosed in October; the item instead concerns filed MOGAD.",
     "Orforglipron was discovered by Chugai and out-licensed to Lilly; it is included for filed diabetes and non-U.S. obesity applications, not approved U.S. obesity.",
     "Specific next regulatory-decision dates were not disclosed for filed assets; next is null.",
-    "Sefaxersen is an antisense oligonucleotide, mapped to other because the permitted modality vocabulary has no ASO category. The source says 2029 and beyond, so next.when is null.",
     "Sparsentan is coded licensed because the pipeline identifies Travere as licensor; the corporate acquisition pathway is not represented separately.",
     "Unverified development codes are null. The 10-asset selection omits other Phase 3 assets and is not the full portfolio.",
-    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+    "Sefaxersen is an antisense oligonucleotide, mapped to other. Its stated submission horizon, 2029 and beyond, is preserved verbatim in next.when; this is not a specific-year commitment."
   ]
 }

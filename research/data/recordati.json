@@ -3,45 +3,23 @@
   "asof": "2026-11",
   "summary": {
     "en": "Rare-disease development combines lifecycle extensions with externally sourced assets. Near-term milestones include metabolic-disease data and neurological regulatory submissions.",
-    "zh": "罕见病开发将生命周期延伸与外部引进的资产相结合。近期里程碑包括代谢病数据和神经系统疾病的监管申报。"
+    "zh": "罕见病开发将生命周期延长与外部引进资产相结合。近期里程碑包括代谢疾病数据和神经系统监管申报。"
   },
   "counts": null,
   "items": [
-    {
-      "name": "zilganersen",
-      "code": null,
-      "modality": "other",
-      "target": {
-        "en": null,
-        "zh": null
-      },
-      "ind": {
-        "en": "Alexander disease",
-        "zh": "亚历山大病"
-      },
-      "phase": null,
-      "ta": "Rare disease",
-      "origin": "licensed",
-      "next": {
-        "en": "Europe and Japan submissions",
-        "zh": "欧洲和日本申报",
-        "when": "2027Q1"
-      },
-      "src": "https://dg0hkcpvy5xbq.cloudfront.net/wp-content/uploads/2026/11/10161648/Recordati-9M-2026-results-presentation.pdf"
-    },
     {
       "name": "mRNA-3927",
       "code": null,
       "modality": "other",
       "target": {
         "en": "Restore PCC enzyme activity",
-        "zh": "恢复 PCC 酶活性"
+        "zh": "恢复PCC酶活性"
       },
       "ind": {
         "en": "Propionic acidemia",
         "zh": "丙酸血症"
       },
-      "phase": null,
+      "phase": "2",
       "ta": "Rare disease",
       "origin": "co-developed",
       "next": {
@@ -49,15 +27,15 @@
         "zh": "注册性研究结果",
         "when": "2026Q4"
       },
-      "src": "https://dg0hkcpvy5xbq.cloudfront.net/wp-content/uploads/2026/11/10160940/Press-Release_9M-2026-Results.pdf"
+      "src": "https://www.modernatx.com/research/product-pipeline"
     },
     {
       "name": "pasireotide (post-bariatric hypoglycemia)",
       "code": null,
-      "modality": null,
+      "modality": "peptide",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Somatostatin analogue",
+        "zh": "生长抑素类似物"
       },
       "ind": {
         "en": "Post-bariatric hypoglycemia",
@@ -65,10 +43,10 @@
       },
       "phase": "2",
       "ta": "Metabolic",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "Finalize Phase 3 plan",
-        "zh": "确定 III 期方案",
+        "zh": "确定III期方案",
         "when": "2026Q4"
       },
       "src": "https://dg0hkcpvy5xbq.cloudfront.net/wp-content/uploads/2026/11/10160940/Press-Release_9M-2026-Results.pdf"
@@ -78,19 +56,19 @@
       "code": null,
       "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "GD2",
+        "zh": "GD2"
       },
       "ind": {
         "en": "Relapsed/refractory high-risk neuroblastoma; Ewing sarcoma exploration",
-        "zh": "复发/难治性高危神经母细胞瘤;探索尤文肉瘤"
+        "zh": "复发/难治性高危神经母细胞瘤；探索尤文肉瘤"
       },
       "phase": "2",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "BEACON-2 interim analysis",
-        "zh": "BEACON-2 中期分析",
+        "zh": "BEACON-2中期分析",
         "when": "2028H1"
       },
       "src": "https://dg0hkcpvy5xbq.cloudfront.net/wp-content/uploads/2026/11/10161648/Recordati-9M-2026-results-presentation.pdf"
@@ -100,8 +78,8 @@
       "code": null,
       "modality": "antibody",
       "target": {
-        "en": "Classical complement pathway",
-        "zh": "经典补体途径"
+        "en": "Complement C1s inhibition",
+        "zh": "补体C1s抑制"
       },
       "ind": {
         "en": "Chronic immune thrombocytopenia",
@@ -109,10 +87,10 @@
       },
       "phase": null,
       "ta": "Hematology",
-      "origin": null,
+      "origin": "acquired",
       "next": {
-        "en": "Initiate pivotal Phase 3",
-        "zh": "启动关键性 III 期",
+        "en": "Initiate pivotal Phase 3 in early 2027",
+        "zh": "2027年初启动关键性III期",
         "when": "2027"
       },
       "src": "https://dg0hkcpvy5xbq.cloudfront.net/wp-content/uploads/2026/11/10160940/Press-Release_9M-2026-Results.pdf"
@@ -122,19 +100,19 @@
     {
       "k": "catalyst",
       "en": "Metabolic trial results are expected by year-end 2026.",
-      "zh": "代谢试验结果预计在 2026 年底前公布。",
+      "zh": "代谢试验结果预计于2026年底前公布。",
       "src": "https://dg0hkcpvy5xbq.cloudfront.net/wp-content/uploads/2026/11/10161648/Recordati-9M-2026-results-presentation.pdf"
     },
     {
       "k": "deal",
       "en": "Moderna leads mRNA-3927 development; Ionis retains US zilganersen commercialization.",
-      "zh": "Moderna 主导 mRNA-3927 的开发;Ionis 保留 zilganersen 的美国商业化权。",
+      "zh": "Moderna主导mRNA-3927开发；Ionis保留zilganersen的美国商业化权利。",
       "src": "https://dg0hkcpvy5xbq.cloudfront.net/wp-content/uploads/2026/11/10160940/Press-Release_9M-2026-Results.pdf"
     },
     {
       "k": "balance",
       "en": "September 2026 net debt was €1.70 billion, around 1.6 times EBITDA.",
-      "zh": "2026 年 9 月净债务为 €1.70 billion,约为 EBITDA 的 1.6 倍。",
+      "zh": "2026年9月净债务为17.0亿欧元，约为EBITDA的1.6倍。",
       "src": "https://dg0hkcpvy5xbq.cloudfront.net/wp-content/uploads/2026/11/10160940/Press-Release_9M-2026-Results.pdf"
     }
   ],
@@ -150,12 +128,26 @@
     [
       "9M 2026 presentation",
       "https://dg0hkcpvy5xbq.cloudfront.net/wp-content/uploads/2026/11/10161648/Recordati-9M-2026-results-presentation.pdf"
+    ],
+    [
+      "2025 annual report: mechanisms and acquired rights",
+      "https://annualreport.recordati.com/wp-content/uploads/2026/04/ANNUAL-REPORT-2025_260429.pdf"
+    ],
+    [
+      "Moderna pipeline, May 28, 2026: mRNA-3927 Phase 2",
+      "https://www.modernatx.com/research/product-pipeline"
+    ],
+    [
+      "Ionis Q3 2026: zilganersen US approval",
+      "https://ir.ionis.com/news-releases/news-release-details/ionis-reports-third-quarter-2026-financial-results-and"
     ]
   ],
   "gaps": [
-    "R&D page returned 403; latest company results and presentation used. No published phase counts located.",
-    "Exact numbered phases for zilganersen, mRNA-3927 and current ITP development were not specified in reviewed materials; planned Phase 3 is not treated as ongoing.",
-    "Some targets, modalities and origins were not verified and are null. Dinutuximab beta Phase 1/2 is represented as Phase 2; approved and Phase 4 programs excluded.",
-    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+    "No complete company-reported phase totals were verified; counts is null.",
+    "Sutimlimab's current numbered phase in ITP was not established. The November presentation plans Phase 3 initiation for early 2027, which is not an ongoing Phase 3 trial.",
+    "mRNA-3927 Phase 2 is stated by Moderna's May 28, 2026 pipeline, before June 2026. The November Recordati presentation confirms registrational-study results expected by year-end without assigning a numbered phase.",
+    "Zilganersen was removed because Ionis confirms US approval in its November 9, 2026 results; Recordati's remaining plans are regional submissions for the same indication.",
+    "The April 2026 annual report predates June 2026 and supports mechanisms and acquired rights only; current milestones come from November 2026.",
+    "Antisense and mRNA therapies use modality other because the required vocabulary has no dedicated category."
   ]
 }

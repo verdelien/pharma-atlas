@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Krka's development model focuses on branded generics, formulations and lifecycle improvements. Public materials report a large development portfolio without a named clinical-stage innovative-drug pipeline.",
-    "zh": "Krka 的开发模式聚焦品牌仿制药、制剂和生命周期改进。公开资料显示其开发组合庞大,但没有已命名的临床阶段创新药管线。"
+    "zh": "Krka的研发模式聚焦品牌仿制药、制剂和生命周期改进。公开材料报告了庞大的在研组合,但没有指名的临床阶段创新药管线。"
   },
   "counts": null,
   "items": [],
@@ -11,19 +11,19 @@
     {
       "k": "other",
       "en": "The R&D page reports more than 170 products under development.",
-      "zh": "研发页面显示有 170 多个在研产品。",
+      "zh": "研发页面报告有170多个在研产品。",
       "src": "https://www.krka.biz/products/science-and-technology/achievements/"
     },
     {
       "k": "balance",
       "en": "R&D absorbed 9.1% of revenue in January–September 2026.",
-      "zh": "2026 年 1–9 月,研发占收入的 9.1%。",
+      "zh": "2026年1-9月,研发占收入的9.1%。",
       "src": "https://www.krka.biz/media-center/news/krka-reports-january-to-september-2026-business-results/"
     },
     {
       "k": "concentration",
       "en": "East Europe accounted for 36.7% of product and service sales in January–September 2026.",
-      "zh": "2026 年 1–9 月,东欧占产品和服务销售额的 36.7%。",
+      "zh": "2026年1-9月,东欧占产品和服务销售额的36.7%。",
       "src": "https://www.krka.biz/media-center/news/krka-reports-january-to-september-2026-business-results/"
     }
   ],
@@ -39,8 +39,7 @@
   ],
   "gaps": [
     "No named investigational assets with verifiable clinical phases found in reviewed sources; items is empty.",
-    "No phase counts or asset-level targets, origins and catalyst dates disclosed in reviewed materials.",
-    "R&D achievements page is undated.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "No phase counts or asset-level targets, origins or milestone dates disclosed in reviewed materials.",
+    "The R&D achievements page is undated; November 12, 2026 results confirm the generic-focused development model."
   ]
 }

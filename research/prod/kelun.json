@@ -1,5 +1,18 @@
 {
   "id": "kelun",
-  "rows": [],
+  "rows": [
+    {
+      "b": "sac-TMT (China)",
+      "loe": [
+        {
+          "region": "China",
+          "value": "2038",
+          "note": "Historical company patent disclosure: 2023 English draft prospectus, printed p. 378, lists Chinese patent 2018800695435 for SKB264 (sac-TMT), covering the biologically active substance conjugate, preparation and use, expiring in 2038. Draft disclosure; no current patent-status or biosimilar-entry date verified.",
+          "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2023/0711/10811956/sehk23060400090.pdf",
+          "note_zh": "公司历史专利披露:2023年英文招股书草稿(印刷页第378页)列出SKB264(sac-TMT)的中国专利2018800695435,涵盖生物活性物质偶联物、制备及用途,于2038年到期。为草稿披露;未核实当前专利状态或生物类似药进入日期。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

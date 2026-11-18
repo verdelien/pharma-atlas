@@ -62,7 +62,11 @@
       "phase": "3",
       "ta": "Oncology",
       "origin": "co-developed",
-      "next": null,
+      "next": {
+        "en": "Determine development and BLA submission plans with DualityBio",
+        "zh": "与DualityBio确定开发和BLA申报计划",
+        "when": null
+      },
       "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
     },
     {
@@ -87,16 +91,19 @@
       "name": "elfetabart drozuntecan",
       "code": "BNT324 / DB-1311",
       "modality": "ADC",
-      "target": null,
-      "ind": {
-        "en": "Solid tumors; combinations in lung cancer",
-        "zh": "实体瘤;肺癌联合疗法"
+      "target": {
+        "en": "B7-H3",
+        "zh": "B7-H3"
       },
-      "phase": "2",
+      "ind": {
+        "en": "Metastatic castration-resistant prostate cancer; also other solid tumors",
+        "zh": "转移性去势抵抗性前列腺癌;另有其他实体瘤"
+      },
+      "phase": "3",
       "ta": "Oncology",
       "origin": "co-developed",
       "next": null,
-      "src": "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+      "src": "https://investors.biontech.de/static-files/5248a6ea-b3c1-4985-95d4-a56e0aaa1e7a"
     },
     {
       "name": "autogene cevumeran",
@@ -185,15 +192,18 @@
     [
       "Q3 2026 results, November 3",
       "https://www.biontech.com/us/en/home/mediaroom/news/press-releases/2026/11/BioNTech-Announces-Third-Quarter-2026-Financial-Results-and-Corporate-Update.html"
+    ],
+    [
+      "Q3 2026 quarterly report: full clinical portfolio and BNT324 Phase 3",
+      "https://investors.biontech.de/static-files/5248a6ea-b3c1-4985-95d4-a56e0aaa1e7a"
     ]
   ],
   "gaps": [
     "The webpage's interactive asset cards were not fully readable on open; its complete downloadable pipeline chart was reviewed.",
     "No complete company phase-count breakdown verified.",
-    "Mixed Phase 2/3 programs use phase 3 where the source confirms a Phase 3 component.",
-    "BNT324 target and some origins were not verified and are null.",
     "Autogene cevumeran's terminated colorectal trial is excluded; pancreatic development remains active.",
-    "No precise forthcoming date verified for most assets.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "BNT324/elfetabart is corrected to Phase 3 for mCRPC and B7-H3, based on the Q3 2026 report; Phase 2 combination studies do not determine its highest asset phase.",
+    "BNT116 and BNT211 discovery origins remain unverified. No precise forward date was verified for most assets. Trastuzumab pamirtecan’s BLA plans are under discussion after October data; no obsolete 2026 filing promise is assigned.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved."
   ]
 }

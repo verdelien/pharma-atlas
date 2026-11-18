@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Incyte combines late-stage hematology and immunology with expanding gastrointestinal oncology programs. ([Q3 update](https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides))",
-    "zh": "Incyte 将后期血液学和免疫学项目与不断扩展的胃肠肿瘤项目相结合。([Q3 update](https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides))"
+    "zh": "Incyte将后期血液学和免疫学与不断扩展的胃肠道肿瘤项目相结合。([第三季度更新](https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides))"
   },
   "counts": null,
   "items": [
@@ -13,21 +13,21 @@
       "modality": "small molecule",
       "target": {
         "en": "JAK1 inhibitor",
-        "zh": "JAK1 抑制剂"
+        "zh": "JAK1抑制剂"
       },
       "ind": {
-        "en": "Moderate-to-severe hidradenitis suppurativa; also vitiligo and prurigo nodularis",
-        "zh": "中重度化脓性汗腺炎;另有白癜风和结节性痒疹"
+        "en": "US filing for moderate-to-severe hidradenitis suppurativa; EU approved; also vitiligo and prurigo nodularis",
+        "zh": "美国中重度化脓性汗腺炎申报;欧盟已获批;另有白癜风和结节性痒疹"
       },
       "phase": "reg",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "internal",
       "next": {
         "en": "US potential approval and launch",
         "zh": "美国潜在获批和上市",
         "when": "2027Q1"
       },
-      "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
+      "src": "https://investor.incyte.com/news-releases/news-release-details/povofortayr-povorcitinib-approved-europe-first-once-daily-oral"
     },
     {
       "name": "tafasitamab",
@@ -39,11 +39,11 @@
       },
       "ind": {
         "en": "Newly diagnosed diffuse large B-cell lymphoma",
-        "zh": "初治弥漫大 B 细胞淋巴瘤"
+        "zh": "新诊断弥漫性大B细胞淋巴瘤"
       },
       "phase": "reg",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "US potential approval and launch",
         "zh": "美国潜在获批和上市",
@@ -65,10 +65,10 @@
       },
       "phase": "3",
       "ta": "Hematology",
-      "origin": null,
+      "origin": "internal",
       "next": {
         "en": "Second-line myelofibrosis Phase 3 initiation",
-        "zh": "二线骨髓纤维化 III 期启动",
+        "zh": "二线骨髓纤维化III期启动",
         "when": "2026Q4"
       },
       "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
@@ -79,7 +79,7 @@
       "modality": "antibody",
       "target": {
         "en": "Protein S modulator",
-        "zh": "蛋白 S 调节剂"
+        "zh": "蛋白S调节剂"
       },
       "ind": {
         "en": "Von Willebrand disease",
@@ -90,7 +90,7 @@
       "origin": "acquired",
       "next": {
         "en": "VIVID-6 topline data; early 2029",
-        "zh": "VIVID-6 顶线数据;2029 年初",
+        "zh": "VIVID-6 topline数据;2029年初",
         "when": "2029"
       },
       "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
@@ -101,7 +101,7 @@
       "modality": "small molecule",
       "target": {
         "en": "KRAS G12D inhibitor",
-        "zh": "KRAS G12D 抑制剂"
+        "zh": "KRAS G12D抑制剂"
       },
       "ind": {
         "en": "First-line metastatic pancreatic ductal adenocarcinoma; also colorectal cancer",
@@ -111,9 +111,9 @@
       "ta": "Oncology",
       "origin": null,
       "next": {
-        "en": "DAWN-303 topline data",
-        "zh": "DAWN-303 顶线数据",
-        "when": "2028"
+        "en": "Initiate Phase 3 DAWN-302 in previously treated colorectal cancer",
+        "zh": "启动既往接受过治疗的结直肠癌III期DAWN-302",
+        "when": "2027H1"
       },
       "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
     },
@@ -134,7 +134,7 @@
       "origin": "co-developed",
       "next": {
         "en": "NEXERA-303 topline data",
-        "zh": "NEXERA-303 顶线数据",
+        "zh": "NEXERA-303 topline数据",
         "when": "2029"
       },
       "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
@@ -145,7 +145,7 @@
       "modality": "small molecule",
       "target": {
         "en": "CDK2 inhibitor",
-        "zh": "CDK2 抑制剂"
+        "zh": "CDK2抑制剂"
       },
       "ind": {
         "en": "Platinum-resistant ovarian cancer; first-line maintenance planned",
@@ -156,7 +156,7 @@
       "origin": null,
       "next": {
         "en": "MAESTRA-3 first-line maintenance Phase 3 initiation",
-        "zh": "MAESTRA-3 一线维持治疗 III 期启动",
+        "zh": "MAESTRA-3一线维持治疗III期启动",
         "when": "2026Q4"
       },
       "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
@@ -171,38 +171,42 @@
       },
       "ind": {
         "en": "CALR-mutated myelofibrosis or essential thrombocythemia",
-        "zh": "CALR 突变骨髓纤维化或原发性血小板增多症"
+        "zh": "CALR突变骨髓纤维化或原发性血小板增多症"
       },
-      "phase": null,
+      "phase": "1",
       "ta": "Hematology",
       "origin": "co-developed",
-      "next": null,
-      "src": "https://incyte.com/our-science/pharmaceutical-portfolio"
+      "next": {
+        "en": "Phase 1 data in CALR-mutated myelofibrosis and essential thrombocythemia",
+        "zh": "CALR突变骨髓纤维化和原发性血小板增多症I期数据",
+        "when": "2027"
+      },
+      "src": "https://investor.incyte.com/static-files/819e0b8e-e2e9-4f14-b466-9ab8b97f914a"
     }
   ],
   "watch": [
     {
       "k": "loe",
       "en": "The Q3 presentation frames 2029 as the Jakafi transition and prioritizes growth beyond Jakafi.",
-      "zh": "第三季度演示文稿将 2029 年定位为 Jakafi 的过渡期,并将 Jakafi 之外的增长列为优先。",
+      "zh": "第三季度演示将2029年定位为Jakafi过渡期,并优先发展Jakafi以外的增长。",
       "src": "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
     },
     {
       "k": "catalyst",
       "en": "Povorcitinib's prurigo nodularis Phase 3 data are expected in Q4 2026.",
-      "zh": "Povorcitinib 结节性痒疹 III 期数据预计在 2026 年第四季度公布。",
+      "zh": "Povorcitinib结节性痒疹III期数据预计于2026年第四季度公布。",
       "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
     },
     {
       "k": "balance",
       "en": "September cash and marketable securities totaled $3.9 billion after the Vega acquisition.",
-      "zh": "收购 Vega 后,9 月现金及有价证券合计 $3.9 billion。",
+      "zh": "收购Vega后,9月现金及有价证券合计39亿美元。",
       "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
     },
     {
       "k": "other",
       "en": "INCB123667 enrollment in Phase 3 platinum-resistant ovarian cancer was stopped as focus shifted to maintenance.",
-      "zh": "随着重点转向维持治疗,INCB123667 在 III 期铂耐药卵巢癌中的入组已停止。",
+      "zh": "随着重心转向维持治疗,INCB123667在III期铂耐药卵巢癌中的入组已停止。",
       "src": "https://incytecorp.gcs-web.com/news-releases/news-release-details/incyte-reports-third-quarter-2026-financial-results-and-provides"
     }
   ],
@@ -218,15 +222,30 @@
     [
       "Q3 presentation",
       "https://investor.incyte.com/static-files/c25050a7-f3ca-4ba9-bc3d-dbe8fa8c365e"
+    ],
+    [
+      "Q3 2026 Form 10-Q, October 29, 2026",
+      "https://investor.incyte.com/static-files/819e0b8e-e2e9-4f14-b466-9ab8b97f914a"
+    ],
+    [
+      "Povorcitinib discovered by Incyte, April 1, 2024",
+      "https://investor.incyte.com/news-releases/news-release-details/incyte-and-cms-announce-collaboration-and-license-agreement-0"
+    ],
+    [
+      "Tafasitamab rights acquisition, 2025 annual report",
+      "https://investor.incyte.com/static-files/133ea3d1-7b77-4247-9911-de57b72da823"
+    ],
+    [
+      "EU povorcitinib approval; US review continues, November 16, 2026",
+      "https://investor.incyte.com/news-releases/news-release-details/povofortayr-povorcitinib-approved-europe-first-once-daily-oral"
     ]
   ],
   "gaps": [
-    "No numerical phase is disclosed for INCA035784 in the portfolio text; phase is null. The company uses clinical-proof-of-concept/pivotal categories, which were not guessed into numerical phases.",
-    "INCB123667 is represented by its ongoing Phase 2 MAESTRA-1 study; Phase 3 MAESTRA-2 enrollment was discontinued and MAESTRA-3 had not yet been confirmed started. Presentation corroborates ongoing Phase 2 status.",
-    "INCA33890 is also written INCA033890 in parts of the Q3 release. Merus collaboration for INCA33890 and INCA035784 is stated in the portfolio footnotes.",
-    "Origins were not verified for povorcitinib, tafasitamab, INCA033989, INCB161734 or INCB123667; origin is null. Unverified development codes are null.",
-    "Counts is null: portfolio totals are not counts by numerical phase. No next milestone date was verified for INCA035784.",
-    "Approved ruxolitinib cream and axatilimab were excluded because their new-indication programs had not been verified as filed. Their studies are not treated as registration.",
-    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified."
+    "Origins remain unverified for INCB161734 and INCB123667. Additional unverified development codes remain null.",
+    "Company categories are proof of concept and pivotal rather than complete numerical phase totals; counts remains null.",
+    "INCB123667 retains its ongoing Phase 2 MAESTRA-1 status: enrollment in Phase 3 MAESTRA-2 was discontinued, while MAESTRA-3 initiation is planned for 2026Q4.",
+    "Povorcitinib received EU approval in November 2026; registration status here refers to its pending US filing, with potential approval and launch in 2027Q1.",
+    "The povorcitinib discovery release and 2025 annual report used for tafasitamab provenance predate June 2026. Current stages and milestones use October/November 2026 sources.",
+    "INCA33890 is also written INCA033890 in company material. Merus collaborations for INCA33890 and INCA035784 are identified in portfolio footnotes."
   ]
 }

@@ -10,18 +10,18 @@
     {
       "name": "lebrikizumab (new indications)",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "IL-13",
+        "zh": "IL-13"
       },
       "ind": {
         "en": "Paediatric atopic dermatitis (EU registration); nummular eczema (Phase 3)",
-        "zh": "儿童特应性皮炎(欧盟注册);钱币状湿疹(III 期)"
+        "zh": "儿童特应性皮炎(欧盟注册);钱币状湿疹(III期)"
       },
       "phase": "reg",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.almirall.com/innovation/pipeline"
     },
@@ -39,8 +39,12 @@
       },
       "phase": "2",
       "ta": "Immunology",
-      "origin": null,
-      "next": null,
+      "origin": "licensed",
+      "next": {
+        "en": "Start pyoderma gangrenosum proof-of-concept study toward year-end",
+        "zh": "年底前启动坏疽性脓皮病概念验证研究",
+        "when": "2026Q4"
+      },
       "src": "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
     },
     {
@@ -57,7 +61,7 @@
       },
       "phase": "2",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
     },
@@ -67,25 +71,29 @@
       "modality": "other",
       "target": {
         "en": "IL-2 mutant Fc fusion protein",
-        "zh": "IL-2 突变体 Fc 融合蛋白"
+        "zh": "IL-2突变体Fc融合蛋白"
       },
       "ind": {
         "en": "Alopecia areata; atopic dermatitis; planned SLE with cutaneous manifestations",
-        "zh": "斑秃;特应性皮炎;计划开展伴皮肤表现的 SLE 研究"
+        "zh": "斑秃;特应性皮炎;计划开展伴皮肤表现的SLE研究"
       },
       "phase": "2",
       "ta": "Immunology",
-      "origin": null,
-      "next": null,
+      "origin": "licensed",
+      "next": {
+        "en": "Start proof-of-concept study in SLE with cutaneous manifestations toward year-end",
+        "zh": "年底前启动伴皮肤表现的SLE概念验证研究",
+        "when": "2026Q4"
+      },
       "src": "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
     },
     {
       "name": "readthrough inducer",
       "code": null,
-      "modality": null,
+      "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Premature stop-codon readthrough",
+        "zh": "提前终止密码子通读"
       },
       "ind": {
         "en": "Recessive dystrophic / junctional epidermolysis bullosa",
@@ -93,7 +101,7 @@
       },
       "phase": "1",
       "ta": "Rare disease",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.almirall.com/innovation/pipeline"
     },
@@ -144,13 +152,26 @@
     [
       "9M 2026 results, November 9",
       "https://www.almirall.com/news-media/newsroom/almirall-continues-deliver-solid-results-9m-2026-growing-its-european"
+    ],
+    [
+      "FY2025 presentation: asset in-licensing provenance (February 2026)",
+      "https://www.almirall.com/documents/4257831/6330674/EN%2520-%2520Financial_Results_Business_Update_FY%25202025.pdf/3fa9e1fa-02d7-f8e5-1088-bf5667be995a"
+    ],
+    [
+      "FY2024 release: readthrough mechanism and licensing (February 2025)",
+      "https://www.almirall.com/documents/portlet_file_entry/4257831/24-02-25_PR_Almirall_FinancialResults_FY24.pdf/f25e9565-14a0-d506-6101-0fe05d724b59"
+    ],
+    [
+      "Lebrikizumab molecular target and European license (November 2023)",
+      "https://www.almirall.com/news-media/newsroom/almirall-receives-european-commission-approval-ebglyssr-lebrikizumab-moderate"
     ]
   ],
   "gaps": [
-    "Company-wide counts by phase were not verified; counts is null. Unverified codes, mechanisms, modalities, origins and milestone dates are null rather than inferred.",
-    "The webpage labels pyoderma gangrenosum and cutaneous SLE Phase 2, but the dated November release says those studies have yet to start; they are identified as planned within their existing asset entries.",
-    "Tirbanibulin registration is labelled actinic-keratosis lifecycle management without a verified new indication, so it is excluded. Multiple studies of the same molecule are combined into one entry.",
-    "Origins were not established for the selected molecules. Individual next milestones and dates were not allocated in the November update, so next is null. Lebrikizumab modality and target were not explicitly established in the reviewed descriptions.",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "Company-wide phase counts were not verified; counts is null. The current pipeline URL timed out on repeat opens; its search-indexed asset table and the November 9 results release were reviewed.",
+    "The pipeline table labels pyoderma gangrenosum and cutaneous SLE Phase 2, but the November release says these studies are planned toward year-end; their start milestones remain prospective.",
+    "Tirbanibulin registration is actinic-keratosis lifecycle management without a verified new indication and remains excluded; multiple indications of each molecule are combined.",
+    "Origin of the anti-IL-13/OX40L bispecific remains unverified. Lebrikizumab, anti-IL-1RAP, anti-IL-21, IL-2muFc and readthrough-inducer licenses are explicit in company materials; source releases from 2023/2025 and the February 2026 deck predate 2026-06 and are used for provenance/mechanism only.",
+    "The November release forecasts first PoC readouts this quarter without allocating them by molecule; no asset-specific readout date is inferred. Other next milestones remain null.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

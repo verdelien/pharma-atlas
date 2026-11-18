@@ -119,7 +119,7 @@
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://investors.bms.com/iframes/press-releases/press-release-details/2026/Bristol-Myers-Squibb-to-Showcase-Next-Generation-Cancer-Modalities-and-Leadership-Across-Solid-Tumors-at-ESMO-2026/default.aspx"
     },
@@ -239,11 +239,12 @@
   "gaps": [
     "The dynamic company pipeline does not fully render on open; indexed company-table text was checked against Q3 release/filing and asset-specific primary sources. A full interactive-table audit was not possible.",
     "The reported total of 49 compounds is not a phase breakdown; no complete reported phase-count set was verified, so counts is null.",
-    "Origins are null for mezigdomide, admilparant, iza-bren, arlo-cel and golcadomide because precise provenance was not established in the reviewed sources. Unverified development codes are null.",
     "Next is null where no specific forward milestone was verified; undated regulatory planning is not assigned an invented date.",
     "Arlo-cel's positive registrational QUINTESSENTIAL result was Phase 2; phase 3 here refers to the separate earlier-line 2–4L programme listed in the October pipeline, not an upgrade of that trial.",
     "Iza-bren phase 3 data include partner-sponsored Chinese trials; a BMS-territory regulatory filing was not verified.",
     "Golcadomide mechanism source is ASCO 2026 (May/June conference material); stage is from the October pipeline. No clearly pre-2026-06 source is used for current status.",
-    "The February 2024 RayzeBio acquisition release is older than 2026-06 and is used only for RYZ101 provenance; current status comes from October 2026 sources."
+    "The February 2024 RayzeBio acquisition release is older than 2026-06 and is used only for RYZ101 provenance; current status comes from October 2026 sources.",
+    "Origins remain null for mezigdomide, admilparant, arlo-cel and golcadomide. The Q3 2026 Form 10-Q explicitly describes iza-bren co-development with SystImmune; origin is co-developed. Unverified development codes remain null.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved."
   ]
 }

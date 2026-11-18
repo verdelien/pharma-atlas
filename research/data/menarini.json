@@ -2,8 +2,8 @@
   "id": "menarini",
   "asof": "2026-11",
   "summary": {
-    "en": "Oncology research includes targeted small molecules and an ADC, while the September bofanglutide license expands metabolic development. ([Company profile](https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf); [license](https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html))",
-    "zh": "肿瘤研究包括靶向小分子和一款 ADC,而 9 月的 bofanglutide 许可扩大了代谢领域的开发。([Company profile](https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf); [license](https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html))"
+    "en": "Oncology development combines licensed kinase inhibitors and epigenetic therapies with elacestrant Phase 3 indication expansions. Bofanglutide adds a late-stage metabolic program through a European license.",
+    "zh": "肿瘤研发将授权引进的激酶抑制剂和表观遗传疗法与elacestrant III期适应症拓展相结合。Bofanglutide通过欧洲授权增加了一个后期代谢项目。"
   },
   "counts": null,
   "items": [
@@ -13,7 +13,7 @@
       "modality": null,
       "target": {
         "en": "GLP-1 receptor agonist",
-        "zh": "GLP-1 受体激动剂"
+        "zh": "GLP-1受体激动剂"
       },
       "ind": {
         "en": "Obesity or overweight",
@@ -24,10 +24,28 @@
       "origin": "licensed",
       "next": {
         "en": "Global Phase 3 program planned; China pivotal trial completed",
-        "zh": "计划开展全球 III 期项目;中国关键性试验已完成",
+        "zh": "计划开展全球III期项目；中国关键性试验已完成",
         "when": null
       },
       "src": "https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html"
+    },
+    {
+      "name": "elacestrant (early breast cancer and combinations)",
+      "code": "RAD1901",
+      "modality": "small molecule",
+      "target": {
+        "en": "Estrogen receptor degrader",
+        "zh": "雌激素受体降解剂"
+      },
+      "ind": {
+        "en": "High-risk ER+/HER2- early breast cancer; also advanced breast cancer combinations",
+        "zh": "高危ER+/HER2-早期乳腺癌；另有晚期乳腺癌联合治疗"
+      },
+      "phase": "3",
+      "ta": "Oncology",
+      "origin": "licensed",
+      "next": null,
+      "src": "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
     },
     {
       "name": "dapolsertib",
@@ -35,21 +53,21 @@
       "modality": "small molecule",
       "target": {
         "en": "PIM/FLT3 inhibitor",
-        "zh": "PIM/FLT3 抑制剂"
+        "zh": "PIM/FLT3抑制剂"
       },
       "ind": {
         "en": "Relapsed/refractory aggressive B-cell non-Hodgkin lymphoma",
-        "zh": "复发/难治性侵袭性 B 细胞非霍奇金淋巴瘤"
+        "zh": "复发/难治性侵袭性B细胞非霍奇金淋巴瘤"
       },
       "phase": "2",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": {
         "en": "JASPIS-01 data at ASH on December 13",
-        "zh": "JASPIS-01 数据将于 12 月 13 日在 ASH 公布",
+        "zh": "JASPIS-01数据将于12月13日在ASH公布",
         "when": "2026Q4"
       },
-      "src": "https://www.menarini.com/en-us/news/news-detail/menarini-group-and-ryvu-therapeutics-announce-first-clinical-data-from-the-phase-ii-jaspis-01-study-of-dapolsertib.html"
+      "src": "https://www.globenewswire.com/news-release/2026/11/04/3395525/21662/en/menarini-group-and-ryvu-therapeutics-announce-first-clinical-data-from-the-phase-ii-jaspis-01-study-of-dapolsertib-men1703-sel24-in-heavily-pretreated-relapsed-refractory-aggressiv.html"
     },
     {
       "name": "MEN1611",
@@ -57,15 +75,15 @@
       "modality": "small molecule",
       "target": {
         "en": "PI3K inhibitor",
-        "zh": "PI3K 抑制剂"
+        "zh": "PI3K抑制剂"
       },
       "ind": {
         "en": "Advanced breast cancer (Phase 2, active); an earlier Phase 1b/2 study in metastatic colorectal cancer is completed",
-        "zh": "晚期乳腺癌(II 期,进行中);此前在转移性结直肠癌中开展的 Ib/II 期研究已完成"
+        "zh": "晚期乳腺癌（II期，进行中）；早前针对转移性结直肠癌的Ib/II期研究已完成"
       },
       "phase": "2",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://clinicaltrials.gov/study/NCT05810870"
     },
@@ -83,7 +101,7 @@
       },
       "phase": "1",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
     },
@@ -93,15 +111,15 @@
       "modality": "small molecule",
       "target": {
         "en": "KAT6 inhibitor",
-        "zh": "KAT6 抑制剂"
+        "zh": "KAT6抑制剂"
       },
       "ind": {
         "en": "Breast cancer; also solid and hematologic tumors",
-        "zh": "乳腺癌;另有实体瘤和血液肿瘤"
+        "zh": "乳腺癌；另有实体瘤和血液肿瘤"
       },
       "phase": "1",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
     },
@@ -111,7 +129,7 @@
       "modality": "small molecule",
       "target": {
         "en": "KIF18A inhibitor",
-        "zh": "KIF18A 抑制剂"
+        "zh": "KIF18A抑制剂"
       },
       "ind": {
         "en": "Ovarian cancer",
@@ -119,7 +137,7 @@
       },
       "phase": "1",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
     }
@@ -128,25 +146,25 @@
     {
       "k": "catalyst",
       "en": "Dapolsertib's first JASPIS-01 clinical data are scheduled for ASH in December 2026.",
-      "zh": "Dapolsertib 的首批 JASPIS-01 临床数据定于 2026 年 12 月在 ASH 公布。",
-      "src": "https://www.menarini.com/en-us/news/news-detail/menarini-group-and-ryvu-therapeutics-announce-first-clinical-data-from-the-phase-ii-jaspis-01-study-of-dapolsertib.html"
+      "zh": "Dapolsertib的首批JASPIS-01临床数据计划于2026年12月在ASH公布。",
+      "src": "https://www.globenewswire.com/news-release/2026/11/04/3395525/21662/en/menarini-group-and-ryvu-therapeutics-announce-first-clinical-data-from-the-phase-ii-jaspis-01-study-of-dapolsertib-men1703-sel24-in-heavily-pretreated-relapsed-refractory-aggressiv.html"
     },
     {
       "k": "deal",
       "en": "Bofanglutide's European license includes €62 million upfront and up to €664 million in milestones.",
-      "zh": "Bofanglutide 的欧洲许可包括 €62 million 首付款和最高 €664 million 的里程碑付款。",
+      "zh": "Bofanglutide的欧洲授权包括6200万欧元首付款及最高6.64亿欧元里程碑付款。",
       "src": "https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html"
     },
     {
       "k": "deal",
       "en": "The preclinical GIM-621 license includes $45 million in upfront and near-term payments.",
-      "zh": "临床前项目 GIM-621 的许可包括 $45 million 的首付款和近期付款。",
+      "zh": "临床前GIM-621授权包括4500万美元首付款及近期付款。",
       "src": "https://www.menarini.com/en-us/news/news-detail/georgiamune-and-menarini-group-enter-exclusive-global-license-and-collaboration-agreement-for-gim-621-a-first-in-class-oral-immuno-oncology-agent.html"
     },
     {
       "k": "concentration",
       "en": "The oncology portfolio also contains approved elacestrant and tagraxofusp with indication-expansion trials.",
-      "zh": "肿瘤产品组合还包括已获批的 elacestrant 和 tagraxofusp,并正在开展适应症扩展试验。",
+      "zh": "肿瘤产品组合还包括已获批的elacestrant和tagraxofusp及其适应症拓展试验。",
       "src": "https://www.menarini.com/content/dam/menarini-com/assets/about-us/documents/ITA_Company_Profile.pdf"
     }
   ],
@@ -164,10 +182,6 @@
       "https://medical.menarinistemline.com/Pipeline/StemlinePipeline"
     ],
     [
-      "Dapolsertib update, November 4, 2026",
-      "https://www.menarini.com/en-us/news/news-detail/menarini-group-and-ryvu-therapeutics-announce-first-clinical-data-from-the-phase-ii-jaspis-01-study-of-dapolsertib.html"
-    ],
-    [
       "Bofanglutide license, September 3, 2026",
       "https://www.menarini.com/en-us/news/news-detail/gan-lee-and-menarini-group-partner-to-advance-bofanglutide-in-europe.html"
     ],
@@ -178,16 +192,39 @@
     [
       "ClinicalTrials.gov: MEN1611 studies",
       "https://clinicaltrials.gov/search?term=MEN1611"
+    ],
+    [
+      "Company-issued dapolsertib update, November 4, 2026",
+      "https://www.globenewswire.com/news-release/2026/11/04/3395525/21662/en/menarini-group-and-ryvu-therapeutics-announce-first-clinical-data-from-the-phase-ii-jaspis-01-study-of-dapolsertib-men1703-sel24-in-heavily-pretreated-relapsed-refractory-aggressiv.html"
+    ],
+    [
+      "MEN1611 Chugai license, October 2018",
+      "https://www.menarini.com/en-us/news/news-detail/menarini-progresses-into-the-clinic-with-men1611-a-pi3k-inhibitor-for-the-treatment-of-her2-positive-metastatic-breast-cancer.html"
+    ],
+    [
+      "MEN2312 Insilico license, January 2025",
+      "https://www.menarini.com/en-us/news/news-detail/menarini-group-and-insilico-medicine-enter-a-second-exclusive-global-license-agreement-for-an-ai-discovered-preclinical-asset-targeting-high-unmet-needs-in-oncology.html"
+    ],
+    [
+      "MEN2501 Insilico license and first-in-human dosing",
+      "https://insilico.com/news/g3l291v091-insilico-medicine-receives-usd-5-million"
+    ],
+    [
+      "Radius filing: elacestrant worldwide license, July 2020",
+      "https://www.sec.gov/Archives/edgar/data/1428522/000119312520197805/d140529d8k.htm"
+    ],
+    [
+      "MEN1309 Oxford collaboration, November 2014",
+      "https://www.menarini.com/en-us/news/news-detail/the-menarini-group-new-molecule-against-lymphomas-and-solid-tumors.html"
     ]
   ],
   "gaps": [
-    "Group pipeline tables did not expose asset rows in browser text; the current company profile and Stemline page were also read. No latest quarterly or half-year financial release was located for this private company.",
-    "The English company profile used for MEN1611 predates June 2026; the current Stemline page still lists its breast and colorectal trials, but numerical phase markers were not recoverable there. Phase 2 comes from the older profile and may be stale.",
-    "Origins were not verified for dapolsertib, MEN1611, MEN1309, MEN2312 or MEN2501; origin is null. Bofanglutide's precise modality was not explicitly verified; modality is null.",
-    "Bofanglutide phase 3 refers to the completed China pivotal study, not an already-started European Phase 3 trial; the global program has no disclosed start date.",
-    "No company-reported totals by phase were verified; counts is null. Dates for other next milestones were not disclosed or verified.",
-    "Approved elacestrant, tagraxofusp, selinexor and obicetrapib are excluded because a pending filing for a major new indication was not verified. Preclinical assets are excluded.",
-    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified.",
-    "MEN1611 status re-verified on ClinicalTrials.gov (NCT05810870, last updated 2026-03-10) after the original company PDF link went dead."
+    "No company-reported phase totals or current quarterly financial release verified for this private company.",
+    "Bofanglutide's precise modality was not established in reviewed company sources; null.",
+    "Bofanglutide Phase 3 refers to completed China pivotal development; a global program is planned with no stated start date.",
+    "No next milestone verified for MEN1611, MEN1309, MEN2312, MEN2501 or the elacestrant Phase 3 expansions.",
+    "MEN1611's Phase 2 breast cancer study is supported by a registry last updated March 2026, before June 2026; the company also lists earlier breast and colorectal studies.",
+    "The October 5, 2026 company profile supports Phase 1 for MEN1309, MEN2312 and MEN2501, and Phase 3 for elacestrant ELEGANT/ADELA. It supersedes older profile phase labels.",
+    "The 2014 MEN1309, 2018 MEN1611, 2020 elacestrant and January 2025 MEN2312 disclosures predate June 2026 and support historical origins only."
   ]
 }

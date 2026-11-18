@@ -1,5 +1,18 @@
 {
   "id": "servier",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Oncology",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "No single regional LOE date verified for this oncology portfolio. Company FY2024/25 results disclose oncology as a therapeutic-area revenue aggregate, with Voranigo among its growth drivers. Individual product patent or exclusivity dates cannot represent the whole Oncology row.",
+          "src": "https://servier.com/en/newsroom/solid-performance-forecasts/",
+          "note_zh": "未核实该肿瘤组合存在单一的区域独占期结束日期。公司2024/25财年业绩将肿瘤披露为治疗领域收入汇总,Voranigo为其增长驱动因素之一。单个产品的专利或独占期日期不能代表整个肿瘤行。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

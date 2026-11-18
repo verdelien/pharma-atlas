@@ -1,5 +1,79 @@
 {
   "id": "nipponshinyaku",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Viltepso",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2034-04",
+          "note": "Orange Book: substance/product patent US9079934 expires 2034-04-03; entry unannounced.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:活性成分/产品专利US9079934于2034-04-03到期;上市时间未公布。"
+        },
+        {
+          "region": "Japan",
+          "value": "2030-03",
+          "note": "PMDA re-examination ends 2030-03-24; not a patent-expiry or announced generic-entry date.",
+          "src": "https://www.pmda.go.jp/RMP/www/530263/51bab8ec-fbc3-4981-88a4-7f8fcd17c77f/530263_1900400A1025_009RMP.pdf",
+          "note_zh": "PMDA再审查期于2030-03-24结束;并非专利到期或已公布的仿制药进入日期。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        }
+      ]
+    },
+    {
+      "b": "Uptravi",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2027",
+          "note": "J&J Q3 2026 identifies potential generic entrants in 2027; timing remains conditional. Nippon Shinyaku previously cited US patent expiry October 2026 (https://www.nippon-shinyaku.co.jp/english/ir/ir_library/other_presentation/pdf/en_rd_presentation121223.pdf?date=121223).",
+          "src": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/jnj-20260927.htm",
+          "note_zh": "J&J 2026年第三季度指出2027年可能出现仿制药进入者;时间仍不确定。Nippon Shinyaku此前提及美国专利于2026年10月到期(https://www.nippon-shinyaku.co.jp/english/ir/ir_library/other_presentation/pdf/en_rd_presentation121223.pdf?date=121223)。"
+        },
+        {
+          "region": "EU",
+          "value": "2027",
+          "note": "J&J Q3 2026 identifies potential generic entrants in 2027; timing remains conditional. Nippon Shinyaku previously cited US patent expiry October 2026 (https://www.nippon-shinyaku.co.jp/english/ir/ir_library/other_presentation/pdf/en_rd_presentation121223.pdf?date=121223).",
+          "src": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/jnj-20260927.htm",
+          "note_zh": "J&J 2026年第三季度指出2027年可能出现仿制药进入者;时间仍不确定。Nippon Shinyaku此前提及美国专利于2026年10月到期(https://www.nippon-shinyaku.co.jp/english/ir/ir_library/other_presentation/pdf/en_rd_presentation121223.pdf?date=121223)。"
+        },
+        {
+          "region": "Japan",
+          "value": "2027-04",
+          "note": "Company patent-expiry guidance from December 2023; no confirmed generic-launch date.",
+          "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_library/other_presentation/pdf/en_rd_presentation121223.pdf?date=121223",
+          "note_zh": "公司2023年12月的专利到期指引;无已确认的仿制药上市日期。"
+        }
+      ]
+    },
+    {
+      "b": "Erleada",
+      "loe": [
+        {
+          "region": "Japan",
+          "value": "2027-03",
+          "note": "PMDA re-examination ends 2027-03-25; not patent expiry or an announced generic-entry date.",
+          "src": "https://www.pmda.go.jp/RMP/www/800155/09f62046-37c3-4e78-a6a4-4339cea93e39/800155_4291059F1029_011RMP.pdf",
+          "note_zh": "PMDA再审查期于2027-03-25结束;并非专利到期或已公布的仿制药进入日期。"
+        }
+      ]
+    },
+    {
+      "b": "Vyxeos",
+      "loe": [
+        {
+          "region": "Japan",
+          "value": "2034-03",
+          "note": "PMDA: ten-year re-examination from 2024-03-26; calculated end 2034-03-25. Not patent expiry or announced generic entry.",
+          "src": "https://www.pmda.go.jp/RMP/www/530263/b37aaa92-3624-482f-8541-42f7922f73ba/530263_4291502D1029_002RMP.pdf",
+          "note_zh": "PMDA:十年再审查期自2024-03-26起;推算截止2034-03-25。并非专利到期或已公布的仿制药进入。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

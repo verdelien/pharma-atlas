@@ -1,5 +1,54 @@
 {
   "id": "jnj",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Darzalex / Darzalex Faspro",
+      "loe": [
+        {
+          "region": "EU",
+          "value": "2031",
+          "note": "Genmab daratumumab patent expiry incl. SPCs; J&J separately owns subcutaneous-formulation patents. No biosimilar-entry date.",
+          "src": "https://genmab.gcs-web.com/static-files/7b4cfa98-94f5-49f5-b08a-8631759dd23e",
+          "note_zh": "Genmab达雷妥尤单抗专利到期(含SPC);J&J另行拥有皮下制剂专利。无生物类似药进入日期。"
+        }
+      ]
+    },
+    {
+      "b": "Invega Sustenna / Trinza family",
+      "loe": [
+        {
+          "region": "EU",
+          "value": "2023",
+          "note": "Generics launched: ADVANZ one-month paliperidone injections in February 2023, including Germany, Spain and Italy. Does not establish Trinza/Byannli entry. EMA confirms ADVANZ long-acting products marketed in EU member states: https://www.ema.europa.eu/pt/node/286171 .",
+          "src": "https://investors.advanzpharma.com/news/2023/advanz-pharma-launches-palmeux-paliperidone-1-month-long-acting-injection-across-various-european-countries",
+          "note_zh": "仿制药已上市:ADVANZ于2023年2月在包括德国、西班牙和意大利在内的地区推出一个月剂型帕利哌酮注射液。不能证明Trinza/Byannli已有仿制药进入。EMA确认ADVANZ长效产品已在欧盟成员国上市:https://www.ema.europa.eu/pt/node/286171 。"
+        }
+      ]
+    },
+    {
+      "b": "Tremfya",
+      "loe": [
+        {
+          "region": "EU",
+          "value": null,
+          "note": "No EU entry date verified from the company 2025 10-K or the wider sources searched.",
+          "src": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+          "note_zh": "从公司2025年10-K或所检索的其他更广泛来源中,未核实欧盟进入日期。"
+        }
+      ]
+    },
+    {
+      "b": "Erleada",
+      "loe": [
+        {
+          "region": "EU",
+          "value": null,
+          "note": "No EU entry date verified from the company 2025 10-K or the wider sources searched.",
+          "src": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+          "note_zh": "从公司2025年10-K或所检索的其他更广泛来源中,未核实欧盟进入日期。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

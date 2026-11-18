@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "The disclosed pipeline is narrow at the asset level: fertility lifecycle development and expanded uro-oncology uses dominate. Ferring is shifting toward externally sourced innovation.",
-    "zh": "已披露的管线在资产层面较窄:以生育领域的生命周期开发和泌尿肿瘤适应症拓展为主。Ferring 正转向外部来源的创新。"
+    "zh": "已披露的管线在资产层面较为集中:生育生命周期开发和泌尿肿瘤适应症拓展占主导。Ferring正转向外部来源的创新。"
   },
   "counts": null,
   "items": [
@@ -12,33 +12,15 @@
       "code": null,
       "modality": "gene therapy",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Local expression of interferon alfa-2b",
+        "zh": "干扰素alfa-2b局部表达"
       },
       "ind": {
         "en": "Intermediate-risk non-muscle-invasive bladder cancer; Japan high-grade disease, earlier upper-tract disease",
-        "zh": "中危非肌层浸润性膀胱癌;日本高级别疾病,较早期上尿路疾病"
+        "zh": "中危非肌层浸润性膀胱癌;日本高级别疾病、早期上尿路疾病"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
-      "next": null,
-      "src": "https://www.ferring.com/science-innovation/research-and-development/clinical-trials-pipeline/"
-    },
-    {
-      "name": "follitropin delta (COCO)",
-      "code": null,
-      "modality": null,
-      "target": {
-        "en": null,
-        "zh": null
-      },
-      "ind": {
-        "en": "Controlled ovarian stimulation in China",
-        "zh": "中国的控制性卵巢刺激"
-      },
-      "phase": "3",
-      "ta": "Women's health",
       "origin": null,
       "next": null,
       "src": "https://www.ferring.com/science-innovation/research-and-development/clinical-trials-pipeline/"
@@ -48,25 +30,25 @@
     {
       "k": "concentration",
       "en": "Menopur reached €1 billion sales in 2025; fertility remains commercially central.",
-      "zh": "Menopur 2025 年销售额达到 €1 billion;生育领域仍是商业核心。",
+      "zh": "Menopur在2025年销售额达10亿欧元;生育领域仍是商业核心。",
       "src": "https://www.ferring.com/wp-content/uploads/2026/03/Ferring-Pharmaceuticals-Annual-Report-2025.pdf"
     },
     {
       "k": "deal",
       "en": "September 2025 strategy shifted from internal discovery to external innovation.",
-      "zh": "2025 年 9 月,战略由内部发现转向外部创新。",
+      "zh": "2025年9月战略由内部研发转向外部创新。",
       "src": "https://www.ferring.com/wp-content/uploads/2026/03/Ferring-Pharmaceuticals-Annual-Report-2025.pdf"
     },
     {
       "k": "catalyst",
       "en": "ABLE-32 tests an intermediate-risk bladder-cancer expansion.",
-      "zh": "ABLE-32 试验中危膀胱癌适应症的拓展。",
+      "zh": "ABLE-32检验中危膀胱癌适应症拓展。",
       "src": "https://www.ferring.com/science-innovation/research-and-development/clinical-trials-pipeline/"
     },
     {
       "k": "balance",
       "en": "2025 net income fell to €46 million, with higher financing costs among the drivers.",
-      "zh": "2025 年净利润降至 €46 million,融资成本上升是原因之一。",
+      "zh": "2025年净利润降至4,600万欧元,融资成本上升是原因之一。",
       "src": "https://www.ferring.com/wp-content/uploads/2026/03/Ferring-Pharmaceuticals-Annual-Report-2025.pdf"
     }
   ],
@@ -78,14 +60,16 @@
     [
       "2025 annual report",
       "https://www.ferring.com/wp-content/uploads/2026/03/Ferring-Pharmaceuticals-Annual-Report-2025.pdf"
+    ],
+    [
+      "ADSTILADRIN mechanism: company prescribing information, March 2026",
+      "https://www.ferringusa.com/wp-content/uploads/sites/12/2026/03/ADSTILADRIN-USPI-Mar.2026-CLEAN.pdf"
     ]
   ],
   "gaps": [
-    "Only two distinct assets retained after excluding approved uses, completed/discontinued studies and Phase 4; regional pipeline pages appear stale.",
     "Annual report is March 2026, older than June 2026; no newer interim financial release located.",
-    "Origins, molecular mechanisms, follitropin modality and next milestone dates were not verified; phase counts not published in reviewed sources.",
     "Global pipeline lists CELESTIAL studies without termination status; annual report says discontinued in 2025, so excluded.",
     "The annual-report URL was replaced with the working PDF linked from the company March 10, 2026 results release (the obsolete /sites/16/ path was removed).",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "Removed follitropin delta (COCO): the annual report describes a Phase 3b comparison of ovarian-stimulation dosing regimens for an approved infertility medicine, not a major new indication. One distinct qualifying asset remains. Nadofaragene origin and next milestone remain unverified. Its mechanism source is March 2026, older than June 2026; counts remain null."
   ]
 }

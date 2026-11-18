@@ -17,11 +17,32 @@
       "b": "Nubeqa",
       "loe": [
         {
-          "region": "All",
-          "value": null,
-          "note": "Active-ingredient patent expiries: US 2033; Germany, France, Italy, Spain, UK and Japan 2035; China/Brazil 2030; Canada 2032. No single global generic-entry year disclosed.",
+          "region": "US",
+          "value": "2033",
+          "note": "2025 annual report, p.52: active-ingredient patent expiry. Not an announced generic launch.",
           "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
-          "note_zh": "活性成分专利到期日：美国2033年；德国、法国、意大利、西班牙、英国和日本2035年；中国/巴西2030年；加拿大2032年。未披露单一的全球仿制药上市年份。"
+          "note_zh": "2025年年报第52页:活性成分专利到期。并非已公布的仿制药上市。"
+        },
+        {
+          "region": "EU",
+          "value": "2035",
+          "note": "2025 annual report, p.52: active-ingredient patent expiry; Germany, France, Italy and Spain. Not an announced generic launch.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "2025年年报第52页:活性成分专利到期;德国、法国、意大利和西班牙。并非已公布的仿制药上市。"
+        },
+        {
+          "region": "Japan",
+          "value": "2035",
+          "note": "2025 annual report, p.52: active-ingredient patent expiry. Not an announced generic launch.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "2025年年报第52页:活性成分专利到期。并非已公布的仿制药上市。"
+        },
+        {
+          "region": "China",
+          "value": "2030",
+          "note": "2025 annual report, p.52: active-ingredient patent expiry. Not an announced generic launch.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "2025年年报第52页:活性成分专利到期。并非已公布的仿制药上市。"
         }
       ]
     },
@@ -43,11 +64,32 @@
       "b": "Kerendia",
       "loe": [
         {
-          "region": "All",
-          "value": null,
-          "note": "Active-ingredient patent expiry: US, Germany, France, Italy, Spain, UK and Japan 2033; China, Brazil and Canada 2028. No single global generic-entry year disclosed.",
+          "region": "US",
+          "value": "2033",
+          "note": "2025 annual report, p.52: active-ingredient patent expiry; US patent extension granted in 2025. Not an announced generic launch.",
           "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
-          "note_zh": "活性成分专利到期日：美国、德国、法国、意大利、西班牙、英国和日本2033年；中国、巴西和加拿大2028年。未披露单一的全球仿制药上市年份。"
+          "note_zh": "2025年年报第52页:活性成分专利到期;美国专利延期已于2025年授予。并非已公布的仿制药上市。"
+        },
+        {
+          "region": "EU",
+          "value": "2033",
+          "note": "2025 annual report, p.52: active-ingredient patent expiry; Germany, France, Italy and Spain. Not an announced generic launch.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "2025年年报第52页:活性成分专利到期;德国、法国、意大利和西班牙。并非已公布的仿制药上市。"
+        },
+        {
+          "region": "Japan",
+          "value": "2033",
+          "note": "2025 annual report, p.52: active-ingredient patent expiry. Not an announced generic launch.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "2025年年报第52页:活性成分专利到期。并非已公布的仿制药上市。"
+        },
+        {
+          "region": "China",
+          "value": "2028",
+          "note": "2025 annual report, p.52: active-ingredient patent expiry; extension applied for. Not an announced generic launch.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "2025年年报第52页:活性成分专利到期;已申请延期。并非已公布的仿制药上市。"
         }
       ]
     }

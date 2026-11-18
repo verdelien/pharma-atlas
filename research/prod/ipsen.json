@@ -20,21 +20,69 @@
       "v": 0.693,
       "v_note": "FY2025 Ipsen-reported sales EUR 613.2 million; converted at company average FY2025 USD 1.13 per EUR 1 (investor presentation, slide 28: https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf).",
       "v_src": "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf",
-      "v_note_zh": "FY2025 Ipsen报告销售额EUR 613.2 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。"
+      "v_note_zh": "FY2025 Ipsen报告销售额EUR 613.2 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。",
+      "loe": [
+        {
+          "region": "EU",
+          "value": "2029-03",
+          "note": "2025 URD: compound SPC expires March 2029; polymorph patent January 2030; formulation July 2031, under opposition. Patent dates, not generic-launch guidance.",
+          "src": "https://www.ipsen.com/wp-content/uploads/2026/04/EN_IPSEN-SA_UNIVERSAL-REGISTRATION-DOCUMENT-2025-1.pdf",
+          "note_zh": "2025年URD:化合物SPC于2029年3月到期;多晶型专利2030年1月;制剂专利2031年7月,正处于异议程序中。为专利日期,并非仿制药上市指引。"
+        }
+      ]
     },
     {
       "b": "Iqirvo",
       "v": 0.208,
       "v_note": "FY2025 Ipsen-reported sales EUR 184.0 million; converted at company average FY2025 USD 1.13 per EUR 1 (investor presentation, slide 28: https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf).",
       "v_src": "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf",
-      "v_note_zh": "FY2025 Ipsen报告销售额EUR 184.0 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。"
+      "v_note_zh": "FY2025 Ipsen报告销售额EUR 184.0 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2037-03",
+          "note": "2025 URD: medical-use patent March 2037 (June 2038 if PTE granted); compound expired; PBC orphan exclusivity June 2031. No generic-entry date announced.",
+          "src": "https://www.ipsen.com/wp-content/uploads/2026/04/EN_IPSEN-SA_UNIVERSAL-REGISTRATION-DOCUMENT-2025-1.pdf",
+          "note_zh": "2025年URD:用途专利2037年3月(若授予PTE则为2038年6月);化合物专利已到期;PBC孤儿药独占期2031年6月。未公布仿制药进入日期。"
+        },
+        {
+          "region": "EU",
+          "value": "2037-03",
+          "note": "2025 URD: medical-use patent March 2037 (September 2039 with SPC where granted); compound expired; NCE/orphan exclusivity September 2034. Not generic-launch guidance.",
+          "src": "https://www.ipsen.com/wp-content/uploads/2026/04/EN_IPSEN-SA_UNIVERSAL-REGISTRATION-DOCUMENT-2025-1.pdf",
+          "note_zh": "2025年URD:用途专利2037年3月(已授予SPC的情况下为2039年9月);化合物专利已到期;NCE/孤儿药独占期2034年9月。并非仿制药上市指引。"
+        }
+      ]
     },
     {
       "b": "Onivyde",
       "v": 0.234,
       "v_note": "FY2025 Ipsen-reported sales EUR 207.4 million; converted at company average FY2025 USD 1.13 per EUR 1 (investor presentation, slide 28: https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf).",
       "v_src": "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf",
-      "v_note_zh": "FY2025 Ipsen报告销售额EUR 207.4 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。"
+      "v_note_zh": "FY2025 Ipsen报告销售额EUR 207.4 million；按公司FY2025平均汇率USD 1.13/EUR 1折算（投资者演示材料，第28页幻灯片：https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-FY-2025-Investor-presentation.pdf）。",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2036-10",
+          "note": "2025 URD: formulation patent October 2036; compound January 2027 with PTE; medical-use patents June 2033/August 2036. Patent expiry, not generic-launch guidance.",
+          "src": "https://www.ipsen.com/wp-content/uploads/2026/04/EN_IPSEN-SA_UNIVERSAL-REGISTRATION-DOCUMENT-2025-1.pdf",
+          "note_zh": "2025年URD:制剂专利2036年10月;化合物专利2027年1月(含PTE);用途专利2033年6月/2036年8月。为专利到期,并非仿制药上市指引。"
+        },
+        {
+          "region": "EU",
+          "value": "2036-10",
+          "note": "2025 URD: formulation patent October 2036; compound SPC May 2030 where granted; medical-use patent challenges disclosed. Patent expiry, not generic-launch guidance.",
+          "src": "https://www.ipsen.com/wp-content/uploads/2026/04/EN_IPSEN-SA_UNIVERSAL-REGISTRATION-DOCUMENT-2025-1.pdf",
+          "note_zh": "2025年URD:制剂专利2036年10月;化合物SPC(已授予的情况下)2030年5月;已披露用途专利受到挑战。为专利到期,并非仿制药上市指引。"
+        },
+        {
+          "region": "Japan",
+          "value": "2024-03",
+          "note": "PMDA March 2025 re-examination report: four-year re-examination period from 2020-03-25 approval, ending March 2024 (calculated). Applies to the original post-chemotherapy pancreatic cancer indication; not a generic launch.",
+          "src": "https://www.pmda.go.jp/drugs_reexam/2025/P20250516002/530457000_30200AMX00427_A100_1.pdf",
+          "note_zh": "PMDA 2025年3月再审查报告:自2020-03-25批准起四年再审查期,截止2024年3月(推算)。适用于原化疗后胰腺癌适应症;并非仿制药上市。"
+        }
+      ]
     }
   ],
   "new_products": []

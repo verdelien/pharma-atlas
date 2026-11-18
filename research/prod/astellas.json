@@ -6,7 +6,24 @@
       "v": 0.418,
       "v_note": "FY2025 ended March 31, 2026: reported product sales JPY 63.1bn; converted at company actual FY2025 average rate JPY 151/USD (results presentation, pp.5-6).",
       "v_src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/4q2025_pre_en.pdf",
-      "v_note_zh": "截至2026年3月31日的FY2025：报告产品销售额JPY 63.1bn；按公司FY2025实际平均汇率JPY 151/USD折算（业绩演示材料，第5-6页）。"
+      "v_note_zh": "截至2026年3月31日的FY2025：报告产品销售额JPY 63.1bn；按公司FY2025实际平均汇率JPY 151/USD折算（业绩演示材料，第5-6页）。",
+      "loe": [
+        {
+          "region": "Japan",
+          "value": "2032-03",
+          "note": "PMDA: eight-year re-examination from 2024-03-26; calculated end 2032-03-25 for original 100mg product. Not an announced biosimilar launch.",
+          "src": "https://www.pmda.go.jp/RMP/www/800126/e8c65b83-ea27-484d-99a3-9ed98a55ff79/800126_4291471D1021_006RMP.pdf",
+          "note_zh": "PMDA:八年再审查期自2024-03-26起;原100mg产品推算截止2032-03-25。并非已公布的生物类似药上市。"
+        },
+        {
+          "region": "US",
+          "value": null
+        },
+        {
+          "region": "EU",
+          "value": null
+        }
+      ]
     },
     {
       "b": "Izervay",
@@ -18,11 +35,49 @@
           "region": "All",
           "value": null,
           "note": "In the published Q3 FY2024 call, an analyst suggested 2030/2034 patent dates; management declined to provide a specific generic-entry date. The analyst question is not company confirmation of loss of exclusivity.",
-          "src": "https://www.astellas.com/en/system/files/01cad57319/3q2024_script_en.pdf",
+          "src": "https://web.archive.org/web/20250808111719/https://www.astellas.com/en/system/files/01cad57319/3q2024_script_en.pdf",
           "note_zh": "在已发布的FY2024第三季度电话会议中，一位分析师提出专利日期可能为2030/2034年；管理层拒绝提供具体的仿制药上市日期。分析师的提问并非公司对独占期结束的确认。"
+        },
+        {
+          "region": "US",
+          "value": "2034-07",
+          "note": "Orange Book: use patents US11273171/US11491176 expire 2034-07-11; substance patent expired 2026-02-14; entry unannounced.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:用途专利US11273171/US11491176于2034-07-11到期;活性成分专利已于2026-02-14到期;上市时间未公布。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        },
+        {
+          "region": "Japan",
+          "value": null
         }
       ],
       "v_note_zh": "截至2026年3月31日的FY2025：报告产品销售额JPY 77.6bn；按公司FY2025实际平均汇率JPY 151/USD折算（业绩演示材料，第5-6页）。"
+    },
+    {
+      "b": "Padcev",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2033",
+          "note": "Partner Pfizer 2025 10-K: basic product patent expires 2033. No biosimilar-entry announcement.",
+          "src": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+          "note_zh": "合作方Pfizer 2025年10-K:基础产品专利于2033年到期。无生物类似药上市公告。"
+        },
+        {
+          "region": "Japan",
+          "value": "2029-09",
+          "note": "PMDA eight-year re-examination; calculated end 2029-09-26 using approval 2021-09-27 confirmed by Astellas (https://amn.astellas.jp/content/dam/jp/amn/jp/ja/di/doc/Pdfs/DocNo202211240_y.pdf?redirect=false). No biosimilar-launch date.",
+          "src": "https://www.pmda.go.jp/drugs/2021/P20211011002/800126000_30300AMX00454000_A100_1.pdf",
+          "note_zh": "PMDA八年再审查期;依据Astellas确认的2021-09-27批准日期推算截止2029-09-26(https://amn.astellas.jp/content/dam/jp/amn/jp/ja/di/doc/Pdfs/DocNo202211240_y.pdf?redirect=false)。无生物类似药上市日期。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        }
+      ]
     }
   ],
   "new_products": []

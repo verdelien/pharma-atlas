@@ -6,21 +6,72 @@
       "v": 1.029,
       "v_note": "FY2025 ended March 31, 2026: US product sales of USD 1,029 million, reported directly in USD; USD bn.",
       "v_src": "https://www.sumitomo-pharma.com/ir/library/financial_results_summary/assets/pdf/ebr20260513_2.pdf",
-      "v_note_zh": "FY2025截至2026年3月31日：美国产品销售额USD 1,029 million，直接以美元报告；USD bn。"
+      "v_note_zh": "FY2025截至2026年3月31日：美国产品销售额USD 1,029 million，直接以美元报告；USD bn。",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2029-01",
+          "note": "Orange Book: substance patent US7300935 expires 2029-01-28; later patents to 2037; entry unannounced.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:活性成分专利US7300935于2029-01-28到期;后续专利至2037年;上市时间未公布。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
     },
     {
       "b": "Gemtesa",
       "v": 0.637,
       "v_note": "FY2025 ended March 31, 2026: US product sales of USD 637 million, reported directly in USD; USD bn.",
       "v_src": "https://www.sumitomo-pharma.com/ir/library/financial_results_summary/assets/pdf/ebr20260513_2.pdf",
-      "v_note_zh": "FY2025截至2026年3月31日：美国产品销售额USD 637 million，直接以美元报告；USD bn。"
+      "v_note_zh": "FY2025截至2026年3月31日：美国产品销售额USD 637 million，直接以美元报告；USD bn。",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2029-04",
+          "note": "Orange Book: substance patent US8653260 expires 2029-04-02; other patents to 2042; entry unannounced.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:活性成分专利US8653260于2029-04-02到期;其他专利至2042年;上市时间未公布。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
     },
     {
       "b": "Myfembree",
       "v": 0.096,
       "v_note": "FY2025 ended March 31, 2026: US product sales of USD 96 million, reported directly in USD; USD bn.",
       "v_src": "https://www.sumitomo-pharma.com/ir/library/financial_results_summary/assets/pdf/ebr20260513_2.pdf",
-      "v_note_zh": "FY2025截至2026年3月31日：美国产品销售额USD 96 million，直接以美元报告；USD bn。"
+      "v_note_zh": "FY2025截至2026年3月31日：美国产品销售额USD 96 million，直接以美元报告；USD bn。",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2029-01",
+          "note": "Orange Book: substance patent US7300935 expires 2029-01-28; later patents to 2038; entry unannounced.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:活性成分专利US7300935于2029-01-28到期;后续专利至2038年;上市时间未公布。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
     }
   ],
   "new_products": []

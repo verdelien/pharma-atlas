@@ -12,8 +12,8 @@
       "code": null,
       "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "IL-4 / IL-13 signaling inhibition",
+        "zh": "IL-4 / IL-13信号抑制"
       },
       "ind": {
         "en": "Atopic dermatitis",
@@ -30,8 +30,8 @@
       "code": null,
       "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "CD20",
+        "zh": "CD20"
       },
       "ind": {
         "en": "Multiple sclerosis",
@@ -48,8 +48,8 @@
       "code": null,
       "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "IL-23 p19",
+        "zh": "IL-23 p19"
       },
       "ind": {
         "en": "Plaque psoriasis; also psoriatic arthritis",
@@ -64,14 +64,14 @@
     {
       "name": "emicizumab biosimilar",
       "code": null,
-      "modality": null,
+      "modality": "bispecific",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Coagulation factors IXa and X",
+        "zh": "凝血因子IXa和X"
       },
       "ind": {
         "en": "Hemophilia A",
-        "zh": "A 型血友病"
+        "zh": "A型血友病"
       },
       "phase": null,
       "ta": "Hematology",
@@ -84,12 +84,12 @@
       "code": null,
       "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "PD-1",
+        "zh": "PD-1"
       },
       "ind": {
         "en": "Oncology; specific lead indication not disclosed",
-        "zh": "肿瘤;具体首个适应症未披露"
+        "zh": "肿瘤;具体主打适应症未披露"
       },
       "phase": null,
       "ta": "Oncology",
@@ -102,12 +102,12 @@
       "code": null,
       "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "PD-1",
+        "zh": "PD-1"
       },
       "ind": {
         "en": "Oncology; specific lead indication not disclosed",
-        "zh": "肿瘤;具体首个适应症未披露"
+        "zh": "肿瘤;具体主打适应症未披露"
       },
       "phase": null,
       "ta": "Oncology",
@@ -144,15 +144,38 @@
     [
       "Q2 FY27 results and presentation",
       "https://nsearchives.nseindia.com/corporate/ALKEM_12112026140001_Reg30PressReleaseandInvestorPresentation12112026.pdf"
+    ],
+    [
+      "Reference dupilumab mechanism, October 2026",
+      "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-01-05-00-00-3372517"
+    ],
+    [
+      "Reference ocrelizumab target, September 2026",
+      "https://www.roche.com/media/releases/med-cor-2026-09-18"
+    ],
+    [
+      "Reference risankizumab target, October 2026",
+      "https://news.abbvie.com/2026-10-23-U-S-FDA-Approves-Subcutaneous-Induction-Regimen-for-AbbVies-SKYRIZI-R-risankizumab-rzaa-for-Adults-With-Moderately-to-Severely-Active-Crohns-Disease?sf282032105=1"
+    ],
+    [
+      "Reference emicizumab mechanism",
+      "https://www.genentech-medinfo.com/pipeline-and-clinical-trials/oncology/emicizumab.html"
+    ],
+    [
+      "Reference nivolumab target",
+      "https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Announces-Opdivo-nivolumab-in-Combination-with-AVD-Receives-Expanded-EU-Label-with-Approval-in-Frontline-Advanced-Classical-Hodgkin-Lymphoma/default.aspx"
+    ],
+    [
+      "Reference pembrolizumab target, November 2026",
+      "https://www.amgenpipeline.com/-/media/Themes/Amgen/amgenpipeline-com/amgenpipeline-com/PDF/amgen-pipeline-chart.pdf"
     ]
   ],
   "gaps": [
     "All listed biosimilars are disclosed development priorities or partnered projects, not verified clinical-stage trials; phases are null.",
-    "No company phase-count breakdown, candidate codes, asset-level molecular targets, origins or future readout dates verified.",
     "Pipeline page is undated; priority labels do not establish trial initiation.",
     "Alkem's innovative-drug clinical candidates were not identifiable by name in reviewed primary materials.",
     "Already-approved semaglutide and denosumab excluded; device projects excluded.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete.",
-    "Emicizumab modality subclass not specified in reviewed pipeline text; null."
+    "No company phase-count breakdown, candidate codes, asset-specific origins or future milestone dates were verified. Targets and emicizumab bispecific modality follow company descriptions of the named reference molecules; Enzene does not disclose candidate-specific binding data.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

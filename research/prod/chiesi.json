@@ -1,5 +1,18 @@
 {
   "id": "chiesi",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Rare diseases",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "No single regional LOE date verified for this portfolio. Company FY2025 results identify Rare Diseases as a business-unit sales aggregate across the US, Europe and international markets. An individual Lamzede, Filsuvez or Elfabrio milestone cannot be assigned to the whole row.",
+          "src": "https://www.chiesi.com/en/media-hub/press-release/chiesi-reports-strong-fy2025-financial-sustainability-results.html",
+          "note_zh": "未核实该组合存在单一的区域独占期结束日期。公司2025财年业绩将罕见病列为跨美国、欧洲和国际市场的业务单元销售汇总。Lamzede、Filsuvez或Elfabrio的单个里程碑不能适用于整行。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

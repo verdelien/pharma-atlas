@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "CSPC has a broad China-focused pipeline spanning oncology biologics, siRNA and metabolic medicines. Several filings and pivotal trials sit alongside a large established-drug business.",
-    "zh": "CSPC 拥有以中国为重心的广泛管线,涵盖肿瘤生物药、siRNA 和代谢类药物。多项申报和关键性试验与庞大的成熟药物业务并行。"
+    "zh": "CSPC拥有广泛的中国市场导向管线,涵盖肿瘤生物药、siRNA和代谢类药物。多项申报和关键试验与庞大的成熟药物业务并行。"
   },
   "counts": null,
   "items": [
@@ -11,10 +11,13 @@
       "name": "anbenitamab (breast cancer)",
       "code": "KN026",
       "modality": "bispecific",
-      "target": null,
+      "target": {
+        "en": "HER2 (two non-overlapping epitopes)",
+        "zh": "HER2(两个非重叠表位)"
+      },
       "ind": {
         "en": "HER2-positive breast cancer",
-        "zh": "HER2 阳性乳腺癌"
+        "zh": "HER2阳性乳腺癌"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -25,14 +28,14 @@
     {
       "name": "efmedaglutide alfa",
       "code": "TG103",
-      "modality": "peptide",
+      "modality": "other",
       "target": {
         "en": "GLP-1 receptor agonist",
-        "zh": "GLP-1 受体激动剂"
+        "zh": "GLP-1受体激动剂"
       },
       "ind": {
         "en": "Type 2 diabetes mellitus",
-        "zh": "2 型糖尿病"
+        "zh": "2型糖尿病"
       },
       "phase": "reg",
       "ta": "Metabolic",
@@ -50,7 +53,7 @@
       },
       "ind": {
         "en": "EGFR-mutated NSCLC; also other lung and solid tumors",
-        "zh": "EGFR 突变 NSCLC;另有其他肺癌和实体瘤"
+        "zh": "EGFR突变NSCLC;另有其他肺癌和实体瘤"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -62,16 +65,19 @@
       "name": "becotatug",
       "code": "JMT101",
       "modality": "antibody",
-      "target": null,
+      "target": {
+        "en": "EGFR",
+        "zh": "EGFR"
+      },
       "ind": {
         "en": "First-line EGFR exon 20 insertion NSCLC with osimertinib",
-        "zh": "联合 osimertinib 治疗一线 EGFR 外显子 20 插入 NSCLC"
+        "zh": "联合osimertinib一线治疗EGFR 20号外显子插入NSCLC"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
-      "src": "https://doc.irasia.com/listco/hk/cspc/announcement/a260924a.pdf"
+      "src": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092401983_c.pdf"
     },
     {
       "name": "SYS6043",
@@ -89,7 +95,7 @@
       "ta": "Oncology",
       "origin": "internal",
       "next": null,
-      "src": "https://doc.irasia.com/listco/hk/cspc/announcement/a261022a.pdf"
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1118/2026111800389.pdf"
     },
     {
       "name": "SYH2053",
@@ -107,37 +113,43 @@
       "ta": "Cardiovascular",
       "origin": null,
       "next": null,
-      "src": "https://doc.irasia.com/listco/hk/cspc/interim/2026/intrep.pdf"
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1118/2026111800389.pdf"
     },
     {
       "name": "anbenitamab repodatecan",
       "code": "JSKN003",
       "modality": "ADC",
-      "target": null,
+      "target": {
+        "en": "HER2",
+        "zh": "HER2"
+      },
       "ind": {
         "en": "HER2-positive colorectal cancer",
-        "zh": "HER2 阳性结直肠癌"
+        "zh": "HER2阳性结直肠癌"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
-      "src": "https://doc.irasia.com/listco/hk/cspc/interim/2026/intrep.pdf"
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1118/2026111800389.pdf"
     },
     {
       "name": "CM326",
       "code": "CM326",
       "modality": "antibody",
-      "target": null,
+      "target": {
+        "en": "TSLP",
+        "zh": "TSLP"
+      },
       "ind": {
         "en": "Asthma; also chronic rhinosinusitis with nasal polyps",
         "zh": "哮喘;另有伴鼻息肉的慢性鼻窦炎"
       },
       "phase": "3",
       "ta": "Respiratory",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
-      "src": "https://doc.irasia.com/listco/hk/cspc/interim/2026/intrep.pdf"
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1118/2026111800389.pdf"
     },
     {
       "name": "prusogliptin (triple combination)",
@@ -145,36 +157,36 @@
       "modality": "small molecule",
       "target": {
         "en": "DPP-4 inhibitor",
-        "zh": "DPP-4 抑制剂"
+        "zh": "DPP-4抑制剂"
       },
       "ind": {
         "en": "Type 2 diabetes with dapagliflozin and metformin",
-        "zh": "2 型糖尿病,联合 dapagliflozin 和 metformin"
+        "zh": "联合dapagliflozin和二甲双胍治疗2型糖尿病"
       },
       "phase": "3",
       "ta": "Metabolic",
       "origin": "internal",
       "next": null,
-      "src": "https://doc.irasia.com/listco/hk/cspc/announcement/a261102b.pdf"
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1118/2026111800389.pdf"
     }
   ],
   "watch": [
     {
       "k": "catalyst",
       "en": "KN026 breast-cancer and efmedaglutide diabetes applications have been accepted in China.",
-      "zh": "KN026 乳腺癌适应症和 efmedaglutide 糖尿病适应症的申请已在中国获受理。",
+      "zh": "KN026乳腺癌和efmedaglutide糖尿病申请已在中国获受理。",
       "src": "https://doc.irasia.com/listco/hk/cspc/announcement/a260818.pdf"
     },
     {
       "k": "policy",
       "en": "Volume-based procurement pressured sales of existing products and the antibiotics business in H1 2026.",
-      "zh": "2026 年上半年,带量采购对现有产品和抗生素业务的销售造成压力。",
+      "zh": "2026年上半年,带量采购对现有产品和抗生素业务的销售造成压力。",
       "src": "https://doc.irasia.com/listco/hk/cspc/interim/2026/intrep.pdf"
     },
     {
       "k": "deal",
       "en": "International out-licensing is an explicit part of CSPC's innovation strategy.",
-      "zh": "国际对外授权是 CSPC 创新战略的明确组成部分。",
+      "zh": "国际对外授权是CSPC创新战略的明确组成部分。",
       "src": "https://doc.irasia.com/listco/hk/cspc/interim/2026/intrep.pdf"
     }
   ],
@@ -210,13 +222,32 @@
     [
       "2026 company clinical/regulatory announcement",
       "https://doc.irasia.com/listco/hk/cspc/announcement/a261102b.pdf"
+    ],
+    [
+      "Becotatug Phase 3 results, September 24, 2026",
+      "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0924/2026092401983_c.pdf"
+    ],
+    [
+      "CSPC JMT101 internal development and EGFR mechanism, 2023",
+      "https://en.e-cspc.com/news/research-results-of-jmt101-of-cspc-published-in-subjournal-of-nature.html"
+    ],
+    [
+      "Keymed CM326 license to CSPC, November 2021",
+      "https://www1.hkexnews.hk/listedco/listconews/sehk/2021/1122/2021112200071.pdf"
+    ],
+    [
+      "CSPC JSKN003 mainland China license, September 2024",
+      "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0930/2024093000001.pdf"
+    ],
+    [
+      "Q3 2026 business update, November 18, 2026",
+      "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1118/2026111800389.pdf"
     ]
   ],
   "gaps": [
-    "Latest opened results are H1 2026; Q3 results were not yet available on the reviewed IR overview.",
     "Only partial phase-count disclosure was found (including 16 marketing applications); no complete phase-count object is provided.",
-    "Several targets, origins, codes and future dates were not explicitly verified and are null.",
     "KN026 is represented only for its new breast-cancer program; an existing gastric-cancer approval is excluded.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "Efmedaglutide alfa is a recombinant GLP-1/Fc fusion protein, mapped to other rather than peptide under the permitted modality vocabulary.",
+    "The November 18 Q3 business update was reviewed. All selected stages remain consistent with the filings; no dated upcoming milestone was established. Origins for efmedaglutide alfa and SYH2053 remain null. JMT101, CM326 and JSKN003 provenance releases predate June 2026."
   ]
 }

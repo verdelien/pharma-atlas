@@ -11,7 +11,10 @@
       "name": "denosumab biosimilar",
       "code": "FUGEVY / FILVIZY",
       "modality": "antibody",
-      "target": null,
+      "target": {
+        "en": "RANKL",
+        "zh": "RANKL"
+      },
       "ind": {
         "en": "Bone health; also oncology",
         "zh": "骨健康;另有肿瘤"
@@ -19,29 +22,43 @@
       "phase": "reg",
       "ta": "Bone",
       "origin": null,
-      "next": null,
+      "next": {
+        "en": "Health Canada and US FDA filings in the next company quarter (Q3 FY27)",
+        "zh": "下一公司季度(FY27第三季度)向加拿大卫生部和美国FDA提交申报",
+        "when": null
+      },
       "src": "https://www.aurobindo.com/api/uploads/resultsannouncement/Earnings-Presentation_Q2FY27.pdf"
     },
     {
       "name": "omalizumab biosimilar",
       "code": "OMAZIJEV",
       "modality": "antibody",
-      "target": null,
+      "target": {
+        "en": "IgE",
+        "zh": "IgE"
+      },
       "ind": {
         "en": "Respiratory and allergic disease",
-        "zh": "呼吸系统和过敏性疾病"
+        "zh": "呼吸和过敏性疾病"
       },
       "phase": "reg",
       "ta": "Respiratory",
       "origin": null,
-      "next": null,
+      "next": {
+        "en": "US FDA filing during company FY27",
+        "zh": "公司FY27期间向美国FDA提交申报",
+        "when": "FY2027"
+      },
       "src": "https://www.aurobindo.com/api/uploads/resultsannouncement/Earnings-Presentation_Q2FY27.pdf"
     },
     {
       "name": "ranibizumab biosimilar",
       "code": "BP05",
       "modality": "antibody",
-      "target": null,
+      "target": {
+        "en": "VEGF-A",
+        "zh": "VEGF-A"
+      },
       "ind": {
         "en": "Retinal disease",
         "zh": "视网膜疾病"
@@ -56,7 +73,10 @@
       "name": "tocilizumab biosimilar",
       "code": "BP08",
       "modality": "antibody",
-      "target": null,
+      "target": {
+        "en": "IL-6 receptor",
+        "zh": "IL-6受体"
+      },
       "ind": {
         "en": "Autoimmune disease",
         "zh": "自身免疫性疾病"
@@ -104,14 +124,31 @@
     [
       "Q2 FY27 earnings release",
       "https://www.aurobindo.com/api/uploads/resultsannouncement/PressRelease_Q2FY27.pdf"
+    ],
+    [
+      "Reference denosumab target, June 2026 prescribing information",
+      "https://www.pi.amgen.com/-/media/Project/Amgen/Repository/pi-amgen-com/Prolia/prolia_pi.pdf"
+    ],
+    [
+      "Reference omalizumab mechanism, November 2026 company release",
+      "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-Announces-European-Approval-of-Adcomfo-Omalizumab-a-Biosimilar-to-XOLAIR/default.aspx"
+    ],
+    [
+      "Reference ranibizumab target, March 2018 release",
+      "https://www.gene.com/media/press-releases/14708/2018-03-21/fda-approves-genentechs-lucentis-ranibiz"
+    ],
+    [
+      "Reference tocilizumab mechanism",
+      "https://www.roche.com/solutions/pharma/productid-42bf9d08-8573-491a-944a-fdbc030ec44b"
     ]
   ],
   "gaps": [
     "No conventional full-group innovative-drug pipeline or published phase totals verified.",
-    "Current biosimilar targets, detailed indications and discovery origins were not explicit in the reviewed presentation and remain null or broad.",
+    "Biosimilar targets follow company descriptions of the named reference molecules; candidate-specific binding data and discovery origins remain unverified. Detailed lead indications remain broad.",
     "BP08 has completed a pivotal study but its numeric phase is not explicit; phase is null.",
     "Preclinical trastuzumab SC and pertuzumab programs are excluded because clinical entry is still prospective.",
     "Already marketed biosimilars are excluded; the selection is therefore limited to four assets.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "The March 2018 ranibizumab release predates 2026-06 and establishes mechanism only. Filing guidance is preserved in company fiscal periods; no unsupported calendar conversion is made.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

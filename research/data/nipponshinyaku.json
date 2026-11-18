@@ -3,28 +3,25 @@
   "asof": "2026-11",
   "summary": {
     "en": "Nippon Shinyaku combines internally developed and collaborative rare-disease programmes with externally sourced US and Japanese commercial rights. Filing-stage opportunities include deramiocel and Japanese oncology and immunology applications.",
-    "zh": "Nippon Shinyaku 将内部开发和合作的罕见病项目与外部获得的美国和日本商业化权利相结合。处于申报阶段的机会包括 deramiocel 以及日本的肿瘤和免疫学申请。"
+    "zh": "Nippon Shinyaku将自主研发和合作开发的罕见病项目，与外部引进的美国和日本商业权益相结合。处于申报阶段的机会包括deramiocel以及日本肿瘤和免疫领域的申报。"
   },
   "counts": null,
   "items": [
     {
       "name": "deramiocel",
       "code": "CAP-1002",
-      "modality": null,
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "modality": "cell therapy",
+      "target": null,
       "ind": {
         "en": "Duchenne muscular dystrophy; US BLA",
-        "zh": "杜氏肌营养不良症;美国 BLA"
+        "zh": "杜氏肌营养不良；美国BLA"
       },
       "phase": "reg",
       "ta": "Rare disease",
-      "origin": null,
+      "origin": "licensed",
       "next": {
         "en": "FDA target action date November 22, 2026",
-        "zh": "FDA 目标行动日期为 November 22, 2026",
+        "zh": "FDA目标行动日期为2026年11月22日",
         "when": "2026Q4"
       },
       "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3813"
@@ -32,14 +29,14 @@
     {
       "name": "obinutuzumab (new indications)",
       "code": "GA101",
-      "modality": null,
+      "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "CD20",
+        "zh": "CD20"
       },
       "ind": {
         "en": "Idiopathic nephrotic syndrome (Japan filed); lupus nephritis and extra-renal lupus (Phase 3)",
-        "zh": "特发性肾病综合征(日本已申报);狼疮性肾炎和肾外狼疮(III 期)"
+        "zh": "特发性肾病综合征（日本已申报）；狼疮性肾炎和肾外狼疮（III期）"
       },
       "phase": "reg",
       "ta": "Immunology",
@@ -57,7 +54,7 @@
       },
       "ind": {
         "en": "Relapsed/refractory diffuse large B-cell lymphoma after at least two systemic therapies",
-        "zh": "至少接受过两种全身治疗后的复发/难治性弥漫性大 B 细胞淋巴瘤"
+        "zh": "至少接受过两种系统治疗后的复发/难治性弥漫大B细胞淋巴瘤"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -68,32 +65,32 @@
     {
       "name": "fenfluramine (new indications)",
       "code": "ZX008",
-      "modality": null,
+      "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Serotonin receptors and sigma-1 receptor",
+        "zh": "血清素受体和sigma-1受体"
       },
       "ind": {
         "en": "CDKL5 deficiency disorder; Rett syndrome (Japan)",
-        "zh": "CDKL5 缺乏症;Rett 综合征(日本)"
+        "zh": "CDKL5缺乏症；Rett综合征（日本）"
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
     },
     {
       "name": "selexipag (arteriosclerosis obliterans)",
       "code": "NS-304",
-      "modality": null,
+      "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Prostacyclin IP receptor agonist",
+        "zh": "前列环素IP受体激动剂"
       },
       "ind": {
         "en": "Arteriosclerosis obliterans (Japan)",
-        "zh": "闭塞性动脉硬化症(日本)"
+        "zh": "闭塞性动脉硬化（日本）"
       },
       "phase": "3",
       "ta": "Cardiovascular",
@@ -102,16 +99,60 @@
       "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
     },
     {
+      "name": "tadekinig alfa",
+      "code": null,
+      "modality": "other",
+      "target": {
+        "en": "IL-18 binding protein",
+        "zh": "IL-18结合蛋白"
+      },
+      "ind": {
+        "en": "Monogenic hyperinflammatory syndrome with NLRC4 or XIAP mutations",
+        "zh": "伴NLRC4或XIAP突变的单基因高炎症综合征"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": {
+        "en": "Prepare US BLA",
+        "zh": "准备美国BLA",
+        "when": null
+      },
+      "src": "https://cdn.clinicaltrials.gov/large-docs/60/NCT03113760/Prot_000.pdf"
+    },
+    {
+      "name": "clemidsogene lanparvovec",
+      "code": "RGX-121",
+      "modality": "gene therapy",
+      "target": {
+        "en": "IDS gene replacement",
+        "zh": "IDS基因替代"
+      },
+      "ind": {
+        "en": "Mucopolysaccharidosis type II",
+        "zh": "II型黏多糖贮积症"
+      },
+      "phase": "3",
+      "ta": "Rare disease",
+      "origin": "licensed",
+      "next": {
+        "en": "Evaluate imaging and longer-term follow-up data with FDA to determine next regulatory steps",
+        "zh": "与FDA评估影像学和长期随访数据，以确定下一步监管步骤",
+        "when": null
+      },
+      "src": "https://ir.regenxbio.com/static-files/a7f4f464-cba3-412b-88b1-02de8bf70faf"
+    },
+    {
       "name": "brogidirsen",
       "code": "NS-089/NCNP-02",
       "modality": "other",
       "target": {
         "en": "Dystrophin exon 44 skipping",
-        "zh": "抗肌萎缩蛋白外显子 44 跳跃"
+        "zh": "Dystrophin 外显子44跳跃"
       },
       "ind": {
         "en": "Duchenne muscular dystrophy",
-        "zh": "杜氏肌营养不良症"
+        "zh": "杜氏肌营养不良"
       },
       "phase": "2",
       "ta": "Rare disease",
@@ -124,8 +165,8 @@
       "code": "NS-229",
       "modality": null,
       "target": {
-        "en": null,
-        "zh": null
+        "en": "JAK1 inhibition",
+        "zh": "JAK1抑制"
       },
       "ind": {
         "en": "Eosinophilic granulomatosis with polyangiitis",
@@ -143,60 +184,16 @@
       "modality": "other",
       "target": {
         "en": "Restoration of functional fukutin protein production",
-        "zh": "恢复功能性 fukutin 蛋白的生成"
+        "zh": "恢复功能性fukutin蛋白生成"
       },
       "ind": {
         "en": "Fukuyama congenital muscular dystrophy",
-        "zh": "福山型先天性肌营养不良症"
+        "zh": "福山型先天性肌营养不良"
       },
       "phase": "2",
       "ta": "Rare disease",
       "origin": "co-developed",
       "next": null,
-      "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
-    },
-    {
-      "name": "tadekinig alfa",
-      "code": null,
-      "modality": "other",
-      "target": {
-        "en": "IL-18 binding protein",
-        "zh": "IL-18 结合蛋白"
-      },
-      "ind": {
-        "en": "Monogenic hyperinflammatory syndrome with NLRC4 or XIAP mutations",
-        "zh": "伴 NLRC4 或 XIAP 突变的单基因高炎症综合征"
-      },
-      "phase": null,
-      "ta": "Rare disease",
-      "origin": "licensed",
-      "next": {
-        "en": "Prepare US BLA",
-        "zh": "准备美国 BLA",
-        "when": null
-      },
-      "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
-    },
-    {
-      "name": "clemidsogene lanparvovec",
-      "code": "RGX-121",
-      "modality": "gene therapy",
-      "target": {
-        "en": null,
-        "zh": null
-      },
-      "ind": {
-        "en": "Mucopolysaccharidosis type II",
-        "zh": "II 型黏多糖贮积症"
-      },
-      "phase": null,
-      "ta": "Rare disease",
-      "origin": "licensed",
-      "next": {
-        "en": "Prepare BLA; regulatory path requires clarification following clinical hold",
-        "zh": "准备 BLA;临床暂停后监管路径有待明确",
-        "when": null
-      },
       "src": "https://www.nippon-shinyaku.co.jp/english/ir/financial/develop.php"
     }
   ],
@@ -204,25 +201,25 @@
     {
       "k": "catalyst",
       "en": "Deramiocel FDA target action date was extended to November 22, 2026.",
-      "zh": "Deramiocel 的 FDA 目标行动日期已延长至 November 22, 2026。",
+      "zh": "Deramiocel的FDA目标行动日期已延长至2026年11月22日。",
       "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3813"
     },
     {
       "k": "other",
       "en": "RGX-121 was placed on clinical hold in August; the November pipeline lists preparation for BLA, without confirming a dated resolution.",
-      "zh": "RGX-121 于 8 月被临床暂停;11 月的管线列出了 BLA 准备工作,但未确认解决的具体时间。",
+      "zh": "RGX-121于8月被临床搁置；11月管线列有BLA准备工作，但未确认明确的解决日期。",
       "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3811"
     },
     {
       "k": "deal",
       "en": "The October Tanabe sublicense adds Japanese commercialization rights to loncastuximab; Tanabe retains development and regulatory responsibility.",
-      "zh": "10 月的 Tanabe 分许可使 loncastuximab 增加了日本商业化权利;Tanabe 保留开发和监管责任。",
+      "zh": "10月Tanabe分许可为loncastuximab增加了日本商业化权利；Tanabe保留开发和监管责任。",
       "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3832"
     },
     {
       "k": "deal",
       "en": "Exercising the AB2 Bio option adds US commercialization rights to tadekinig alfa.",
-      "zh": "行使 AB2 Bio 期权后,tadekinig alfa 增加了美国商业化权利。",
+      "zh": "行使AB2 Bio期权后，获得tadekinig alfa的美国商业化权利。",
       "src": "https://www.nippon-shinyaku.co.jp/english/ir/ir_news.php?id=3778"
     }
   ],
@@ -258,15 +255,46 @@
     [
       "Latest results library",
       "https://www.nippon-shinyaku.co.jp/english/ir/ir_library/index.html"
+    ],
+    [
+      "Deramiocel distribution rights and cell therapy, 2024 filing",
+      "https://www.sec.gov/Archives/edgar/data/1133869/000155837024015730/capr-20240930xex10d1.htm"
+    ],
+    [
+      "Fenfluramine mechanism and modality, partner pipeline",
+      "https://www.ucb.com/our-science/pipeline"
+    ],
+    [
+      "Selexipag mechanism, April 2024",
+      "https://www.nippon-shinyaku.co.jp/file/download.php?file_id=7504"
+    ],
+    [
+      "NS-229 JAK1 mechanism, January 2024",
+      "https://www.nspharma.com/wp-content/uploads/2024/08/20231219_NS-229_EU-ODD_NewsRelease-en_final-for-RC.pdf"
+    ],
+    [
+      "Tadekinig Phase 3 protocol, September 2021",
+      "https://cdn.clinicaltrials.gov/large-docs/60/NCT03113760/Prot_000.pdf"
+    ],
+    [
+      "RGX-121 clinical hold and next steps, August 24, 2026",
+      "https://ir.regenxbio.com/news-releases/news-release-details/regenxbio-announces-regulatory-update-rgx-121-mps-ii"
+    ],
+    [
+      "REGENXBIO corporate presentation, May 2026: RGX-121 Phase I/II/III",
+      "https://ir.regenxbio.com/static-files/a7f4f464-cba3-412b-88b1-02de8bf70faf"
+    ],
+    [
+      "REGENXBIO Q3 2026 filing, November 5: RGX-121 remains on hold",
+      "https://regenxbio.gcs-web.com/static-files/b78e9ff4-c134-4068-b0c8-56c8919cc658"
     ]
   ],
   "gaps": [
-    "No published company-wide phase totals were verified; counts is null. Unverified mechanisms, modalities, origins, codes and next milestone dates are null.",
-    "Tadekinig alfa and RGX-121 are labelled preparation for BLA, not filed, in the November pipeline. Their clinical phase was not established from the reviewed company pages, so phase is null.",
-    "The November table lists CAP-1002 as Phase III extension; the separate company release verifies the pending BLA and November 22 FDA date, so its highest selected stage is reg.",
-    "Japanese filing and indication-expansion entries are regional programmes, not claims of first global approval. Pirtobrutinib is omitted because the November 16 release announces first-line CLL approval and the table does not isolate a remaining new indication.",
-    "The dynamic IR library loaded without financial-document links. The November 13 pipeline is current, but the corresponding half-year results presentation could not be read. No next dates were verified for the other selected assets.",
-    "Antisense oligonucleotides are mapped to modality other because the allowed vocabulary has no antisense category. Additional targets/modalities were not inferred from medicine names.",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "No company-wide phase totals were verified; counts is null.",
+    "RGX-121 Phase 3 represents the pivotal part of the combined Phase I/II/III CAMPSIITE study, identified in the May 2026 company deck before June 2026. The November filing confirms the programme remains on clinical hold; no dated resolution or BLA resubmission was verified.",
+    "Deramiocel has no verified single molecular target; NS-229 modality remains unverified. Most selected assets have no verified dated next milestone.",
+    "Tadekinig phase 3 is supported by the September 2021 sponsor protocol; the November 2026 pipeline supplies its current BLA-preparation status.",
+    "Historical sources before June 2026 establish mechanisms or provenance only: the 2024 deramiocel agreement, selexipag and NS-229 releases, and January 2026 Chugai pipeline.",
+    "Fenfluramine retains the Japanese Phase 3 status in Nippon Shinyaku's November pipeline; UCB's filed CDKL5 programme and 2029 Rett readout concern the partner portfolio, without verified Japanese timing."
   ]
 }

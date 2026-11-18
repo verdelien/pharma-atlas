@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Plasma-derived therapies and new delivery formats dominate development, alongside a smaller recombinant antibody effort. The selected programs span late-stage protein therapy and early GigaGen candidates.",
-    "zh": "开发以血浆来源疗法和新型给药形式为主,另有规模较小的重组抗体项目。所选项目涵盖后期蛋白疗法和早期 GigaGen 候选药物。"
+    "zh": "血浆源疗法和新型给药形式主导研发,同时有规模较小的重组抗体项目。入选项目涵盖后期蛋白疗法和早期GigaGen候选药物。"
   },
   "counts": null,
   "items": [
@@ -13,11 +13,11 @@
       "modality": "other",
       "target": {
         "en": "Alpha-1 proteinase replacement",
-        "zh": "α1 蛋白酶替代"
+        "zh": "α1蛋白酶替代"
       },
       "ind": {
         "en": "Alpha-1 antitrypsin deficiency",
-        "zh": "α1 抗胰蛋白酶缺乏症"
+        "zh": "α1抗胰蛋白酶缺乏症"
       },
       "phase": "3",
       "ta": "Respiratory",
@@ -31,7 +31,7 @@
       "modality": "antibody",
       "target": {
         "en": "IgM/IgA/IgG-enriched polyclonal immunoglobulins",
-        "zh": "富含 IgM/IgA/IgG 的多克隆免疫球蛋白"
+        "zh": "富含IgM/IgA/IgG的多克隆免疫球蛋白"
       },
       "ind": {
         "en": "Severe community-acquired pneumonia",
@@ -67,7 +67,7 @@
       "modality": "antibody",
       "target": {
         "en": "Non-blocking CTLA-4 antibody",
-        "zh": "非阻断型 CTLA-4 抗体"
+        "zh": "非阻断型CTLA-4抗体"
       },
       "ind": {
         "en": "Solid tumors",
@@ -75,7 +75,7 @@
       },
       "phase": "1",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
       "src": "https://www.grifols.com/en/view-news/-/news/gigagen-presents-positive-phase-1-data-on-non-blocking-anti-ctla-4-drug-candidate-giga-564-at-aacr-2026"
     },
@@ -85,7 +85,7 @@
       "modality": "antibody",
       "target": {
         "en": "Recombinant polyclonal anti-HBV antibodies",
-        "zh": "重组多克隆抗 HBV 抗体"
+        "zh": "重组多克隆抗HBV抗体"
       },
       "ind": {
         "en": "Chronic hepatitis B",
@@ -102,25 +102,25 @@
     {
       "k": "catalyst",
       "en": "SPARTA alpha-1 efficacy topline results are expected by year-end 2026.",
-      "zh": "SPARTA α1 疗效顶线结果预计在 2026 年底前公布。",
+      "zh": "SPARTA α1疗效topline结果预计于2026年底前公布。",
       "src": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
     },
     {
       "k": "concentration",
       "en": "Immunoglobulins led Q3 growth, increasing 11.3% at constant currency.",
-      "zh": "免疫球蛋白带动第三季度增长,按固定汇率计增长 11.3%。",
+      "zh": "免疫球蛋白带动第三季度增长,按固定汇率计算增长11.3%。",
       "src": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
     },
     {
       "k": "balance",
       "en": "Q3 net leverage was 3.98x; liquidity was EUR 2.14 billion.",
-      "zh": "第三季度净杠杆率为 3.98x;流动性为 EUR 2.14 billion。",
+      "zh": "第三季度净杠杆率为3.98倍;流动性为21.4亿欧元。",
       "src": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
     },
     {
       "k": "other",
       "en": "Egypt targets around one million liters of collected plasma in 2026.",
-      "zh": "埃及 2026 年的血浆采集目标约为一百万升。",
+      "zh": "埃及计划在2026年采集约100万升血浆。",
       "src": "https://www.grifols.com/en/view-news/-/news/grifols-increases-revenue-by-8-4-to-eur-2040-million-and-grows-net-profit-by-28-to-eur-162m-in-q326"
     }
   ],
@@ -152,16 +152,18 @@
     [
       "GIGA-2339 Phase 1 start",
       "https://www.grifols.com/en/view-news/-/news/gigagen-doses-first-patient-in-phase-1-trial-of-recombinant-polyclonal-drug-candidate-giga-2339-for-hepatitis-b-virus"
+    ],
+    [
+      "GigaGen acquisition closing including GIGA-564, March 2021",
+      "https://www.grifols.com/en/view-news/-/news/grifols-reinforces-its-innovation-strategy-after-completing-the-acquisition-of-gigagen-to-boost-a-novel-method-to-generate-a-wide-range-of-immunoglobulins"
     ]
   ],
   "gaps": [
     "No verified aggregate Phase 1/2/3/registration counts were available; counts is null.",
     "Trimodulin's phase and Biotest acquisition provenance rely on the 2025 Form 20-F, published before June 2026; it remains listed in the current pipeline.",
     "GRF312 phase and license provenance rely on May 21, 2025; GIGA-564 phase relies on April 17, 2026; GIGA-2339 phase relies on November 19, 2024. All are older than June 2026 and remain present in the current pipeline.",
-    "GIGA-564 and GIGA-2339 subsidiary ownership was verified, but acquisition versus internal origin was not established from the selected sources; origin is null. Alpha-1 subcutaneous origin is also null.",
-    "Most program-specific next milestones were not stated; next is null.",
+    "No program-specific next milestone was verified for the five selected assets; next is null.",
     "SPARTA is a post-marketing efficacy program for marketed intravenous alpha-1, so it is a watch point rather than an investigational item. Unfiled expansions of approved Xembify/Gamunex and approved fibrinogen indications are excluded.",
-    "The current one-page graphical chart was loaded, but screenshot rendering failed; phase assignments use explicit company text rather than inferred chart positions.",
-    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+    "GIGA-564 was explicitly in GigaGen's portfolio at Grifols' March 2021 acquisition closing; this provenance source predates June 2026. GIGA-2339 and Alpha-1 SubQ origins remain unverified. The current pipeline chart was reopened; no new company-stated dates were established for the five selected assets."
   ]
 }

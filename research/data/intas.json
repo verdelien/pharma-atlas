@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Intas and its Accord businesses emphasize generics and biosimilars, combining internal capabilities with external partnerships. Xdivane is a verified investigational oncology biosimilar, while several other prominent Accord biosimilars are already approved.",
-    "zh": "Intas 及其 Accord 业务侧重仿制药和生物类似药,将内部能力与外部合作相结合。Xdivane 是经核实的在研肿瘤生物类似药,而 Accord 的其他几个知名生物类似药已获批。"
+    "zh": "Intas及其Accord业务以仿制药和生物类似药为重点,结合内部能力与外部合作。Xdivane是经核实的在研肿瘤生物类似药,而Accord的其他多个知名生物类似药已获批。"
   },
   "counts": null,
   "items": [
@@ -17,14 +17,14 @@
       },
       "ind": {
         "en": "Melanoma in pivotal comparative study",
-        "zh": "黑色素瘤(关键性对照研究)"
+        "zh": "关键性对照研究中的黑色素瘤"
       },
       "phase": null,
       "ta": "Oncology",
       "origin": "co-developed",
       "next": {
         "en": "Planned interim analysis in Q2 2027; FDA BLA submission targeted for mid-2027",
-        "zh": "计划于 2027 年第二季度进行中期分析;目标 2027 年中向 FDA 提交 BLA",
+        "zh": "计划2027年第二季度进行中期分析;FDA BLA提交目标为2027年中",
         "when": "2027Q2"
       },
       "src": "https://www.xbrane.com/en/xbrane-announces-full-recruitment-of-pivotal-clinical-trial-for-xdivane/"
@@ -34,25 +34,25 @@
     {
       "k": "catalyst",
       "en": "Xbrane’s Q3 report targets Xdivane interim analysis in Q2 2027 and a US BLA in mid-2027.",
-      "zh": "Xbrane 的第三季度报告目标为 2027 年第二季度完成 Xdivane 中期分析,并于 2027 年中提交美国 BLA。",
+      "zh": "Xbrane第三季度报告的目标是2027年第二季度完成Xdivane中期分析,2027年中提交美国BLA。",
       "src": "https://www.xbrane.com/en/wp-content/uploads/sites/2/2026/01/xbrane-q3-2026-eng.pdf"
     },
     {
       "k": "deal",
       "en": "Intas conducts clinical development and Accord handles global commercialization of Xdivane.",
-      "zh": "Intas 负责 Xdivane 的临床开发,Accord 负责其全球商业化。",
+      "zh": "Intas负责Xdivane的临床开发,Accord负责其全球商业化。",
       "src": "https://www.xbrane.com/en/xbrane-announces-full-recruitment-of-pivotal-clinical-trial-for-xdivane/"
     },
     {
       "k": "balance",
       "en": "Intas assumed financing for certain Xdivane CMC development costs, offset against future profit sharing with an 18% mark-up.",
-      "zh": "Intas 承担了 Xdivane 部分 CMC 开发成本的融资,并以 18% 的加成与未来利润分成相抵。",
+      "zh": "Intas承担了Xdivane部分CMC开发成本的融资,以18%加成与未来利润分成抵销。",
       "src": "https://www.xbrane.com/en/wp-content/uploads/sites/2/2026/01/xbrane-q3-2026-eng.pdf"
     },
     {
       "k": "other",
       "en": "Accord’s 2026 news records approvals or launches for filgrastim, pegfilgrastim, golimumab and denosumab biosimilars.",
-      "zh": "Accord 2026 年的消息记录了 filgrastim、pegfilgrastim、golimumab 和 denosumab 生物类似药的获批或上市。",
+      "zh": "Accord 2026年的新闻记录了filgrastim、pegfilgrastim、golimumab和denosumab生物类似药的获批或上市。",
       "src": "https://www.accordbiopharma.com/our-newsroom/"
     }
   ],
@@ -75,11 +75,10 @@
     ]
   ],
   "gaps": [
-    "No published company-wide phase totals were verified; counts is null. Unverified mechanisms, modalities, origins, codes and next milestone dates are null.",
-    "Intas is private; no public quarterly financial report or full named phase-by-phase group pipeline was verified. The Intas corporate R&D and operations pages timed out; curl fallback failed because DNS was unavailable. Accord company pages and partner releases were used.",
-    "The selected programme is described as pivotal/registration-enabling, but the loaded Xbrane materials do not explicitly number its phase. Phase is null rather than equating pivotal with Phase 3.",
-    "Only one eligible investigational asset was verified. Approved biosimilars are not recycled as pipeline candidates. Bio-Thera’s BAT2506 India rights were announced, but no current Indian filing/clinical stage or major new indication was verified, so it is omitted.",
-    "Accord’s pipeline-growth graphics refer to January 2024, older than June 2026, and do not disclose current named assets. The 2027 timeline is a partner forecast, not an approved filing date or guaranteed launch.",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "No public complete named group pipeline, quarterly financial report or company-wide numerical phase totals were verified.",
+    "Xdivane is described as pivotal and registration-enabling, without an explicit numerical phase in the reviewed partner reports; phase remains null.",
+    "Only one eligible investigational asset was verified. The current Indian filing or clinical stage for BAT2506 was not established.",
+    "Accord’s pipeline-growth graphics date from January 2024, before June 2026, and do not identify current named candidates. Xdivane timing comes from the Q3 2026 partner report.",
+    "No additional development code was verified for Xdivane."
   ]
 }

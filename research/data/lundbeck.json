@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Lundbeck concentrates on brain diseases, with pivotal epilepsy and multiple system atrophy programs alongside migraine and neurohormonal antibodies.",
-    "zh": "Lundbeck 专注于脑部疾病,除偏头痛和神经激素抗体外,还有癫痫和多系统萎缩的关键性项目。"
+    "zh": "Lundbeck专注于脑部疾病，拥有癫痫和多系统萎缩关键性项目，以及偏头痛和神经激素抗体。"
   },
   "counts": null,
   "items": [
@@ -31,7 +31,7 @@
       "modality": "small molecule",
       "target": {
         "en": "5-HT2C receptor agonist",
-        "zh": "5-HT2C 受体激动剂"
+        "zh": "5-HT2C受体激动剂"
       },
       "ind": {
         "en": "Developmental and epileptic encephalopathies",
@@ -39,17 +39,17 @@
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "DEEp OCEAN pivotal results",
-        "zh": "DEEp OCEAN 关键性研究结果",
+        "zh": "DEEp OCEAN关键性结果",
         "when": "2026Q4"
       },
       "src": "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
     },
     {
       "name": "amlenetug",
-      "code": null,
+      "code": "Lu AF82422",
       "modality": "antibody",
       "target": {
         "en": "Alpha-synuclein",
@@ -61,8 +61,12 @@
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
-      "next": null,
+      "origin": "co-developed",
+      "next": {
+        "en": "Phase 3 MASCOT readout",
+        "zh": "III期MASCOT数据读出",
+        "when": "2027Q3"
+      },
       "src": "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
     },
     {
@@ -80,7 +84,11 @@
       "phase": "2",
       "ta": "Neuroscience",
       "origin": null,
-      "next": null,
+      "next": {
+        "en": "Planned Phase 3 initiation",
+        "zh": "计划启动III期",
+        "when": "2026"
+      },
       "src": "https://lundbeck-prod.adobemsbasic.com/global/our-science/pipeline"
     },
     {
@@ -93,7 +101,7 @@
       },
       "ind": {
         "en": "Congenital adrenal hyperplasia; also Cushing's disease",
-        "zh": "先天性肾上腺皮质增生症;另有库欣病"
+        "zh": "先天性肾上腺皮质增生症；另有库欣病"
       },
       "phase": "2",
       "ta": "Neuroscience",
@@ -107,7 +115,7 @@
       "modality": "small molecule",
       "target": {
         "en": "D1/D2 dopamine receptor agonist",
-        "zh": "D1/D2 多巴胺受体激动剂"
+        "zh": "D1/D2多巴胺受体激动剂"
       },
       "ind": {
         "en": "Parkinson's disease",
@@ -124,7 +132,7 @@
     {
       "k": "catalyst",
       "en": "DEEp OCEAN results are expected in Q4 2026; amlenetug results are expected in 2027.",
-      "zh": "DEEp OCEAN 结果预计于 2026 年第四季度公布;amlenetug 结果预计于 2027 年公布。",
+      "zh": "DEEp OCEAN结果预计于2026年第四季度公布；amlenetug结果预计于2027年公布。",
       "src": "https://mb.cision.com/Main/18215/4422511/4365708.pdf"
     },
     {
@@ -136,7 +144,7 @@
     {
       "k": "balance",
       "en": "2026 guidance includes DKK 5.6–5.7 billion R&D spending and DKK 4–5 billion net debt.",
-      "zh": "2026 年指引包括 DKK 5.6–5.7 billion 的研发支出和 DKK 4–5 billion 的净债务。",
+      "zh": "2026年指引包括56亿至57亿丹麦克朗研发支出和40亿至50亿丹麦克朗净债务。",
       "src": "https://mb.cision.com/Main/18215/4422511/4365708.pdf"
     }
   ],
@@ -148,13 +156,21 @@
     [
       "Q3 2026 financial report, November 10",
       "https://mb.cision.com/Main/18215/4422511/4365708.pdf"
+    ],
+    [
+      "Q3 2026 investor deck: Genmab collaboration and milestones",
+      "https://lundbeck-prod.adobemsbasic.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2026/q3-/Lundbeck_InvestorDeck_Q3%202026.pdf"
+    ],
+    [
+      "Longboard acquisition completion, December 2024",
+      "https://attachment.news.eu.nasdaq.com/a5ac10bca902d7f3168df742f0e3f3356"
     ]
   ],
   "gaps": [
     "No explicit company totals by phase verified; counts is null.",
-    "Origins and several development codes were not verified; these fields are null.",
-    "No dated next milestone verified for most assets.",
+    "Origins of eptinezumab, bocunebart, asedebart and Lu AF28996 were not established in the reviewed sources; null.",
+    "No stated next milestone verified for eptinezumab's China registration, asedebart or Lu AF28996.",
     "China registration is a geographic expansion of an approved medicine.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; curl status validation remains unverified."
+    "The December 2024 Longboard acquisition release predates June 2026 and is used only for bexicaserin's historical origin."
   ]
 }

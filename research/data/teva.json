@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Teva combines a large generics business with a focused neuroscience and immunology pipeline plus biosimilars. Its core innovative candidates are ecopipam, duvakitug, DARI and anti-IL-15; partnerships and acquisitions are material.",
-    "zh": "Teva 在大型仿制药业务基础上布局神经科学、免疫领域创新药及生物类似药，创新重点为 ecopipam、duvakitug、DARI 和抗 IL-15，合作与收购对组合贡献较大。"
+    "zh": "Teva将大型仿制药业务与聚焦神经科学和免疫学的管线及生物类似药相结合。其核心创新候选药物为ecopipam、duvakitug、DARI和抗IL-15;合作和收购具有重要影响。"
   },
   "counts": null,
   "items": [
@@ -13,18 +13,18 @@
       "modality": "small molecule",
       "target": {
         "en": "Dopamine D1 receptor antagonist",
-        "zh": "多巴胺 D1 受体拮抗剂"
+        "zh": "多巴胺D1受体拮抗剂"
       },
       "ind": {
         "en": "Pediatric Tourette syndrome",
-        "zh": "儿童及青少年 Tourette 综合征"
+        "zh": "儿童抽动秽语综合征"
       },
       "phase": "reg",
       "ta": "Neuroscience",
       "origin": "acquired",
       "next": {
         "en": "FDA action targeted late Q1",
-        "zh": "FDA 目标审评时间为一季度末",
+        "zh": "FDA行动目标为第一季度末",
         "when": "2027Q1"
       },
       "src": "https://www.tevapharm.com/news-and-media/latest-news/u.s.-fda-accepts-tevas-new-drug-application-nda-and-grants-priority-review-for-ecopipam-a-first-in-cl"
@@ -39,7 +39,7 @@
       },
       "ind": {
         "en": "Allergic asthma; also nasal polyps, urticaria and U.S. food allergy filing",
-        "zh": "过敏性哮喘；另申报鼻息肉、荨麻疹及美国食物过敏适应症"
+        "zh": "过敏性哮喘;另有鼻息肉、荨麻疹和美国食物过敏申报"
       },
       "phase": "reg",
       "ta": "Respiratory",
@@ -53,11 +53,11 @@
       "modality": "antibody",
       "target": {
         "en": "Alpha-4-beta-7 integrin",
-        "zh": "α4β7 整合素"
+        "zh": "α4β7整合素"
       },
       "ind": {
         "en": "Ulcerative colitis; also Crohn's disease",
-        "zh": "溃疡性结肠炎；另开发克罗恩病"
+        "zh": "溃疡性结肠炎；另有克罗恩病"
       },
       "phase": "reg",
       "ta": "Immunology",
@@ -71,17 +71,17 @@
       "modality": "antibody",
       "target": {
         "en": "TL1A blockade",
-        "zh": "阻断 TL1A"
+        "zh": "TL1A阻断"
       },
       "ind": {
         "en": "Ulcerative colitis; also Crohn's disease and hidradenitis suppurativa",
-        "zh": "溃疡性结肠炎；另开发克罗恩病及化脓性汗腺炎"
+        "zh": "溃疡性结肠炎;另有克罗恩病和化脓性汗腺炎"
       },
       "phase": "3",
       "ta": "Immunology",
       "origin": "co-developed",
       "next": null,
-      "src": "https://s24.q4cdn.com/720828402/files/doc_events/2026/Nov/11/R-D_Day_11-Nov-2026-Website.pdf"
+      "src": "https://www.tevapharm.com/science/pipeline/"
     },
     {
       "name": "Dual Action Rescue Inhaler (DARI)",
@@ -89,7 +89,7 @@
       "modality": "small molecule",
       "target": {
         "en": "Inhaled corticosteroid / short-acting beta agonist",
-        "zh": "吸入糖皮质激素及短效 β 受体激动剂"
+        "zh": "吸入型糖皮质激素/短效β受体激动剂"
       },
       "ind": {
         "en": "Asthma",
@@ -99,11 +99,11 @@
       "ta": "Respiratory",
       "origin": "co-developed",
       "next": {
-        "en": "Phase 3 topline results",
-        "zh": "III 期顶线结果",
-        "when": "2027H1"
+        "en": "NDA submission planned",
+        "zh": "计划提交NDA",
+        "when": "2027"
       },
-      "src": "https://s24.q4cdn.com/720828402/files/doc_events/2026/Nov/11/R-D_Day_11-Nov-2026-Website.pdf"
+      "src": "https://www.tevapharm.com/science/pipeline/"
     },
     {
       "name": "Anti-IL-15",
@@ -111,18 +111,18 @@
       "modality": "antibody",
       "target": {
         "en": "IL-15 blockade",
-        "zh": "阻断 IL-15"
+        "zh": "IL-15阻断"
       },
       "ind": {
         "en": "Celiac disease; also vitiligo",
-        "zh": "乳糜泻；另开发白癜风"
+        "zh": "乳糜泻;另有白癜风"
       },
       "phase": "2",
       "ta": "Immunology",
       "origin": "internal",
       "next": {
         "en": "Celiac Phase 2b initiation planned",
-        "zh": "计划启动乳糜泻 IIb 期研究",
+        "zh": "计划启动乳糜泻IIb期",
         "when": "2027H2"
       },
       "src": "https://www.tevausa.com/news-and-media/press-releases/teva-shares-innovative-pipeline-updates-and-unveils-path-to-future-growth-at-rd-day-targeting-$67-bill/"
@@ -132,31 +132,31 @@
     {
       "k": "catalyst",
       "en": "Ecopipam has priority review with an FDA target in late Q1 2027.",
-      "zh": "Ecopipam 获优先审评资格，FDA 目标时间为 2027 年一季度末。",
+      "zh": "Ecopipam获优先审评,FDA目标为2027年第一季度末。",
       "src": "https://www.tevapharm.com/news-and-media/latest-news/u.s.-fda-accepts-tevas-new-drug-application-nda-and-grants-priority-review-for-ecopipam-a-first-in-cl"
     },
     {
       "k": "catalyst",
       "en": "The November R&D Day moved DARI topline expectations to H1 2027.",
-      "zh": "11 月研发日将 DARI 顶线结果预期列为 2027 年上半年。",
+      "zh": "11月研发日将DARI topline预期调整至2027年上半年。",
       "src": "https://s24.q4cdn.com/720828402/files/doc_events/2026/Nov/11/R-D_Day_11-Nov-2026-Website.pdf"
     },
     {
       "k": "deal",
       "en": "Teva acquired Emalex for $700 million at closing, with milestones and royalties on top.",
-      "zh": "Teva 收购 Emalex 时支付 7 亿美元，另涉及里程碑款及销售提成。",
+      "zh": "Teva以交割时7亿美元收购Emalex,另加里程碑付款和特许权使用费。",
       "src": "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2026/Teva-Closes-Acquisition-of-Emalex-Biosciences-Strengthening-Late-Stage-Neuroscience-Pipeline-and-Advancing-Pivot-to-Growth-Strategy/default.aspx"
     },
     {
       "k": "balance",
       "en": "Teva returned to investment grade in 2026 and targets net debt/adjusted EBITDA of 2.0x by end-2027.",
-      "zh": "Teva 于 2026 年重回投资级，并计划于 2027 年底将净债务与调整后 EBITDA 比率降至 2.0 倍。",
+      "zh": "Teva于2026年恢复投资级评级,目标是到2027年底净债务/调整后EBITDA达到2.0倍。",
       "src": "https://www.tevausa.com/news-and-media/press-releases/teva-shares-innovative-pipeline-updates-and-unveils-path-to-future-growth-at-rd-day-targeting-$67-bill/"
     },
     {
       "k": "policy",
       "en": "The October U.S. agreement includes Medicaid price reductions and an MFN commitment for certain future innovative launches.",
-      "zh": "10 月美国协议包含 Medicaid 降价安排，以及部分未来创新药上市的最惠国价格承诺。",
+      "zh": "10月的美国协议包括Medicaid降价以及对某些未来创新药上市的最惠国(MFN)承诺。",
       "src": "https://www.sec.gov/Archives/edgar/data/818686/000081868626000006/teva-20260930.htm"
     }
   ],
@@ -204,6 +204,10 @@
     [
       "Alvotech June 4, 2026: AVT05/06 already approved outside U.S.",
       "https://www.alvotech.com/newsroom/alvotech-announces-resubmission-of-u-s-biologics-license-applications-for-avt05-a-proposed-biosimilar-to-simponi-and-simponi-aria-and-avt06-a-proposed-biosimilar-to-eylea"
+    ],
+    [
+      "R&D Day 2026: 2027 development milestones",
+      "https://www.tevapharm.com/globalassets/tevapharm-vision/rd-magazine/index.html"
     ]
   ],
   "gaps": [
@@ -212,6 +216,7 @@
     "AVT16/AVT80 presentations are consolidated as one vedolizumab asset. Teva has commercialization rights while Alvotech develops/manufactures; origin licensed describes the external rights arrangement.",
     "IGALMI at-home use was approved November 16, 2026 and is excluded despite the older pipeline page still showing review. WELTRUZA, denosumab and regional-only filings for already approved AVT05/AVT06 uses are also excluded.",
     "The March 30, 2026 omalizumab source predates 2026-06 and supports molecular target and filed indications only; November pipeline/10-Q confirms review status.",
-    "The anti-IL-15 entry retains verified Phase 2 celiac disease as lead indication; the newer R&D Day describes planned vitiligo Phase 2/3 development and celiac Phase 2b in H2 2027, without asserting the future studies have started."
+    "The anti-IL-15 entry retains verified Phase 2 celiac disease as lead indication; the newer R&D Day describes planned vitiligo Phase 2/3 development and celiac Phase 2b in H2 2027, without asserting the future studies have started.",
+    "DARI next uses the company's November 2026 R&D Day NDA-submission guidance for 2027; a more precise filing period was not stated."
   ]
 }

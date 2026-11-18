@@ -13,18 +13,18 @@
       "modality": "small molecule",
       "target": {
         "en": "Orexin-2 receptor",
-        "zh": "Orexin-2 受体"
+        "zh": "Orexin-2受体"
       },
       "ind": {
         "en": "Narcolepsy types 1 and 2; also idiopathic hypersomnia Phase 2",
-        "zh": "1 型和 2 型发作性睡病;另有特发性嗜睡症 II 期"
+        "zh": "1型和2型发作性睡病;特发性嗜睡症II期"
       },
       "phase": "3",
       "ta": "Neuroscience",
       "origin": null,
       "next": {
-        "en": "Narcolepsy Phase 3 results beginning mid-2027; IH data around year-end 2026 or early 2027",
-        "zh": "发作性睡病 III 期结果自 2027 年中起陆续公布;IH 数据预计在 2026 年底或 2027 年初前后",
+        "en": "BRILLIANCE Phase 3 narcolepsy results beginning mid-2027; Vibrance-3 idiopathic hypersomnia results in the coming months",
+        "zh": "BRILLIANCE III期发作性睡病结果自2027年中起公布;Vibrance-3特发性嗜睡症结果将于未来数月公布",
         "when": null
       },
       "src": "https://www.alkermes.com/Research-and-Development/Pipeline"
@@ -33,10 +33,7 @@
       "name": "sodium oxybate extended-release (idiopathic hypersomnia)",
       "code": "LUMRYZ",
       "modality": "small molecule",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Idiopathic hypersomnia",
         "zh": "特发性嗜睡症"
@@ -46,7 +43,7 @@
       "origin": "acquired",
       "next": {
         "en": "Supplemental NDA based on REVITALYZ",
-        "zh": "基于 REVITALYZ 的补充 NDA",
+        "zh": "基于REVITALYZ的补充新药申请",
         "when": null
       },
       "src": "https://www.alkermes.com/Research-and-Development/Pipeline"
@@ -55,13 +52,10 @@
       "name": "olanzapine / samidorphan (pediatric)",
       "code": null,
       "modality": "small molecule",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Pediatric schizophrenia and bipolar I disorder",
-        "zh": "儿童精神分裂症和 I 型双相情感障碍"
+        "zh": "儿童精神分裂症和双相I型障碍"
       },
       "phase": "3",
       "ta": "Neuroscience",
@@ -181,7 +175,7 @@
     "Origins for proprietary orexin compounds and olanzapine/samidorphan were not explicitly established in reviewed text; null.",
     "Targets of olanzapine/samidorphan and sodium oxybate were not specified in reviewed materials; null.",
     "ALKS 4510 remains phase 1; planned phase 2 start is not treated as completed.",
-    "Alixorexton IH readout spans year-end 2026 or early 2027; no narrower date assigned.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "November prepared remarks guide BRILLIANCE results beginning mid-2027 and Vibrance-3 results in the coming months; no narrower calendar date is assigned.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

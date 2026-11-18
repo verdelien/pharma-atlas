@@ -10,6 +10,20 @@
           "note": "EU regulatory data protection expires in 2026; combination patent with SPC expires in 2028, with further EU patents. A common EU/Japan generic-entry year was not verified.",
           "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
           "note_zh": "欧盟监管数据保护于2026年到期；含SPC的组合专利于2028年到期，另有其他欧盟专利。欧盟/日本共同的仿制药上市年份未核实。"
+        },
+        {
+          "region": "EU",
+          "value": "2026-11",
+          "note": "Regulatory data protection ends November 2026; combination-patent SPC expires 2028, with later patents. Entry timing depends on enforcement.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "监管数据保护于2026年11月结束;复方专利SPC于2028年到期,另有更晚的专利。进入时间取决于专利执行。"
+        },
+        {
+          "region": "Japan",
+          "value": "2030-06",
+          "note": "PMDA re-examination ends 2030-06-28; not a patent-expiry or announced generic-launch date.",
+          "src": "https://www.pmda.go.jp/drugs/2024/P20240219001/300242000_30200AMX00502_A100_1.pdf",
+          "note_zh": "PMDA再审查期于2030-06-28结束;并非专利到期或已公布的仿制药上市日期。"
         }
       ]
     },
@@ -22,6 +36,24 @@
           "note": "Principal patent protection: US 2029; EU 2030, including granted SPC/pediatric extensions where applicable. No single global biosimilar-entry year disclosed.",
           "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
           "note_zh": "主要专利保护：美国2029年；欧盟2030年，包括适用情况下已授予的SPC/儿科延期。未披露单一的全球生物类似药上市年份。"
+        },
+        {
+          "region": "US",
+          "value": "2029",
+          "note": "Basic compound patent/regulatory exclusivity, including granted extensions; additional patents may apply; no entry announcement.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "基础化合物专利/监管独占期(含已授予的延期);可能适用其他专利;无进入公告。"
+        },
+        {
+          "region": "EU",
+          "value": "2030",
+          "note": "Basic compound patent/regulatory exclusivity, including granted SPC/pediatric extensions where granted; no entry announcement.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "基础化合物专利/监管独占期(含已授予的SPC/儿科延期,如已授予);无进入公告。"
+        },
+        {
+          "region": "Japan",
+          "value": null
         }
       ]
     },
@@ -34,6 +66,24 @@
           "note": "Principal patent protection: US 2031; EU 2032, including granted SPC/pediatric extensions where applicable. No single global generic-entry year disclosed.",
           "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
           "note_zh": "主要专利保护：美国2031年；欧盟2032年，包括适用情况下已授予的SPC/儿科延期。未披露单一的全球仿制药上市年份。"
+        },
+        {
+          "region": "US",
+          "value": "2031",
+          "note": "Basic compound patent/regulatory exclusivity, including granted extensions; additional patents may apply; no entry announcement.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "基础化合物专利/监管独占期(含已授予的延期);可能适用其他专利;无进入公告。"
+        },
+        {
+          "region": "EU",
+          "value": "2032",
+          "note": "Basic compound patent/regulatory exclusivity, including granted SPC/pediatric extensions where granted; no entry announcement.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "基础化合物专利/监管独占期(含已授予的SPC/儿科延期,如已授予);无进入公告。"
+        },
+        {
+          "region": "Japan",
+          "value": null
         }
       ]
     },
@@ -46,6 +96,27 @@
           "note": "US principal compound patent expires in 2031. EU compound patent has expired, but the report states no EU biosimilar competition. No global biosimilar-entry year disclosed.",
           "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
           "note_zh": "美国主要化合物专利于2031年到期。欧盟化合物专利已到期，但报告称欧盟没有生物类似药竞争。未披露全球生物类似药上市年份。"
+        },
+        {
+          "region": "US",
+          "value": "2031",
+          "note": "Basic compound patent/regulatory exclusivity, including granted extensions; additional patents may apply; no entry announcement.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "基础化合物专利/监管独占期(含已授予的延期);可能适用其他专利;无进入公告。"
+        },
+        {
+          "region": "EU",
+          "value": null,
+          "note": "Compound patent expired; company reports no biosimilar competition. Expiry year unverified.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "化合物专利已到期;公司报告无生物类似药竞争。到期年份未核实。"
+        },
+        {
+          "region": "Japan",
+          "value": "2031-03",
+          "note": "PMDA: ten-year re-examination from 2021-03-23; calculated end 2031-03-22. Not patent expiry or an announced biosimilar launch.",
+          "src": "https://www.pmda.go.jp/RMP/www/300242/f9754fe4-f0e5-48fa-95c2-86f47a6d8e9f/300242_1190405G1024_009RMP.pdf",
+          "note_zh": "PMDA:十年再审查期自2021-03-23起;推算截止2031-03-22。并非专利到期或已公布的生物类似药上市。"
         }
       ]
     },
@@ -58,6 +129,24 @@
           "note": "US: Tafinlar 2030, Mekinist 2027, combination-use patents 2031; EU: each compound 2029, combination-use patents 2030. Other US Mekinist patents expiring 2032 are challenged. No single global entry year disclosed.",
           "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
           "note_zh": "美国：Tafinlar 2030年，Mekinist 2027年，联合用药专利2031年；欧盟：各化合物2029年，联合用药专利2030年。其他于2032年到期的美国Mekinist专利受到挑战。未披露单一的全球上市年份。"
+        },
+        {
+          "region": "US",
+          "value": "2031",
+          "note": "Combination-use patents expire 2031; Tafinlar compound 2030, Mekinist 2027; challenged Mekinist patents 2032. No entry announcement.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "联合用药专利于2031年到期;Tafinlar化合物专利2030年,Mekinist 2027年;受到挑战的Mekinist专利2032年。无进入公告。"
+        },
+        {
+          "region": "EU",
+          "value": "2030",
+          "note": "Combination-use patents expire 2030; each compound 2029, including granted extensions. No entry announcement.",
+          "src": "https://www.novartis.com/sites/novartis_com/files/novartis-annual-report-2025.pdf",
+          "note_zh": "联合用药专利于2030年到期;各化合物专利2029年(含已授予的延期)。无进入公告。"
+        },
+        {
+          "region": "Japan",
+          "value": null
         }
       ]
     }

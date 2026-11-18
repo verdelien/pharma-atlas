@@ -11,10 +11,7 @@
       "name": "secukinumab biosimilar",
       "code": "CT-P55",
       "modality": "antibody",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Psoriasis; regulatory review across key markets",
         "zh": "银屑病;主要市场监管审评中"
@@ -29,10 +26,7 @@
       "name": "pembrolizumab biosimilar",
       "code": "CT-P51",
       "modality": "antibody",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Lung cancer, melanoma and other cancers; Korean filing",
         "zh": "肺癌、黑色素瘤及其他癌症;韩国申报"
@@ -45,19 +39,16 @@
     },
     {
       "name": "Herzuma SC",
-      "code": null,
+      "code": "CT-P6 SC",
       "modality": "antibody",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
-        "en": "Oncology; subcutaneous formulation",
-        "zh": "肿瘤;皮下制剂"
+        "en": "Breast cancer; subcutaneous trastuzumab/hyaluronidase formulation",
+        "zh": "乳腺癌;曲妥珠单抗/透明质酸酶皮下制剂"
       },
       "phase": "reg",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://www.celltrion.com/en-us/"
     },
@@ -65,10 +56,7 @@
       "name": "daratumumab biosimilar",
       "code": "CT-P44",
       "modality": "antibody",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Multiple myeloma",
         "zh": "多发性骨髓瘤"
@@ -83,10 +71,7 @@
       "name": "ocrelizumab biosimilar",
       "code": "CT-P53",
       "modality": "antibody",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Multiple sclerosis",
         "zh": "多发性硬化"
@@ -113,8 +98,8 @@
       "ta": "Oncology",
       "origin": null,
       "next": {
-        "en": "Enter dose-optimization part 2",
-        "zh": "进入剂量优化第 2 部分",
+        "en": "Enter dose-optimization part 2 in March",
+        "zh": "3月进入剂量优化第2部分",
         "when": "2027Q1"
       },
       "src": "https://www.celltrion.com/en-us/company/media-center/stories/adc-pipeline"
@@ -204,12 +189,17 @@
     [
       "Earnings archive",
       "https://www.celltrion.com/en-us/investment/ir/earnings"
+    ],
+    [
+      "Herzuma SC in-house formulation development, February 2, 2026",
+      "https://www.celltrion.com/en-us/company/media-center/press-release/4450"
     ]
   ],
   "gaps": [
     "Static table lags CT-P51 and CT-P55 filings; announcements take precedence. No reported phase counts verified.",
-    "Origins and biosimilar targets were not verified; null. CT-P52 and CT-P72 omitted because precise current stage was not independently verified.",
-    "Herzuma SC exact indication and next regulatory decision dates were not disclosed in reviewed update. Regulatory-streamlining release is older than June 2026.",
-    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+    "CT-P70 timing is the company’s stated March 2027 target; two unnamed ADCs have H1 2027 topline plans, so those results are not assigned individually. No specific dates or provenance were verified for CT-P71/CT-P73.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved.",
+    "Biosimilar targets and origins other than Herzuma SC remain unverified and null. CT-P52 and CT-P72 remain omitted because precise current stage was not independently verified.",
+    "Herzuma SC internal formulation origin, code CT-P6 SC and breast-cancer indication are established by the February 2, 2026 company release, older than 2026-06; current submission status comes from the Q3 update. No regulatory decision date was verified. The regulatory-streamlining source also predates June 2026."
   ]
 }

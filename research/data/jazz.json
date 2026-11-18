@@ -3,12 +3,12 @@
   "asof": "2026-11",
   "summary": {
     "en": "Jazz combines neuroscience and oncology discovery with major new uses of existing medicines. Its late-stage portfolio includes zanidatamab, dordaviprone, cannabidiol and Vyxeos indication expansions alongside earlier acquired and collaborative candidates.",
-    "zh": "Jazz 将神经科学和肿瘤药物发现与现有药物的重要新用途相结合。其后期产品组合包括 zanidatamab、dordaviprone、cannabidiol 和 Vyxeos 的适应症拓展,以及早期收购和合作获得的候选药物。"
+    "zh": "Jazz将神经科学和肿瘤研发与现有药物的重要新用途相结合。其后期组合包括zanidatamab、dordaviprone、cannabidiol和Vyxeos适应症拓展,以及早期收购和合作的候选药物。"
   },
   "counts": null,
   "items": [
     {
-      "name": "zanidatamab (1L biliary and breast cancer)",
+      "name": "zanidatamab (1L biliary cancer; previously treated breast cancer)",
       "code": null,
       "modality": "bispecific",
       "target": {
@@ -17,13 +17,13 @@
       },
       "ind": {
         "en": "First-line biliary tract cancer; metastatic HER2-positive breast cancer after T-DXd",
-        "zh": "一线胆道癌;T-DXd 治疗后的转移性 HER2 阳性乳腺癌"
+        "zh": "一线胆道癌;T-DXd治疗后的转移性HER2阳性乳腺癌"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
-      "src": "https://www.jazzpharma.com/science/pipeline"
+      "src": "https://www.sec.gov/Archives/edgar/data/1232524/000123252426000057/jazz-20260930.htm"
     },
     {
       "name": "dordaviprone (newly diagnosed glioma)",
@@ -31,18 +31,18 @@
       "modality": "small molecule",
       "target": {
         "en": "ClpP activation; DRD2 inhibition",
-        "zh": "ClpP 激活;DRD2 抑制"
+        "zh": "ClpP激活;DRD2抑制"
       },
       "ind": {
         "en": "Newly diagnosed H3 K27M-mutant diffuse glioma following radiotherapy",
-        "zh": "放疗后新诊断的 H3 K27M 突变弥漫性胶质瘤"
+        "zh": "放疗后新诊断H3 K27M突变弥漫性胶质瘤"
       },
       "phase": "3",
       "ta": "Oncology",
       "origin": "acquired",
       "next": {
         "en": "ACTION interim overall-survival analysis expected in first half of 2027",
-        "zh": "ACTION 中期总生存期分析预计于 2027 年上半年完成",
+        "zh": "ACTION总生存期中期分析预计于2027年上半年",
         "when": "2027H1"
       },
       "src": "https://www.jazzpharma.com/science/pipeline"
@@ -50,14 +50,14 @@
     {
       "name": "Vyxeos (broader AML)",
       "code": "JZP351",
-      "modality": null,
+      "modality": "other",
       "target": {
         "en": "Liposomal daunorubicin / cytarabine",
         "zh": "脂质体柔红霉素 / 阿糖胞苷"
       },
       "ind": {
         "en": "Newly diagnosed adults with standard- and high-risk AML (AMLSG)",
-        "zh": "新诊断的标危和高危 AML 成人患者(AMLSG)"
+        "zh": "新诊断成人标危和高危AML(AMLSG)"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -69,17 +69,14 @@
       "name": "cannabidiol (developmental and epileptic encephalopathy)",
       "code": null,
       "modality": "small molecule",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Treatment-resistant developmental and epileptic encephalopathy (Epi-DEE)",
-        "zh": "难治性发育性癫痫性脑病(Epi-DEE)"
+        "zh": "难治性发育性和癫痫性脑病(Epi-DEE)"
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
       "src": "https://www.jazzpharma.com/science/pipeline"
     },
@@ -89,7 +86,7 @@
       "modality": null,
       "target": {
         "en": "ClpP agonist; DRD2 antagonist",
-        "zh": "ClpP 激动剂;DRD2 拮抗剂"
+        "zh": "ClpP激动剂;DRD2拮抗剂"
       },
       "ind": {
         "en": "Pheochromocytoma and paraganglioma; recurrent meningioma; CNS tumors",
@@ -97,9 +94,9 @@
       },
       "phase": "2",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
-      "src": "https://www.jazzpharma.com/science/pipeline"
+      "src": "https://www.sec.gov/Archives/edgar/data/1232524/000123252426000057/jazz-20260930.htm"
     },
     {
       "name": "JZP6979",
@@ -107,18 +104,18 @@
       "modality": "small molecule",
       "target": {
         "en": "KCNT1 inhibitor",
-        "zh": "KCNT1 抑制剂"
+        "zh": "KCNT1抑制剂"
       },
       "ind": {
         "en": "KCNT1-related epilepsy",
-        "zh": "KCNT1 相关癫痫"
+        "zh": "KCNT1相关癫痫"
       },
       "phase": "2",
       "ta": "Neuroscience",
       "origin": "acquired",
       "next": {
         "en": "Initial patient data expected at a medical meeting in Q4 2026",
-        "zh": "首批患者数据预计于 2026 年第四季度在医学会议上公布",
+        "zh": "首批患者数据预计于2026年第四季度的医学会议上公布",
         "when": "2026Q4"
       },
       "src": "https://www.jazzpharma.com/sites/jazzpharmaceuticals/files/2026-10/Jazz%20Pharmaceuticals%20Pipeline%20Overview_November%202026.pdf"
@@ -129,15 +126,15 @@
       "modality": null,
       "target": {
         "en": "Pan-RAF inhibitor",
-        "zh": "Pan-RAF 抑制剂"
+        "zh": "泛RAF抑制剂"
       },
       "ind": {
         "en": "RAF/RAS-mutant tumors",
-        "zh": "RAF/RAS 突变肿瘤"
+        "zh": "RAF/RAS突变肿瘤"
       },
       "phase": "1",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
       "src": "https://www.jazzpharma.com/science/pipeline"
     },
@@ -147,7 +144,7 @@
       "modality": "other",
       "target": {
         "en": "Conditionally activated interferon alfa-2b",
-        "zh": "条件激活型干扰素 α-2b"
+        "zh": "条件激活型interferon alfa-2b"
       },
       "ind": {
         "en": "Solid tumors",
@@ -165,7 +162,7 @@
       "modality": null,
       "target": {
         "en": "Orexin-2 receptor agonist",
-        "zh": "Orexin-2 受体激动剂"
+        "zh": "Orexin-2受体激动剂"
       },
       "ind": {
         "en": "Narcolepsy; idiopathic hypersomnia",
@@ -181,10 +178,7 @@
       "name": "JZP047",
       "code": null,
       "modality": null,
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Absence epilepsy",
         "zh": "失神癫痫"
@@ -200,25 +194,25 @@
     {
       "k": "catalyst",
       "en": "Modeyso ACTION interim survival analysis is expected in 2027H1.",
-      "zh": "Modeyso ACTION 中期生存分析预计于 2027 年上半年完成。",
+      "zh": "Modeyso ACTION中期生存分析预计于2027年上半年公布。",
       "src": "https://investor.jazzpharma.com/news-releases/news-release-details/jazz-pharmaceuticals-announces-third-quarter-2026-financial"
     },
     {
       "k": "catalyst",
       "en": "Initial JZP6979 patient data are expected in Q4 2026 following the Actio acquisition.",
-      "zh": "继收购 Actio 之后,JZP6979 的首批患者数据预计于 2026 年第四季度公布。",
+      "zh": "收购Actio后,JZP6979首批患者数据预计于2026年第四季度公布。",
       "src": "https://investor.jazzpharma.com/news-releases/news-release-details/jazz-pharmaceuticals-announces-third-quarter-2026-financial"
     },
     {
       "k": "concentration",
       "en": "First-line gastroesophageal zanidatamab received US approval in August 2026; remaining selected expansions concern biliary and breast cancer.",
-      "zh": "zanidatamab 一线胃食管癌适应症于 2026 年 8 月获美国批准;其余所选拓展适应症涉及胆道癌和乳腺癌。",
+      "zh": "一线胃食管zanidatamab于2026年8月获美国批准;其余入选的适应症拓展涉及胆道癌和乳腺癌。",
       "src": "https://investor.jazzpharma.com/news-releases/news-release-details/jazz-pharmaceuticals-announces-third-quarter-2026-financial"
     },
     {
       "k": "other",
       "en": "Cannabidiol Epi-DEE is Phase 3; the separate capsule filing concerns already approved indications.",
-      "zh": "Cannabidiol 用于 Epi-DEE 处于 III 期;单独的胶囊申报涉及已获批适应症。",
+      "zh": "Cannabidiol Epi-DEE处于III期;单独的胶囊申报涉及已获批适应症。",
       "src": "https://www.jazzpharma.com/science/pipeline"
     }
   ],
@@ -238,17 +232,20 @@
     [
       "JZP898 asset purchase agreement, May 6, 2026",
       "https://www.sec.gov/Archives/edgar/data/1785530/000178553026000019/a06302026ex101.htm"
+    ],
+    [
+      "Q3 2026 Form 10-Q, November 2, 2026",
+      "https://www.sec.gov/Archives/edgar/data/1232524/000123252426000057/jazz-20260930.htm"
     ]
   ],
   "gaps": [
-    "Company-wide phase totals were not verified; counts is null. No next milestone was verified for selected assets except the dated ACTION and JZP6979 forecasts.",
-    "One entry combines zanidatamab expansions: HERIZON-BTC-302 and EmpowHER are explicitly described as Phase 3 studies. The webpage summary labels first-line BTC regulatory, but no corresponding filing was verified, so phase 3 follows the described trials rather than inferring a submission.",
-    "First-line gastroesophageal zanidatamab is already approved according to Q3 results and is excluded as an investigational indication. Expanded Xywav dosing and cannabidiol capsules for existing indications are not new indications and are excluded.",
-    "Cannabidiol DEE and broader Vyxeos AML are retained under the revised major-new-indication rule. Lurbinectedin Ewing sarcoma is labelled Phase 3 in the chart but described as Phase 1/2 in the narrative; it is not added given unresolved staging and the ten-item limit.",
-    "JZP6979 Phase 2 follows the company pipeline classification; Q3 results describe KYRON as Phase 1b/2a. Origins for JZP3507, JZP815 and the newly selected zanidatamab, Vyxeos and cannabidiol entries were not verified in the accessible sources and are null.",
-    "JZP047 target and origin were not disclosed. Modalities for JZP3507, JZP815, JZP269, JZP047 and the liposomal Vyxeos combination were not assigned from unverified assumptions. Additional codes not stated are null.",
-    "The formerly cited Q3 filing download was inaccessible and has been removed from sources. The company pipeline, November overview and Q3 release were loaded; the SEC asset-purchase agreement supports acquired JZP898.",
-    "The May 6, 2026 SEC asset-purchase agreement is older than June 2026; it is used only for JZP898 ownership provenance, while clinical staging follows the November pipeline.",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "Company-wide numerical phase totals were not verified. No next milestones were established beyond the ACTION and JZP6979 forecasts.",
+    "Zanidatamab is Phase 3 for HERIZON-BTC-302 and the post-T-DXd EmpowHER study in the November Q3 filing. The live webpage labels first-line BTC regulatory; no separate filing was established.",
+    "First-line gastroesophageal zanidatamab is already approved and remains excluded. Cannabidiol’s existing-indication capsule filing is not substituted for its Phase 3 DEE programme.",
+    "Vyxeos broader AML remains Phase 3 in the November pipeline. The Q3 filing does not include it in the selected development table; its current indication-level status is not reconciled across those two sources.",
+    "Origins remain unverified for Vyxeos and JZP047. JZP047 target is undisclosed; cannabidiol’s specific molecular target was not established.",
+    "Modalities remain unverified for JZP3507, JZP815, JZP269 and JZP047. Vyxeos is represented as other for its liposomal two-drug formulation.",
+    "JZP6979 is Phase 2 in the pipeline chart; the Q3 release describes KYRON as Phase 1b/2a.",
+    "The May 2026 JZP898 asset-purchase agreement predates June 2026 and supports provenance; current phases use November 2026 materials."
   ]
 }

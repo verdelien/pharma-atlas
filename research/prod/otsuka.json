@@ -6,7 +6,30 @@
       "v": 2.215,
       "v_note": "FY2025 ended December 31, 2025: reported JPY 331,338 million; converted to USD bn at company FY2025 rate JPY 149.61/USD (Integrated Report 2026, p.24: https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf).",
       "v_src": "https://www.otsuka.com/en/ir/stock/pdf/meeting/202512_01.pdf",
-      "v_note_zh": "FY2025截至2025年12月31日：报告值JPY 331,338 million；按公司FY2025汇率JPY 149.61/USD折算为USD bn（2026年综合报告，第24页：https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf）。"
+      "v_note_zh": "FY2025截至2025年12月31日：报告值JPY 331,338 million；按公司FY2025汇率JPY 149.61/USD折算为USD bn（2026年综合报告，第24页：https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf）。",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2029-06",
+          "note": "Orange Book: compound patent US RE48,059 plus pediatric exclusivity expires 2029-06-23; formulation patent plus pediatric extension April 2033. No generic launch date verified.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:化合物专利US RE48,059加儿科独占期于2029-06-23到期;制剂专利加儿科延期2033年4月。未核实仿制药上市日期。"
+        },
+        {
+          "region": "EU",
+          "value": "2031-10",
+          "note": "Partner Lundbeck May 2022 listing document: composition-of-matter patent including potential extensions expires October 2031; formulation patent October 2032. Patent dates, not generic-launch guidance.",
+          "src": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2022/05-may/Listing_Document_H_Lundbeck_Share_Split_20_05_2022.PDF",
+          "note_zh": "合作方Lundbeck 2022年5月上市文件:物质组成专利(含潜在延期)于2031年10月到期;制剂专利2032年10月。为专利日期,并非仿制药上市指引。"
+        },
+        {
+          "region": "Japan",
+          "value": "2028-09",
+          "note": "PMDA September 2024 review grants a four-year re-examination period for the Alzheimer agitation supplement. The company interview form specifies 2028-09-23; this is regulatory protection, not patent expiry or generic-launch guidance. Interview form: https://pins.japic.or.jp/pdf/medical_interview/IF00009259.pdf",
+          "src": "https://www.pmda.go.jp/drugs/2024/P20240925002/180078000_23000AMX00010_A100_1.pdf",
+          "note_zh": "PMDA 2024年9月审评对阿尔茨海默病激越补充适应症授予四年再审查期。公司访谈表注明为2028-09-23;这是监管保护,并非专利到期或仿制药上市指引。访谈表:https://pins.japic.or.jp/pdf/medical_interview/IF00009259.pdf"
+        }
+      ]
     },
     {
       "b": "Abilify Maintena / Asimtufii",
@@ -27,7 +50,23 @@
       "v": 0.73,
       "v_note": "FY2025 ended December 31, 2025: reported JPY 109,279 million; converted to USD bn at company FY2025 rate JPY 149.61/USD (Integrated Report 2026, p.24: https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf).",
       "v_src": "https://www.otsuka.com/en/ir/stock/pdf/meeting/202512_01.pdf",
-      "v_note_zh": "FY2025截至2025年12月31日：报告值JPY 109,279 million；按公司FY2025汇率JPY 149.61/USD折算为USD bn（2026年综合报告，第24页：https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf）。"
+      "v_note_zh": "FY2025截至2025年12月31日：报告值JPY 109,279 million；按公司FY2025汇率JPY 149.61/USD折算为USD bn（2026年综合报告，第24页：https://www.otsuka.com/en/ir/library/pdf/annual/2026_all_a4.pdf）。",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2034-06",
+          "note": "Orange Book NDA 207981: drug-substance/product patents US 9,527,833 and 10,457,666 expire 2034-06-17; use patents February 2037. No generic launch date verified.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书NDA 207981:原料药/产品专利US 9,527,833和10,457,666于2034-06-17到期;用途专利2037年2月。未核实仿制药上市日期。"
+        },
+        {
+          "region": "Japan",
+          "value": "2022-03",
+          "note": "PMDA-hosted company interview form: re-examination period ended 2022-03-23; results notified 2023-06-28. This regulatory date does not establish patent expiry or generic launch.",
+          "src": "https://www.info.pmda.go.jp/go/interview/1/400107_4299100F1026_1_303_1F.pdf",
+          "note_zh": "PMDA托管的公司访谈表:再审查期于2022-03-23结束;结果于2023-06-28通知。该监管日期不能确定专利到期或仿制药上市。"
+        }
+      ]
     }
   ],
   "new_products": []

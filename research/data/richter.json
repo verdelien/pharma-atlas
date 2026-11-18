@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Women's health and neuropsychiatry anchor development, supported by biosimilars and generics. Public materials identify a small set of named clinical candidates amid many unnamed portfolio projects.",
-    "zh": "女性健康和神经精神领域是开发的核心,并有生物类似药和仿制药支撑。公开资料中点名的临床候选药物数量不多,另有许多未具名的产品组合项目。"
+    "zh": "女性健康和神经精神疾病是研发的支柱，并辅以生物类似药和仿制药。公开资料在众多未具名产品组合项目中仅明确了少数已命名的临床候选药物。"
   },
   "counts": null,
   "items": [
@@ -17,7 +17,7 @@
       },
       "ind": {
         "en": "Menopausal symptoms; US NDA accepted",
-        "zh": "更年期症状;美国 NDA 已受理"
+        "zh": "更年期症状；美国NDA已获受理"
       },
       "phase": "reg",
       "ta": "Women's health",
@@ -28,10 +28,10 @@
     {
       "name": "RGH-932",
       "code": "RGH-932/ABBV-932",
-      "modality": null,
+      "modality": "small molecule",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "D3/D2/5-HT1A receptor partial agonist",
+        "zh": "D3/D2/5-HT1A受体部分激动剂"
       },
       "ind": {
         "en": "Bipolar depression and generalized anxiety disorder",
@@ -47,17 +47,14 @@
       "name": "RGH-202",
       "code": "RGH-202",
       "modality": null,
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
-        "en": null,
-        "zh": null
+        "en": "Social anxiety disorder",
+        "zh": "社交焦虑障碍"
       },
       "phase": "2",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/hu/2026/richter_ir_presentation_november_2026.pdf?hash=903C8171D1588A58C683CB2970855C82&rev=36de267f113647aaa39aff34b43fe096"
     }
@@ -66,25 +63,25 @@
     {
       "k": "concentration",
       "en": "Vraylar royalties reached HUF189 billion in the first nine months of 2026.",
-      "zh": "2026 年前九个月,Vraylar 特许权使用费达到 HUF189 billion。",
+      "zh": "2026年前九个月，Vraylar特许权使用费达1890亿匈牙利福林。",
       "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/en/2026/presentationq32026.pdf?hash=B6844E1B2198B31145CCAA8CA3113CB5&rev=4d08b3abd54d48d6b59469b043aae58d"
     },
     {
       "k": "loe",
       "en": "Company strategy explicitly targets managing cariprazine loss-of-exclusivity effects through new CNS assets.",
-      "zh": "公司战略明确提出通过新的 CNS 资产来应对 cariprazine 独占期结束 (LOE) 的影响。",
+      "zh": "公司战略明确以新的中枢神经系统资产应对cariprazine独占期结束的影响。",
       "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/hu/2026/richter_ir_presentation_november_2026.pdf?hash=903C8171D1588A58C683CB2970855C82&rev=36de267f113647aaa39aff34b43fe096"
     },
     {
       "k": "catalyst",
       "en": "Estetrol's US application has been accepted; a decision date was not verified.",
-      "zh": "Estetrol 的美国申请已获受理;未核实决定日期。",
+      "zh": "Estetrol的美国申请已获受理；未核实到决定日期。",
       "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/en/2026/presentationq32026.pdf?hash=B6844E1B2198B31145CCAA8CA3113CB5&rev=4d08b3abd54d48d6b59469b043aae58d"
     },
     {
       "k": "balance",
       "en": "Nine-month free cash flow before M&A reached HUF223 billion.",
-      "zh": "并购前九个月自由现金流达到 HUF223 billion。",
+      "zh": "并购前前九个月自由现金流达2230亿匈牙利福林。",
       "src": "https://www.gedeonrichter.com/-/media/sites/hq/documents/investors/presentations/en/2026/presentationq32026.pdf?hash=B6844E1B2198B31145CCAA8CA3113CB5&rev=4d08b3abd54d48d6b59469b043aae58d"
     }
   ],
@@ -104,13 +101,20 @@
     [
       "RGH-202 registry",
       "https://clinicaltrials.gov/study/NCT07931703"
+    ],
+    [
+      "AbbVie partner pipeline: ABBV-932 mechanism and modality",
+      "https://www.abbvie.com/science/pipeline.html"
+    ],
+    [
+      "H1 2026 report: standalone RGH-202 and social anxiety indication",
+      "https://website-prod-cm.gedeonrichter.com/-/media/sites/hq/documents/investors/earnings/2026/q2/earnings_report_h1_2026_en.pdf"
     ]
   ],
   "gaps": [
-    "Only three distinct named clinical/registration assets verified in current materials; many pipeline-chart projects are unnamed. No company phase totals used.",
-    "RGH-202 registry rendered only a JavaScript shell; its indication, target, modality and origin are null. November presentation identifies Phase 2.",
-    "RGH-932 mechanism/modality and estetrol origin were not verified; no future milestone dates established. Source renders the US brand as FYLREY; generic name used.",
-    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed.",
-    "Original-research landing page is dated March 2025, older than June 2026; named asset stages come from November 2026 presentations."
+    "Only three distinct named clinical/registration assets were verified; many pipeline-chart projects are unnamed. No complete company phase totals were verified.",
+    "RGH-202 target and modality remain unverified. The H1 report identifies it as Richter's standalone compound in social anxiety disorder; the November pipeline supplies Phase 2 status.",
+    "Estetrol discovery origin and future milestone dates for all selected assets remain unverified.",
+    "The original-research page dates to March 2025, before June 2026; current named-asset stages come from November 2026 presentations."
   ]
 }

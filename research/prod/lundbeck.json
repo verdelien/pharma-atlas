@@ -1,5 +1,78 @@
 {
   "id": "lundbeck",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Rexulti",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2029-06",
+          "note": "Company 2022 listing document: compound-patent expiry including potential extensions; later patents exist. Not an announced generic/biosimilar launch.",
+          "src": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2022/05-may/Listing_Document_H_Lundbeck_Share_Split_20_05_2022.PDF",
+          "note_zh": "公司2022年上市文件:化合物专利到期(含潜在延期);存在更晚的专利。并非已公布的仿制药/生物类似药上市。"
+        },
+        {
+          "region": "EU",
+          "value": "2031-10",
+          "note": "Company 2022 listing document: compound-patent expiry including potential extensions; later patents exist. Not an announced generic/biosimilar launch.",
+          "src": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2022/05-may/Listing_Document_H_Lundbeck_Share_Split_20_05_2022.PDF",
+          "note_zh": "公司2022年上市文件:化合物专利到期(含潜在延期);存在更晚的专利。并非已公布的仿制药/生物类似药上市。"
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
+    },
+    {
+      "b": "Brintellix / Trintellix",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2026-12",
+          "note": "Company 2022 listing document: compound-patent expiry including potential extensions; later patents exist. Not an announced generic/biosimilar launch.",
+          "src": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2022/05-may/Listing_Document_H_Lundbeck_Share_Split_20_05_2022.PDF",
+          "note_zh": "公司2022年上市文件:化合物专利到期(含潜在延期);存在更晚的专利。并非已公布的仿制药/生物类似药上市。"
+        },
+        {
+          "region": "EU",
+          "value": "2028-04",
+          "note": "Company 2022 listing document: compound-patent expiry including potential extensions; later patents exist. Not an announced generic/biosimilar launch.",
+          "src": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2022/05-may/Listing_Document_H_Lundbeck_Share_Split_20_05_2022.PDF",
+          "note_zh": "公司2022年上市文件:化合物专利到期(含潜在延期);存在更晚的专利。并非已公布的仿制药/生物类似药上市。"
+        },
+        {
+          "region": "Japan",
+          "value": "2029",
+          "note": "Company 2025 annual report: re-examination extended two years to 2029; not a patent-expiry or announced generic-launch date.",
+          "src": "https://lundbeck-prod.adobemsbasic.com/content/dam/lundbeck-com/masters/global-site/annual-reporting/2025/Lundbeck_Annual_Report_2025.pdf",
+          "note_zh": "公司2025年年报:再审查期延长两年至2029年;并非专利到期或已公布的仿制药上市日期。"
+        }
+      ]
+    },
+    {
+      "b": "Vyepti",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2034-02",
+          "note": "Company 2022 listing document: compound-patent expiry including potential extensions; later patents exist. Not an announced generic/biosimilar launch.",
+          "src": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2022/05-may/Listing_Document_H_Lundbeck_Share_Split_20_05_2022.PDF",
+          "note_zh": "公司2022年上市文件:化合物专利到期(含潜在延期);存在更晚的专利。并非已公布的仿制药/生物类似药上市。"
+        },
+        {
+          "region": "EU",
+          "value": "2037",
+          "note": "Company 2022 listing document: compound-patent expiry including potential extensions; later patents exist. Not an announced generic/biosimilar launch.",
+          "src": "https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/global-site/investors/2022/05-may/Listing_Document_H_Lundbeck_Share_Split_20_05_2022.PDF",
+          "note_zh": "公司2022年上市文件:化合物专利到期(含潜在延期);存在更晚的专利。并非已公布的仿制药/生物类似药上市。"
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

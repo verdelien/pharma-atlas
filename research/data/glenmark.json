@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Glenmark combines regional licenses for oncology medicines with IGI's earlier-stage antibody research. Partnered programs drive much of the clinical portfolio.",
-    "zh": "Glenmark 将肿瘤药物的区域授权与 IGI 较早期的抗体研究相结合。合作项目构成了临床组合的大部分。"
+    "zh": "Glenmark将肿瘤药物的区域授权与IGI的早期抗体研究相结合。合作项目构成临床组合的主体。"
   },
   "counts": null,
   "items": [
@@ -12,17 +12,21 @@
       "code": "KN035 / QiNHAYO",
       "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "PD-L1",
+        "zh": "PD-L1"
       },
       "ind": {
         "en": "Regional oncology filings; also resectable NSCLC Phase 3",
-        "zh": "区域性肿瘤申报;另有可切除 NSCLC III 期"
+        "zh": "区域肿瘤申报;另有可切除NSCLC III期"
       },
       "phase": "reg",
       "ta": "Oncology",
       "origin": "licensed",
-      "next": null,
+      "next": {
+        "en": "First commercial launch expected",
+        "zh": "预计首次商业上市",
+        "when": "FY2027"
+      },
       "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
     },
     {
@@ -35,7 +39,7 @@
       },
       "ind": {
         "en": "HER2-expressing cancers; also platinum-resistant ovarian cancer Phase 3",
-        "zh": "HER2 表达癌症;另有铂耐药卵巢癌 III 期"
+        "zh": "表达HER2的癌症;另有铂耐药卵巢癌III期"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -58,7 +62,11 @@
       "phase": "reg",
       "ta": "Oncology",
       "origin": "licensed",
-      "next": null,
+      "next": {
+        "en": "First commercial launch anticipated in second half of company FY2027",
+        "zh": "预计在公司FY2027下半年首次商业上市",
+        "when": "FY2027H2"
+      },
       "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
     },
     {
@@ -78,7 +86,7 @@
       "origin": null,
       "next": {
         "en": "Phase 2 readout",
-        "zh": "II 期结果",
+        "zh": "II期读出",
         "when": "2027"
       },
       "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
@@ -100,7 +108,7 @@
       "origin": "co-developed",
       "next": {
         "en": "Updated Phase 1 data at ASH",
-        "zh": "在 ASH 公布更新的 I 期数据",
+        "zh": "ASH大会公布更新的I期数据",
         "when": "2026Q4"
       },
       "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
@@ -128,19 +136,19 @@
     {
       "k": "deal",
       "en": "AbbVie co-develops ISB-2001; IGI retains milestone and royalty economics.",
-      "zh": "AbbVie 共同开发 ISB-2001;IGI 保留里程碑付款和特许权使用费收益。",
+      "zh": "AbbVie共同开发ISB-2001;IGI保留里程碑付款和特许权使用费权益。",
       "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
     },
     {
       "k": "deal",
       "en": "STAR-0310 rights returned after BioCryst's acquisition of Astria; IGI seeks a new path.",
-      "zh": "BioCryst 收购 Astria 后,STAR-0310 的权益已退还;IGI 正在寻求新的路径。",
+      "zh": "BioCryst收购Astria后,STAR-0310的权利已返还;IGI正寻求新的路径。",
       "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
     },
     {
       "k": "catalyst",
       "en": "LAD191 Phase 2 data are expected in 2027.",
-      "zh": "LAD191 II 期数据预计在 2027 年公布。",
+      "zh": "LAD191 II期数据预计于2027年公布。",
       "src": "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
     }
   ],
@@ -152,15 +160,18 @@
     [
       "Q2 FY27 management discussion",
       "https://glenmark.b-cdn.net/gpl_pdfs/Financials/Quarterly/MDA_Q2FY27.pdf"
+    ],
+    [
+      "Envafolimab license and PD-L1 target, January 2024",
+      "https://prnewswire.com/apac/news-releases/alphamab-oncology-and-3dmedicines-entered-into-a-licensing-agreement-with-glenmark-for-kn035-302044003.html"
     ]
   ],
   "gaps": [
     "Pipeline charts are images and dated April 5, 2026, older than June 2026; November management discussion supplies current stages.",
     "No published phase counts verified.",
-    "Envafolimab target and lead filed indication not specified in readable reviewed text; target is null.",
     "Trastuzumab rezetecan's filed indications are not specified; ovarian cancer is a separate Phase 3 program.",
     "STAR-0310 rights returned November 4; development path is under evaluation.",
     "ISB-2001 monotherapy is phase 1; a separate combination phase 1/2 study is also active.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "Envafolimab PD-L1 mechanism uses the January 2024 company license announcement, older than June 2026. Lead filed regional indication remains unverified. Launch expectations retain Indian company fiscal years without conversion to calendar dates. ISB-880 and STAR-0310 origins remain unverified; no dated next event was established for trastuzumab rezetecan or STAR-0310."
   ]
 }

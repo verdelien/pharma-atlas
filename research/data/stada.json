@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "STADA's development portfolio emphasizes generic launch opportunities and partnered biosimilars. ([Annual update](https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025); [biosimilar partnership](https://www.en.sbpgroup.com/news-center/dynamic/25032.html))",
-    "zh": "STADA 的开发产品组合侧重于仿制药上市机会和合作生物类似药。([Annual update](https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025); [biosimilar partnership](https://www.en.sbpgroup.com/news-center/dynamic/25032.html))"
+    "zh": "STADA的研发组合侧重于仿制药上市机会和合作生物类似药。([年度更新](https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025);[生物类似药合作](https://www.en.sbpgroup.com/news-center/dynamic/25032.html))"
   },
   "counts": null,
   "items": [
@@ -17,7 +17,7 @@
       },
       "ind": {
         "en": "Oncology; candidate-specific lead indication undisclosed",
-        "zh": "肿瘤;各候选药物的首选适应症未披露"
+        "zh": "肿瘤;各候选产品的首选适应症未披露"
       },
       "phase": null,
       "ta": "Oncology",
@@ -30,8 +30,8 @@
       "code": null,
       "modality": null,
       "target": {
-        "en": null,
-        "zh": null
+        "en": "GLP-1 receptor agonist",
+        "zh": "GLP-1受体激动剂"
       },
       "ind": {
         "en": "Diabetes and weight management",
@@ -48,8 +48,8 @@
       "code": null,
       "modality": null,
       "target": {
-        "en": null,
-        "zh": null
+        "en": "GLP-1 receptor agonist",
+        "zh": "GLP-1受体激动剂"
       },
       "ind": {
         "en": "Diabetes and weight management",
@@ -67,7 +67,7 @@
       "modality": null,
       "target": {
         "en": "SGLT-2 inhibitor",
-        "zh": "SGLT-2 抑制剂"
+        "zh": "SGLT-2抑制剂"
       },
       "ind": {
         "en": "Diabetes",
@@ -83,10 +83,7 @@
       "name": "ruxolitinib generic",
       "code": null,
       "modality": null,
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Oncology; specific indication undisclosed",
         "zh": "肿瘤;具体适应症未披露"
@@ -102,25 +99,25 @@
     {
       "k": "deal",
       "en": "STADA signed 110 business development and licensing deals in 2025.",
-      "zh": "STADA 在 2025 年签署了 110 项业务开发和许可交易。",
+      "zh": "STADA在2025年签署了110项业务拓展和许可交易。",
       "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
     },
     {
       "k": "policy",
       "en": "Its GLP-1 launch strategy explicitly targets loss-of-exclusivity opportunities in diabetes and obesity.",
-      "zh": "其 GLP-1 上市策略明确瞄准糖尿病和肥胖领域的独占期结束 (LOE) 机会。",
+      "zh": "其GLP-1上市策略明确瞄准糖尿病和肥胖领域的独占期结束机会。",
       "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
     },
     {
       "k": "concentration",
       "en": "Specialty exceeded €1 billion revenue in 2025, alongside Consumer Healthcare and Generics.",
-      "zh": "2025 年,专科业务收入超过 €1 billion,此外还有消费者健康和仿制药业务。",
+      "zh": "2025年Specialty业务收入超过10亿欧元,与Consumer Healthcare和Generics业务并列。",
       "src": "https://www.stada.com/blog/posts/2026/march/stada-s-strong-growth-journey-continues-in-2025"
     },
     {
       "k": "deal",
       "en": "CTTQ leads TQB3570 development and supply; STADA holds exclusive commercial rights in specified European/Eurasian markets.",
-      "zh": "CTTQ 主导 TQB3570 的开发和供应;STADA 在指定的欧洲/欧亚市场拥有独家商业权利。",
+      "zh": "CTTQ主导TQB3570的开发和供应;STADA在特定欧洲/欧亚市场拥有独家商业化权利。",
       "src": "https://www.en.sbpgroup.com/news-center/dynamic/25032.html"
     }
   ],
@@ -153,10 +150,9 @@
   "gaps": [
     "The latest financial release located was FY2025 results published March 18, 2026, older than June 2026; no H1 or Q3 2026 release was found through the investor/media pages and live search.",
     "No consolidated asset-by-phase pipeline was found. All five included candidates have undisclosed phases in the sources read; phase is null throughout. These generic/commercial development programs are not classified as clinical Phase 1–3 by inference.",
-    "Candidate-specific lead indication for TQB3570 and ruxolitinib, and mechanisms/modalities not explicitly established for the generic versions, are null or identified as undisclosed in indication text.",
     "Origins of the four generic candidates were not verified; origin is null. Candidate codes and future dated milestones were not disclosed; code and next are null where applicable.",
     "Counts is null: launch/product totals are not company counts by clinical phase.",
     "Already-approved biosimilars and specialty brands are excluded. TQB3570 evidence is the partner's own announcement; STADA's general biosimilars page supplies no candidate phase.",
-    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified."
+    "Candidate-specific lead indications for TQB3570 and ruxolitinib remain undisclosed. Modalities of the four generic candidates and ruxolitinib’s molecular target were not established in the reviewed company materials."
   ]
 }

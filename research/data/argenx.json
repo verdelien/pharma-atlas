@@ -10,7 +10,7 @@
     {
       "name": "efgartigimod (new indications)",
       "code": null,
-      "modality": "antibody",
+      "modality": "other",
       "target": {
         "en": "FcRn",
         "zh": "FcRn"
@@ -32,7 +32,7 @@
     {
       "name": "Empasiprubart",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
         "en": "C2",
         "zh": "C2"
@@ -46,7 +46,7 @@
       "origin": null,
       "next": {
         "en": "EMPASSION MMN topline results; December 2026",
-        "zh": "EMPASSION MMN 顶线结果;2026 年 12 月",
+        "zh": "EMPASSION MMN topline结果;2026年12月",
         "when": "2026Q4"
       },
       "src": "https://argenx.com/news/2026/press-release-3386023"
@@ -76,10 +76,10 @@
     {
       "name": "Adimanebart",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
         "en": "MuSK agonist",
-        "zh": "MuSK 激动剂"
+        "zh": "MuSK激动剂"
       },
       "ind": {
         "en": "Spinal muscular atrophy; congenital myasthenic syndromes",
@@ -90,7 +90,7 @@
       "origin": null,
       "next": {
         "en": "Begin Phase 3 CMS study",
-        "zh": "启动 III 期 CMS 研究",
+        "zh": "启动CMS III期研究",
         "when": "2026"
       },
       "src": "https://argenx.com/news/2026/press-release-3386023"
@@ -98,14 +98,14 @@
     {
       "name": "ARGX-121",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
         "en": "IgA",
         "zh": "IgA"
       },
       "ind": {
         "en": "IgA nephropathy",
-        "zh": "IgA 肾病"
+        "zh": "IgA肾病"
       },
       "phase": "2",
       "ta": "Immunology",
@@ -122,15 +122,15 @@
         "zh": "FcRn"
       },
       "ind": {
-        "en": null,
-        "zh": null
+        "en": "Lead indication not disclosed",
+        "zh": "主打适应症未披露"
       },
       "phase": "1",
       "ta": "Immunology",
       "origin": null,
       "next": {
         "en": "Complete Phase 1 evaluation",
-        "zh": "完成 I 期评估",
+        "zh": "完成I期评估",
         "when": "2026"
       },
       "src": "https://www.sec.gov/Archives/edgar/data/1697862/000169786226000033/argx-20260630_d2.htm"
@@ -138,10 +138,10 @@
     {
       "name": "ARGX-118",
       "code": null,
-      "modality": null,
+      "modality": "antibody",
       "target": {
         "en": "Galectin-10 inhibitor",
-        "zh": "Galectin-10 抑制剂"
+        "zh": "Galectin-10抑制剂"
       },
       "ind": {
         "en": "Airway inflammation",
@@ -149,7 +149,7 @@
       },
       "phase": "1",
       "ta": "Respiratory",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://argenx.com/news/2026/press-release-3386023"
     },
@@ -159,11 +159,11 @@
       "modality": null,
       "target": {
         "en": "Fn14 inhibitor",
-        "zh": "Fn14 抑制剂"
+        "zh": "Fn14抑制剂"
       },
       "ind": {
-        "en": null,
-        "zh": null
+        "en": "Lead indication not disclosed",
+        "zh": "主打适应症未披露"
       },
       "phase": "1",
       "ta": "Immunology",
@@ -222,16 +222,34 @@
     [
       "Forte acquisition, August 27, 2026",
       "https://argenx.com/news/2026/press-release-3352029.html"
+    ],
+    [
+      "Empasiprubart molecular description",
+      "https://argenx.com/innovation/our-pipeline/empasiprubart"
+    ],
+    [
+      "Adimanebart molecular description",
+      "https://argenx.com/innovation/our-pipeline/adimanebart"
+    ],
+    [
+      "ARGX-118 antibody and academic discovery collaboration",
+      "https://argenx.com/innovation/our-pipeline/argx-118"
+    ],
+    [
+      "January 2026 corporate presentation: ARGX-121 IgA antibody",
+      "https://argenx.com/content/dam/argenx-corp/investors/events-presentations/2026_JPM_Slides_argenx_2026_Corp_Presentation.pdf"
     ]
   ],
   "gaps": [
     "Phase-by-phase company totals were not verified; counts is null. The interactive pipeline rendered no results in the browser; its downloadable chart and dated filings were also reviewed.",
     "FB102 remains phase 2 because Phase 3 is planned; adimanebart remains phase 2 because CMS Phase 3 initiation was still prospective in the October update.",
     "ARGX-118 and TSP-101 phase 1 status follows the October update, superseding earlier preclinical entries. Airway inflammation and FcRn target are supported by the pipeline descriptions.",
-    "ARGX-124 and TSP-101 lead disease indications are undisclosed; ind.en is null. Modalities for empasiprubart, adimanebart, ARGX-121, ARGX-124, ARGX-118 and TSP-101 were not explicitly established in the reviewed descriptions and are null.",
-    "Origins other than acquired FB102 were not verified and are null; additional compound codes were not stated and are null. FB102 Phase 3 timing was not specified.",
+    "ARGX-124 and TSP-101 lead disease indications are undisclosed; the indication text explicitly records this absence. Their modalities remain null. Empasiprubart, adimanebart, ARGX-121 and ARGX-118 are explicitly described as antibodies in company materials.",
+    "Origins other than acquired FB102 and co-developed ARGX-118 remain unverified. The ARGX-118 page explicitly describes collaboration with Prof. Bart Lambrecht. FB102 Phase 3 timing is unspecified; other undisclosed codes remain null.",
     "Efgartigimod is represented once, combining the filed oMG/paediatric gMG uses with major Phase 3/registrational new indications. Its phase is reg for the highest verified stage; IMNM is not yet filed. IMNM filing and paediatric review dates follow Q3 results; Sjogren UNITY timing follows the half-year filing, without a newer verified forecast.",
     "Primary ITP is already approved in Japan, but the selected ADVANCE-NEXT development concerns further registration. No new item is created for an already approved adult gMG/CIDP use or delivery-device change. The February 2027 FDA date concerns paediatric gMG, not ocular MG.",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "The January 2026 corporate presentation predates 2026-06 and is used only for ARGX-121 antibody modality; Phase 2 status follows the October update.",
+    "Efgartigimod is an engineered Fc fragment, represented as other rather than a full antibody; company descriptions of its FcRn mechanism and current filings remain unchanged.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

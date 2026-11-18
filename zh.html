@@ -454,9 +454,9 @@ dialog#howto .x{float:right}
         <h2>Stock charts, home listings (Phase 10)</h2>
         <p>补全了主要在本土交易所上市的公司的股价图:印度(NSE)、日本(TSE)、香港(HKEX)、上海与深圳、韩国(KRX)、欧洲各交易所(Euronext、Nasdaq Nordic、Borsa Italiana、BME、Budapest)、伦敦与约翰内斯堡。数据来自 Digrin 的月度调整收盘价(近似总回报),取季末,价格一律用当地货币,图表标题下的 Series 行会写明币种。印度药企原来只有年度快照的,已改为季度序列;UCB 与 Ipsen 的汇总回报也换成了季度序列。个别来源有重复月份、疑似错误点或缺月(如 Mankind 缺 2025Q4、Fosun 缺 2026-09、Biocon 数据到 2026-07),相应图表的说明里已逐一标出。Krka 使用华沙二级上市报价(PLN)。仍没有图表的只有 Kelun:来源只有已过期的序列,没有找到可核对的替代。</p>
 
-        <h2>LOE 核实(Phase 10,进行中)</h2>
-        <p>310 条产品行中,约 216 条的 LOE 已不再带「待核实」标记,其余 94 条在至少一个地区仍未核实(这类行在页面上显示「待核实」)。已核实的数据来自公司自己披露的文件:Lilly、Amgen、Gilead、Regeneron、Biogen、Vertex、BMS、Teva、Incyte、Alnylam、Neurocrine、Jazz、United Therapeutics、Alkermes、BeOne、BioMarin、argenx、Bausch、Sarepta、Organon 的 10-K / 20-F(以及 Takeda 20-F 中的 Entyvio),以及 J&J 公开的美国专利表。注意:Orencia、Xywav、Epidiolex、Vyvgart 等只给出了监管独占期或「预计」年份,不等于专利到期;只有在有明确美国年份(含和解后的仿制药最早进入日)时才填 us 字段(它决定时间线)。</p>
-        <p><b>2026 年 11 月核实</b>:对照公司年报和业绩公告,核实了 55 个此前未核实的 FY2025 产品收入和 8 个 LOE 日期(现均附来源链接 ↗),并为原先没有产品数据的 14 家公司补充了主要产品(多为印度仿制药企业,通常只按地区披露收入,因此产品收入留空)。仍有约 86 条产品行至少一个地区的 LOE 未核实,主要原因是公司不公布单个产品的专利到期时间。这些更新保存在 <code>prodfix.js</code> 中,由 <code>research/prod/</code> 生成。</p>
+        <h2>LOE 核实(Phase 10)</h2>
+        <p>经过 2026 年 11 月的两轮核实,379 条产品行中只剩 13 条在至少一个地区仍显示「待核实」,主要是非上市公司或不披露产品层面日期的公司的业务板块行。已核实的数据来自公司自己披露的文件:Lilly、Amgen、Gilead、Regeneron、Biogen、Vertex、BMS、Teva、Incyte、Alnylam、Neurocrine、Jazz、United Therapeutics、Alkermes、BeOne、BioMarin、argenx、Bausch、Sarepta、Organon 的 10-K / 20-F(以及 Takeda 20-F 中的 Entyvio),以及 J&J 公开的美国专利表。注意:Orencia、Xywav、Epidiolex、Vyvgart 等只给出了监管独占期或「预计」年份,不等于专利到期;只有在有明确美国年份(含和解后的仿制药最早进入日)时才填 us 字段(它决定时间线)。</p>
+        <p><b>2026 年 11 月核实</b>:对照公司年报和业绩公告,核实了 55 个此前未核实的 FY2025 产品收入和 8 个 LOE 日期(现均附来源链接 ↗),并为原先没有产品数据的 14 家公司补充了主要产品(多为印度仿制药企业,通常只按地区披露收入,因此产品收入留空)。第二轮核实(专利和解、已上市仿制药、FDA 橙皮书/紫皮书、合作方披露及日本再审查期)为仍未核实的 91 条中的 75 条补充了日期;每条说明都注明日期类型(专利到期、独占期结束或仿制药实际上市),三者并不相同。仍有 16 条未核实,主要是不披露产品层面数据的非上市公司。2026 年 11 月 18 日,所有在研项目的阶段和下一里程碑均已对照公司最新管线页面复核,有来源的空白字段已补充,已获批或已终止的项目已移除。这些更新保存在 <code>prodfix.js</code> 中,由 <code>research/prod/</code> 生成。</p>
         <p>仍未核实:AstraZeneca、Roche、Novartis(除 Entresto)、GSK、Sanofi、Takeda、Bayer、Daiichi、BI、Astellas、UCB、Otsuka 以及多数日本、欧洲公司。原因是这些公司的年报只在页面全文被截断的部分披露专利年份,或根本不按产品披露;在找到可核对来源之前保持「待核实」,不用第三方估算代替。J&J 各产品的 EU / Japan 年份也尚未核实。</p>
 
         <h2>Re-screen (Phase 10)</h2>
@@ -667,7 +667,7 @@ dialog#howto .x{float:right}
 <li>用 Compare 并排比较两家公司;用时间滑块和 Historical Top 100 看 2000 年以来排名怎么变。</li></ul>
 <h3>4. 需要注意</h3><ul>
 <li>Grade A/B/C 表示收入数字的核实程度。“待核实”表示未核实;空白是有意留空,不做猜测填充。</li>
-<li>研发管线根据公司公开资料整理,截至 2026 年 11 月(打开公司面板查看“研发管线”);若干大公司的 LOE 仍在核实中。它反映过去和已上市产品组合的已知信息,不预测未来赢家。</li>
+<li>研发管线根据公司公开资料整理,截至 2026 年 11 月(打开公司面板查看“研发管线”);仅少数产品的 LOE 日期仍未核实。它反映过去和已上市产品组合的已知信息,不预测未来赢家。</li>
 <li>数据整理自公开来源,可能有误。仅供信息参考,不构成投资建议。</li></ul>
 </dialog>
 </div>
@@ -2643,7 +2643,8 @@ SUP.forEach(s=>{s.sup=1;s.v=0;s.reg=REG_OF[s.o||s.c];s.key=(s.n+" "+s.id).toLowe
   (f.rows||[]).forEach(r=>{const p=list.find(x=>x.b===r.b);if(!p)return;
    if(r.v!=null){p.v=r.v;p.a=0;if(r.v_note)p.vn=tz(r.v_note,r.v_note_zh);if(r.v_src)p.vsrc=r.v_src;}
    (r.loe||[]).forEach(l=>{if(!l.value)return;const row=[l.region,l.value,tz(l.note,l.note_zh),l.src],k=p.loe.findIndex(x=>reg(x[0])===reg(l.region));if(k>=0)p.loe[k]=row;else p.loe.push(row);
-    if(reg(l.region)==="us"&&/^\d{4}/.test(l.value))p.us=+String(l.value).slice(0,4);});});});})();
+    if(reg(l.region)==="us"&&/^\d{4}/.test(l.value))p.us=+String(l.value).slice(0,4);});
+   if((r.loe||[]).some(l=>l.value))p.loe=p.loe.filter(x=>!(reg(x[0])==="all"&&/verif|核实/i.test((x[1]||"")+" "+(x[2]||""))));p.loe=p.loe.filter(x=>{if(!/verif|核实/i.test(x[1]||""))return true;const parts=String(x[0]).split("/").map(s=>reg(s.trim()));return !(parts.length>1&&parts.every(q=>p.loe.some(y=>y!==x&&reg(y[0])===q&&/^\d{4}/.test(y[1]||""))));});});});})();
 const ALL=[...D,...SUP];
 const byId=Object.fromEntries(ALL.map(x=>[x.id,x]));
 const parentOf={};OWN.forEach(o=>{if(o.k!=="spin")parentOf[o.c]=o;});

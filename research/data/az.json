@@ -57,18 +57,18 @@
       "modality": "bispecific",
       "target": {
         "en": "PD-1 × TIGIT",
-        "zh": "PD-1 × TIGIT 靶点"
+        "zh": "PD-1 × TIGIT"
       },
       "ind": {
         "en": "Adjuvant biliary tract cancer; also NSCLC and other tumors",
-        "zh": "胆道癌辅助治疗；亦开发非小细胞肺癌及其他肿瘤"
+        "zh": "辅助治疗胆道癌;另有NSCLC和其他肿瘤"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": {
         "en": "ARTEMIDE-01 Phase 1/2 data",
-        "zh": "ARTEMIDE-01 I/II 期数据",
+        "zh": "ARTEMIDE-01 I/II期数据",
         "when": "2026H2"
       },
       "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-clinical-trials-appendix.pdf"
@@ -163,18 +163,18 @@
       "modality": "antibody",
       "target": {
         "en": "Transthyretin amyloid depletion",
-        "zh": "清除转甲状腺素蛋白淀粉样沉积"
+        "zh": "转甲状腺素蛋白淀粉样蛋白清除"
       },
       "ind": {
         "en": "Transthyretin amyloid cardiomyopathy",
-        "zh": "转甲状腺素蛋白淀粉样变性心肌病"
+        "zh": "转甲状腺素蛋白淀粉样变心肌病"
       },
       "phase": "3",
       "ta": "Cardiovascular",
-      "origin": null,
+      "origin": "licensed",
       "next": {
         "en": "DepleTTR-CM Phase 3 data; company horizon is after 2027",
-        "zh": "DepleTTR-CM III 期数据；公司预期时间为2027年之后",
+        "zh": "DepleTTR-CM III期数据;公司预计时间在2027年之后",
         "when": null
       },
       "src": "https://www.astrazeneca.com/content/dam/az/PDF/2026/9mq3/9M-and-Q3-2026-results-clinical-trials-appendix.pdf"
@@ -244,14 +244,23 @@
     [
       "Amolyt acquisition completed, July 2024",
       "https://www.astrazeneca.com/media-centre/press-releases/2024/acquisition-of-amolyt-pharma-completed.html"
+    ],
+    [
+      "Compugen June 2026 financial-statement note: rilvegostomig exclusive license",
+      "https://www.sec.gov/Archives/edgar/data/1119774/000117891326003754/R7.htm"
+    ],
+    [
+      "Neurimmune exclusive worldwide license completed, March 2022",
+      "https://www.astrazeneca.com/media-centre/press-releases/2022/astrazeneca-and-neurimmune-close-deal-for-ni006.html"
     ]
   ],
   "gaps": [
     "No consolidated, like-for-like phase-count series covering both NMEs and lifecycle projects was verified. The company publishes 180 total projects and 116 Phase II/III projects combined; counts is null rather than allocating them ourselves.",
-    "Origins of tozorakimab, rilvegostomig, saruparib, volrustomig and cliramitug were not explicitly verified; origin is null. Unverified codes are null.",
+    "Origins of tozorakimab, saruparib and volrustomig remain unverified. Rilvegostomig is developed under an exclusive Compugen license; cliramitug/NI006 was licensed worldwide from Neurimmune. Unverified codes remain null.",
     "The 2023 KYM/Eccogene and 2024 Amolyt releases predate 2026-06; they establish transaction history only. Current stages come from October 2026 materials.",
     "The current general pipeline page still lists tozorakimab in Phase III; its accepted BLA and priority review in the September release take precedence, so phase is reg.",
     "No subsequent dated milestone was verified for eneboparatide after its completed CALYPSO readout; next is null. Elecoglipron EMBOLD and cliramitug DepleTTR-CM are guided only as after 2027, so next.when is null and that open-ended horizon is preserved in the text.",
-    "The appendix explicitly identifies Compugen as a rilvegostomig partner, but the exact origin category was not established. Sonesitatug’s Phase III OS success does not itself establish a filing."
+    "Compugen explicitly states the exclusive license underpinning rilvegostomig. The March 2022 Neurimmune release predates 2026-06 and is used for license provenance only. Sonesitatug Phase 3 OS success does not itself establish a filing.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

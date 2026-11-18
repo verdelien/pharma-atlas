@@ -56,7 +56,6 @@
     "The product page describes more than 1,500 marketed products; these are not counted as investigational assets.",
     "Abbott's corporate pipeline overview primarily discusses medical devices, nutrition and diagnostics, which are outside this EPD drug-pipeline scope.",
     "Individual biosimilar candidates, development phases, provenance and future milestone dates were not disclosed in the reviewed EPD pages; none are inferred from a partner's entire portfolio.",
-    "Live strategy/product pages do not provide an explicit update date; their freshness cannot be established precisely.",
-    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+    "Live strategy/product pages do not provide an explicit update date; their freshness cannot be established precisely."
   ]
 }

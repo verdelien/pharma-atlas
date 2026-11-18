@@ -31,18 +31,18 @@
       "modality": "small molecule",
       "target": {
         "en": "KRAS G12D degradation",
-        "zh": "KRAS G12D 降解"
+        "zh": "KRAS G12D降解"
       },
       "ind": {
         "en": "Previously treated NSCLC; also pancreatic cancer",
-        "zh": "既往治疗过的 NSCLC;另有胰腺癌"
+        "zh": "既往接受过治疗的NSCLC;另有胰腺癌"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": {
         "en": "NSCLC Phase 3 readout in company fiscal 2028",
-        "zh": "NSCLC III 期结果将在公司 2028 财年公布",
+        "zh": "NSCLC III期读出于公司2028财年",
         "when": "FY2028"
       },
       "src": "https://www.astellas.com/content/dam/astellas-com/global/en/confidential-documents/financial-results/2q2026_pre_en.pdf"
@@ -219,11 +219,11 @@
   "gaps": [
     "No complete company-published phase-count breakdown was verified; counts is null.",
     "The dynamic pipeline page returned no asset rows; the October supplement and results presentation were read instead.",
-    "Origin is null for setidegrasib, ASP2138, AT845 and ASP7317: explicit discovery/acquisition provenance was not established from the opened materials. Parenthetical legacy-company names were not treated as proof of an acquisition.",
+    "Origins of ASP2138, AT845 and ASP7317 remain unverified. Setidegrasib is explicitly described as discovered and advanced through Astellas in-house R&D in its September release. Legacy-company names alone are not treated as acquisition proof.",
     "ASP7317 is Phase 1b in the detailed presentation, mapped to 1; AT845 is listed in Phase 2. No calendar-year conversion of fiscal milestone guidance was inferred.",
     "ASP546C is Phase 1 in the Astellas supplement; the presentation describes a global Phase 1b/2 trial and a separate Evopoint Phase 3 trial in China, outside Astellas rights. Phase 1 records the company-listed Astellas stage.",
     "Marketed assets with unfiled indication expansions and same-indication geographic filings were excluded. PADCEV is retained for filed muscle-invasive bladder-cancer expansion; its MIBC approvals already obtained in the US/EU are not pending milestones.",
     "Undated next milestones are null; additional development codes not explicitly verified are null.",
-    "Required curl HEAD checks were attempted, but local DNS resolution failed (curl exit 6, HTTP 000); HTTP status could not be independently confirmed locally. Sources were opened with the web browser tool."
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

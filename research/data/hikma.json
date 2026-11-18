@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Hikma's R&D is primarily generic and differentiated formulations across injectables, respiratory/nasal products and oral solids. Its named late-stage specialty opportunity is epinephrine nasal spray; most of the wider pipeline is undisclosed by asset.",
-    "zh": "Hikma 的研发主要是仿制药和差异化制剂,涵盖注射剂、呼吸/鼻腔产品和口服固体制剂。其已点名的后期特药机会是 epinephrine 鼻喷雾剂;更广泛管线的大部分未按资产披露。"
+    "zh": "Hikma的研发主要是注射剂、呼吸/鼻用产品和口服固体制剂的仿制药及差异化制剂。其明确的后期特药机会是肾上腺素鼻喷雾剂;更广泛管线的大部分未按资产披露。"
   },
   "counts": null,
   "items": [
@@ -14,14 +14,14 @@
       "target": null,
       "ind": {
         "en": "Emergency treatment of anaphylaxis",
-        "zh": "过敏性休克的急救治疗"
+        "zh": "过敏反应的急救治疗"
       },
       "phase": "reg",
       "ta": "Immunology",
       "origin": null,
       "next": {
-        "en": "Update on regulatory filing outcomes",
-        "zh": "监管申报结果更新",
+        "en": "Update on outcomes of epinephrine nasal-spray regulatory filings",
+        "zh": "肾上腺素鼻喷雾剂监管申报结果更新",
         "when": "2027"
       },
       "src": "https://www.hikma.com/news/hikma-advances-its-epinephrine-nasal-spray-with-multi-market-regulatory-filings/"
@@ -31,25 +31,25 @@
     {
       "k": "catalyst",
       "en": "US, European and UK epinephrine filings were accepted; management expects to update on outcomes in 2027.",
-      "zh": "美国、欧洲和英国的 epinephrine 申报均已获受理;管理层预计在 2027 年更新结果。",
+      "zh": "美国、欧洲和英国的肾上腺素申报已获受理;管理层预计2027年更新结果。",
       "src": "https://www.hikma.com/news/hikma-confirms-full-year-2026-group-guidance/"
     },
     {
       "k": "concentration",
       "en": "Hikma Rx expects broadly flat 2026 revenue as new launches offset greater competition in its base business.",
-      "zh": "Hikma Rx 预计 2026 年收入大致持平,新产品上市抵消了其基础业务中加剧的竞争。",
+      "zh": "Hikma Rx预计2026年收入大体持平,新品上市抵消了基础业务竞争加剧的影响。",
       "src": "https://www.hikma.com/news/hikma-confirms-full-year-2026-group-guidance/"
     },
     {
       "k": "deal",
       "en": "A key contract-manufacturing program is moving toward commercial production; its contribution depends on partner-product demand during 2027.",
-      "zh": "一个关键的合同生产项目正迈向商业化生产;其贡献取决于 2027 年合作伙伴产品的需求。",
+      "zh": "一个重要的合同生产项目正走向商业化生产;其贡献取决于2027年合作伙伴产品的需求。",
       "src": "https://www.hikma.com/news/hikma-confirms-full-year-2026-group-guidance/"
     },
     {
       "k": "other",
       "en": "Hikma targets R&D spending of 5–6% of revenue, versus 4.5% in 2025.",
-      "zh": "Hikma 的研发支出目标为收入的 5–6%,2025 年为 4.5%。",
+      "zh": "Hikma的研发支出目标为收入的5-6%,2025年为4.5%。",
       "src": "https://www.hikma.com/what-we-do/rd/"
     }
   ],
@@ -72,10 +72,7 @@
     ]
   ],
   "gaps": [
-    "Only one named, unapproved asset could be verified in the reviewed current sources; more than 300 pipeline products are described in aggregate.",
-    "No phase counts or conventional novel-asset pipeline table published in the reviewed sources.",
-    "Epinephrine's origin, development code and receptor detail were not explicitly verified.",
-    "The 2027 timing is a portfolio update expectation from the November release; the item source establishes the filing.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "Only one named unapproved asset was verified; more than 300 pipeline products are reported in aggregate without conventional clinical phase totals.",
+    "Epinephrine nasal-spray origin, development code and receptor detail were not explicitly established and remain null."
   ]
 }

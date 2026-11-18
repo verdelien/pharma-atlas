@@ -35,18 +35,18 @@
       "modality": "small molecule",
       "target": {
         "en": "JAK1 inhibitor",
-        "zh": "JAK1 抑制剂"
+        "zh": "JAK1抑制剂"
       },
       "ind": {
         "en": "Nonsegmental vitiligo (US filing); also alopecia areata filed",
-        "zh": "非节段型白癜风（美国申报）；斑秃亦已申报"
+        "zh": "非节段型白癜风(美国申报);斑秃亦已申报"
       },
       "phase": "reg",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "internal",
       "next": {
         "en": "Potential US vitiligo approval",
-        "zh": "白癜风适应症潜在美国获批",
+        "zh": "美国白癜风潜在获批",
         "when": "2026"
       },
       "src": "https://investors.abbvie.com/static-files/11ea5ca5-2893-407f-903d-7c0ecf66cb0a"
@@ -238,14 +238,19 @@
     [
       "Reproxalap regulatory dispute, September 2026",
       "https://ir.aldeyra.com/node/13261"
+    ],
+    [
+      "Upadacitinib discovery provenance (December 2018)",
+      "https://news.abbvie.com/2018-12-20-AbbVie-Submits-New-Drug-Application-to-U-S-FDA-and-Marketing-Authorization-Application-to-EMA-for-Upadacitinib-for-Treatment-of-Adults-with-Moderate-to-Severe-Rheumatoid-Arthritis"
     ]
   ],
   "gaps": [
     "The corporate pipeline page did not expose its asset table to the browser; the complete October 30 investor pipeline PDF was used instead. No full phase-count series was verified; counts is null.",
-    "Origins of upadacitinib, lutikizumab, Temab-A and ABBV-706 were not explicitly established in the opened sources; origin is null. Unverified development codes are null.",
+    "Origins of lutikizumab, Temab-A and ABBV-706 remain unverified; origin is null. Upadacitinib is explicitly described as discovered and developed by AbbVie in the 2018 release, used only for provenance.",
     "The 2021 TeneoOne release predates 2026-06 and is used only for acquisition origin; current stage and BLA come from Q3 2026 materials.",
     "No dated next milestone was verified for ABBV-706, zumilokibart or ABBV-295; next is null. Zumilokibart remains Phase 2 in the October pipeline grid despite being described broadly as late-stage in the results release.",
     "REGENXBIO’s November 2026 update brings the subretinal sura-vec readout to Q4 2026; this newer partner disclosure is used over the October AbbVie slide timing.",
-    "Reproxalap was excluded from the selected items: AbbVie holds an option rather than an exercised license, and Aldeyra is appealing a complete response letter. Approved tavapadon is excluded."
+    "Reproxalap was excluded from the selected items: AbbVie holds an option rather than an exercised license, and Aldeyra is appealing a complete response letter. Approved tavapadon is excluded.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

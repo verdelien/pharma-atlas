@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Shanghai Pharmaceuticals combines distribution and established medicines with a focused innovative pipeline in immunology and neurological disease. Its late-stage assets include antibodies, a stroke small molecule and traditional Chinese medicines.",
-    "zh": "上海医药将分销和成熟药品与聚焦免疫和神经系统疾病的创新管线相结合。其后期资产包括抗体、一款卒中小分子药物和中成药。"
+    "zh": "上海医药将分销和成熟药品业务与聚焦免疫和神经系统疾病的创新管线相结合。其后期资产包括抗体、一款卒中小分子药物和中成药。"
   },
   "counts": null,
   "items": [
@@ -17,7 +17,7 @@
       },
       "ind": {
         "en": "Ankylosing spondylitis; also plaque psoriasis",
-        "zh": "强直性脊柱炎;另有斑块状银屑病"
+        "zh": "强直性脊柱炎；另有斑块状银屑病"
       },
       "phase": "reg",
       "ta": "Immunology",
@@ -47,7 +47,7 @@
       "target": null,
       "ind": {
         "en": "Amyotrophic lateral sclerosis",
-        "zh": "肌萎缩侧索硬化症"
+        "zh": "肌萎缩侧索硬化"
       },
       "phase": "3",
       "ta": "Neuroscience",
@@ -98,7 +98,7 @@
       },
       "ind": {
         "en": "Myasthenia gravis; also pemphigus and membranous nephropathy",
-        "zh": "重症肌无力;另有天疱疮和膜性肾病"
+        "zh": "重症肌无力；另有天疱疮和膜性肾病"
       },
       "phase": "2",
       "ta": "Immunology",
@@ -111,19 +111,19 @@
     {
       "k": "catalyst",
       "en": "BCD-085 is under review; the cervical-myelopathy program has reached pre-NDA discussions after Phase 3.",
-      "zh": "BCD-085 正在审评中;颈椎脊髓病项目在 III 期后已进入 NDA 前沟通。",
+      "zh": "BCD-085正在审评中；颈椎脊髓病项目在III期后已进入NDA前沟通阶段。",
       "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
     },
     {
       "k": "concentration",
       "en": "Nine-month distribution sales were RMB203.975 billion versus RMB18.989 billion pharmaceutical manufacturing sales.",
-      "zh": "前九个月分销销售额为 RMB203.975 billion,药品制造销售额为 RMB18.989 billion。",
+      "zh": "前九个月分销销售额为2039.75亿元人民币，药品制造销售额为189.89亿元人民币。",
       "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
     },
     {
       "k": "balance",
       "en": "Nine-month R&D spending was RMB1.516 billion, or 7.98% of pharmaceutical manufacturing revenue.",
-      "zh": "前九个月研发支出为 RMB1.516 billion,占药品制造收入的 7.98%。",
+      "zh": "前九个月研发支出为15.16亿元人民币，占药品制造收入的7.98%。",
       "src": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225640242.PDF"
     }
   ],
@@ -147,6 +147,6 @@
     "No complete published counts by phase verified; total projects is not a phase breakdown.",
     "Molecular targets for traditional medicines and SHPL-49, origins for several assets, and dated future events were not verified.",
     "Pre-NDA discussion is not a marketing application; Shenqi Sherong remains Phase 3.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "SHPL-49 is described as multi-target neuroprotection in the March 2026 presentation, but individual molecular targets are not specified. No new dated milestone was verified in the Q3 report."
   ]
 }

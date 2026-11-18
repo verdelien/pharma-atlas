@@ -1,5 +1,69 @@
 {
   "id": "bi",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Spiriva",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2023",
+          "note": "Generics launched August 2023: FDA-approved Lupin tiotropium dry-powder generic of Spiriva HandiHaler; does not establish Respimat entry.",
+          "src": "https://www.lupin.com/media/press-releases/lupin-launches-tiotropium-dry-powder-inhaler-for-the-treatment-of-copd-in-the-united-states",
+          "note_zh": "仿制药已于2023年8月上市:FDA批准的Lupin噻托溴铵干粉仿制药,对应Spiriva HandiHaler;不能证明Respimat已有仿制药进入。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
+    },
+    {
+      "b": "Ofev",
+      "loe": [
+        {
+          "region": "EU",
+          "value": "2026",
+          "note": "Generics launched: Adalvo confirms pan-European nintedanib launch on 2026-04-03 following patent expiry. EMA confirms EU generic authorization: https://www.ema.europa.eu/en/documents/overview/nintedanib-viatris-epar-medicine-overview_en.pdf .",
+          "src": "https://www.adalvo.com/newsroom/nintedanib-soft-gel",
+          "note_zh": "仿制药已上市:Adalvo确认在专利到期后于2026-04-03在全欧洲上市尼达尼布。EMA确认欧盟仿制药授权:https://www.ema.europa.eu/en/documents/overview/nintedanib-viatris-epar-medicine-overview_en.pdf 。"
+        },
+        {
+          "region": "US",
+          "value": "2026",
+          "note": "Generics launched in 2026: Sandoz state-filed introduction notice documents US introduction in April 2026; FDA confirms Sandoz ANDA 216915 approval on 2026-04-02: https://www.fda.gov/drugs/drug-and-biologic-approval-and-ind-activity-reports/first-generic-drug-approvals?sub1=FAzQPPTvmBBPr9K7MhJMfp_odthixaOn4Cf&sub2=SL4-WLM&toclid=TO-2nrqdfAxpHGFppjMqWSrjP .",
+          "src": "https://ago.vermont.gov/sites/ago/files/2026-06/2nd%20quarter%20drug%20report/4-23-26%20Report%20of%20introduction%20of%20new%20high-cost%20prescription%20drug.pdf",
+          "note_zh": "仿制药已于2026年上市:Sandoz向州提交的上市通知文件显示其于2026年4月在美国上市;FDA确认Sandoz的ANDA 216915于2026-04-02获批:https://www.fda.gov/drugs/drug-and-biologic-approval-and-ind-activity-reports/first-generic-drug-approvals?sub1=FAzQPPTvmBBPr9K7MhJMfp_odthixaOn4Cf&sub2=SL4-WLM&toclid=TO-2nrqdfAxpHGFppjMqWSrjP 。"
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
+    },
+    {
+      "b": "Trajenta / Jentadueto",
+      "loe": [
+        {
+          "region": "EU",
+          "value": "2027-02",
+          "note": "Adalvo announces February 2027 Spanish generic linagliptin launch opportunity after marketing authorization; forward-looking, monotherapy only, not Jentadueto-wide.",
+          "src": "https://www.adalvo.com/newsroom/linagliptin-dcp-approval",
+          "note_zh": "Adalvo宣布在获得上市许可后,西班牙利格列汀仿制药于2027年2月具备上市机会;属前瞻性信息,仅限单药,不适用于整个Jentadueto。"
+        },
+        {
+          "region": "US",
+          "value": null
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

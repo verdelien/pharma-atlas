@@ -6,7 +6,37 @@
       "v": 0.689,
       "v_note": "FY2025 (year ended 31 December 2025) Nubeqa revenue EUR 609.8m: royalties EUR 432.5m and product sales EUR 177.3m; excludes milestones. Converted at the 2025 annual-average rate USD 1.1300 per EUR (Bundesbank/ECB: https://publikationen.bundesbank.de/caas/v1/media/991180/data/6619b8e9182777187f1050fb32ce26c9).",
       "v_src": "https://www.orionpharma.com/490f26/globalassets/investors/reports-and-presentations/2025/orion-financial-statement-release-2025.pdf",
-      "v_note_zh": "FY2025（截至2025年12月31日的年度）Nubeqa收入EUR 609.8m：特许权使用费EUR 432.5m和产品销售额EUR 177.3m；不含里程碑付款。按2025年年度平均汇率USD 1.1300/EUR折算（Bundesbank/ECB：https://publikationen.bundesbank.de/caas/v1/media/991180/data/6619b8e9182777187f1050fb32ce26c9）。"
+      "v_note_zh": "FY2025（截至2025年12月31日的年度）Nubeqa收入EUR 609.8m：特许权使用费EUR 432.5m和产品销售额EUR 177.3m；不含里程碑付款。按2025年年度平均汇率USD 1.1300/EUR折算（Bundesbank/ECB：https://publikationen.bundesbank.de/caas/v1/media/991180/data/6619b8e9182777187f1050fb32ce26c9）。",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2033",
+          "note": "Bayer 2025 Annual Report, printed p. 52: Nubeqa active-ingredient patent expiration. This is the partner company patent milestone, not a confirmed generic launch; later formulation/crystalline-form patents may expire later.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "Bayer 2025年年报印刷页第52页:Nubeqa活性成分专利到期。这是合作公司的专利里程碑,并非已确认的仿制药上市;后续制剂/晶型专利可能更晚到期。"
+        },
+        {
+          "region": "EU",
+          "value": "2035",
+          "note": "Bayer 2025 Annual Report, printed p. 52: Nubeqa active-ingredient patent expiration in Germany, France, Italy and Spain. This is the partner company patent milestone, not a confirmed generic launch; later formulation/crystalline-form patents may expire later.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "Bayer 2025年年报印刷页第52页:Nubeqa活性成分专利在德国、法国、意大利和西班牙到期。这是合作公司的专利里程碑,并非已确认的仿制药上市;后续制剂/晶型专利可能更晚到期。"
+        },
+        {
+          "region": "Japan",
+          "value": "2035",
+          "note": "Bayer 2025 Annual Report, printed p. 52: Nubeqa active-ingredient patent expiration. This is the partner company patent milestone, not a confirmed generic launch; later formulation/crystalline-form patents may expire later.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "Bayer 2025年年报印刷页第52页:Nubeqa活性成分专利到期。这是合作公司的专利里程碑,并非已确认的仿制药上市;后续制剂/晶型专利可能更晚到期。"
+        },
+        {
+          "region": "China",
+          "value": "2030",
+          "note": "Bayer 2025 Annual Report, printed p. 52: Nubeqa active-ingredient patent expiration. This is the partner company patent milestone, not a confirmed generic launch; later formulation/crystalline-form patents may expire later.",
+          "src": "https://reports.bayer.com/annual-report-2025/en/_assets/downloads/entire-bayer-ar25.pdf?h=CvSp0Z_Z",
+          "note_zh": "Bayer 2025年年报印刷页第52页:Nubeqa活性成分专利到期。这是合作公司的专利里程碑,并非已确认的仿制药上市;后续制剂/晶型专利可能更晚到期。"
+        }
+      ]
     }
   ],
   "new_products": []

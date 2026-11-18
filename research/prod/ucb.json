@@ -10,6 +10,27 @@
           "note": "Company indicative LOE: US 2035 without patent-term extension; Europe 2036; Japan 2037. A single global entry year is not disclosed.",
           "src": "https://www.ucb.com/investors",
           "note_zh": "公司预估的独占期结束：美国2035年（不含专利期限延长）；欧洲2036年；日本2037年。未披露单一的全球上市年份。"
+        },
+        {
+          "region": "US",
+          "value": "2035",
+          "note": "Company indicative LOE. Without patent-term extension.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。不含专利期延长。"
+        },
+        {
+          "region": "EU",
+          "value": "2036",
+          "note": "Company indicative LOE.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。"
+        },
+        {
+          "region": "Japan",
+          "value": "2037",
+          "note": "Company indicative LOE.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。"
         }
       ]
     },
@@ -22,6 +43,27 @@
           "note": "Patent protection ended in US in February 2024 and EU in October 2024; Japan protection expires in 2026. Company reports no biosimilar competition and none expected near term. No single global entry date disclosed.",
           "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase",
           "note_zh": "美国专利保护于2024年2月结束，欧盟于2024年10月结束；日本保护于2026年到期。公司报告称无生物类似药竞争，且近期预计也不会有。未披露单一的全球上市日期。"
+        },
+        {
+          "region": "US",
+          "value": "2024-02",
+          "note": "Patent protection expiry; company reports no biosimilar competition or near-term entry.",
+          "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase",
+          "note_zh": "专利保护到期;公司报告无生物类似药竞争或近期进入。"
+        },
+        {
+          "region": "EU",
+          "value": "2024-10",
+          "note": "Patent protection expiry; company reports no biosimilar competition or near-term entry.",
+          "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase",
+          "note_zh": "专利保护到期;公司报告无生物类似药竞争或近期进入。"
+        },
+        {
+          "region": "Japan",
+          "value": "2026",
+          "note": "Patent protection expiry; company reports no biosimilar competition or near-term entry.",
+          "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase",
+          "note_zh": "专利保护到期;公司报告无生物类似药竞争或近期进入。"
         }
       ]
     },
@@ -34,6 +76,27 @@
           "note": "Company H1 2026 results report US LOE occurred in February 2026 and EU LOE expected in August 2026. Japan indicative LOE is 2034 per investor page: https://www.ucb.com/investors. No global entry year disclosed.",
           "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase",
           "note_zh": "公司2026年上半年业绩报告称，美国独占期结束发生于2026年2月，欧盟独占期预计于2026年8月结束。据投资者页面，日本预估独占期结束为2034年：https://www.ucb.com/investors。未披露全球上市年份。"
+        },
+        {
+          "region": "US",
+          "value": "2026-02",
+          "note": "Company H1 2026 results confirm LOE and generics launched in February 2026. Investor page instead groups US with August 2026; results disclosure used.",
+          "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase",
+          "note_zh": "公司2026年上半年业绩确认独占期结束及仿制药已于2026年2月上市。投资者页面则将美国归入2026年8月;采用业绩披露。"
+        },
+        {
+          "region": "EU",
+          "value": "2026-08",
+          "note": "Company H1 2026 guidance: expected LOE August 2026; actual launch not confirmed.",
+          "src": "https://www.ucb.com/newsroom/press-releases/article/ucb-delivers-strong-results-raises-2026-guidance-and-positions-for-next-growth-phase",
+          "note_zh": "公司2026年上半年指引:预计独占期于2026年8月结束;实际上市未确认。"
+        },
+        {
+          "region": "Japan",
+          "value": "2034",
+          "note": "Company indicative LOE.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。"
         }
       ]
     },
@@ -46,6 +109,27 @@
           "note": "Company indicative LOE: Europe and Japan 2032; US 2033. No single global entry year disclosed.",
           "src": "https://www.ucb.com/investors",
           "note_zh": "公司预估的独占期结束：欧洲和日本2032年；美国2033年。未披露单一的全球上市年份。"
+        },
+        {
+          "region": "US",
+          "value": "2033",
+          "note": "Company indicative LOE.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。"
+        },
+        {
+          "region": "EU",
+          "value": "2032",
+          "note": "Company indicative LOE.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。"
+        },
+        {
+          "region": "Japan",
+          "value": "2032",
+          "note": "Company indicative LOE.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。"
         }
       ]
     },
@@ -58,6 +142,27 @@
           "note": "Company indicative LOE: Japan 2037; Europe 2034; US 2035, all without patent-term extension. No single global entry year disclosed.",
           "src": "https://www.ucb.com/investors",
           "note_zh": "公司预估的独占期结束：日本2037年；欧洲2034年；美国2035年，均不含专利期限延长。未披露单一的全球上市年份。"
+        },
+        {
+          "region": "US",
+          "value": "2035",
+          "note": "Company indicative LOE. Without patent-term extension.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。不含专利期延长。"
+        },
+        {
+          "region": "EU",
+          "value": "2034",
+          "note": "Company indicative LOE. Without patent-term extension.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。不含专利期延长。"
+        },
+        {
+          "region": "Japan",
+          "value": "2037",
+          "note": "Company indicative LOE. Without patent-term extension.",
+          "src": "https://www.ucb.com/investors/UCB-equity-story",
+          "note_zh": "公司预估的独占期结束。不含专利期延长。"
         }
       ]
     }

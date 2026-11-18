@@ -1,5 +1,29 @@
 {
   "id": "eurofarma",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Semaglutide (Extensior / Poviztra)",
+      "v": null,
+      "v_note": "FY2025 brand-level revenue not verified. Integrated Report 2026 (base year 2025) describes exclusive Brazilian distribution of Novo Nordisk original semaglutide brands but supplies no verified separate revenue for this pair.",
+      "v_src": "https://eurofarma.com/storage/media/21753/IntegratedReport26baseyear25.pdf",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "Integrated Report describes these as Novo Nordisk original semaglutide brands distributed in Brazil. No brand-specific US, EU, Japan or China loss-of-exclusivity date verified; no originator patent date assigned to these Brazilian brands.",
+          "src": "https://eurofarma.com/storage/media/21753/IntegratedReport26baseyear25.pdf",
+          "note_zh": "综合报告将这些品牌描述为在巴西分销的Novo Nordisk原研司美格鲁肽品牌。未核实这些品牌在美国、欧盟、日本或中国的具体独占期结束日期;这些巴西品牌未指定原研专利日期。"
+        }
+      ],
+      "v_note_zh": "未核实2025财年品牌层面的收入。《2026年综合报告》(基准年2025)描述了巴西对Novo Nordisk原研司美格鲁肽品牌的独家分销,但未提供这两个品牌经核实的单独收入。"
+    },
+    {
+      "b": "Genfar generics (Latin America outside Brazil)",
+      "v": null,
+      "v_note": "FY2025 Genfar-only revenue not verified. Integrated Report reports international-operations revenue BRL 3.12 billion, mentioning Genfar within that broader operation; this aggregate is not assigned to Genfar.",
+      "v_src": "https://eurofarma.com/storage/media/21753/IntegratedReport26baseyear25.pdf",
+      "v_note_zh": "未核实2025财年仅Genfar的收入。综合报告披露国际业务收入为31.2亿巴西雷亚尔,并在该更广泛的业务中提及Genfar;该汇总数字未归属于Genfar。"
+    }
+  ],
   "new_products": []
 }

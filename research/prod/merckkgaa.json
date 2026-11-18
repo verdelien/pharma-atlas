@@ -1,5 +1,18 @@
 {
   "id": "merckkgaa",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Mavenclad",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2026",
+          "note": "Company Q3 2026 guidance (12 November 2026) assumes no US Mavenclad sales from November 2026 amid generic competition, revised from August. This is a company guidance assumption for generic exposure, not a settlement or independently confirmed launch date.",
+          "src": "https://www.emdgroup.com/en/news/q3-2026-12-11-2026.html",
+          "note_zh": "公司2026年第三季度指引(2026年11月12日)假设在仿制药竞争下,自2026年11月起无美国Mavenclad销售,较8月有所调整。这是公司对仿制药冲击的指引假设,并非和解协议或经独立确认的上市日期。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

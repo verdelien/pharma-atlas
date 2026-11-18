@@ -5,7 +5,7 @@
       "b": "Opdivo (Japan)",
       "loe": [
         {
-          "region": "All",
+          "region": "Japan",
           "value": "2031",
           "note": "Japan only, matching this Japan-sales row: company March 2026 sustainability presentation identifies 2031 as the Japanese Opdivo patent expiry year. This is the disclosed patent milestone, not a confirmed biosimilar launch.",
           "src": "https://www.ono-pharma.com/sites/default/files/ja/ir/Ja_Sustainbaility_Day_Presentation_material_20260324.pdf",
@@ -25,7 +25,16 @@
       "v": 0.312,
       "v_note": "FY2025 ended March 31, 2026: Qinlock JPY 38.4bn plus Romvimza JPY 8.3bn, overseas net sales, reported JPY 46.7bn. Converted using calendar-2025 year-average JPY 149.5686/USD from FRED, not a company fiscal-year rate; source: https://fred.stlouisfed.org/release/tables?eid=23334&rid=186.",
       "v_src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/presen/20260508_1_en%5B.pdf.pdf",
-      "v_note_zh": "FY2025截至2026年3月31日：Qinlock JPY 38.4bn加Romvimza JPY 8.3bn，海外净销售额，报告值JPY 46.7bn。按FRED的2025日历年年度平均汇率JPY 149.5686/USD折算，并非公司财年汇率；来源：https://fred.stlouisfed.org/release/tables?eid=23334&rid=186。"
+      "v_note_zh": "FY2025截至2026年3月31日：Qinlock JPY 38.4bn加Romvimza JPY 8.3bn，海外净销售额，报告值JPY 46.7bn。按FRED的2025日历年年度平均汇率JPY 149.5686/USD折算，并非公司财年汇率；来源：https://fred.stlouisfed.org/release/tables?eid=23334&rid=186。",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "No single regional LOE date verified for the combined Qinlock/Romvimza row. Deciphera 2023 Form 10-K (patent status at 31 January 2024) describes separate portfolios: Qinlock US patents expiring in 2030, 2034, 2040 and 2042; vimseltinib US patents in 2034-2040. These historical patent ranges do not establish a common generic-entry date.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1654151/000165415124000004/dcph-20231231.htm",
+          "note_zh": "未核实Qinlock/Romvimza合并行存在单一的区域独占期结束日期。Deciphera 2023年10-K(截至2024年1月31日的专利状态)描述了各自独立的组合:Qinlock美国专利分别于2030、2034、2040和2042年到期;vimseltinib美国专利为2034-2040年。这些历史专利区间不能确定共同的仿制药进入日期。"
+        }
+      ]
     },
     {
       "b": "Keytruda royalties from Merck",

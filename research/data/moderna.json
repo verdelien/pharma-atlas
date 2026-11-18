@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Moderna's mRNA portfolio spans vaccines, cancer therapies and rare metabolic disorders. Intismeran has positive pivotal melanoma results, while several respiratory vaccines are already commercial.",
-    "zh": "Moderna 的 mRNA 产品组合涵盖疫苗、癌症疗法和罕见代谢病。Intismeran 在黑色素瘤关键性研究中取得积极结果,多款呼吸道疫苗已实现商业化。"
+    "zh": "莫德纳的mRNA产品组合涵盖疫苗、癌症疗法和罕见代谢疾病。Intismeran的关键性黑色素瘤结果为阳性，多款呼吸道疫苗已上市销售。"
   },
   "counts": null,
   "items": [
@@ -13,11 +13,11 @@
       "modality": "vaccine",
       "target": {
         "en": "Influenza and SARS-CoV-2",
-        "zh": "流感和 SARS-CoV-2"
+        "zh": "流感和SARS-CoV-2"
       },
       "ind": {
         "en": "Influenza and COVID-19 prevention; review in Japan, UK and Australia",
-        "zh": "流感和 COVID-19 预防;日本、英国和澳大利亚审评中"
+        "zh": "流感和COVID-19预防；日本、英国和澳大利亚审评中"
       },
       "phase": "reg",
       "ta": "Vaccines",
@@ -30,17 +30,21 @@
       "code": "mRNA-4157",
       "modality": "vaccine",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Individualized tumor neoantigens",
+        "zh": "个体化肿瘤新抗原"
       },
       "ind": {
         "en": "Adjuvant melanoma; also NSCLC and other cancers",
-        "zh": "辅助治疗黑色素瘤;另有 NSCLC 和其他癌症"
+        "zh": "辅助治疗黑色素瘤；另有NSCLC及其他癌症"
       },
       "phase": "3",
       "ta": "Oncology",
       "origin": "co-developed",
-      "next": null,
+      "next": {
+        "en": "Planned regulatory submissions following positive Phase 3 melanoma results",
+        "zh": "III期黑色素瘤结果为阳性后，计划进行监管申报",
+        "when": null
+      },
       "src": "https://www.modernatx.com/research/product-pipeline"
     },
     {
@@ -76,7 +80,11 @@
       "phase": "3",
       "ta": "Vaccines",
       "origin": null,
-      "next": null,
+      "next": {
+        "en": "Health-authority discussions to determine development path after interim analysis",
+        "zh": "中期分析后与卫生当局讨论以确定开发路径",
+        "when": null
+      },
       "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
     },
     {
@@ -84,8 +92,8 @@
       "code": "mRNA-3927",
       "modality": "other",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "PCCA/PCCB enzyme replacement",
+        "zh": "PCCA/PCCB酶替代"
       },
       "ind": {
         "en": "Propionic acidemia",
@@ -106,8 +114,8 @@
       "code": "mRNA-3705",
       "modality": "other",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Methylmalonyl-CoA mutase (MUT) replacement",
+        "zh": "甲基丙二酰辅酶A变位酶(MUT)替代"
       },
       "ind": {
         "en": "Methylmalonic acidemia",
@@ -116,7 +124,11 @@
       "phase": "2",
       "ta": "Rare disease",
       "origin": null,
-      "next": null,
+      "next": {
+        "en": "Pivotal-study decision deferred until propionic acidemia pivotal readout",
+        "zh": "关键性研究决定推迟至丙酸血症关键性数据读出之后",
+        "when": null
+      },
       "src": "https://www.modernatx.com/research/product-pipeline"
     },
     {
@@ -129,7 +141,7 @@
       },
       "ind": {
         "en": "CMV in transplant recipients",
-        "zh": "移植受者的 CMV 感染"
+        "zh": "移植受者CMV感染"
       },
       "phase": "2",
       "ta": "Vaccines",
@@ -143,7 +155,7 @@
       "modality": "vaccine",
       "target": {
         "en": "Epstein-Barr virus",
-        "zh": "EB 病毒"
+        "zh": "EB病毒"
       },
       "ind": {
         "en": "Infectious mononucleosis prevention",
@@ -160,12 +172,12 @@
       "code": "mRNA-4359",
       "modality": "other",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "PD-L1 and IDO antigens",
+        "zh": "PD-L1和IDO抗原"
       },
       "ind": {
         "en": "Melanoma; also NSCLC",
-        "zh": "黑色素瘤;另有 NSCLC"
+        "zh": "黑色素瘤；另有NSCLC"
       },
       "phase": "2",
       "ta": "Oncology",
@@ -178,8 +190,8 @@
       "code": "mRNA-2808",
       "modality": "other",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "BCMA, GPRC5D and FcRH5 T-cell engagement",
+        "zh": "BCMA、GPRC5D和FcRH5 T细胞接合"
       },
       "ind": {
         "en": "Multiple myeloma",
@@ -190,7 +202,7 @@
       "origin": null,
       "next": {
         "en": "ASH oral presentation on December 12",
-        "zh": "ASH 口头报告,12 月 12 日",
+        "zh": "12月12日ASH口头报告",
         "when": "2026Q4"
       },
       "src": "https://www.modernatx.com/research/product-pipeline"
@@ -200,19 +212,19 @@
     {
       "k": "catalyst",
       "en": "Intismeran is moving toward regulatory submissions after positive Phase 3 results.",
-      "zh": "Intismeran 在取得积极的 III 期结果后,正推进监管申报。",
+      "zh": "Intismeran在III期结果为阳性后正推进监管申报。",
       "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
     },
     {
       "k": "other",
       "en": "Norovirus interim data missed early-success criteria; no additional seasonal cohort is planned.",
-      "zh": "诺如病毒中期数据未达到早期成功标准;不再计划增加季节性队列。",
+      "zh": "诺如病毒中期数据未达到早期成功标准；不再计划增加季节性队列。",
       "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
     },
     {
       "k": "balance",
       "en": "September financing raised approximately $2.6 billion net through convertible notes.",
-      "zh": "9 月通过可转换票据融资,净筹集约 $2.6 billion。",
+      "zh": "9月融资通过可转换票据净筹集约26亿美元。",
       "src": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
     }
   ],
@@ -224,14 +236,27 @@
     [
       "Q3 2026 results",
       "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000194/exhibit9912026q3pressrelea.htm"
+    ],
+    [
+      "Development programs: PCCA/PCCB and MUT mechanisms",
+      "https://investors.modernatx.com/development-programs"
+    ],
+    [
+      "Cancer antigen mechanism, May 2025",
+      "https://irp.cdn-website.com/89dd0539/files/uploaded/Checkpoint-AIM-T-5-1-2025.pdf"
+    ],
+    [
+      "Oncology mechanisms, June 2026",
+      "https://www.modernatx.com/media-center/all-media/blogs/building-the-future-of-oncology"
     ]
   ],
   "gaps": [
-    "Pipeline page is labelled May 28, 2026, older than June 2026; November results take precedence.",
-    "No published phase counts verified.",
-    "Origins and detailed molecular targets not established in reviewed sources are null.",
-    "Propionic acidemia retains phase 2 from the pipeline despite a registrational study; no phase 3 designation verified.",
-    "Norovirus development path is under review after interim analysis; it remains listed as phase 3 rather than implying another trial is assured.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "The pipeline page is labelled May 28, 2026, before June 2026; November results take precedence.",
+    "No company-published phase counts or explicit discovery origins for unpartnered selected assets were verified; null.",
+    "No dated next milestone verified for mRNA-1083, mRNA-1018, mRNA-1189 or mRNA-1647. Other undated company plans retain null timing.",
+    "Propionic acidemia remains Phase 2 despite a registrational study; no Phase 3 designation verified.",
+    "Norovirus development path is under review; no additional seasonal cohort is planned. Phase 3 is retained pending a company discontinuation decision.",
+    "The methylmalonic acidemia pivotal-study decision is deferred pending propionic acidemia results; this does not establish whole-program discontinuation.",
+    "The cancer antigen mechanism presentation is dated May 2025, before June 2026; it supports PD-L1/IDO mechanism only. Other program mechanism descriptions are undated."
   ]
 }

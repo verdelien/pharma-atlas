@@ -5,11 +5,77 @@
       "b": "Enjaymo",
       "loe": [
         {
-          "region": "All",
-          "value": null,
-          "note": "No single worldwide LOE date verified. Company acquisition presentation discloses IP exclusivity through 2036 in the US and Japan and 2037 in the EU (including patent term extension); orphan exclusivity through 2029 in the US and 2032 in the EU.",
+          "region": "US",
+          "value": "2036",
+          "note": "Company acquisition presentation: IP exclusivity including patent term extension; not an announced biosimilar launch. Orphan exclusivity ends 2029.",
           "src": "https://recordati.com/wp-content/uploads/2024/10/Presentation_Enjaymo_2024.10.04.pdf",
-          "note_zh": "未核实单一的全球独占期结束日期。公司收购演示材料披露，美国和日本的知识产权独占期至2036年，欧盟至2037年（含专利期限延长）；孤儿药独占期美国至2029年，欧盟至2032年。"
+          "note_zh": "公司收购演示文稿:知识产权独占期(含专利期延长);并非已公布的生物类似药上市。孤儿药独占期于2029年结束。"
+        },
+        {
+          "region": "EU",
+          "value": "2037",
+          "note": "Company acquisition presentation: IP exclusivity including patent term extension; not an announced biosimilar launch. Orphan exclusivity ends 2032.",
+          "src": "https://recordati.com/wp-content/uploads/2024/10/Presentation_Enjaymo_2024.10.04.pdf",
+          "note_zh": "公司收购演示文稿:知识产权独占期(含专利期延长);并非已公布的生物类似药上市。孤儿药独占期于2032年结束。"
+        },
+        {
+          "region": "Japan",
+          "value": "2036",
+          "note": "Company acquisition presentation: IP exclusivity including patent term extension; not an announced biosimilar launch. ",
+          "src": "https://recordati.com/wp-content/uploads/2024/10/Presentation_Enjaymo_2024.10.04.pdf",
+          "note_zh": "公司收购演示文稿:知识产权独占期(含专利期延长);并非已公布的生物类似药上市。"
+        }
+      ]
+    },
+    {
+      "b": "Isturisa",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2033-05",
+          "note": "Orange Book June 2026 supplement: compound patent US 8,314,097 expires 2033-05-20; Cushing syndrome orphan exclusivity ends 2032-04-15. Other use patents run to 2035; no generic launch date verified.",
+          "src": "https://www.fda.gov/media/72973/download?elq=93e7c43ece3c4060830d573721c0a19c&elqCampaignId=9511&elqTrackId=d94a31846da744d8b3cd2ba2dfd49e7a&elqaid=11325&elqat=1",
+          "note_zh": "橙皮书2026年6月增补:化合物专利US 8,314,097于2033-05-20到期;库欣综合征孤儿药独占期于2032-04-15结束。其他用途专利至2035年;未核实仿制药上市日期。"
+        },
+        {
+          "region": "EU",
+          "value": "2035-01",
+          "note": "Method-of-use SPC granted through January 2035 in most EU countries (company May 2023 presentation); this is patent protection, not an announced generic-entry date.",
+          "src": "https://recordati.com/wp-content/uploads/2023/06/recordati-company-presentation_may-2023-2-1.pdf",
+          "note_zh": "用途方法SPC在大多数欧盟国家授予至2035年1月(公司2023年5月演示文稿);这是专利保护,并非已公布的仿制药进入日期。"
+        },
+        {
+          "region": "Japan",
+          "value": "2029-03",
+          "note": "PMDA-hosted company interview form, section X.11: re-examination period ends 2029-03-22; not a patent expiry or announced generic launch.",
+          "src": "https://www.info.pmda.go.jp/go/interview/1/870276_2499015F1026_1_004_1F.pdf",
+          "note_zh": "PMDA托管的公司访谈表第X.11节:再审查期于2029-03-22结束;并非专利到期或已公布的仿制药上市。"
+        },
+        {
+          "region": "China",
+          "value": null,
+          "note": "China-specific patent/exclusivity end and generic/biosimilar entry year were not verified from the sources inspected.",
+          "src": "https://www.fda.gov/media/72973/download?elq=93e7c43ece3c4060830d573721c0a19c&elqCampaignId=9511&elqTrackId=d94a31846da744d8b3cd2ba2dfd49e7a&elqaid=11325&elqat=1",
+          "note_zh": "未能从所查阅的来源核实中国特定的专利/独占期结束日期及仿制药/生物类似药进入年份。"
+        }
+      ]
+    },
+    {
+      "b": "Signifor / Signifor LAR",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2026-12",
+          "note": "Orange Book: compound patent US 7,473,761 expires 2026-12-14; LAR product patent US 9,351,923 expires 2028-05-23. No generic launch date verified.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:化合物专利US 7,473,761于2026-12-14到期;LAR产品专利US 9,351,923于2028-05-23到期。未核实仿制药上市日期。"
+        },
+        {
+          "region": "Japan",
+          "value": "2028-03",
+          "note": "PMDA re-examination filing: Signifor LAR Cushing disease re-examination ends 2028-03-22; acromegaly/pituitary gigantism period ended 2024-09-27. Not a generic launch date.",
+          "src": "https://www.pmda.go.jp/drugs_reexam/2026/P20260403002/870276000_22800AMX00677_B100_1.pdf",
+          "note_zh": "PMDA再审查申报:Signifor LAR库欣病再审查期于2028-03-22结束;肢端肥大症/垂体性巨人症期间已于2024-09-27结束。并非仿制药上市日期。"
         }
       ]
     }

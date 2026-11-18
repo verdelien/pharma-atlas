@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Ipsen's pipeline spans oncology, rare disease and neuroscience; recent acquisitions added navtemadlin and potravitug. ([Q3 update](https://www.ipsen.com/press-release/ipsen-delivers-outstanding-sales-growth-in-the-first-nine-months-of-2026-and-further-upgrades-its-full-year-guidance-3386012))",
-    "zh": "Ipsen 的管线涵盖肿瘤、罕见病和神经科学;近期收购新增了 navtemadlin 和 potravitug。([Q3 update](https://www.ipsen.com/press-release/ipsen-delivers-outstanding-sales-growth-in-the-first-nine-months-of-2026-and-further-upgrades-its-full-year-guidance-3386012))"
+    "zh": "Ipsen的管线涵盖肿瘤、罕见病和神经科学;近期收购增加了navtemadlin和potravitug。([第三季度更新](https://www.ipsen.com/press-release/ipsen-delivers-outstanding-sales-growth-in-the-first-nine-months-of-2026-and-further-upgrades-its-full-year-guidance-3386012))"
   },
   "counts": null,
   "items": [
@@ -13,7 +13,7 @@
       "modality": "small molecule",
       "target": {
         "en": "MDM2 inhibitor",
-        "zh": "MDM2 抑制剂"
+        "zh": "MDM2抑制剂"
       },
       "ind": {
         "en": "Myelofibrosis",
@@ -24,7 +24,7 @@
       "origin": "acquired",
       "next": {
         "en": "Phase 3 readout",
-        "zh": "III 期结果",
+        "zh": "III期读出",
         "when": "2027"
       },
       "src": "https://www.ipsen.com/press-release/ipsen-delivers-outstanding-sales-growth-in-the-first-nine-months-of-2026-and-further-upgrades-its-full-year-guidance-3386012"
@@ -39,7 +39,7 @@
       },
       "ind": {
         "en": "Glabellar lines; also spasticity, migraine and cervical dystonia",
-        "zh": "眉间纹;另有痉挛状态、偏头痛和颈部肌张力障碍"
+        "zh": "眉间纹;另有痉挛、偏头痛和颈部肌张力障碍"
       },
       "phase": "3",
       "ta": "Neuroscience",
@@ -53,7 +53,7 @@
       "modality": "antibody",
       "target": {
         "en": "BK polyomavirus",
-        "zh": "BK 多瘤病毒"
+        "zh": "BK多瘤病毒"
       },
       "ind": {
         "en": "Post-transplant nephropathy",
@@ -71,7 +71,7 @@
       "modality": "antibody",
       "target": {
         "en": "BTN3A T-cell activator",
-        "zh": "BTN3A T 细胞激活剂"
+        "zh": "BTN3A T细胞激活剂"
       },
       "ind": {
         "en": "First-line unfit acute myeloid leukemia",
@@ -79,7 +79,7 @@
       },
       "phase": "2",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
       "src": "https://www.ipsen.com/wp-content/uploads/2026/10/IPS-Partnering-Brochure-180x180mm-Oct-2026.pdf"
     },
@@ -88,8 +88,8 @@
       "code": "IPN01203",
       "modality": "other",
       "target": {
-        "en": "Vβ6 T-cell activator",
-        "zh": "Vβ6 T 细胞激活剂"
+        "en": "Vβ6 T-cell activation through TCR and IL-15R pathways",
+        "zh": "通过TCR和IL-15R通路激活Vβ6 T细胞"
       },
       "ind": {
         "en": "Solid tumors",
@@ -97,13 +97,13 @@
       },
       "phase": "1",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://www.ipsen.com/science/pipeline/"
     },
     {
       "name": "IPN60300",
-      "code": "IPN60300",
+      "code": "FS001",
       "modality": "ADC",
       "target": {
         "en": "ITGA2",
@@ -115,7 +115,7 @@
       },
       "phase": "1",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.ipsen.com/science/pipeline/"
     }
@@ -124,25 +124,25 @@
     {
       "k": "loe",
       "en": "FY2026 guidance assumes generic lanreotide entry in Q4 despite continued Somatuline growth.",
-      "zh": "2026 财年指引假设第四季度出现 lanreotide 仿制药,尽管 Somatuline 仍持续增长。",
+      "zh": "FY2026指引假设第四季度仿制药lanreotide上市,尽管Somatuline持续增长。",
       "src": "https://www.ipsen.com/press-release/ipsen-delivers-outstanding-sales-growth-in-the-first-nine-months-of-2026-and-further-upgrades-its-full-year-guidance-3386012"
     },
     {
       "k": "deal",
       "en": "Q3 acquisitions of Kartos and Memo added navtemadlin and potravitug.",
-      "zh": "第三季度收购 Kartos 和 Memo 带来了 navtemadlin 和 potravitug。",
+      "zh": "第三季度对Kartos和Memo的收购增加了navtemadlin和potravitug。",
       "src": "https://www.ipsen.com/press-release/ipsen-delivers-outstanding-sales-growth-in-the-first-nine-months-of-2026-and-further-upgrades-its-full-year-guidance-3386012"
     },
     {
       "k": "catalyst",
       "en": "Navtemadlin's Phase 3 myelofibrosis readout is expected in 2027.",
-      "zh": "Navtemadlin 的 III 期骨髓纤维化结果预计在 2027 年公布。",
+      "zh": "Navtemadlin骨髓纤维化III期读出预计于2027年公布。",
       "src": "https://www.ipsen.com/press-release/ipsen-delivers-outstanding-sales-growth-in-the-first-nine-months-of-2026-and-further-upgrades-its-full-year-guidance-3386012"
     },
     {
       "k": "other",
       "en": "Galderma initiated further corabotase arbitration in October; Ipsen could not predict the financial impact.",
-      "zh": "Galderma 于 10 月就 corabotase 发起进一步仲裁;Ipsen 无法预测其财务影响。",
+      "zh": "Galderma于10月发起了进一步的corabotase仲裁;Ipsen无法预测其财务影响。",
       "src": "https://www.ipsen.com/press-release/ipsen-delivers-outstanding-sales-growth-in-the-first-nine-months-of-2026-and-further-upgrades-its-full-year-guidance-3386012"
     }
   ],
@@ -162,17 +162,22 @@
     [
       "October partnering brochure; chart labeled July 2026",
       "https://www.ipsen.com/wp-content/uploads/2026/10/IPS-Partnering-Brochure-180x180mm-Oct-2026.pdf"
+    ],
+    [
+      "2025 universal registration document, April 2026: ImCheck, Marengo and Foreseen provenance",
+      "https://www.ipsen.com/wp-content/uploads/2026/04/IPSEN-UNIVERSAL-REGISTRATION-DOCUMENT-2025-ENGLISH.pdf"
+    ],
+    [
+      "IPN01203 and IPN60300 mechanisms, AACR 2026",
+      "https://www.ipsen.com/press-release/ipsen-showcases-transformative-potential-of-early-immuno-oncology-pipeline-at-aacr-3257884/"
     ]
   ],
   "gaps": [
-    "Counts is null: company-wide counts by numerical phase were not verified.",
-    "IPN60340 is phase 2 according to the partnering chart; the H1 appendix calls EVICTION 3 Phase II/III and not yet recruiting. A standalone active Phase III component was not confirmed.",
-    "Potravitug is phase 2 based on the SAFE KIDNEY II chart; Q3 results call the program Phase II/III. No completed transition to the Phase III component was verified.",
-    "IPN01203 and IPN60300 phase 1 are supported by the partnering chart/H1 appendix, since phase markers in the live pipeline's text were flattened. IPN01203's trial is described as Phase I/II in the appendix.",
-    "Dysport is excluded: Q3 wording says migraine submissions are underway but does not establish a completed filing, filing jurisdiction or acceptance date. Its phase 3 migraine program remains a watchpoint rather than a registration item.",
-    "Corabotase's internal origin is supported by the Q3 description as Ipsen's proprietary recombinant neuroinhibitor; other is used for neurotoxin/protein modalities not covered by the prescribed categories.",
-    "Origins were not verified for IPN60340, IPN01203 or IPN60300. Unverified codes and dated next milestones are null.",
-    "Approved tovorafenib and elafibranor were excluded because their first-line glioma/PSC programs were not verified as filed. Iqirvo's PBC label-update filing was not established as a major new indication.",
-    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified."
+    "Company-wide phase totals and dated next milestones beyond navtemadlin’s 2027 readout were not verified.",
+    "IPN60340 is represented as Phase 2 from the partnering chart; EVICTION 3 is described as Phase II/III. A standalone active Phase III component was not established.",
+    "Potravitug is represented as Phase 2; Q3 results describe Phase II/III development without establishing a completed transition to the Phase III component.",
+    "IPN01203 and IPN60300 are represented as Phase 1 within their Phase I/II studies. Corabotase’s Phase 3 entry refers to glabellar lines; other indications are in Phase 2.",
+    "The April 2026 annual filing and AACR release used for provenance and mechanism predate June 2026; current-stage evidence uses the July/October pipeline materials.",
+    "Exact filing acceptance dates and jurisdictions for Dysport migraine submissions were not verified. The selected assets are not an exhaustive list of major new-indication programmes."
   ]
 }

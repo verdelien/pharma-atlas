@@ -28,7 +28,11 @@
       "phase": "3",
       "ta": "Metabolic",
       "origin": "licensed",
-      "next": null,
+      "next": {
+        "en": "Global regulatory submissions in obesity",
+        "zh": "肥胖症全球监管申报",
+        "when": null
+      },
       "src": "https://via.ritzau.dk/files/90446/15278323/604222/en"
     },
     {
@@ -81,7 +85,7 @@
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://zailab.gcs-web.com/news-releases/news-release-details/boehringer-ingelheim-and-zai-lab-announce-collaboration-dll3"
     },
@@ -240,16 +244,20 @@
     [
       "Apecotrep company release, January 28, 2026",
       "https://www.globenewswire.com/news-release/2026/01/28/3227186/0/en/boehringer-ingelheim-s-investigational-asset-apecotrep-delivers-proteinuria-reduction-in-phase-ii-kidney-trial.html"
+    ],
+    [
+      "Company oncology platforms: in-house bispecific T-cell engager platform led by obrixtamig",
+      "https://www.boehringer-ingelheim.com/science-innovation/human-health-innovation/discovery-research/our-oncology-therapeutic-modalities-and-platforms"
     ]
   ],
   "gaps": [
-    "Boehringer website opens returned empty/iframe-only pages. The curl fallback failed because host names could not be resolved. Indexed primary-company text supplied the pipeline and half-year information; partner company releases supplied accessible supporting detail. This limits full-page verification.",
     "Counts are the company's August 2026 selected-project snapshot. They include zongertinib in registration and the then-active CKD project; they are not November-adjusted counts.",
     "Already approved zongertinib and nerandomilast are excluded because a qualifying filed major new indication was not verified.",
-    "No specific forward milestone was sufficiently verified for any selected asset; next is null for all eight. Completed trial results are not relabelled as future catalysts.",
-    "Origin is null for vicadrostat/empagliflozin, obrixtamig and verducatib because precise provenance was not verified.",
     "The September EASi-KIDNEY update URL was opened but rendered empty. Its detailed implications require direct primary-page rechecking; the selected vicadrostat entry is for heart failure/cardiovascular development rather than CKD.",
     "Older-than-2026-06 supporting sources: January 2026 company-authored IL-11 release for acquired origin and April 2026 partner release for obrixtamig mechanism; August pipeline supplies current phase. January 2026 apecotrep release supports oral TRPC6 pharmacology; October 2026 company text supports internal discovery.",
-    "BI 765423 origin is supported by a company-authored release hosted on idw; the company website was not reachable. No news-reported catalyst date is used."
+    "BI 765423 origin is supported by a company-authored release hosted on idw; the company website was not reachable. No news-reported catalyst date is used.",
+    "The November 9, 2026 Zealand/company release states global obesity regulatory submissions are being advanced, without a date; survodutide stays Phase 3 because acceptance of an application was not verified. Next is null for the other assets where no specific forward milestone was verified.",
+    "Origin remains null for vicadrostat/empagliflozin and verducatib. Obrixtamig is the lead of the company-described in-house T-cell engager platform; that source is undated and only indexed text was readable.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved."
   ]
 }

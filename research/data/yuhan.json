@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Yuhan combines lung-cancer lifecycle development with allergy, metabolic and oncology candidates. Its pipeline includes several early clinical programmes and externally sourced innovation.",
-    "zh": "Yuhan 将肺癌产品生命周期开发与过敏、代谢和肿瘤候选药物相结合。其管线包括多个早期临床项目和外部引进的创新产品。"
+    "zh": "Yuhan将肺癌生命周期开发与过敏、代谢和肿瘤候选药物相结合。其管线包括多个早期临床项目和外部引入的创新。"
   },
   "counts": null,
   "items": [
@@ -13,15 +13,15 @@
       "modality": "small molecule",
       "target": {
         "en": "EGFR inhibitor",
-        "zh": "EGFR 抑制剂"
+        "zh": "EGFR抑制剂"
       },
       "ind": {
         "en": "NSCLC after osimertinib; later-line combination treatment",
-        "zh": "osimertinib 治疗后的 NSCLC;后线联合治疗"
+        "zh": "奥希替尼后NSCLC;后线联合治疗"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.yuhan.co.kr/Mobile/Research/Pipeline/index.asp"
     },
@@ -31,7 +31,7 @@
       "modality": null,
       "target": {
         "en": "TGF-beta inhibition",
-        "zh": "TGF-beta 抑制"
+        "zh": "TGF-β抑制"
       },
       "ind": {
         "en": "Degenerative disc disease",
@@ -45,11 +45,11 @@
     },
     {
       "name": "lesigercept",
-      "code": "YH35324",
+      "code": "YH35324 / GI-301",
       "modality": "other",
       "target": {
         "en": "IgE-trap fusion protein",
-        "zh": "IgE 捕获融合蛋白"
+        "zh": "IgE捕获融合蛋白"
       },
       "ind": {
         "en": "Chronic spontaneous urticaria",
@@ -57,7 +57,7 @@
       },
       "phase": "2",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://eng.yuhan.co.kr/common/file/YUHAN%20Sustainability%20Report%202025-2026.pdf"
     },
@@ -67,7 +67,7 @@
       "modality": "small molecule",
       "target": {
         "en": "5-HT4 receptor agonist",
-        "zh": "5-HT4 受体激动剂"
+        "zh": "5-HT4受体激动剂"
       },
       "ind": {
         "en": "Gastrointestinal motility disorders",
@@ -85,11 +85,11 @@
       "modality": "bispecific",
       "target": {
         "en": "HER2 / 4-1BB",
-        "zh": "HER2 / 4-1BB"
+        "zh": "HER2/4-1BB"
       },
       "ind": {
         "en": "HER2-positive biliary tract cancer; solid tumours",
-        "zh": "HER2 阳性胆道癌;实体瘤"
+        "zh": "HER2阳性胆道癌;实体瘤"
       },
       "phase": "2",
       "ta": "Oncology",
@@ -103,17 +103,17 @@
       "modality": "bispecific",
       "target": {
         "en": "EGFR / 4-1BB",
-        "zh": "EGFR / 4-1BB"
+        "zh": "EGFR/4-1BB"
       },
       "ind": {
         "en": "EGFR-positive solid tumours",
-        "zh": "EGFR 阳性实体瘤"
+        "zh": "EGFR阳性实体瘤"
       },
-      "phase": "2",
+      "phase": "1",
       "ta": "Oncology",
       "origin": null,
       "next": null,
-      "src": "https://eng.yuhan.co.kr/common/file/YUHAN%20Sustainability%20Report%202025-2026.pdf"
+      "src": "https://www.yuhan.co.kr/Mobile/Research/Pipeline/index.asp"
     },
     {
       "name": "YH42946",
@@ -121,18 +121,18 @@
       "modality": "small molecule",
       "target": {
         "en": "HER2 tyrosine kinase inhibitor",
-        "zh": "HER2 酪氨酸激酶抑制剂"
+        "zh": "HER2酪氨酸激酶抑制剂"
       },
       "ind": {
         "en": "HER2-altered or EGFR exon 20 insertion solid tumours, including NSCLC",
-        "zh": "HER2 改变或 EGFR 外显子 20 插入的实体瘤,包括 NSCLC"
+        "zh": "HER2改变或EGFR 20号外显子插入的实体瘤,包括NSCLC"
       },
       "phase": "1",
       "ta": "Oncology",
       "origin": "licensed",
       "next": {
         "en": "Initial dose-escalation results by year-end; dose expansion planned for early 2027",
-        "zh": "年底前公布首批剂量递增结果;计划于 2027 年初开展剂量扩展",
+        "zh": "年底前公布初步剂量递增结果;计划于2027年初开展剂量扩展",
         "when": "2026Q4"
       },
       "src": "https://www.yuhan.co.kr/Customer/NoticeList/index.asp?Cateid=221&IDX=60565&mode=view&no=323"
@@ -143,7 +143,7 @@
       "modality": "other",
       "target": {
         "en": "FGF21 / GLP-1 dual-acting protein",
-        "zh": "FGF21 / GLP-1 双重作用蛋白"
+        "zh": "FGF21/GLP-1双重作用蛋白"
       },
       "ind": {
         "en": "MASH",
@@ -151,7 +151,7 @@
       },
       "phase": "1",
       "ta": "Metabolic",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://www.yuhan.co.kr/Mobile/Research/Pipeline/index.asp"
     },
@@ -178,19 +178,19 @@
     {
       "k": "catalyst",
       "en": "YH42946 initial clinical results are expected at year-end 2026, with expansion planned for early 2027.",
-      "zh": "YH42946 的首批临床结果预计于 2026 年底公布,并计划于 2027 年初开展扩展研究。",
+      "zh": "YH42946初步临床结果预计于2026年底公布,计划于2027年初开展扩展。",
       "src": "https://www.yuhan.co.kr/Customer/NoticeList/index.asp?Cateid=221&IDX=60565&mode=view&no=323"
     },
     {
       "k": "deal",
       "en": "YH42946 was licensed from J INTS BIO in 2023.",
-      "zh": "YH42946 于 2023 年从 J INTS BIO 获得授权。",
+      "zh": "YH42946于2023年从J INTS BIO获得许可。",
       "src": "https://www.yuhan.co.kr/Customer/NoticeList/index.asp?Cateid=221&IDX=60565&mode=view&no=323"
     },
     {
       "k": "concentration",
       "en": "Lazertinib is already launched in first-line combinations; the selected entry concerns later-line Phase 3 development.",
-      "zh": "Lazertinib 已作为一线联合疗法上市;所选条目涉及后线 III 期开发。",
+      "zh": "Lazertinib已在一线联合治疗中上市;所选条目涉及后线III期开发。",
       "src": "https://www.yuhan.co.kr/Mobile/Research/Pipeline/index.asp"
     }
   ],
@@ -210,14 +210,25 @@
     [
       "Q3 2026 IR materials index",
       "https://www.yuhan.co.kr/Invest/IR/Event/?Cateid=241&Foreword=IR%ED%96%89%EC%82%AC"
+    ],
+    [
+      "Company centennial history: lazertinib license and YH25724 in-house origin",
+      "https://100.yuhan.co.kr/en/timeline.html"
+    ],
+    [
+      "GI Innovation corporate history: GI-301 licensed to Yuhan",
+      "https://gi-innovation.com/en/sub/company/history.asp"
+    ],
+    [
+      "GI-301/YH35324 partner license description, October 17, 2023",
+      "https://www.gi-innovation.com/en/sub/pr/press/press.asp?bid=9&idx=638&mode=view"
     ]
   ],
   "gaps": [
     "Company-wide counts by phase were not verified; counts is null. Unverified codes, mechanisms, modalities, origins and milestone dates are null rather than inferred.",
-    "The Q3 IR index loaded but its presentation attachments were not exposed by the browser; the pipeline and September release supply the asset evidence. The sustainability report pipeline snapshot is May 2026, older than June 2026.",
-    "YH32367 and YH32364 combined Phase 1/2 studies are represented as phase 2; this does not establish completion of dose escalation. YH42946 remains phase 1 because the September release says expansion is still planned.",
     "The mobile page contains inconsistent stage labels for YH35324 and YH34160. The report verifies YH35324 as Phase 2; YH34160 is omitted because its current clinical status was not resolved. YH25724 and YH35995 are not promoted beyond the verified Phase 1 descriptions.",
-    "Origins other than the explicitly licensed YH42946 were not verified. The modality of YH14618 was not established from the cited descriptions. Most selected assets have no verified next milestone.",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "The sustainability report pipeline snapshot is May 2026, older than June 2026. YH32364 is Phase 1 on the current pipeline, which takes precedence over the older Phase 1/2 report. YH32367 remains a combined Phase 1/2 study represented as 2.",
+    "YH25724 is Phase 1 on the current mobile pipeline despite Phase 2 in the May report; Phase 1 is retained conservatively. YH42946 remains Phase 1 because September guidance places dose expansion in early 2027.",
+    "Origins remain unverified for YH14618, YH12852, YH32367, YH32364 and YH35995; YH14618 modality and most next milestones remain null. The 2023 GI Innovation release establishes provenance only."
   ]
 }

@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Sarepta is prioritizing siRNA development alongside its muscle-disease gene therapies. SRP-9003 remains a late-stage asset on clinical hold, while DM1 and FSHD candidates are preparing for pivotal development.",
-    "zh": "Sarepta 在其肌肉疾病基因疗法之外,优先推进 siRNA 开发。SRP-9003 仍是处于临床暂停的后期资产,而 DM1 和 FSHD 候选药物正为关键性开发做准备。"
+    "zh": "Sarepta在肌肉疾病基因疗法之外，优先推进siRNA开发。SRP-9003仍是处于临床搁置的后期资产，而DM1和FSHD候选药物正准备进入关键性开发。"
   },
   "counts": null,
   "items": [
@@ -17,14 +17,14 @@
       },
       "ind": {
         "en": "Limb-girdle muscular dystrophy 2E/R4",
-        "zh": "肢带型肌营养不良 2E/R4"
+        "zh": "肢带型肌营养不良2E/R4"
       },
       "phase": "3",
       "ta": "Rare disease",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "Align with FDA on BLA path after sirolimus data",
-        "zh": "在 sirolimus 数据之后,与 FDA 就 BLA 路径达成一致",
+        "zh": "在sirolimus数据后与FDA就BLA路径达成一致",
         "when": null
       },
       "src": "https://investorrelations.sarepta.com/static-files/1fd9545d-da6b-4e33-8278-e1fb72235ab8"
@@ -39,7 +39,7 @@
       },
       "ind": {
         "en": "Myotonic dystrophy type 1",
-        "zh": "1 型强直性肌营养不良"
+        "zh": "1型强直性肌营养不良"
       },
       "phase": "2",
       "ta": "Rare disease",
@@ -61,7 +61,7 @@
       },
       "ind": {
         "en": "Facioscapulohumeral muscular dystrophy type 1",
-        "zh": "1 型面肩肱型肌营养不良"
+        "zh": "1型面肩肱型肌营养不良"
       },
       "phase": "2",
       "ta": "Rare disease",
@@ -78,8 +78,8 @@
       "code": null,
       "modality": "siRNA",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "Huntingtin (HTT) RNA silencing",
+        "zh": "Huntingtin (HTT) RNA沉默"
       },
       "ind": {
         "en": "Huntington's disease",
@@ -90,7 +90,7 @@
       "origin": "licensed",
       "next": {
         "en": "Proof-of-biology data; company specifies mid-2027",
-        "zh": "生物学概念验证数据;公司明确为 2027 年中",
+        "zh": "生物学概念验证数据；公司指明为2027年中",
         "when": "2027"
       },
       "src": "https://investorrelations.sarepta.com/static-files/1fd9545d-da6b-4e33-8278-e1fb72235ab8"
@@ -100,19 +100,19 @@
     {
       "k": "catalyst",
       "en": "DM1 and FSHD multiple-dose data are expected in Q4 2026.",
-      "zh": "DM1 和 FSHD 多次给药数据预计在 2026 年第四季度公布。",
+      "zh": "DM1和FSHD多剂量数据预计于2026年第四季度公布。",
       "src": "https://investorrelations.sarepta.com/static-files/f27d9c41-a988-47b6-8caa-0048065d74dc"
     },
     {
       "k": "other",
       "en": "SRP-9003 is on clinical hold; FDA requires sirolimus data before accepting a BLA.",
-      "zh": "SRP-9003 处于临床暂停;FDA 要求在受理 BLA 前提供 sirolimus 数据。",
+      "zh": "SRP-9003处于临床搁置；FDA要求在受理BLA前提供sirolimus数据。",
       "src": "https://investorrelations.sarepta.com/static-files/1fd9545d-da6b-4e33-8278-e1fb72235ab8"
     },
     {
       "k": "concentration",
       "en": "Duchenne commercial cash generation funds pipeline investment.",
-      "zh": "杜氏肌营养不良的商业现金流为管线投资提供资金。",
+      "zh": "杜氏肌营养不良产品的商业现金流为管线投资提供资金。",
       "src": "https://investorrelations.sarepta.com/static-files/f27d9c41-a988-47b6-8caa-0048065d74dc"
     }
   ],
@@ -128,14 +128,21 @@
     [
       "Q3 2026 presentation",
       "https://investorrelations.sarepta.com/static-files/f27d9c41-a988-47b6-8caa-0048065d74dc"
+    ],
+    [
+      "2025 Form 10-K, March 2026: completed Myonexus acquisition",
+      "https://investorrelations.sarepta.com/static-files/6a6f93ae-4952-4aea-93e7-476f0b17c832"
+    ],
+    [
+      "SRP-1005 target and Phase 1 design, January 7, 2026",
+      "https://investorrelations.sarepta.com/node/24896"
     ]
   ],
   "gaps": [
     "Pipeline page carries April 2026 and August 2025 dates; November 2026 filings take precedence.",
     "No published phase counts verified.",
     "Phase 1/2 siRNA studies mapped to phase 2; these are not yet Phase 3.",
-    "SRP-9003 origin was not established; SRP-1005 molecular target not verified in reviewed text.",
     "Approved products and confirmatory studies for existing indications excluded.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "Origin and HTT-target support includes sources published before June 2026; stages and readout guidance use November 2026 materials. SRP-9003 remains on clinical hold pending sirolimus data and FDA agreement on the BLA path, without a verified filing date."
   ]
 }

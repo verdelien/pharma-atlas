@@ -12,12 +12,12 @@
       "code": null,
       "modality": "peptide",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "GIP / GLP-1 receptor agonism",
+        "zh": "GIP / GLP-1受体激动"
       },
       "ind": {
         "en": "Diabetes and weight management; references Mounjaro and Zepbound",
-        "zh": "糖尿病和体重管理;参照 Mounjaro 和 Zepbound"
+        "zh": "糖尿病和体重管理;涉及Mounjaro和Zepbound"
       },
       "phase": "reg",
       "ta": "Metabolic",
@@ -26,35 +26,32 @@
       "src": "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-and-Adalvo-Announce-FDA-Acceptance-for-Review-of-Two-U-S--ANDAs-for-Generic-Tirzepatide-Autoinjector-2026-_ei9_NKxPV/default.aspx"
     },
     {
-      "name": "omalizumab biosimilar",
-      "code": null,
+      "name": "omalizumab biosimilar (US filing)",
+      "code": "ADL-018 / AVT23",
       "modality": "antibody",
       "target": {
-        "en": null,
-        "zh": null
+        "en": "IgE",
+        "zh": "IgE"
       },
       "ind": {
         "en": "Immunology/allergy",
         "zh": "免疫/过敏"
       },
-      "phase": null,
+      "phase": "reg",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "acquired",
       "next": {
-        "en": "Estimated approval",
-        "zh": "预计获批",
-        "when": "2026Q4"
+        "en": "FDA decision on US biosimilar application",
+        "zh": "FDA对美国生物类似药申请的决定",
+        "when": null
       },
-      "src": "https://amneal.com/pipeline/"
+      "src": "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-Announces-European-Approval-of-Adcomfo-Omalizumab-a-Biosimilar-to-XOLAIR/default.aspx"
     },
     {
       "name": "epinephrine prefilled syringe",
       "code": null,
       "modality": "small molecule",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Emergency/critical care",
         "zh": "急诊/重症监护"
@@ -63,9 +60,9 @@
       "ta": "Other",
       "origin": null,
       "next": {
-        "en": "Estimated approval and launch",
-        "zh": "预计获批和上市",
-        "when": "2026Q4"
+        "en": "Estimated approval and launch of epinephrine prefilled syringe",
+        "zh": "肾上腺素预充式注射器的预计获批和上市",
+        "when": "2027Q2"
       },
       "src": "https://amneal.com/pipeline/"
     }
@@ -106,12 +103,22 @@
     [
       "Corporate timeline",
       "https://amneal.com/innovating-access/our-timeline/"
+    ],
+    [
+      "Adcomfo European approval and pending US BLA, November 17, 2026",
+      "https://investors.amneal.com/news/press-releases/press-release-details/2026/Amneal-Announces-European-Approval-of-Adcomfo-Omalizumab-a-Biosimilar-to-XOLAIR/default.aspx"
+    ],
+    [
+      "Biosimilars pipeline",
+      "https://amneal.com/biosimilars-pipeline/"
     ]
   ],
   "gaps": [
-    "Pipeline chart is dated April 2026, older than June 2026; company timeline supersedes its stale romidepsin entry, which is already approved and excluded.",
-    "Only three pending opportunities verified; approved launch opportunities excluded. No published phase counts located.",
-    "Omalizumab and epinephrine filing status, asset origins and targets were not verified; phases and targets are null. Estimated approval is not evidence of filing.",
-    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+    "No published clinical-phase counts located; generic ANDA and program totals are not converted into clinical phases.",
+    "The pipeline URL exposes inconsistent snapshots: opened text is dated April 2026, while the current search-indexed company text is dated November 2026 and moves epinephrine PFS estimated approval/launch to Q2 2027. The newer stated date is used; it does not establish filing status.",
+    "Omalizumab was approved in Europe on November 17, 2026 and in the UK in March; only the explicitly pending US BLA is represented as reg. The dated November release gives no US FDA action date, so the older estimated Q4 approval is removed.",
+    "Epinephrine PFS filing status, target and origin remain unverified and null. No dated decision was verified for the tirzepatide ANDAs.",
+    "Approved launch opportunities, including romidepsin and denosumab, remain excluded.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

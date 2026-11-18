@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Fosun’s pipeline spans oncology, immune-inflammatory and neurodegenerative disease, combining internal development with licensing. It includes antibody/ADC programs and multiple Chinese regulatory submissions.",
-    "zh": "Fosun 的管线涵盖肿瘤、免疫炎症和神经退行性疾病,将自主开发与授权引进相结合。其中包括抗体/ADC 项目以及多项中国监管申报。"
+    "zh": "复星的管线涵盖肿瘤、免疫炎症和神经退行性疾病,结合内部开发与授权引进。其中包括抗体/ADC项目和多项中国监管申报。"
   },
   "counts": null,
   "items": [
@@ -17,7 +17,7 @@
       },
       "ind": {
         "en": "ALK-positive non-small-cell lung cancer (China)",
-        "zh": "ALK 阳性非小细胞肺癌(中国)"
+        "zh": "ALK阳性非小细胞肺癌(中国)"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -53,11 +53,11 @@
       },
       "ind": {
         "en": "Adult NF1-associated symptomatic inoperable plexiform neurofibromas (China)",
-        "zh": "成人 NF1 相关有症状、不可手术的丛状神经纤维瘤(中国)"
+        "zh": "成人NF1相关有症状不可手术丛状神经纤维瘤(中国)"
       },
       "phase": "reg",
       "ta": "Rare disease",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
     },
@@ -94,12 +94,8 @@
       "phase": "3",
       "ta": "Neuroscience",
       "origin": "licensed",
-      "next": {
-        "en": "Clinical data readout expected in 2026H2 per the August report; delivery not verified",
-        "zh": "据 8 月报告,临床数据预计在 2026H2 公布;是否已兑现未核实",
-        "when": "2026H2"
-      },
-      "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+      "next": null,
+      "src": "https://static.cninfo.com.cn/finalpage/2026-11-17/1225674892.PDF"
     },
     {
       "name": "HLX43",
@@ -110,12 +106,12 @@
         "zh": "PD-L1"
       },
       "ind": {
-        "en": "Advanced NSCLC; ESCC; colorectal and cervical cancers",
-        "zh": "晚期 NSCLC;ESCC;结直肠癌和宫颈癌"
+        "en": "Advanced/metastatic squamous NSCLC (Phase 2/3); also Phase 2 solid-tumor studies",
+        "zh": "晚期/转移性鳞状NSCLC(II/III期);另有II期实体瘤研究"
       },
-      "phase": "2",
+      "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
     },
@@ -129,7 +125,7 @@
       },
       "ind": {
         "en": "IgA nephropathy; complement-associated glomerular disease",
-        "zh": "IgA 肾病;补体相关肾小球疾病"
+        "zh": "IgA肾病;补体相关肾小球疾病"
       },
       "phase": "2",
       "ta": "Immunology",
@@ -147,11 +143,11 @@
       },
       "ind": {
         "en": "Non-cystic-fibrosis bronchiectasis; COPD",
-        "zh": "非囊性纤维化支气管扩张症;COPD"
+        "zh": "非囊性纤维化支气管扩张;COPD"
       },
       "phase": "2",
       "ta": "Respiratory",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
     },
@@ -178,26 +174,32 @@
     {
       "k": "concentration",
       "en": "September pipeline disclosure reports 54+ oncology programs and 31+ non-oncology programs, counted by indication.",
-      "zh": "9 月管线披露显示,按适应症计,有 54 个以上肿瘤项目和 31 个以上非肿瘤项目。",
+      "zh": "9月管线披露显示有54个以上肿瘤项目和31个以上非肿瘤项目,按适应症计算。",
       "src": "https://www.fosunpharma.com/en/innovate/pipeline.html?id=4270909.scm"
     },
     {
       "k": "deal",
       "en": "The interim filing identifies GR1803 as licensed, alongside internal small-molecule development.",
-      "zh": "中期报告指出 GR1803 为授权引进,同时有内部小分子开发。",
+      "zh": "中期申报文件显示GR1803为授权引进,同时有内部小分子开发。",
       "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
     },
     {
       "k": "balance",
       "en": "Nine-month 2026 R&D investment was RMB5.247 billion; innovative-drug R&D was RMB4.346 billion.",
-      "zh": "2026 年前九个月研发投入为 RMB5.247 billion;其中创新药研发为 RMB4.346 billion。",
+      "zh": "2026年前九个月研发投入为52.47亿元人民币;创新药研发为43.46亿元人民币。",
       "src": "https://www.fosunpharma.com/Upload/File/202610/dbb2833e9ae34f7090a79f2cbfe56d91.pdf"
     },
     {
       "k": "catalyst",
       "en": "Foritinib, GR1803 and adult-NF1 luvometinib submissions require regulatory decisions; decision dates were not verified.",
-      "zh": "Foritinib、GR1803 和成人 NF1 luvometinib 的申报有待监管决定;决定日期未核实。",
+      "zh": "Foritinib、GR1803和成人NF1 luvometinib的申报需待监管决定;决定日期未经核实。",
       "src": "https://static.cninfo.com.cn/finalpage/2026-08-26/1225505529.PDF"
+    },
+    {
+      "k": "other",
+      "en": "AR1001 met the prespecified monotherapy-population significance threshold but not the overall-population threshold; the expanded global option remained unexercised on November 17.",
+      "zh": "AR1001达到预设的单药治疗人群显著性阈值,但未达到总体人群阈值;截至11月17日,扩大的全球期权仍未行使。",
+      "src": "https://static.cninfo.com.cn/finalpage/2026-11-17/1225674892.PDF"
     }
   ],
   "sources": [
@@ -212,15 +214,30 @@
     [
       "Q3 2026 results filing, October 2026",
       "https://www.fosunpharma.com/Upload/File/202610/dbb2833e9ae34f7090a79f2cbfe56d91.pdf"
+    ],
+    [
+      "Parent-company 2025 review: HLX43 and luvometinib internal development",
+      "https://en.fosun.com/content/details46_5497.html"
+    ],
+    [
+      "FXS7553 independently developed, Phase 2 COPD start, August 13, 2026",
+      "https://www.fosunpharma.com/en/content/details37_17481.html"
+    ],
+    [
+      "AR1001 topline disclosure and unexercised global option, November 17, 2026",
+      "https://static.cninfo.com.cn/finalpage/2026-11-17/1225674892.PDF"
+    ],
+    [
+      "AR1001 POLARIS-AD topline results, company release November 17, 2026",
+      "https://en.fosun.com/content/details46_5675.html"
     ]
   ],
   "gaps": [
     "Company phase-by-phase totals were not verified. The pipeline combines pivotal trials and NDA/BLA programs into 32+ and therefore does not support separate phase 3 and registration counts; counts is null.",
-    "Asset phases reflect the August interim report. The Q3 filing was reviewed for newer context, but current asset-specific changes could not be independently resolved from its extracted text; no claim of a complete November pipeline is made.",
+    "Most asset phases reflect the August interim report; AR1001 was updated from the November 17 disclosure. The Q3 filing was reviewed for newer context, but current asset-specific changes could not be independently resolved from its extracted text; no claim of a complete November pipeline is made.",
     "English Q3 and interim press-release pages timed out on opening; primary exchange/company filings were used instead. Some pipeline detail is image-based.",
-    "Origins other than licensed GR1803/AR1001 and internally developed FXS0683 were not verified and are null. Additional codes not stated are null. AR1001 has existing regional rights plus an option for additional worldwide rights; exercise of that option was not verified.",
-    "The August report anticipated 2026H2 clinical data from AR1001, FXS7553, FXS6837 and HLX43, among others; whether those milestones have already occurred was not verified. Next is null where no distinct upcoming event was established. FXS6837 Phase 2b is represented as phase 2.",
     "Luvometinib is included only for its filed adult NF1 indication, not already approved uses.",
-    "Required curl HEAD checks were attempted for every cited URL. All failed with DNS resolution errors (curl exit 6; HTTP 000) in this environment. Sources were opened through the web browsing tool, but independent curl status verification could not be completed."
+    "AR1001 POLARIS-AD results were disclosed November 16/17, so the obsolete 2026H2 readout was removed. The prespecified monotherapy population met its significance threshold; the overall population did not. No subsequent dated milestone was verified. The November 17 filing says the expanded global option had not been exercised.",
+    "HLX43 has an international Phase 2/3 squamous-NSCLC study initiated in May 2026, mapped to 3; this does not establish that every cohort has entered Phase 3. Other solid-tumor trials remain Phase 2. Origins for foritinib, HLX22 and FXS6837 remain null; internal origins were verified for luvometinib, HLX43 and FXS7553. Parent 2025 review predates June 2026 and is used only for provenance."
   ]
 }

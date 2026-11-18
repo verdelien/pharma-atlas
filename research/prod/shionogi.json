@@ -1,5 +1,18 @@
 {
   "id": "shionogi",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Overseas subsidiaries and exports",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "No single regional LOE date verified. Company October 2026 results supplement, Revenue by segment, identifies Overseas subsidiaries/Export as an organizational revenue aggregate spanning US, EU, China and other business. It is not solely cefiderocol; a Fetroja/Fetcroja date cannot be assigned to the entire row.",
+          "src": "https://www.shionogi.com/content/dam/shionogi/global/investors/ir-library/presentation/2026/2q/E_2026.2Q_Supplement.pdf",
+          "note_zh": "未核实存在单一的区域独占期结束日期。公司2026年10月业绩补充材料“按分部划分的收入”将海外子公司/出口列为跨美国、欧盟、中国及其他业务的组织性收入汇总。它并非仅指cefiderocol;Fetroja/Fetcroja的日期不能适用于整行。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

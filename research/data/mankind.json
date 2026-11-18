@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Mankind discloses a small named discovery pipeline in metabolic and autoimmune diseases alongside its broader pharmaceutical business. The verified clinical assets are MKP10241 and MKP11093.",
-    "zh": "Mankind 在其更广泛的制药业务之外,披露了一条规模较小的、涉及代谢和自身免疫疾病的具名发现管线。经核实的临床资产为 MKP10241 和 MKP11093。"
+    "zh": "Mankind披露了代谢和自身免疫疾病领域一条规模较小的已命名发现管线，同时拥有更广泛的制药业务。已核实的临床资产为MKP10241和MKP11093。"
   },
   "counts": null,
   "items": [
@@ -11,13 +11,10 @@
       "name": "MKP10241",
       "code": "MKP10241",
       "modality": "small molecule",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Type 2 diabetes; also obesity",
-        "zh": "2 型糖尿病;另有肥胖症"
+        "zh": "2型糖尿病；另有肥胖"
       },
       "phase": "2",
       "ta": "Metabolic",
@@ -31,11 +28,11 @@
       "modality": "small molecule",
       "target": {
         "en": "JAK1 inhibitor",
-        "zh": "JAK1 抑制剂"
+        "zh": "JAK1抑制剂"
       },
       "ind": {
         "en": "Rheumatoid arthritis; ulcerative colitis, plaque psoriasis and alopecia",
-        "zh": "类风湿关节炎;溃疡性结肠炎、斑块状银屑病和脱发"
+        "zh": "类风湿关节炎；溃疡性结肠炎、斑块状银屑病和脱发"
       },
       "phase": "1",
       "ta": "Immunology",
@@ -48,19 +45,19 @@
     {
       "k": "deal",
       "en": "In-licensing and selective brand acquisitions support the strategy to expand chronic therapies.",
-      "zh": "授权引进和选择性品牌收购支持其扩大慢性病治疗领域的战略。",
+      "zh": "通过授权引进和选择性品牌收购支持扩大慢性病治疗领域的战略。",
       "src": "https://www.mankindpharma.com/wp-content/uploads/2026/10/Q2-H1-FY27-Earnings-Call-Transcript.pdf"
     },
     {
       "k": "other",
       "en": "MKP11093 received Indian government PRIP funding, according to the October 2026 call.",
-      "zh": "据 2026 年 10 月的电话会议称,MKP11093 获得了印度政府 PRIP 资金支持。",
+      "zh": "据2026年10月电话会议称，MKP11093获得印度政府PRIP资助。",
       "src": "https://www.mankindpharma.com/wp-content/uploads/2026/10/Q2-H1-FY27-Earnings-Call-Transcript.pdf"
     },
     {
       "k": "concentration",
       "en": "Chronic therapies excluding BSV reached 37.4% of the business in Q2 FY27.",
-      "zh": "2027 财年第二季度,不含 BSV 的慢性病治疗占业务的 37.4%。",
+      "zh": "不含BSV的慢性病治疗在2027财年第二季度占业务的37.4%。",
       "src": "https://www.mankindpharma.com/wp-content/uploads/2026/10/Q2-H1-FY27-Earnings-Call-Transcript.pdf"
     }
   ],
@@ -79,10 +76,9 @@
     ]
   ],
   "gaps": [
-    "Company-wide counts by phase were not verified; counts is null. Unverified codes, mechanisms, modalities, origins and milestone dates are null rather than inferred.",
-    "Only two named clinical discovery candidates were verified; unnamed oncology, immuno-oncology and MASH research was not converted into invented assets. No named Phase 3 or filed discovery programme was verified.",
-    "The detailed MKP11093 Phase 1 source is September 2025, older than June 2026; the October 2026 call confirms continued pipeline investment but gives no new phase or clinical milestone date.",
-    "The October investor presentation PDFs timed out in the browser and curl downloads failed because DNS was unavailable; the company earnings-call transcript loaded. MKP10241 target was not established in the cited discovery page and is null.",
-    "Final curl -sSIL checks were attempted for every cited URL on 2026-11-17. All 57 unique URLs returned HTTP 000 with curl exit 6 because this environment could not resolve hosts. Browser-loaded sources support the entries, but independent HTTP-status verification could not be completed."
+    "No company-wide phase counts or dated next asset milestones verified; counts and next are null.",
+    "Only two named clinical discovery candidates were verified; unnamed oncology, immuno-oncology and MASH research was not converted into assets.",
+    "MKP10241's molecular target was not established in the current company discovery pipeline; null.",
+    "MKP11093 Phase 1 refers to CDSCO trial authorization in September 2025, before June 2026; subsequent trial initiation or phase progression was not established. The October 2026 call gives no new phase or dated clinical milestone."
   ]
 }

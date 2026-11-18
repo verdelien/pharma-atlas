@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "CSL's investigational portfolio centers on blood disorders, immune proteins, renal disease and influenza vaccines. Clazakizumab and the VarmX collaboration are key novel Phase 3 programs; much of the broader display covers existing products.",
-    "zh": "CSL 的在研组合集中于血液疾病、免疫蛋白、肾脏疾病及流感疫苗。Clazakizumab 和 VarmX 合作项目是新药 III 期重点，官网展示的其他项目较多涉及已上市产品。"
+    "zh": "CSL的在研管线集中于血液疾病、免疫蛋白、肾病和流感疫苗。Clazakizumab和与VarmX的合作是关键的新型III期项目;更广泛的展示内容多为已上市产品。"
   },
   "counts": null,
   "items": [
@@ -13,11 +13,11 @@
       "modality": "antibody",
       "target": {
         "en": "IL-6 blockade",
-        "zh": "阻断 IL-6"
+        "zh": "IL-6阻断"
       },
       "ind": {
         "en": "Cardiovascular event prevention in end-stage kidney disease",
-        "zh": "终末期肾病患者心血管事件预防"
+        "zh": "终末期肾病的心血管事件预防"
       },
       "phase": "3",
       "ta": "Cardiovascular",
@@ -31,11 +31,11 @@
       "modality": "other",
       "target": {
         "en": "Modified factor X bypassing factor Xa inhibitors",
-        "zh": "通过改造凝血因子 X 绕过 Xa 因子抑制作用"
+        "zh": "可绕过因子Xa抑制剂的改良因子X"
       },
       "ind": {
         "en": "Urgent surgery in patients taking factor Xa inhibitors",
-        "zh": "服用 Xa 因子抑制剂患者的紧急手术止血"
+        "zh": "服用因子Xa抑制剂患者的紧急手术"
       },
       "phase": "3",
       "ta": "Hematology",
@@ -49,15 +49,15 @@
       "modality": "other",
       "target": {
         "en": "Nebulized plasma-derived immunoglobulin",
-        "zh": "雾化吸入血浆来源免疫球蛋白"
+        "zh": "雾化血浆源免疫球蛋白"
       },
       "ind": {
         "en": "Non-cystic fibrosis bronchiectasis",
-        "zh": "非囊性纤维化支气管扩张症"
+        "zh": "非囊性纤维化支气管扩张"
       },
       "phase": "2",
       "ta": "Respiratory",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://www.csl.com/research-and-development/product-pipeline"
     },
@@ -67,11 +67,11 @@
       "modality": "antibody",
       "target": {
         "en": "G-CSF receptor",
-        "zh": "G-CSF 受体"
+        "zh": "G-CSF受体"
       },
       "ind": {
         "en": "Sickle cell disease: vaso-occlusive crisis prevention",
-        "zh": "镰状细胞病血管闭塞危象预防"
+        "zh": "镰状细胞病:预防血管闭塞危象"
       },
       "phase": "2",
       "ta": "Hematology",
@@ -85,7 +85,7 @@
       "modality": "other",
       "target": {
         "en": "Plasma-derived hemopexin",
-        "zh": "血浆来源血红素结合蛋白"
+        "zh": "血浆源血红素结合蛋白"
       },
       "ind": {
         "en": "Acute vaso-occlusive crisis in sickle cell disease",
@@ -107,11 +107,11 @@
       },
       "ind": {
         "en": "Iron overload in hereditary hemochromatosis",
-        "zh": "遗传性血色病的铁过载"
+        "zh": "遗传性血色病铁过载"
       },
       "phase": "2",
       "ta": "Hematology",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
       "src": "https://www.csl.com/research-and-development/product-pipeline"
     },
@@ -121,11 +121,11 @@
       "modality": "antibody",
       "target": {
         "en": "Alpha-2-antiplasmin",
-        "zh": "α2 抗纤溶酶"
+        "zh": "α-2-抗纤溶酶"
       },
       "ind": {
         "en": "Submassive pulmonary embolism; also acute ischemic stroke",
-        "zh": "次大面积肺栓塞；另开发急性缺血性卒中"
+        "zh": "次大面积肺栓塞;另有急性缺血性卒中"
       },
       "phase": "2",
       "ta": "Cardiovascular",
@@ -139,11 +139,11 @@
       "modality": "vaccine",
       "target": {
         "en": "Cell-based H5N8 influenza vaccine",
-        "zh": "细胞培养 H5N8 流感疫苗"
+        "zh": "细胞培养H5N8流感疫苗"
       },
       "ind": {
         "en": "Pandemic influenza A (H5N8) prevention",
-        "zh": "大流行性甲型流感（H5N8）预防"
+        "zh": "大流行性甲型流感(H5N8)预防"
       },
       "phase": "2",
       "ta": "Vaccines",
@@ -156,25 +156,25 @@
     {
       "k": "catalyst",
       "en": "VMX-C001 entered Phase 3; CSL funds development and holds an acquisition option on VarmX.",
-      "zh": "VMX-C001 已进入 III 期；CSL 提供研发资金并持有 VarmX 收购选择权。",
+      "zh": "VMX-C001已进入III期;CSL出资开发并持有VarmX的收购选择权。",
       "src": "https://investors.csl.com/PDF/be88bd1b-9d53-409a-9d6e-43da41dae1d5/CSLStatutoryAccountsforFY2026"
     },
     {
       "k": "deal",
       "en": "CSL licensed clazakizumab's additional indications to Lilly while retaining its ESKD cardiovascular program.",
-      "zh": "CSL 将 clazakizumab 的其他适应症许可给 Lilly，保留终末期肾病心血管项目。",
+      "zh": "CSL已将clazakizumab的其他适应症许可给Lilly,同时保留其ESKD心血管项目。",
       "src": "https://investors.csl.com/pdf/804b6c67-3f2e-4185-9fc7-9394f19af8af/Platform/ListPage/CSL-Results-Presentation-for-FY2026.pdf"
     },
     {
       "k": "policy",
       "en": "Velphoro's U.S. TDAPA reimbursement period ends in December 2026.",
-      "zh": "Velphoro 的美国 TDAPA 额外报销期将于 2026 年 12 月结束。",
+      "zh": "Velphoro在美国的TDAPA报销期于2026年12月结束。",
       "src": "https://investors.csl.com/pdf/804b6c67-3f2e-4185-9fc7-9394f19af8af/Platform/ListPage/CSL-Results-Presentation-for-FY2026.pdf"
     },
     {
       "k": "balance",
       "en": "FY2026 included $7.1 billion in impairment and related charges, alongside restructuring.",
-      "zh": "2026 财年计提了 71 亿美元减值及相关费用，同时推进重组。",
+      "zh": "FY2026包含71亿美元减值及相关费用,以及重组费用。",
       "src": "https://investors.csl.com/pdf/804b6c67-3f2e-4185-9fc7-9394f19af8af/Platform/ListPage/CSL-Results-Presentation-for-FY2026.pdf"
     }
   ],
@@ -194,15 +194,27 @@
     [
       "Vitaeris acquisition announcement, June 8, 2020",
       "https://newsroom.csl.com/2020-06-08-CSL-Behring-to-Acquire-Biotech-Company-Vitaeris"
+    ],
+    [
+      "HCmed release: CSL787 drug-device development collaboration, October 2021",
+      "https://www.prnewswire.co.uk/news-releases/hcmed-reaches-milestone-in-immunoglobin-combination-product-development-with-csl-behring-877956302.html"
+    ],
+    [
+      "Vamifeport developed by Vifor, December 2021",
+      "https://newsroom.csl.com/2021-12-10-First-patient-enrolled-in-phase-IIa-study-of-vamifeport-in-patients-with-sickle-cell-disease"
+    ],
+    [
+      "Vifor acquisition completed: 2023 annual report, note 2",
+      "https://investors.csl.com/annualreport/2023/123/"
     ]
   ],
   "gaps": [
     "Counts is null: a complete company-published numerical count by phase was not verified; phase-column entries were not counted.",
     "The current pipeline is dated July 31, 2026, rather than November. Next catalysts and company-stated future dates were not verified for these eight assets; next is null throughout.",
-    "Origin was not verified for CSL787, anumigilimab, hemopexin, vamifeport and CSL404, so those origins are null. Separate development codes/generic names beyond the displayed names were not verified.",
     "CSL301 and VMX-C001 are explicitly starred co-development projects; partner-owned assets carry option rights and are not presented as fully owned acquisitions.",
     "The 2020 Vitaeris source predates 2026-06 and is used only for clazakizumab provenance; current phase/indication comes from the July 2026 pipeline.",
     "Registration/Post Registration combines filed and already marketed products. Those entries and approved-product Phase 3 extensions without a verified major new-indication filing were excluded; Horizon 2 is a manufacturing yield initiative rather than a drug asset.",
-    "Plasma proteins and modified factor X are mapped to other under the required modality vocabulary."
+    "Plasma proteins and modified factor X are mapped to other under the required modality vocabulary.",
+    "Origin remains unverified for anumigilimab, hemopexin and CSL404. CSL787 denotes the co-developed immunoglobulin/nebulizer combination. Vamifeport came through Vifor; the 2021/2023 provenance sources predate June 2026 and are not used for current phases. Separate codes remain unverified."
   ]
 }

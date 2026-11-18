@@ -83,11 +83,11 @@
       },
       "ind": {
         "en": "Cardiovascular prevention in elevated lipoprotein(a)",
-        "zh": "脂蛋白(a)升高患者的心血管事件预防"
+        "zh": "脂蛋白(a)升高人群的心血管预防"
       },
       "phase": "3",
       "ta": "Cardiovascular",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
     },
@@ -97,7 +97,7 @@
       "modality": "other",
       "target": {
         "en": "CD40 ligand inhibition",
-        "zh": "抑制 CD40 配体"
+        "zh": "CD40配体抑制"
       },
       "ind": {
         "en": "Sjögren's disease",
@@ -105,10 +105,10 @@
       },
       "phase": "3",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "OASIZ-303 symptomatic-disease trial completion",
-        "zh": "OASIZ-303 症状负担较重患者试验完成",
+        "zh": "OASIZ-303症状性疾病试验完成",
         "when": "2026Q4"
       },
       "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
@@ -137,18 +137,18 @@
       "modality": "antibody",
       "target": {
         "en": "ILT7-directed dendritic-cell depletion",
-        "zh": "靶向 ILT7 清除树突状细胞"
+        "zh": "ILT7靶向树突状细胞清除"
       },
       "ind": {
         "en": "Discoid lupus; also inflammatory myositis",
-        "zh": "盘状红斑狼疮；另开发炎性肌病"
+        "zh": "盘状红斑狼疮;另有炎性肌病"
       },
       "phase": "2",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "Advance to phase 3 development",
-        "zh": "推进至 III 期开发",
+        "zh": "推进至III期开发",
         "when": null
       },
       "src": "https://investors.amgen.com/news-releases/news-release-details/amgen-reports-third-quarter-2026-financial-results"
@@ -214,15 +214,24 @@
     [
       "Q3 2026 earnings slides",
       "https://investors.amgen.com/static-files/2456044f-5e82-46e6-935c-46eedf1b2a3a"
+    ],
+    [
+      "Arrowhead pipeline: worldwide olpasiran license to Amgen",
+      "https://arrowheadpharma.com/en-us/pipeline"
+    ],
+    [
+      "2024 proxy: dazodalibep and daxdilimab acquired with Horizon",
+      "https://www.amgen.com/-/media/Themes/CorporateAffairs/amgen-com/amgen-com/downloads/investors/2024_proxy_statement.pdf"
     ]
   ],
   "gaps": [
     "No complete numerical phase-count breakdown was verified; counts is null.",
     "The pipeline homepage returns no dynamic molecule rows; the full nine-page chart and Q3 release were reviewed instead.",
-    "Origin is null for ABP 206, ABP 234, MariTide, olpasiran, dazodalibep, daxdilimab and AMG 732 because explicit provenance was not verified. Xaluritamig's research collaboration with Xencor is stated in the Q3 release.",
+    "Origins of ABP 206, ABP 234, MariTide and AMG 732 remain unverified. Arrowhead explicitly identifies the olpasiran license; Amgen identifies dazodalibep and daxdilimab as Horizon-acquired pipeline assets. Xaluritamig is developed under a research collaboration with Xencor.",
     "Next is null for olpasiran, xaluritamig and AMG 732 because no specific next milestone was verified. FDA acceptance timing for ABP 234 and the daxdilimab phase 3 transition are undated.",
     "ABP 234 is filed but awaiting FDA acceptance, so it is 'reg' under the brief's filed/under-review definition; this does not imply an accepted application.",
     "MariTide is an antibody–peptide conjugate and dazodalibep a fusion protein, both represented as 'other'.",
-    "Approved drugs with unfiled new indications, and formulation-only changes for already approved assets, are excluded. No source older than 2026-06 is used."
+    "Approved drugs with unfiled new indications and formulation-only changes remain excluded. The 2024 proxy predates 2026-06 and is used only for acquisition provenance; current phases follow November 2026 sources.",
+    "The supplied checker rejects null phase/origin values although the research brief permits them; unsupported values are retained as null rather than invented to satisfy validation."
   ]
 }

@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Grünenthal concentrates on pain, with a partnered Phase 3 cell therapy and proprietary earlier-stage analgesics. Tegacorat extends development into Duchenne muscular dystrophy.",
-    "zh": "Grünenthal 专注于疼痛领域,拥有一项合作的 III 期细胞疗法和自有的早期镇痛药。Tegacorat 将开发延伸至杜氏肌营养不良症。"
+    "zh": "Grünenthal专注于疼痛领域,拥有合作的III期细胞疗法和自有的早期镇痛药。Tegacorat将开发延伸至杜氏肌营养不良。"
   },
   "counts": null,
   "items": [
@@ -11,20 +11,17 @@
       "name": "Qutenza (post-surgical neuropathic pain)",
       "code": null,
       "modality": "small molecule",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Post-surgical neuropathic pain",
         "zh": "术后神经病理性疼痛"
       },
       "phase": "3",
       "ta": "Neuroscience",
-      "origin": null,
+      "origin": "acquired",
       "next": {
         "en": "Publication of AV001 data",
-        "zh": "发表 AV001 数据",
+        "zh": "AV001数据发表",
         "when": "2026Q4"
       },
       "src": "https://www.grunenthal.com/science/pipeline"
@@ -33,13 +30,10 @@
       "name": "rexlemestrocel-L",
       "code": "MPC-06-ID",
       "modality": "cell therapy",
-      "target": {
-        "en": null,
-        "zh": null
-      },
+      "target": null,
       "ind": {
         "en": "Chronic low back pain with degenerative disc disease",
-        "zh": "伴椎间盘退行性病变的慢性腰痛"
+        "zh": "伴椎间盘退变的慢性下腰痛"
       },
       "phase": "3",
       "ta": "Other",
@@ -57,7 +51,7 @@
       },
       "ind": {
         "en": "Duchenne muscular dystrophy",
-        "zh": "杜氏肌营养不良症"
+        "zh": "杜氏肌营养不良"
       },
       "phase": "2",
       "ta": "Rare disease",
@@ -80,8 +74,12 @@
       "phase": "2",
       "ta": "Neuroscience",
       "origin": "internal",
-      "next": null,
-      "src": "https://www.grunenthal.com/science/clinical-trial-transparency/data-clinical-trials"
+      "next": {
+        "en": "KF7040-21 Phase 2 results expected in early 2028",
+        "zh": "KF7040-21 II期结果预计于2028年初公布",
+        "when": "2028"
+      },
+      "src": "https://www.grunenthal.com/press-room/press-releases/2026/phase-ii-trial-in-acute-pain-with-nociceptin-agonist"
     },
     {
       "name": "NaV1.8 inhibitor",
@@ -106,19 +104,19 @@
     {
       "k": "other",
       "en": "Qutenza met the EMA-aligned AV001 endpoint but missed the FDA-aligned endpoint; no US sNDA is planned.",
-      "zh": "Qutenza 达到了与 EMA 一致的 AV001 终点,但未达到与 FDA 一致的终点;不计划提交美国 sNDA。",
+      "zh": "Qutenza达到与EMA一致的AV001终点,但未达到与FDA一致的终点;不计划提交美国sNDA。",
       "src": "https://www.grunenthal.com/science/pipeline"
     },
     {
       "k": "loe",
       "en": "Palexia and Nebido loss of exclusivity affected 2025 revenue.",
-      "zh": "Palexia 和 Nebido 的独占期结束 (LOE) 影响了 2025 年收入。",
+      "zh": "Palexia和Nebido的独占期结束影响了2025年收入。",
       "src": "https://www.grunenthal.com/press-room/press-releases/2026/2025-full-year-result-grunenthal"
     },
     {
       "k": "balance",
       "en": "Year-end 2025 net leverage was 2.24 times.",
-      "zh": "2025 年底净杠杆率为 2.24 倍。",
+      "zh": "2025年底净杠杆率为2.24倍。",
       "src": "https://www.grunenthal.com/press-room/press-releases/2026/2025-full-year-result-grunenthal"
     }
   ],
@@ -134,13 +132,20 @@
     [
       "2025 financial results",
       "https://www.grunenthal.com/press-room/press-releases/2026/2025-full-year-result-grunenthal"
+    ],
+    [
+      "Qutenza global rights acquired in 2018, company February 2025 release",
+      "https://www.grunenthal.com/press-room/press-releases/2025/qutenza-licensing-agreement-apotex-canada"
+    ],
+    [
+      "NOP Phase 2 initiation and early-2028 results guidance, October 20, 2026",
+      "https://www.grunenthal.com/press-room/press-releases/2026/phase-ii-trial-in-acute-pain-with-nociceptin-agonist"
     ]
   ],
   "gaps": [
     "Latest financial release verified is March 2026, older than June 2026; no newer interim results verified.",
     "Counts by phase not published in reviewed sources.",
-    "Origins for Qutenza and GRT7041 and some molecular modalities were not explicitly verified.",
     "Pipeline narrative still describes planned Phase 2 starts; current company trial register establishes tegacorat and GRT7040 Phase 2 status.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "Qutenza acquisition provenance uses a February 2025 company release, older than June 2026. GRT7041 origin, Qutenza/rexlemestrocel-L molecular targets and the exact modalities of GRT7040/GRT7041 remain unverified. GRT7040 timing is stated as early 2028; when retains the year without guessing a quarter. Other next dates remain unverified."
   ]
 }

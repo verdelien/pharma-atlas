@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Ono combines oncology filings and label expansions with internally developed gastric-cancer and neuroscience candidates. Licensed late-stage immunology and hematology programs broaden the portfolio.",
-    "zh": "Ono 将肿瘤领域的申报和适应症扩展,与自主研发的胃癌和神经科学候选药物相结合。已获许可的后期免疫和血液项目拓宽了产品组合。"
+    "zh": "Ono将肿瘤申报和标签扩展与自主研发的胃癌和神经科学候选药物相结合。授权引进的后期免疫和血液学项目拓宽了产品组合。"
   },
   "counts": null,
   "items": [
@@ -17,7 +17,7 @@
       },
       "ind": {
         "en": "CNS lymphoma in the US and Japan; also Phase 3 pemphigus",
-        "zh": "美国和日本的中枢神经系统淋巴瘤;另有天疱疮 III 期"
+        "zh": "美国和日本中枢神经系统淋巴瘤；另有III期天疱疮"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -35,11 +35,11 @@
       },
       "ind": {
         "en": "Fourth-line GIST in Japan; also Phase 3 mutation-selected second-line GIST",
-        "zh": "日本四线 GIST;另有突变选择的二线 GIST III 期"
+        "zh": "日本四线GIST；另有III期突变选择型二线GIST"
       },
       "phase": "reg",
       "ta": "Oncology",
-      "origin": "internal",
+      "origin": "acquired",
       "next": null,
       "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
     },
@@ -53,7 +53,7 @@
       },
       "ind": {
         "en": "Anaplastic thyroid cancer with lenvatinib in Japan",
-        "zh": "日本与 lenvatinib 联用治疗间变性甲状腺癌"
+        "zh": "日本联合lenvatinib治疗间变性甲状腺癌"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -67,11 +67,11 @@
       "modality": "small molecule",
       "target": {
         "en": "EP4 prostaglandin receptor",
-        "zh": "EP4 前列腺素受体"
+        "zh": "EP4前列腺素受体"
       },
       "ind": {
         "en": "First-line gastric cancer; also Phase 2 colorectal cancer",
-        "zh": "一线胃癌;另有结直肠癌 II 期"
+        "zh": "一线胃癌；另有II期结直肠癌"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -103,11 +103,11 @@
       "modality": "other",
       "target": {
         "en": "BAFF/APRIL dual antagonist",
-        "zh": "BAFF/APRIL 双重拮抗剂"
+        "zh": "BAFF/APRIL双重拮抗剂"
       },
       "ind": {
         "en": "IgA nephropathy; also membranous nephropathy",
-        "zh": "IgA 肾病;另有膜性肾病"
+        "zh": "IgA肾病；另有膜性肾病"
       },
       "phase": "3",
       "ta": "Immunology",
@@ -121,7 +121,7 @@
       "modality": "small molecule",
       "target": {
         "en": "S1P5 receptor agonist",
-        "zh": "S1P5 受体激动剂"
+        "zh": "S1P5受体激动剂"
       },
       "ind": {
         "en": "Multiple system atrophy",
@@ -139,11 +139,11 @@
       "modality": "small molecule",
       "target": {
         "en": "Sodium channels / GABAA",
-        "zh": "钠通道 / GABAA"
+        "zh": "钠通道/GABAA"
       },
       "ind": {
         "en": "Pediatric partial-onset seizures; also generalized tonic-clonic seizures",
-        "zh": "儿童部分性发作癫痫;另有全面强直-阵挛发作"
+        "zh": "儿童部分性发作癫痫；另有全面强直阵挛发作"
       },
       "phase": "3",
       "ta": "Neuroscience",
@@ -157,11 +157,11 @@
       "modality": "other",
       "target": {
         "en": "IgG degradation",
-        "zh": "IgG 降解"
+        "zh": "IgG降解"
       },
       "ind": {
         "en": "Graves' disease",
-        "zh": "格雷夫斯病"
+        "zh": "Graves病"
       },
       "phase": "3",
       "ta": "Immunology",
@@ -179,7 +179,7 @@
       },
       "ind": {
         "en": "Postherpetic neuralgia; also fibromyalgia and interstitial cystitis",
-        "zh": "带状疱疹后神经痛;另有纤维肌痛和间质性膀胱炎"
+        "zh": "带状疱疹后神经痛；另有纤维肌痛和间质性膀胱炎"
       },
       "phase": "2",
       "ta": "Neuroscience",
@@ -192,19 +192,19 @@
     {
       "k": "catalyst",
       "en": "Tirabrutinib CNS lymphoma and nivolumab thyroid-cancer applications are filed; ONO-4578 and ONO-2808 entered Phase 3.",
-      "zh": "Tirabrutinib 治疗中枢神经系统淋巴瘤和 nivolumab 治疗甲状腺癌的申请已提交;ONO-4578 和 ONO-2808 已进入 III 期。",
+      "zh": "Tirabrutinib中枢神经系统淋巴瘤和nivolumab甲状腺癌申请已提交；ONO-4578和ONO-2808已进入III期。",
       "src": "https://www.ono-pharma.com/sites/default/files/en/ir/library/financial_results/2026_2r_en%23.pdf"
     },
     {
       "k": "other",
       "en": "ONO-1110 missed primary endpoints in three pain-related Phase 2 studies; further studies are planned based on subgroup/exploratory signals.",
-      "zh": "ONO-1110 在三项疼痛相关 II 期研究中未达到主要终点;基于亚组/探索性信号,计划开展进一步研究。",
+      "zh": "ONO-1110在三项疼痛相关II期研究中未达到主要终点；基于亚组/探索性信号计划开展进一步研究。",
       "src": "https://www.ono-pharma.com/en/news/20261029.html"
     },
     {
       "k": "deal",
       "en": "Povetacicept, sapablursen and BHV-1300 are licensed from Vertex, Ionis and Biohaven, respectively.",
-      "zh": "Povetacicept、sapablursen 和 BHV-1300 分别从 Vertex、Ionis 和 Biohaven 获得许可。",
+      "zh": "Povetacicept、sapablursen和BHV-1300分别授权自Vertex、Ionis和Biohaven。",
       "src": "https://www.ono-pharma.com/en/ir/library/pipeline"
     }
   ],
@@ -224,15 +224,17 @@
     [
       "ONO-1110 Phase 2 results, October 29",
       "https://www.ono-pharma.com/en/news/20261029.html"
+    ],
+    [
+      "2025 audited financial statements: Qinlock acquired with Deciphera",
+      "https://www.ono-pharma.com/sites/default/files/en/ir/independent_auditors_report_2025.pdf"
     ]
   ],
   "gaps": [
-    "No complete company phase totals verified.",
-    "Pipeline webpage phase bars were not readable; numeric stages were confirmed in the results appendix.",
-    "Origin internal follows company In-house disclosure, including group subsidiaries; it does not establish pre-acquisition discovery provenance.",
-    "Povetacicept and BHV-1300 are mapped to modality other because their precise permitted modality classification was not explicit; sapablursen is an antisense oligonucleotide.",
-    "Fiscal-year trial completion projections were not converted into calendar dates; next is null where no calendar milestone was verified.",
-    "ONO-1110 psychiatric programs were discontinued and are excluded.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "No complete company-reported phase totals were verified; counts is null.",
+    "Povetacicept and BHV-1300 remain modality other because a more specific permitted classification was not established.",
+    "No dated company readout or regulatory-decision guidance was verified for the selected programmes. The development deck labels its fiscal-year study-completion dates as registry estimates.",
+    "ONO-1110 psychiatric programmes were discontinued; the retained item covers pain and bladder indications.",
+    "The 2025 audited statements predate June 2026 and establish ripretinib acquisition with Deciphera; current Japanese filing status comes from October 2026 materials."
   ]
 }

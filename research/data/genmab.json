@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "An oncology antibody pipeline combines epcoritamab expansion with pivotal Rina-S and acquired petosemtamab programs. Royalties remain a major funding source.",
-    "zh": "肿瘤抗体管线将 epcoritamab 的适应症拓展与关键性的 Rina-S 项目及收购的 petosemtamab 项目相结合。特许权使用费仍是主要资金来源。"
+    "zh": "肿瘤抗体管线结合epcoritamab适应症拓展、关键性Rina-S项目和收购的petosemtamab项目。特许权使用费仍是主要资金来源。"
   },
   "counts": null,
   "items": [
@@ -17,7 +17,7 @@
       },
       "ind": {
         "en": "First-line diffuse large B-cell lymphoma; also other B-cell malignancies",
-        "zh": "一线弥漫大 B 细胞淋巴瘤;另有其他 B 细胞恶性肿瘤"
+        "zh": "一线弥漫性大B细胞淋巴瘤;另有其他B细胞恶性肿瘤"
       },
       "phase": "3",
       "ta": "Oncology",
@@ -31,7 +31,7 @@
       "modality": "ADC",
       "target": {
         "en": "Folate receptor alpha",
-        "zh": "叶酸受体 α"
+        "zh": "叶酸受体α"
       },
       "ind": {
         "en": "Platinum-resistant ovarian cancer; also endometrial cancer",
@@ -39,8 +39,12 @@
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
-      "next": null,
+      "origin": "acquired",
+      "next": {
+        "en": "First launch expected, subject to approval",
+        "zh": "预计首次上市,以获批为前提",
+        "when": "2027"
+      },
       "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
     },
     {
@@ -58,7 +62,11 @@
       "phase": "3",
       "ta": "Oncology",
       "origin": "acquired",
-      "next": null,
+      "next": {
+        "en": "LiGeR-HN2 Phase 3 data",
+        "zh": "LiGeR-HN2 III期数据",
+        "when": "2027Q1"
+      },
       "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
     },
     {
@@ -73,11 +81,11 @@
         "en": "Solid tumors; colorectal combination program",
         "zh": "实体瘤;结直肠癌联合用药项目"
       },
-      "phase": null,
+      "phase": "1",
       "ta": "Oncology",
       "origin": "co-developed",
       "next": null,
-      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+      "src": "https://genmab.gcs-web.com/static-files/2c2dd2a2-3ebb-4977-8407-a72443799df8"
     },
     {
       "name": "GEN3018",
@@ -86,13 +94,13 @@
       "target": null,
       "ind": {
         "en": "Relapsed/refractory AML or higher-risk MDS",
-        "zh": "复发/难治性 AML 或较高危 MDS"
+        "zh": "复发/难治性AML或较高危MDS"
       },
-      "phase": null,
+      "phase": "1",
       "ta": "Oncology",
       "origin": null,
       "next": null,
-      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+      "src": "https://genmab.gcs-web.com/static-files/2c2dd2a2-3ebb-4977-8407-a72443799df8"
     },
     {
       "name": "GEN1079",
@@ -103,11 +111,11 @@
         "en": "Advanced solid tumors",
         "zh": "晚期实体瘤"
       },
-      "phase": null,
+      "phase": "1",
       "ta": "Oncology",
       "origin": null,
       "next": null,
-      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+      "src": "https://genmab.gcs-web.com/static-files/2c2dd2a2-3ebb-4977-8407-a72443799df8"
     },
     {
       "name": "GEN1106",
@@ -118,11 +126,11 @@
         "en": "Solid tumors",
         "zh": "实体瘤"
       },
-      "phase": null,
+      "phase": "1",
       "ta": "Oncology",
       "origin": null,
       "next": null,
-      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+      "src": "https://genmab.gcs-web.com/static-files/2c2dd2a2-3ebb-4977-8407-a72443799df8"
     },
     {
       "name": "GEN1119",
@@ -133,30 +141,30 @@
         "en": "Solid tumors",
         "zh": "实体瘤"
       },
-      "phase": null,
+      "phase": "1",
       "ta": "Oncology",
       "origin": null,
       "next": null,
-      "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+      "src": "https://genmab.gcs-web.com/static-files/2c2dd2a2-3ebb-4977-8407-a72443799df8"
     }
   ],
   "watch": [
     {
       "k": "catalyst",
       "en": "October pivotal results for epcoritamab, Rina-S and petosemtamab support regulatory discussions and potential 2027 launches.",
-      "zh": "10 月公布的 epcoritamab、Rina-S 和 petosemtamab 关键性结果支持与监管机构的沟通以及可能的 2027 年上市。",
+      "zh": "10月epcoritamab、Rina-S和petosemtamab的关键结果支持监管沟通和2027年的潜在上市。",
       "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
     },
     {
       "k": "concentration",
       "en": "Nine-month royalty revenue was $2.699 billion of $3.238 billion total revenue, led by DARZALEX and Kesimpta.",
-      "zh": "前九个月特许权使用费收入为 $2.699 billion,占总收入 $3.238 billion 的大部分,主要来自 DARZALEX 和 Kesimpta。",
+      "zh": "前九个月特许权使用费收入为26.99亿美元,占总收入32.38亿美元的大部分,主要来自DARZALEX和Kesimpta。",
       "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
     },
     {
       "k": "balance",
       "en": "The Merus acquisition used $5.5 billion of borrowings plus cash.",
-      "zh": "收购 Merus 使用了 $5.5 billion 借款及现金。",
+      "zh": "收购Merus使用了55亿美元借款及现金。",
       "src": "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
     }
   ],
@@ -168,13 +176,20 @@
     [
       "Q3 2026 interim report",
       "https://www.sec.gov/Archives/edgar/data/1434265/000143426526000146/genmabinterimreportq32026.htm"
+    ],
+    [
+      "Q3 2026 company presentation: current stages and guidance",
+      "https://genmab.gcs-web.com/static-files/2c2dd2a2-3ebb-4977-8407-a72443799df8"
+    ],
+    [
+      "ProfoundBio acquisition including Rina-S completed, May 2024",
+      "https://www.sec.gov/Archives/edgar/data/1434265/000155837024008522/tmb-20240521xex99d1.htm"
     ]
   ],
   "gaps": [
     "Pipeline webpage did not expose its full chart in readable text; the full Q3 pipeline table was reviewed instead.",
     "Company phase totals were not verified.",
-    "Precise early-stage phases, targets and origins not established in readable current materials are null; named early-stage assets remain active clinical programs.",
-    "No asset-specific dated next event verified beyond portfolio launch expectations.",
-    "Required curl HEAD checks were attempted for all cited URLs but local DNS/network restrictions returned HTTP 000; web browsing loaded the cited sources, but curl status validation remains unverified."
+    "November company presentation establishes Phase 1 for GEN1059, GEN3018, GEN1079, GEN1106 and GEN1119. GEN1059 also has a combined Phase 1/2 trial; the portfolio chart still calls its most advanced stage Phase 1. Undisclosed early targets and origins remain null. Trial completion-year estimates were not treated as company catalyst guidance.",
+    "Rina-S acquisition provenance uses the May 2024 ProfoundBio closing release, older than June 2026. Its first-launch expectation is conditional on regulatory approval; petosemtamab LiGeR-HN2 data are guided for Q1 2027. Other selected next milestones remain unverified."
   ]
 }

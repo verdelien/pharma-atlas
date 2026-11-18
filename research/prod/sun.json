@@ -1,5 +1,18 @@
 {
   "id": "sun",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Ilumya",
+      "loe": [
+        {
+          "region": "All",
+          "value": null,
+          "note": "No specific LOE year verified. In the company Q2 FY27 call on 30 October 2026, an analyst asked whether Ilumya LOE should be 2030 or later with secondary protection; management answered only that it was not in the foreseeable future. The analyst-suggested 2030 is not company guidance or an FDA-determined exclusivity expiration.",
+          "src": "https://nsearchives.nseindia.com/corporate/SUNPHARMA456_04112026191520_IntimationSE20261104EarningsCallTranscriptQ2FY27_Signed.pdf",
+          "note_zh": "未核实具体的独占期结束年份。在公司2027财年第二季度2026年10月30日的电话会上,有分析师询问Ilumya的独占期结束是否应为2030年或更晚(含二级保护);管理层仅回答近期不会发生。分析师提出的2030年并非公司指引,也不是FDA确定的独占期到期日。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

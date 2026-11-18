@@ -1,5 +1,32 @@
 {
   "id": "eisai",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Leqembi",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2035",
+          "note": "Biogen 2025 Form 10-K regulatory-exclusivity table: expected regulatory exclusivity expiration, not a confirmed biosimilar launch. Patent protection is separate; the primary antibody patent table lists 2027 with extension qualifications.",
+          "src": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000013/biib-20251231.htm",
+          "note_zh": "Biogen 2025年10-K监管独占期表:预计监管独占期到期,并非已确认的生物类似药上市。专利保护另行计算;主要抗体专利表列示2027年,并附延期资格说明。"
+        },
+        {
+          "region": "EU",
+          "value": "2035",
+          "note": "Biogen 2025 Form 10-K regulatory-exclusivity table: expected regulatory exclusivity expiration, not a confirmed biosimilar launch. Patent protection is separate; the primary antibody patent table lists 2027 with extension qualifications.",
+          "src": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000013/biib-20251231.htm",
+          "note_zh": "Biogen 2025年10-K监管独占期表:预计监管独占期到期,并非已确认的生物类似药上市。专利保护另行计算;主要抗体专利表列示2027年,并附延期资格说明。"
+        },
+        {
+          "region": "Japan",
+          "value": "2031-09",
+          "note": "Re-examination period end, calculated as September 2023 approval plus the eight-year period specified by PMDA; not a patent expiry or confirmed biosimilar launch. Approval dated 25 September 2023 is confirmed at https://investors.biogen.com/news-releases/news-release-details/leqembir-intravenous-infusion-lecanemab-approved-treatment.",
+          "src": "https://www.pmda.go.jp/files/000267068.pdf",
+          "note_zh": "再审查期结束,按2023年9月批准加PMDA规定的八年期推算;并非专利到期或已确认的生物类似药上市。批准日期为2023年9月25日,已在https://investors.biogen.com/news-releases/news-release-details/leqembir-intravenous-infusion-lecanemab-approved-treatment 确认。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

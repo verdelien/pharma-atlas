@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "The pipeline is concentrated in oncology, especially DXd antibody-drug conjugates. Merck partnerships support several lead ADCs and a DLL3 T-cell engager.",
-    "zh": "管线集中于肿瘤领域,尤其是 DXd 抗体偶联药物(ADC)。与 Merck 的合作支持多个主要 ADC 和一款 DLL3 T 细胞接合器。"
+    "zh": "管线集中于肿瘤,尤其是DXd抗体偶联药物。Merck的合作支持多个主打ADC和一款DLL3 T细胞接合器。"
   },
   "counts": null,
   "items": [
@@ -24,10 +24,10 @@
       "origin": "co-developed",
       "next": {
         "en": "IDeate-Lung02 readout in company fiscal 2027",
-        "zh": "IDeate-Lung02 结果将在公司 2027 财年公布",
+        "zh": "IDeate-Lung02读出于公司2027财年",
         "when": "FY2027"
       },
-      "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Financial_Results_Presentation_E.pdf"
+      "src": "https://www.irwebcasting.com/20261030/6/db2bd35bb3/media/FY2026Q2_Financial_Results_Presentation_E.pdf"
     },
     {
       "name": "patritumab deruxtecan",
@@ -39,13 +39,13 @@
       },
       "ind": {
         "en": "HR-positive/HER2-negative breast cancer",
-        "zh": "HR 阳性/HER2 阴性乳腺癌"
+        "zh": "HR阳性/HER2阴性乳腺癌"
       },
       "phase": "3",
       "ta": "Oncology",
       "origin": "co-developed",
       "next": null,
-      "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Financial_Results_Presentation_E.pdf"
+      "src": "https://www.irwebcasting.com/20261030/6/db2bd35bb3/media/FY2026Q2_Financial_Results_Presentation_E.pdf"
     },
     {
       "name": "raludotatug deruxtecan",
@@ -63,7 +63,7 @@
       "ta": "Oncology",
       "origin": "co-developed",
       "next": null,
-      "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_E.pdf"
+      "src": "https://www.irwebcasting.com/20261030/6/db2bd35bb3/media/FY2026Q2_Financial_Results_Presentation_E.pdf"
     },
     {
       "name": "gocatamig",
@@ -71,7 +71,7 @@
       "modality": "other",
       "target": {
         "en": "DLL3 trispecific T-cell engagement",
-        "zh": "DLL3 三特异性 T 细胞接合"
+        "zh": "DLL3三特异性T细胞接合"
       },
       "ind": {
         "en": "Small-cell lung cancer",
@@ -81,7 +81,7 @@
       "ta": "Oncology",
       "origin": "co-developed",
       "next": null,
-      "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_E.pdf"
+      "src": "https://www.irwebcasting.com/20261030/6/db2bd35bb3/media/FY2026Q2_Financial_Results_Presentation_E.pdf"
     },
     {
       "name": "DS-3939",
@@ -97,9 +97,9 @@
       },
       "phase": "2",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "acquired",
       "next": null,
-      "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_E.pdf"
+      "src": "https://www.irwebcasting.com/20261030/6/db2bd35bb3/media/FY2026Q2_Financial_Results_Presentation_E.pdf"
     },
     {
       "name": "DS3790",
@@ -111,13 +111,13 @@
       },
       "ind": {
         "en": "Relapsed/refractory B-cell non-Hodgkin lymphoma",
-        "zh": "复发/难治性 B 细胞非霍奇金淋巴瘤"
+        "zh": "复发/难治性B细胞非霍奇金淋巴瘤"
       },
       "phase": "2",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
-      "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_E.pdf"
+      "src": "https://www.irwebcasting.com/20261030/6/db2bd35bb3/media/FY2026Q2_Financial_Results_Presentation_E.pdf"
     },
     {
       "name": "DS-7011",
@@ -135,7 +135,7 @@
       "ta": "Immunology",
       "origin": null,
       "next": null,
-      "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_E.pdf"
+      "src": "https://www.irwebcasting.com/20261030/6/db2bd35bb3/media/FY2026Q2_Financial_Results_Presentation_E.pdf"
     },
     {
       "name": "DS-1103",
@@ -147,38 +147,38 @@
       },
       "ind": {
         "en": "HER2-altered solid tumors with Enhertu",
-        "zh": "联合 Enhertu 治疗 HER2 改变的实体瘤"
+        "zh": "与Enhertu联用治疗HER2改变的实体瘤"
       },
       "phase": "1",
       "ta": "Oncology",
       "origin": null,
       "next": null,
-      "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_E.pdf"
+      "src": "https://www.irwebcasting.com/20261030/6/db2bd35bb3/media/FY2026Q2_Financial_Results_Presentation_E.pdf"
     }
   ],
   "watch": [
     {
       "k": "concentration",
       "en": "Three lead unapproved ADCs target B7-H3, HER3 and CDH6.",
-      "zh": "三款主要的未获批 ADC 分别靶向 B7-H3、HER3 和 CDH6。",
+      "zh": "三个尚未获批的主打ADC靶向B7-H3、HER3和CDH6。",
       "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_E.pdf"
     },
     {
       "k": "other",
       "en": "The US ifinatamab BLA was voluntarily withdrawn in September 2026; Phase 3 trials continue.",
-      "zh": "美国 ifinatamab 的 BLA 已于 2026 年 9 月自愿撤回;III 期试验仍在继续。",
+      "zh": "美国ifinatamab BLA已于2026年9月主动撤回;III期试验继续进行。",
       "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Financial_Results_Presentation_E.pdf"
     },
     {
       "k": "deal",
       "en": "Merck is the partner on I-DXd, HER3-DXd, R-DXd and gocatamig.",
-      "zh": "Merck 是 I-DXd、HER3-DXd、R-DXd 和 gocatamig 的合作伙伴。",
+      "zh": "Merck是I-DXd、HER3-DXd、R-DXd和gocatamig的合作伙伴。",
       "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Reference_Data_E.pdf"
     },
     {
       "k": "catalyst",
       "en": "IDeate-Lung02 is expected to read out in fiscal 2027.",
-      "zh": "IDeate-Lung02 预计在 2027 财年公布结果。",
+      "zh": "IDeate-Lung02预计于2027财年读出。",
       "src": "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Financial_Results_Presentation_E.pdf"
     }
   ],
@@ -194,6 +194,18 @@
     [
       "FY2026 Q2 presentation",
       "https://www.daiichisankyo.com/files/investors/library/quarterly_result/2026/FY2026Q2_Financial_Results_Presentation_E.pdf"
+    ],
+    [
+      "Company FY2026 Q2 presentation, hosted webcast copy, October 30, 2026",
+      "https://www.irwebcasting.com/20261030/6/db2bd35bb3/media/FY2026Q2_Financial_Results_Presentation_E.pdf"
+    ],
+    [
+      "Glycotope antibody IP acquisition after 2018 license, January 2025",
+      "https://www.daiichisankyo.com/files/news/pressrelease/pdf/202501/20150113_E2.pdf"
+    ],
+    [
+      "DS3790 discovered by Daiichi Sankyo; Phase 1/2 start, February 2026",
+      "https://daiichisankyo.us/press-releases/-/article/ds3790-enters-clinical-development-as-first-dxd-adc-in-hematology-from-industry-leading-adc-portfolio-of-daiichi-sankyo"
     ]
   ],
   "gaps": [
@@ -202,8 +214,7 @@
     "Phase 1/2 and Phase 1b/2 studies are mapped to 2 for gocatamig, DS-3939, DS3790 and DS-7011; this describes combined trial design, not proof that every cohort has reached Phase 2.",
     "R-DXd is in Phase 2/3 REJOICE-Ovarian01, mapped to 3; additional Phase 3 ovarian trials marked in preparation are not treated as initiated.",
     "No next milestone was verified for the other seven assets; next is null. IDeate-Lung02 guidance uses the company fiscal year, retained without converting it to a calendar period.",
-    "Origins for DS-3939, DS3790, DS-7011 and DS-1103 were not explicitly established; origin is null.",
     "Approved drugs including Enhertu, Datroway, quizartinib and valemetostat were excluded where no major new indication filing was verified. Trispecific gocatamig maps to modality other.",
-    "Required curl HEAD checks were attempted, but local DNS resolution failed (curl exit 6, HTTP 000); HTTP status could not be independently confirmed locally. Sources were opened with the web browser tool."
+    "DS-3939 origin is acquired for the gatipotuzumab antibody IP bought in 2025 after a 2018 license; the ADC uses Daiichi technology. DS3790 was discovered internally. These provenance releases predate June 2026. DS-7011 and DS-1103 origins remain unverified. Primary-host quarterly PDFs timed out; the loaded company webcast presentation supports current stages and IDeate-Lung02 FY2027 guidance."
   ]
 }

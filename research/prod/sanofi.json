@@ -1,5 +1,39 @@
 {
   "id": "sanofi",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Beyfortus",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2035-07",
+          "note": "2025 20-F: regulatory exclusivity July 2035; compound patent January 2035, PTE pending. Later patent pending through September 2042. Not biosimilar-launch guidance.",
+          "src": "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/2025-01-01-form-20-f-2025-en.pdf",
+          "note_zh": "2025年20-F:监管独占期2035年7月;化合物专利2035年1月,PTE待决。后续专利申请待决至2042年9月。并非生物类似药上市指引。"
+        },
+        {
+          "region": "EU",
+          "value": "2035-01",
+          "note": "2025 20-F: compound patent January 2035; SPC grants in process. Regulatory exclusivity November 2032. Later patent pending through September 2042.",
+          "src": "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/2025-01-01-form-20-f-2025-en.pdf",
+          "note_zh": "2025年20-F:化合物专利2035年1月;SPC授予流程进行中。监管独占期2032年11月。后续专利申请待决至2042年9月。"
+        },
+        {
+          "region": "Japan",
+          "value": "2035-01",
+          "note": "2025 20-F: compound patent January 2035; PTE pending. Regulatory exclusivity March 2032. Later patent pending through September 2042. Not biosimilar-launch guidance.",
+          "src": "https://www.sanofi.com/assets/dotcom/content-app/publications/annual-report-on-form-20-f/2025-01-01-form-20-f-2025-en.pdf",
+          "note_zh": "2025年20-F:化合物专利2035年1月;PTE待决。监管独占期2032年3月。后续专利申请待决至2042年9月。并非生物类似药上市指引。"
+        },
+        {
+          "region": "China",
+          "value": "2038",
+          "note": "Partner AstraZeneca patent-expiry table as at 2026-02-10 lists 2038 for China. Patent-expiry date only; regulatory data exclusivity is excluded and no biosimilar-entry date is established.",
+          "src": "https://www.astrazeneca.com/content/dam/az/Investor_Relations/annual-report-2025/pdf/AstraZeneca_Patent_Expiries_of_Key_Marketed_Products_2025.pdf",
+          "note_zh": "合作方AstraZeneca截至2026-02-10的专利到期表列示中国为2038年。仅为专利到期日期;不含监管数据独占期,且未确定生物类似药进入日期。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

@@ -2,8 +2,8 @@
   "id": "roche",
   "asof": "2026-11",
   "summary": {
-    "en": "Three selected new medicines are in registration, backed by late-stage oncology, Alzheimer’s, inflammatory bowel disease and obesity candidates. Acquired and partnered assets are particularly important in immunology and cardiometabolic expansion.",
-    "zh": "所选新药中有三项已进入注册阶段，后续梯队覆盖肿瘤、阿尔茨海默病、炎症性肠病和肥胖；收购及合作资产在免疫和心血管代谢拓展中尤为重要。"
+    "en": "Selected programmes include two new medicines in registration and the pending adjuvant giredestrant indication, alongside late-stage oncology, Alzheimer’s disease, inflammatory bowel disease and obesity candidates. Acquisitions and partnerships support immunology and cardiometabolic expansion.",
+    "zh": "入选项目包括两款注册中的新药和待批的giredestrant辅助治疗适应症，以及后期肿瘤、阿尔茨海默病、炎症性肠病和肥胖候选药物。收购和合作支持免疫及心血管代谢领域的拓展。"
   },
   "counts": {
     "p1": 39,
@@ -14,7 +14,7 @@
   },
   "items": [
     {
-      "name": "giredestrant",
+      "name": "giredestrant (adjuvant breast cancer)",
       "code": "RG6171",
       "modality": "small molecule",
       "target": {
@@ -22,18 +22,18 @@
         "zh": "雌激素受体降解剂"
       },
       "ind": {
-        "en": "Adjuvant ER-positive breast cancer; also post-CDK4/6 advanced disease with everolimus",
-        "zh": "ER 阳性乳腺癌辅助治疗；亦与 everolimus 联用开发 CDK4/6 抑制剂后晚期疾病"
+        "en": "Adjuvant ER-positive, HER2-negative stage I–III breast cancer",
+        "zh": "辅助治疗ER阳性、HER2阴性I-III期乳腺癌"
       },
       "phase": "reg",
       "ta": "Oncology",
       "origin": null,
       "next": {
-        "en": "FDA dates: November 30 (early) and December 18 (advanced)",
-        "zh": "FDA 目标日期：早期乳腺癌11月30日、晚期乳腺癌12月18日",
+        "en": "FDA decision for adjuvant breast cancer, November 30, 2026",
+        "zh": "FDA辅助治疗乳腺癌决定，2026年11月30日",
         "when": "2026Q4"
       },
-      "src": "https://assets.roche.com/f/176343/x/c1ca231e2d/pharmaq326.pdf"
+      "src": "https://www.roche.com/investors/updates/inv-update-2026-06-02"
     },
     {
       "name": "fenebrutinib",
@@ -41,18 +41,18 @@
       "modality": "small molecule",
       "target": {
         "en": "Non-covalent BTK inhibitor",
-        "zh": "非共价 BTK 抑制剂"
+        "zh": "非共价BTK抑制剂"
       },
       "ind": {
         "en": "Relapsing and primary progressive multiple sclerosis",
-        "zh": "复发型及原发进展型多发性硬化"
+        "zh": "复发型和原发进展型多发性硬化"
       },
       "phase": "reg",
       "ta": "Neuroscience",
       "origin": null,
       "next": {
         "en": "Potential US approvals in RMS and PPMS",
-        "zh": "复发型及原发进展型多发性硬化适应症潜在美国获批",
+        "zh": "RMS和PPMS潜在美国批准",
         "when": "2027"
       },
       "src": "https://www.roche.com/investors/updates/inv-update-2026-09-30"
@@ -63,7 +63,7 @@
       "modality": "antibody",
       "target": {
         "en": "IL-6",
-        "zh": "白细胞介素-6"
+        "zh": "IL-6"
       },
       "ind": {
         "en": "Uveitic macular edema",
@@ -74,7 +74,7 @@
       "origin": null,
       "next": {
         "en": "US FDA decision expected by July 2027",
-        "zh": "预计美国 FDA 于2027年7月前作出决定",
+        "zh": "预计美国FDA于2027年7月前作出决定",
         "when": "2027"
       },
       "src": "https://assets.roche.com/f/176343/x/c1ca231e2d/pharmaq326.pdf"
@@ -85,18 +85,18 @@
       "modality": "small molecule",
       "target": {
         "en": "KRAS G12C inhibitor",
-        "zh": "KRAS G12C 抑制剂"
+        "zh": "KRAS G12C抑制剂"
       },
       "ind": {
         "en": "Previously treated KRAS G12C-mutant NSCLC",
-        "zh": "既往接受治疗的 KRAS G12C 突变非小细胞肺癌"
+        "zh": "既往治疗过的KRAS G12C突变NSCLC"
       },
       "phase": "3",
       "ta": "Oncology",
       "origin": null,
       "next": {
         "en": "Potential US/EU approval, subject to filing and review",
-        "zh": "潜在美国及欧盟获批，取决于申报与审评进展",
+        "zh": "潜在美国/欧盟批准，取决于申报和审评",
         "when": "2027"
       },
       "src": "https://assets.roche.com/f/176343/x/c1ca231e2d/pharmaq326.pdf"
@@ -107,11 +107,11 @@
       "modality": "bispecific",
       "target": {
         "en": "Amyloid-beta with Brainshuttle transport",
-        "zh": "通过 Brainshuttle 跨血脑屏障递送并靶向β淀粉样蛋白"
+        "zh": "采用Brainshuttle转运的β淀粉样蛋白"
       },
       "ind": {
         "en": "Early Alzheimer’s disease; also preclinical disease",
-        "zh": "早期阿尔茨海默病；亦开发临床前疾病"
+        "zh": "早期阿尔茨海默病；另有临床前疾病"
       },
       "phase": "3",
       "ta": "Neuroscience",
@@ -125,18 +125,18 @@
       "modality": "antibody",
       "target": {
         "en": "TL1A",
-        "zh": "肿瘤坏死因子样配体 TL1A"
+        "zh": "TL1A"
       },
       "ind": {
         "en": "Ulcerative colitis; also Crohn’s disease",
-        "zh": "溃疡性结肠炎；亦开发克罗恩病"
+        "zh": "溃疡性结肠炎;另有克罗恩病"
       },
       "phase": "3",
       "ta": "Immunology",
       "origin": "acquired",
       "next": {
         "en": "AMETRINE-1/2 Phase 3 ulcerative colitis data",
-        "zh": "AMETRINE-1/2 III 期溃疡性结肠炎数据",
+        "zh": "AMETRINE-1/2 III期溃疡性结肠炎数据",
         "when": "2027"
       },
       "src": "https://assets.roche.com/f/176343/x/c1ca231e2d/pharmaq326.pdf"
@@ -147,11 +147,11 @@
       "modality": "peptide",
       "target": {
         "en": "GLP-1/GIP receptor agonist",
-        "zh": "GLP-1/GIP 双受体激动剂"
+        "zh": "GLP-1/GIP受体激动剂"
       },
       "ind": {
         "en": "Obesity with or without type 2 diabetes",
-        "zh": "伴或不伴2型糖尿病的肥胖症"
+        "zh": "伴或不伴2型糖尿病的肥胖"
       },
       "phase": "3",
       "ta": "Metabolic",
@@ -169,7 +169,7 @@
       },
       "ind": {
         "en": "Obesity with or without type 2 diabetes",
-        "zh": "伴或不伴2型糖尿病的肥胖症"
+        "zh": "伴或不伴2型糖尿病的肥胖"
       },
       "phase": "3",
       "ta": "Metabolic",
@@ -181,26 +181,26 @@
   "watch": [
     {
       "k": "catalyst",
-      "en": "Giredestrant has two near-term FDA dates: November 30 and December 18, 2026, covering early and advanced breast cancer.",
-      "zh": "Giredestrant 有两个近期 FDA 目标日期：2026年11月30日和12月18日，分别对应早期及晚期乳腺癌。",
-      "src": "https://www.roche.com/investors/updates/inv-update-2026-10-22"
+      "en": "Giredestrant plus everolimus was FDA-approved for ESR1-mutated advanced breast cancer on November 16, 2026; the separate adjuvant application has a November 30 target date.",
+      "zh": "Giredestrant联合everolimus于2026年11月16日获FDA批准用于ESR1突变晚期乳腺癌；单独的辅助治疗申请目标日期为11月30日。",
+      "src": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-giredestrant-combination-everolimus-er-positive-her2-negative-esr1-mutated-locally"
     },
     {
       "k": "catalyst",
       "en": "The 2027 outlook lists fenebrutinib approvals and afimkibart Phase 3 UC data; these remain forward-looking milestones.",
-      "zh": "2027年展望包括 fenebrutinib 获批及 afimkibart 的 III 期溃疡性结肠炎数据，均属于前瞻性里程碑。",
+      "zh": "2027年展望列有fenebrutinib批准和afimkibart III期UC数据；这些仍为前瞻性里程碑。",
       "src": "https://assets.roche.com/f/176343/x/214d9ddfff/irp261022.pdf"
     },
     {
       "k": "deal",
       "en": "Afimkibart and CT-388 came from Telavant and Carmot acquisitions; petrelintide is co-developed with Zealand.",
-      "zh": "Afimkibart 与 CT-388 分别来自 Telavant 和 Carmot 收购，petrelintide 则与 Zealand 联合开发。",
+      "zh": "Afimkibart和CT-388分别来自对Telavant和Carmot的收购；petrelintide与Zealand共同开发。",
       "src": "https://assets.roche.com/f/176343/x/1b6314b627/ar25-roche-holdings-inc.pdf"
     },
     {
       "k": "policy",
       "en": "Roche reports China healthcare pricing reforms as a headwind for Diagnostics, relevant alongside the pharmaceutical pipeline.",
-      "zh": "Roche 披露中国医疗定价改革对诊断业务构成压力，评估制药管线时也需关注这一业务因素。",
+      "zh": "罗氏报告称中国医疗定价改革对诊断业务构成阻力，与制药管线同样相关。",
       "src": "https://assets.roche.com/f/176343/x/214d9ddfff/irp261022.pdf"
     }
   ],
@@ -236,6 +236,14 @@
     [
       "Roche Holdings 2025 annual report: historical transaction origins",
       "https://assets.roche.com/f/176343/x/1b6314b627/ar25-roche-holdings-inc.pdf"
+    ],
+    [
+      "Adjuvant giredestrant filing acceptance, June 2, 2026",
+      "https://www.roche.com/investors/updates/inv-update-2026-06-02"
+    ],
+    [
+      "FDA advanced breast cancer approval, November 16, 2026",
+      "https://www.fda.gov/drugs/cancer-approvals/fda-approves-giredestrant-combination-everolimus-er-positive-her2-negative-esr1-mutated-locally"
     ]
   ],
   "gaps": [
@@ -244,6 +252,6 @@
     "The March 2026 petrelintide release and 2025 annual report published before 2026-06 are used only for mechanism and transaction history. Current stages and indications use October 2026 sources.",
     "Counts combine company-published NME and additional-indication components. Individual assets can occupy several stages; these counts are not directly comparable with companies reporting unique molecules.",
     "Divarasib remained Phase 3 at the pipeline cutoff despite positive results and a company-listed potential approval in 2027; no submitted application was verified.",
-    "Vamikibart’s company guidance is by July 2027, not an exact PDUFA date; next.when retains the year and the text preserves that precision. Giredestrant’s two indications are combined into one asset entry."
+    "The advanced-breast-cancer giredestrant programme is excluded following FDA approval on November 16, 2026; the pending adjuvant indication is retained. Vamikibart guidance is by July 2027, without a verified exact decision date."
   ]
 }

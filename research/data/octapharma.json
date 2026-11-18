@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Octapharma develops plasma-derived and recombinant protein therapies across hematology, immunotherapy and critical care. Reviewed disclosures emphasize existing-product development; no asset meeting the brief’s inclusion rules was verified.",
-    "zh": "Octapharma 开发血液学、免疫治疗和重症监护领域的血浆来源及重组蛋白疗法。所审阅的披露内容侧重于现有产品的开发;未核实到符合简报纳入规则的资产。"
+    "zh": "Octapharma在血液学、免疫治疗和重症监护领域开发血浆来源及重组蛋白疗法。所审阅的披露内容侧重于现有产品开发；未核实到符合简报纳入规则的资产。"
   },
   "counts": null,
   "items": [],
@@ -11,25 +11,25 @@
     {
       "k": "concentration",
       "en": "Plasma collection underpins the portfolio; management identifies recombinant FVIII as the exception to donor dependence.",
-      "zh": "血浆采集是产品组合的基础;管理层指出重组 FVIII 是不依赖献血者的例外。",
+      "zh": "血浆采集是产品组合的基础；管理层指出重组FVIII是摆脱对献血者依赖的例外。",
       "src": "https://www.octapharma.com/news/corporate-news/2026/octapharma-shareholders-look-back-on-2025-performance"
     },
     {
       "k": "catalyst",
       "en": "Management highlights immunoglobulin infection prevention in CLL, but a submitted label-expansion application and decision date were not verified.",
-      "zh": "管理层强调免疫球蛋白可预防 CLL 患者感染,但未核实是否已提交适应症扩展申请及决定日期。",
+      "zh": "管理层强调免疫球蛋白可预防CLL感染，但未核实到已提交的标签扩展申请及决定日期。",
       "src": "https://www.octapharma.com/news/corporate-news/2026/octapharma-shareholders-look-back-on-2025-performance"
     },
     {
       "k": "balance",
       "en": "2025 operating cash flow was EUR661 million, with EUR117 million of R&D and EUR331 million of capital expenditure.",
-      "zh": "2025 年经营现金流为 EUR661 million,其中研发支出 EUR117 million,资本支出 EUR331 million。",
+      "zh": "2025年经营现金流为6.61亿欧元，研发支出1.17亿欧元，资本支出3.31亿欧元。",
       "src": "https://www.octapharma.com/news/corporate-news/2026/financial-review-2025"
     },
     {
       "k": "other",
       "en": "Management identifies the US as the main 2025 growth driver, particularly immunoglobulins, FVIII and four-factor PCC.",
-      "zh": "管理层指出美国是 2025 年的主要增长动力,尤其是免疫球蛋白、FVIII 和四因子 PCC。",
+      "zh": "管理层指出美国是2025年的主要增长驱动力，尤其是免疫球蛋白、FVIII和四因子PCC。",
       "src": "https://www.octapharma.com/news/corporate-news/2026/octapharma-shareholders-look-back-on-2025-performance"
     }
   ],
@@ -48,10 +48,9 @@
     ]
   ],
   "gaps": [
-    "Zero items means no eligible asset was verified, not that Octapharma has no development pipeline. The R&D page lists Phase IV GENA studies, which are excluded.",
-    "Approved-product indication research without a verified regulatory filing is excluded under the brief. In particular, the shareholder review describes expected immunoglobulin label expansion in CLL without establishing a submission or review date.",
-    "A current asset-level list of unapproved clinical candidates and published phase-by-phase counts were not found; counts is null.",
-    "The latest group financial review located covers 2025 and was published February 17, 2026, before 2026-06; a newer quarterly or half-year group results release was not located. The R&D page is undated.",
-    "Required curl HEAD checks were attempted for every cited URL. All failed with DNS resolution errors (curl exit 6; HTTP 000) in this environment. Sources were opened through the web browsing tool, but independent curl status verification could not be completed."
+    "No eligible unapproved clinical asset was verified. The current R&D page names Phase IV GENA studies, which are outside the requested stages.",
+    "The shareholder review describes an expected immunoglobulin label expansion for CLL, but a filing status, numbered development phase and decision date were not established.",
+    "No current company-wide phase totals were verified; counts is null.",
+    "The latest group financial review located was published February 17, 2026 and covers 2025; it predates June 2026. The R&D page is undated."
   ]
 }

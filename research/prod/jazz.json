@@ -1,5 +1,30 @@
 {
   "id": "jazz",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Rylaze / Enrylaze",
+      "loe": [
+        {
+          "region": "US",
+          "value": null,
+          "note": "2025 10-K: licensed US process patents expire in 2026 and 2038; orphan exclusivity ends 2028. These do not establish an overall biosimilar-entry date; reference-product exclusivity expiry was not verified.",
+          "src": "https://www.sec.gov/Archives/edgar/data/1232524/000123252426000013/jazz-20251231.htm",
+          "note_zh": "2025年10-K:已许可的美国工艺专利于2026年和2038年到期;孤儿药独占期于2028年结束。这些不能确定整体的生物类似药进入日期;未核实参照产品独占期到期。"
+        }
+      ]
+    },
+    {
+      "b": "Zepzelca",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2029-12",
+          "note": "Orange Book: compound patent US 7,763,615 expires 2029-12-13; indication-specific use patents May 2040. No generic launch date verified.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:化合物专利US 7,763,615于2029-12-13到期;特定适应症用途专利2040年5月。未核实仿制药上市日期。"
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

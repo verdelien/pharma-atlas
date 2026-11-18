@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Healthcare development centers on oncology ADCs and immune-mediated disease, with three Phase 3 programs and several early biologics. External sourcing is a stated strategic priority.",
-    "zh": "医疗保健业务的开发集中于肿瘤 ADC 和免疫介导疾病,有三个 III 期项目和若干早期生物药。外部引进是明确的战略重点。"
+    "zh": "医疗健康研发以肿瘤ADC和免疫介导疾病为中心，拥有三个III期项目和若干早期生物药。外部引进是明确的战略重点。"
   },
   "counts": null,
   "items": [
@@ -13,7 +13,7 @@
       "modality": "small molecule",
       "target": {
         "en": "Immune reconstitution (putative)",
-        "zh": "免疫重建(推测)"
+        "zh": "免疫重建（推测）"
       },
       "ind": {
         "en": "Generalized myasthenia gravis",
@@ -31,7 +31,7 @@
       "modality": "small molecule",
       "target": {
         "en": "TLR7/8 antagonist",
-        "zh": "TLR7/8 拮抗剂"
+        "zh": "TLR7/8拮抗剂"
       },
       "ind": {
         "en": "Lupus with cutaneous manifestations",
@@ -45,7 +45,7 @@
     },
     {
       "name": "precemtabart tocentecan",
-      "code": null,
+      "code": "M9140",
       "modality": "ADC",
       "target": {
         "en": "CEACAM5",
@@ -53,11 +53,11 @@
       },
       "ind": {
         "en": "Third-line colorectal cancer; early gastric and pancreatic studies",
-        "zh": "三线结直肠癌;早期胃癌和胰腺癌研究"
+        "zh": "三线结直肠癌；早期胃癌和胰腺癌研究"
       },
       "phase": "3",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
     },
@@ -75,7 +75,7 @@
       },
       "phase": "1",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
       "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
     },
@@ -121,11 +121,11 @@
       "modality": "other",
       "target": {
         "en": "CTLA4Ig/anti-OX40L fusion protein",
-        "zh": "CTLA4Ig/抗 OX40L 融合蛋白"
+        "zh": "CTLA4Ig/抗OX40L融合蛋白"
       },
       "ind": {
         "en": "T cell-mediated autoimmune diseases; healthy-volunteer study",
-        "zh": "T 细胞介导的自身免疫病;健康志愿者研究"
+        "zh": "T细胞介导的自身免疫疾病；健康志愿者研究"
       },
       "phase": "1",
       "ta": "Immunology",
@@ -138,25 +138,25 @@
     {
       "k": "catalyst",
       "en": "Enpatoran and precemtabart tocentecan have reached Phase 3.",
-      "zh": "Enpatoran 和 precemtabart tocentecan 已进入 III 期。",
+      "zh": "Enpatoran和precemtabart tocentecan已进入III期。",
       "src": "https://www.emdgroup.com/investors/reports-and-financials/earnings-materials/2026-q3/na/2026-Q3-Earnings-Presentation-NA.pdf"
     },
     {
       "k": "loe",
       "en": "Q3 Mavenclad sales fell 25.1% organically, reflecting U.S. generic competition.",
-      "zh": "第三季度 Mavenclad 销售额按内生增长计下降 25.1%,反映了美国仿制药竞争。",
+      "zh": "第三季度Mavenclad销售额内生下降25.1%，反映美国仿制药竞争。",
       "src": "https://www.emdgroup.com/en/news/q3-2026-12-11-2026.html"
     },
     {
       "k": "deal",
       "en": "The company aims to source more than half of future launch assets externally.",
-      "zh": "公司的目标是从外部引进一半以上的未来上市资产。",
+      "zh": "公司的目标是从外部引进超过一半的未来上市资产。",
       "src": "https://www.emdserono.com/us-en/research.html"
     },
     {
       "k": "other",
       "en": "Pimicotinib received FDA approval on November 10, 2026; it is excluded from investigational items.",
-      "zh": "Pimicotinib 于 2026 年 11 月 10 日获 FDA 批准;已从在研项目中剔除。",
+      "zh": "Pimicotinib于2026年11月10日获FDA批准；不再列入在研项目。",
       "src": "https://www.emdgroup.com/en/news/q3-2026-12-11-2026.html"
     }
   ],
@@ -176,14 +176,17 @@
     [
       "EMD Serono R&D strategy",
       "https://www.emdserono.com/us-en/research.html"
+    ],
+    [
+      "2025 annual report: ADCs from own research",
+      "https://www.reports.emdgroup.com/en/annualreport/2025/management-report/fundamental-information-about-the-group/research-and-development/healthcare.html"
     ]
   ],
   "gaps": [
-    "No verified current aggregate counts by clinical phase were available; counts is null.",
-    "Origins and next milestone dates for the selected assets were not established in the accessible current materials; origin and next are null.",
-    "Cladribine capsules are an investigational formulation, distinct from marketed cladribine tablets.",
-    "Pimicotinib remains drawn in registration in the November deck, but its footnote confirms U.S. approval; no major new filed indication was verified.",
-    "The pipeline landing page exposed an image rather than a readable chart; the complete November 12 pipeline slide was used.",
-    "Required curl HEAD checks were attempted for every cited URL, but the local shell could not resolve external hosts (curl exit 6 / HTTP 000). Browser loads verified source access; curl HTTP status validation remains incomplete."
+    "No verified aggregate phase counts; counts is null.",
+    "Origins for cladribine, enpatoran, M0324, M7437 and M5542, and next milestones for all selected assets, were not established; null.",
+    "Cladribine capsules are an investigational formulation, distinct from marketed cladribine tablets; immune reconstitution is a putative mechanism.",
+    "Pimicotinib is excluded after U.S. approval on November 10, 2026, as confirmed in the November presentation footnote.",
+    "The 2025 annual report predates June 2026 and supports historical internal origin for precemtabart tocentecan and M3554 only; stages use the November 12, 2026 pipeline."
   ]
 }

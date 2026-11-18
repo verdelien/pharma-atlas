@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "The group has late-stage oncology and respiratory assets alongside liver/metabolic research, combining internal development and partnerships. ([R&D overview](https://www.en.sbpgroup.com/rd-innovation/))",
-    "zh": "集团拥有后期肿瘤和呼吸资产以及肝病/代谢研究,并结合内部开发与合作。([R&D overview](https://www.en.sbpgroup.com/rd-innovation/))"
+    "zh": "集团拥有后期肿瘤和呼吸资产以及肝病/代谢研究，将内部开发与合作相结合。（[研发概览](https://www.en.sbpgroup.com/rd-innovation/)）"
   },
   "counts": {
     "p1": 30,
@@ -19,11 +19,11 @@
       "modality": "ADC",
       "target": {
         "en": "HER2 dual-epitope bispecific ADC",
-        "zh": "HER2 双表位双特异性 ADC"
+        "zh": "HER2双表位双特异性ADC"
       },
       "ind": {
         "en": "Unresectable/metastatic HER2-low breast cancer",
-        "zh": "不可切除/转移性 HER2 低表达乳腺癌"
+        "zh": "不可切除/转移性HER2低表达乳腺癌"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -37,7 +37,7 @@
       "modality": "antibody",
       "target": {
         "en": "IL-4 receptor alpha",
-        "zh": "IL-4 受体 α"
+        "zh": "IL-4受体α"
       },
       "ind": {
         "en": "Moderate-to-severe atopic dermatitis",
@@ -47,7 +47,7 @@
       "ta": "Immunology",
       "origin": "internal",
       "next": null,
-      "src": "https://www.en.sbpgroup.com/userfiles/files/E26096038-Sino%20Bio-PA.pdf"
+      "src": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0916/2026091600033.pdf"
     },
     {
       "name": "TQB3909",
@@ -55,11 +55,11 @@
       "modality": "small molecule",
       "target": {
         "en": "BCL2 inhibitor",
-        "zh": "BCL2 抑制剂"
+        "zh": "BCL2抑制剂"
       },
       "ind": {
         "en": "CLL/SLL; also acute leukemias",
-        "zh": "CLL/SLL;另有急性白血病"
+        "zh": "CLL/SLL；另有急性白血病"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -77,7 +77,7 @@
       },
       "ind": {
         "en": "Malignant ascites from epithelial cancers",
-        "zh": "上皮癌所致恶性腹水"
+        "zh": "上皮性癌症所致恶性腹水"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -108,19 +108,19 @@
       "code": null,
       "modality": "other",
       "target": {
-        "en": "Antisense oligonucleotide",
-        "zh": "反义寡核苷酸"
+        "en": "HBV messenger RNA and pregenomic RNA",
+        "zh": "HBV信使RNA和前基因组RNA"
       },
       "ind": {
-        "en": "Chronic hepatitis B",
-        "zh": "慢性乙型肝炎"
+        "en": "Chronic hepatitis B in mainland China",
+        "zh": "中国大陆慢性乙型肝炎"
       },
       "phase": "reg",
       "ta": "Infectious disease",
       "origin": "licensed",
       "next": {
         "en": "NMPA regulatory decision",
-        "zh": "NMPA 监管决定",
+        "zh": "NMPA监管决定",
         "when": "2027H1"
       },
       "src": "https://www.en.sbpgroup.com/userfiles/files/E26085692-Sino%20Bio-IR26.pdf"
@@ -135,7 +135,7 @@
       },
       "ind": {
         "en": "Chronic rhinosinusitis with nasal polyps; also severe asthma",
-        "zh": "伴鼻息肉的慢性鼻窦炎;另有重度哮喘"
+        "zh": "伴鼻息肉的慢性鼻-鼻窦炎；另有重度哮喘"
       },
       "phase": "3",
       "ta": "Respiratory",
@@ -149,7 +149,7 @@
       "modality": "small molecule",
       "target": {
         "en": "PDE3/4 inhibitor",
-        "zh": "PDE3/4 抑制剂"
+        "zh": "PDE3/4抑制剂"
       },
       "ind": {
         "en": "Chronic obstructive pulmonary disease",
@@ -167,7 +167,7 @@
       "modality": "small molecule",
       "target": {
         "en": "Pan-PPAR agonist",
-        "zh": "Pan-PPAR 激动剂"
+        "zh": "Pan-PPAR激动剂"
       },
       "ind": {
         "en": "Metabolic dysfunction-associated steatohepatitis",
@@ -175,7 +175,7 @@
       },
       "phase": "3",
       "ta": "Metabolic",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.en.sbpgroup.com/userfiles/files/E26085692-Sino%20Bio-IR26.pdf"
     },
@@ -185,7 +185,7 @@
       "modality": "small molecule",
       "target": {
         "en": "TLR7 agonist",
-        "zh": "TLR7 激动剂"
+        "zh": "TLR7激动剂"
       },
       "ind": {
         "en": "Chronic hepatitis B",
@@ -202,25 +202,25 @@
     {
       "k": "catalyst",
       "en": "Bepirovirsen's China regulatory decision is expected in H1 2027.",
-      "zh": "Bepirovirsen 的中国监管决定预计在 2027 年上半年作出。",
+      "zh": "Bepirovirsen的中国监管决定预计于2027年上半年作出。",
       "src": "https://www.en.sbpgroup.com/userfiles/files/E26085692-Sino%20Bio-IR26.pdf"
     },
     {
       "k": "deal",
       "en": "The November Boehringer agreement covers six preclinical ADC/T-cell-engager programs.",
-      "zh": "11 月与 Boehringer 达成的协议涵盖六个临床前 ADC/T 细胞衔接器项目。",
+      "zh": "11月与Boehringer的协议涵盖六个临床前ADC/T细胞接合器项目。",
       "src": "https://www.en.sbpgroup.com/news-center/dynamic/25040.html"
     },
     {
       "k": "deal",
       "en": "Innovative drugs and out-licensing contributed 45.2% of first-half revenue.",
-      "zh": "创新药和对外许可贡献了上半年收入的 45.2%。",
+      "zh": "创新药和对外授权贡献了上半年收入的45.2%。",
       "src": "https://www.en.sbpgroup.com/userfiles/files/E26085692-Sino%20Bio-IR26.pdf"
     },
     {
       "k": "catalyst",
       "en": "TQC3721 completed Phase 3 COPD enrollment in October; no readout date was disclosed.",
-      "zh": "TQC3721 于 10 月完成了 III 期 COPD 入组;未披露读出日期。",
+      "zh": "TQC3721于10月完成III期COPD入组；未披露数据读出日期。",
       "src": "https://www.en.sbpgroup.com/userfiles/files/E26106167-Sino%20Bio-PA.pdf"
     }
   ],
@@ -243,7 +243,7 @@
     ],
     [
       "TQH2722 NDA acceptance, September 16, 2026",
-      "https://www.en.sbpgroup.com/userfiles/files/E26096038-Sino%20Bio-PA.pdf"
+      "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0916/2026091600033.pdf"
     ],
     [
       "TQC2731 update, October 21, 2026",
@@ -260,14 +260,26 @@
     [
       "Boehringer partnership, November 4, 2026",
       "https://www.en.sbpgroup.com/news-center/dynamic/25040.html"
+    ],
+    [
+      "Lanifibranor Greater China licence, September 2022",
+      "https://www.en.sbpgroup.com/news-center/dynamic/24228.html"
+    ],
+    [
+      "TQB2102 Phase 3 presentation completed at ESMO, October 23, 2026",
+      "https://www.en.sbpgroup.com/news-center/dynamic/25037.html"
+    ],
+    [
+      "Bepirovirsen RNA target and regional approval context, November 2026",
+      "https://www.gsk.com/en-gb/media/press-releases/gsk-showcases-progress-in-liver-portfolio-at-aasld-2026"
     ]
   ],
   "gaps": [
     "The live R&D page publishes counts but no clear snapshot date; figures are reproduced as displayed, not calculated from selected items. Its registration count differs from the later asset-specific filings; do not treat it as a reconciled November total.",
-    "Origins were not established from the opened sources for M701, tecotabart vedotin or lanifibranor; origin is null. Bepirovirsen is an exclusive mainland-China GSK commercial partnership, represented as licensed rather than internal discovery.",
     "TQB3909 registration and internal discovery are stated in the August company update; its disease list is supported by the R&D page. The specific filed indication was not verified.",
     "Bepirovirsen is an antisense oligonucleotide, represented as modality other because the allowed modality list lacks ASO. Its exact development code was not verified.",
-    "No dated future milestone was verified for the other nine selected assets; next is null. Previously approved culmerciclib, rovadicitinib, anlotinib and benmelstobart are excluded without a verified pending major-new-indication filing.",
-    "URL validation: the prescribed curl -sSIL check was attempted for every listed source URL; all returned HTTP 000 / curl error 6 (DNS resolution unavailable in the shell). These URLs were opened with the live web tool, but final HTTP HEAD status could not be independently verified."
+    "Origins remain unverified for M701 and tecotabart vedotin. Lanifibranor’s licence is established by a September 2022 source, older than June 2026. Bepirovirsen is a mainland-China commercial partnership with GSK, represented as licensed.",
+    "TQB2102 Phase 3 breast-cancer data were presented at ESMO on October 23, 2026; this completed event is not a next milestone. No future milestone was verified for the nine selected assets besides bepirovirsen.",
+    "Bepirovirsen is approved in Japan and the US; the retained registration entry refers specifically to the pending mainland-China application and CTTQ commercial rights."
   ]
 }

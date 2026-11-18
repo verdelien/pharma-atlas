@@ -3,7 +3,7 @@
   "asof": "2026-11",
   "summary": {
     "en": "Kelun-Biotech, Kelun Pharmaceutical's innovative-drug subsidiary, concentrates on oncology ADCs and external development collaborations. Respiratory immunology provides a smaller diversification stream.",
-    "zh": "Kelun-Biotech 是 Kelun Pharmaceutical 的创新药子公司,专注于肿瘤 ADC 和对外开发合作。呼吸免疫领域提供规模较小的多元化方向。"
+    "zh": "科伦博泰是科伦药业的创新药子公司,专注于肿瘤ADC和外部开发合作。呼吸免疫提供规模较小的多元化业务。"
   },
   "counts": null,
   "items": [
@@ -17,13 +17,13 @@
       },
       "ind": {
         "en": "First-line NSCLC and TNBC; additional global cancer studies",
-        "zh": "一线 NSCLC 和 TNBC;另有全球其他癌症研究"
+        "zh": "一线NSCLC和TNBC;其他全球癌症研究"
       },
       "phase": "reg",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "internal",
       "next": null,
-      "src": "https://en.kelun-biotech.com/newsCenter.aspx?mid=18&page=1"
+      "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
     },
     {
       "name": "lunbotinib",
@@ -35,7 +35,7 @@
       },
       "ind": {
         "en": "RET-fusion-positive NSCLC",
-        "zh": "RET 融合阳性 NSCLC"
+        "zh": "RET融合阳性NSCLC"
       },
       "phase": "reg",
       "ta": "Oncology",
@@ -57,11 +57,11 @@
       },
       "ind": {
         "en": "Asthma; Phase 2 COPD",
-        "zh": "哮喘;COPD II 期"
+        "zh": "哮喘;COPD II期"
       },
       "phase": "3",
       "ta": "Respiratory",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
     },
@@ -79,13 +79,13 @@
       },
       "phase": "2",
       "ta": "Oncology",
-      "origin": null,
+      "origin": "licensed",
       "next": null,
       "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
     },
     {
       "name": "SKB575",
-      "code": "SKB575",
+      "code": "SKB575/HBM7575",
       "modality": "bispecific",
       "target": {
         "en": "TSLP/undisclosed second target",
@@ -97,7 +97,7 @@
       },
       "phase": "1",
       "ta": "Immunology",
-      "origin": null,
+      "origin": "co-developed",
       "next": null,
       "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
     }
@@ -106,25 +106,25 @@
     {
       "k": "deal",
       "en": "MSD is running 17 global Phase 3 sac-TMT studies.",
-      "zh": "MSD 正在开展 17 项全球 III 期 sac-TMT 研究。",
+      "zh": "MSD正在开展17项全球sac-TMT III期研究。",
       "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
     },
     {
       "k": "policy",
       "en": "Three commercial products have indications included in China's NRDL.",
-      "zh": "三款商业化产品的适应症已纳入中国国家医保药品目录 (NRDL)。",
+      "zh": "三个商业化产品的适应症已纳入中国国家医保目录。",
       "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
     },
     {
       "k": "balance",
       "en": "July 2026 share placing raised approximately HK$2.72 billion net.",
-      "zh": "2026 年 7 月的股份配售净筹集约 HK$2.72 billion。",
+      "zh": "2026年7月股份配售净筹资约27.2亿港元。",
       "src": "https://www.prnewswire.com/news-releases/kelun-biotech-announces-2026-interim-results-302852801.html"
     },
     {
       "k": "concentration",
       "en": "The portfolio emphasizes ADCs and combination oncology therapies.",
-      "zh": "该组合以 ADC 和肿瘤联合疗法为重点。",
+      "zh": "产品组合以ADC和肿瘤联合疗法为重点。",
       "src": "https://en.kelun-biotech.com/aboutUs.aspx"
     }
   ],
@@ -144,13 +144,29 @@
     [
       "October company news",
       "https://en.kelun-biotech.com/newsCenter.aspx?mid=18&page=1"
+    ],
+    [
+      "Sac-TMT discovery and MSD license, October 2026",
+      "https://www.merck.com/news/sacituzumab-tirumotecan-sac-tmt-reduced-the-risk-of-death-by-32-and-the-risk-of-disease-progression-or-death-by-41-compared-to-chemotherapy-in-certain-patients-with-advanced-or-recurrent-endometrial/?trk=article-ssr-frontend-pulse_little-text-block"
+    ],
+    [
+      "SKB378 joint development disclosure, January 2025",
+      "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0110/2025011001213.pdf"
+    ],
+    [
+      "Crescent filing: Greater China CR-001 license",
+      "https://www.sec.gov/Archives/edgar/data/1253689/000162828026050881/crescentbiopharma-424b3.htm"
+    ],
+    [
+      "SKB575 joint development, July 2026",
+      "https://www.prnewswire.com/apac/news-releases/kelun-biotech-and-harbour-biomed-announce-nmpa-approval-of-ind-application-for-skb575hbm7575-for-the-treatment-of-asthma-302826296.html"
     ]
   ],
   "gaps": [
-    "Company pipeline repeatedly timed out; curl fallback failed DNS resolution. Company-issued release on PRNewswire and current company overview/news used.",
-    "Scope focuses on Kelun-Biotech's innovative pipeline; parent-company generic portfolio not mapped. No complete company phase counts verified.",
-    "Phase 1/2 is represented as Phase 2; Phase 2/3 as Phase 3. Current stage details for additional ADCs were not reachable, so omitted.",
-    "Origins not established for most assets; commercial partnerships alone are not treated as discovery origin.",
-    "Required curl -sSIL URL checks were attempted for every cited URL on 2026-11-17, but all returned HTTP 000 / curl error 6 (DNS resolution unavailable in this environment). Browser-observed sources underpin the entries; final HTTP status validation could not be completed."
+    "Scope covers Kelun-Biotech's innovative pipeline; parent-company generics are not mapped. No complete company phase counts verified.",
+    "China filing statuses and most phases use the August 2026 interim results; subsequent China regulatory decisions were not verified.",
+    "SKB118 Phase 1/2 is represented as Phase 2; SKB378 asthma Phase 2/3 is represented as Phase 3, with COPD in Phase 2.",
+    "No stated next milestone verified for sac-TMT's China first-line filings, SKB378, SKB118 or SKB575.",
+    "The January 2025 SKB378 disclosure predates June 2026 and is used only for historical joint-development origin."
   ]
 }

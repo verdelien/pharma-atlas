@@ -1,5 +1,86 @@
 {
   "id": "almirall",
-  "rows": [],
+  "rows": [
+    {
+      "b": "Wynzora",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2039-03",
+          "note": "Orange Book: formulation patent US11696919 expires 2039-03-18; entry unannounced.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:制剂专利US11696919于2039-03-18到期;上市时间未公布。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
+    },
+    {
+      "b": "Klisyri",
+      "loe": [
+        {
+          "region": "US",
+          "value": "2030-12",
+          "note": "Orange Book: substance/product patent US7300931 expires 2030-12-28; other patents to 2038; entry unannounced.",
+          "src": "https://www.fda.gov/media/71474/download?attachment=",
+          "note_zh": "橙皮书:活性成分/产品专利US7300931于2030-12-28到期;其他专利至2038年;上市时间未公布。"
+        },
+        {
+          "region": "EU",
+          "value": null
+        },
+        {
+          "region": "Japan",
+          "value": null
+        }
+      ]
+    },
+    {
+      "b": "Ilumetri",
+      "loe": [
+        {
+          "region": "Japan",
+          "value": "2028-06",
+          "note": "Tildrakizumab, marketed as Ilumya in Japan: PMDA eight-year re-examination from 2020-06-29; calculated end 2028-06-28. No biosimilar-launch date.",
+          "src": "https://www.pmda.go.jp/RMP/www/480866/703fedd1-1961-47a9-a023-7acd37f25747/480866_3999456G1025_002RMP.pdf",
+          "note_zh": "Tildrakizumab(在日本以Ilumya销售):PMDA八年再审查期自2020-06-29起;推算截止2028-06-28。无生物类似药上市日期。"
+        },
+        {
+          "region": "US",
+          "value": null
+        },
+        {
+          "region": "EU",
+          "value": null
+        }
+      ]
+    },
+    {
+      "b": "Ebglyss",
+      "loe": [
+        {
+          "region": "Japan",
+          "value": "2034-01",
+          "note": "MHLW re-examination extension ends 2034-01-17, superseding the original eight-year period. Not patent expiry or announced biosimilar entry.",
+          "src": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc8219&dataType=1&pageNo=1",
+          "note_zh": "MHLW再审查期延长至2034-01-17,取代原八年期。并非专利到期或已公布的生物类似药上市。"
+        },
+        {
+          "region": "US",
+          "value": null
+        },
+        {
+          "region": "EU",
+          "value": null
+        }
+      ]
+    }
+  ],
   "new_products": []
 }

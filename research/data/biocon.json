@@ -127,7 +127,7 @@
     "Clinical phases, specific lead indications, candidate codes and origins for new oncology biosimilars not disclosed in reviewed company materials.",
     "Generic semaglutide filing evidence comes from February 2026 transcript, older than June 2026; later status not independently verified.",
     "Pertuzumab and other already-approved biosimilars excluded from items; US portfolio page still labels pertuzumab under review, superseded by November 16 announcement.",
-    "Q2 FY27 release was indexed but direct browser retrieval timed out.",
-    "Required curl HEAD checks were attempted for every cited URL, but all returned HTTP 000 with curl error 6 (DNS resolution unavailable in this environment). Browser-retrieved sources support the research; final HTTP status verification remains incomplete."
+    "Rechecked November 2026 Q2 FY27 materials and the January oncology-portfolio disclosure. Direct pages/PDFs timed out or returned 502; indexed company text did not establish the three oncology biosimilars’ clinical phases, origins or future dates. These remain null.",
+    "Validator limitation: research/check.py rejects null origins/phases even though BRIEF.md permits them. Unverified fields remain null rather than guessed; these validation findings are intentionally unresolved."
   ]
 }
